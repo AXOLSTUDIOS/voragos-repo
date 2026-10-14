@@ -1,0 +1,96 @@
+#Active visual style. 1 = Retro Damage Indicators (original look). 2 = Damage Indicators 1.12.2 classic look. Only the matching style section below is used in-game.
+style = 1
+
+#Style 1 - Retro Damage Indicators. Used only when style = 1.
+[style-1]
+
+	[style-1.damage-particles]
+		#Whether the pop-up particles when a mob is injured or healed are enabled.
+		damage_particles_enabled = true
+		#The relative size of damage particles.
+		damage_particle_size = 1.0
+		#Whether the numbers that appear as pop-up particles are outlined in a darker color.
+		damage_particle_outline = true
+
+	[style-1.hud-indicator]
+		#Whether the hud damage indicator is enabled.
+		hud_indicator_enabled = true
+		#How far away (in blocks) entities can be to appear in the hud health indicator
+		max_distance = 100.0
+		#Whether health appears with a more visible yellow/black scheme.
+		colorblind_health_bar = false
+		#Whether health appears with a decimal point.
+		health_decimals = true
+		#Whether health appears as a | (true) or / (false).
+		health_separator = true
+		#How long after mousing over an entity the hud damage indicator remains on screen, in game ticks.
+		hud_linger_time = 30
+		#The relative size of hud indicator.
+		hud_indicator_size = 0.65
+		#How opaque the background of the hud indicator is.
+		hud_indicator_background_opacity = 0.75
+		#True if the hud indicator appears on the left side of the screen, false for right.
+		hud_indicator_align_left = true
+		#True if the hud indicator appears on the top of the screen, false for bottom.
+		hud_indicator_align_top = true
+		#How many pixels from the left/edge of the screen the hud indicator is.
+		hud_indicator_position_x = 15
+		#How many pixels from the top/edge of the screen the hud indicator is.
+		hud_indicator_position_y = 15
+		#The size in pixels a usual entity should render as in the hud indicator.
+		hud_entity_size = 38.0
+		#Whether the name of the entity in the hud indicator should be outlined.
+		hud_name_text_outline = false
+		#Whether the health of the entity in the hud indicator should be outlined.
+		hud_health_text_outline = false
+		#Whether potion effects on the targeted entity are shown (classic style only; ignored by style 1).
+		hud_potion_effects = true
+		#List of entity_types to render as a model instead of with full entity context.
+		hud_old_render_entities = ["alexsmobs:giant_squid"]
+
+#Style 2 - Damage Indicators 1.12.2 classic. Used only when style = 2.
+[style-2]
+
+	[style-2.damage-particles]
+		#Whether the pop-up particles when a mob is injured or healed are enabled.
+		damage_particles_enabled = true
+		#Multiplier for classic popoff size (base size is 3.0).
+		damage_particle_size = 1.0
+		#Whether popoffs use the classic Damage Indicators layered drop-shadow style.
+		damage_particle_outline = true
+
+	[style-2.hud-indicator]
+		#Whether the hud damage indicator is enabled.
+		hud_indicator_enabled = true
+		#How far away (in blocks) entities can be to appear in the hud health indicator
+		max_distance = 100.0
+		#Whether health appears with a more visible yellow/black scheme.
+		colorblind_health_bar = false
+		#Whether health appears with a decimal point.
+		health_decimals = false
+		#Whether health appears as a | (true) or / (false).
+		health_separator = false
+		#How long after mousing over an entity the hud damage indicator remains on screen, in game ticks.
+		hud_linger_time = 30
+		#The relative size of hud indicator.
+		hud_indicator_size = 0.76
+		#How opaque the background of the hud indicator is.
+		hud_indicator_background_opacity = 1.0
+		#True if the hud indicator appears on the left side of the screen, false for right.
+		hud_indicator_align_left = true
+		#True if the hud indicator appears on the top of the screen, false for bottom.
+		hud_indicator_align_top = true
+		#How many pixels from the left/edge of the screen the hud indicator is.
+		hud_indicator_position_x = 15
+		#How many pixels from the top/edge of the screen the hud indicator is.
+		hud_indicator_position_y = 15
+		#Base portrait scale factor for entities (classic Damage Indicators default was 22).
+		hud_entity_size = 22.0
+		#Whether the name of the entity in the hud indicator should be outlined.
+		hud_name_text_outline = false
+		#Whether the health of the entity in the hud indicator should be outlined.
+		hud_health_text_outline = false
+		#Whether potion effects on the targeted entity are shown (classic style only; ignored by style 1).
+		hud_potion_effects = true
+		#List of entity_types to render as a model instead of with full entity context.
+		hud_old_render_entities = ["alexsmobs:giant_squid"]

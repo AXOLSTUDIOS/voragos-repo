@@ -1,0 +1,96 @@
+{
+	// Allow Judge Hammer make Sound | Default: true
+	"modifyJudgeHammerSound": true,
+	// Allow Police Baton give Slowness Effect | Default: true
+	"modifyPoliceBatonSlowness": true,
+	// Allow Protection Set give Effects | Default: true
+	"modifyProtectionSetEffects": true,
+	// Allow Police Set give Effect | Default: true
+	"modifyPoliceSetEffects": true,
+	// Allow Endercuffs work as a Flint and Steel | Default: true
+	"modifyEndercuffsFire": true,
+	// Show Item Tooltips | Default: true
+	"showItemTooltips": true,
+	/* Dune Caller Cooldown in Seconds | Default: 90
+	   Min Limit to 20 sec
+	*/
+	"duneCallerCooldown": 90,
+	/* Dune Caller Spawns in Chests Chance | Default: 0.01f
+	*/
+	"duneCallerChestsChance": 0.009999999776482582,
+	/* Poseidon's Talon Cooldown in Seconds | Default: 60
+	*/
+	"poseidonTalonCooldown": 60,
+	/* Poseidon's Talon Spawns in Chests Chance | Default: 0.1f
+	*/
+	"poseidonTalonChestsChance": 0.10000000149011612,
+	/* Judge Hammer Cooldown in Seconds | Default: 1
+	*/
+	"judgeHammerCooldown": 1,
+	/* Police Baton Slowness Level | Default: 3
+	*/
+	"policeBatonSlownessLevel": 3,
+	/* Police Baton Slowness Duration in Seconds | Default: 4
+	*/
+	"policeBatonSlownessDuration": 4,
+	/* Police Baton Cooldown in Seconds | Default: 10
+	*/
+	"policeBatonCooldown": 10,
+	/* Handcuffs Slowness Level | Default: 6
+	*/
+	"handcuffsSlownessLevel": 6,
+	/* Handcuffs Weakness Level | Default: 6
+	*/
+	"handcuffsWeaknessLevel": 6,
+	/* Handcuffs Chat | Default: 2
+	   Level 0: Can write in chat
+	   Level 1: Can't use commands, but write
+	   Level 2: Can't use commands nor write
+	*/
+	"handcuffsChat": 2,
+	/* Fusion Core drop chance by Golems | Default: 0.05f
+	*/
+	"fusionCoreChanceGolem": 0.05000000074505806,
+	/* Fusion Core amount drop by Golems | Default: 3.0f
+	*/
+	"fusionCoreAmountDropGolem": 1.0,
+	/* HealKit Blindness Time in Seconds | Default: 60
+	*/
+	"healKitBlindnessTime": 60,
+	/* HealKit Blindness Chance | Default: 0.01f
+	*/
+	"healKitBlindnessChance": 0.009999999776482582,
+	/* HealKit Weakness Time in Seconds | Default: 40
+	*/
+	"healKitWeaknessTime": 40,
+	/* HealKit Weakness Chance | Default: 0.2f
+	*/
+	"healKitWeaknessChance": 0.20000000298023224,
+	/* HealKit Nausea Time in Seconds | Default: 25
+	*/
+	"healKitNauseaTime": 25,
+	/* HealKit Nausea Chance | Default: 0.03f
+	*/
+	"healKitNauseaChance": 0.029999999329447746,
+	/* HealKit Fire Resistance Time in Seconds | Default: 90
+	*/
+	"healKitFireResistanceTime": 90,
+	/* HealKit Fire Resistance Chance | Default: 1.0f
+	*/
+	"healKitFireResistanceChance": 1.0,
+	/* HealKit Instant Health Chance | Default: 1.0f
+	*/
+	"healKitInstantHealthChance": 1.0,
+	/* InvKit Consume Time in Seconds | Default: 0.5
+	*/
+	"invKitConsumeTime": 0.5,
+	/* InvKit 1st Stage in Seconds | Default: 20
+	*/
+	"invKit1stStageTime": 20,
+	/* Funeral Mask Spawns in Chests Chance | Default: 0.05f
+	*/
+	"funeralMaskChestsChance": 0.05000000074505806,
+	/* Gadget Hat Spawns in Chests Chance | Default: 0.15f
+	*/
+	"gadgetHatChestsChance": 0.15000000596046448
+}

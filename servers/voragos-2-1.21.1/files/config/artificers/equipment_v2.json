@@ -1,0 +1,460 @@
+{
+  "ranged_weapons": {
+    "artificers:netherite_repeating_crossbow": {
+      "damage": 6.0,
+      "pull_time_bonus": 3.0,
+      "velocity_bonus": 1.0
+    },
+    "artificers:netherite_firecannon": {
+      "damage": 13.0,
+      "pull_time_bonus": 1.0,
+      "velocity_bonus": 1.0
+    },
+    "artificers:flintlock": {
+      "damage": 7.0,
+      "pull_time_bonus": 0.0,
+      "velocity_bonus": 1.0
+    },
+    "artificers:diamond_flintlock": {
+      "damage": 9.0,
+      "pull_time_bonus": 0.0,
+      "velocity_bonus": 1.0
+    },
+    "artificers:netherite_flintlock": {
+      "damage": 11.0,
+      "pull_time_bonus": 0.0,
+      "velocity_bonus": 1.0
+    },
+    "artificers:repeating_crossbow": {
+      "damage": 6.0,
+      "pull_time_bonus": 3.0,
+      "velocity_bonus": 1.0
+    },
+    "artificers:firecannon": {
+      "damage": 10.5,
+      "pull_time_bonus": 1.0,
+      "velocity_bonus": 1.0
+    }
+  },
+  "melee_weapons": {
+    "diamond_pike": {
+      "attack_damage": 7.4,
+      "attack_speed": -3.2,
+      "attributes": []
+    },
+    "golden_pike": {
+      "attack_damage": 4.2,
+      "attack_speed": -3.2,
+      "attributes": []
+    },
+    "stone_pike": {
+      "attack_damage": 5.5,
+      "attack_speed": -3.2,
+      "attributes": []
+    },
+    "iron_pike": {
+      "attack_damage": 6.7,
+      "attack_speed": -3.2,
+      "attributes": []
+    },
+    "netherite_pike": {
+      "attack_damage": 9.2,
+      "attack_speed": -3.2,
+      "attributes": []
+    }
+  },
+  "armor_sets": {
+    "peasant": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 3,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.03,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "minecraft:generic.attack_damage",
+            "value": 0.04,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 6,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.03,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "minecraft:generic.attack_damage",
+            "value": 0.03,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 4,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.03,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "minecraft:generic.attack_damage",
+            "value": 0.03,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 2,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.03,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "minecraft:generic.attack_damage",
+            "value": 0.03,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      }
+    },
+    "artillerist_netherite": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 3,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.04,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "minecraft:generic.attack_damage",
+            "value": 0.04,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "minecraft:generic.armor_toughness",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          }
+        ],
+        "conditional_attributes": {
+          "required_mod": "extraspellattributes",
+          "attributes": [
+            {
+              "attribute": "ranged_weapon:damage",
+              "value": 0.04,
+              "operation": "ADD_MULTIPLIED_BASE"
+            },
+            {
+              "attribute": "minecraft:generic.attack_damage",
+              "value": 0.04,
+              "operation": "ADD_MULTIPLIED_BASE"
+            },
+            {
+              "attribute": "extraspellattributes:defiance",
+              "value": 0.5,
+              "operation": "ADD_VALUE"
+            },
+            {
+              "attribute": "minecraft:generic.armor_toughness",
+              "value": 1.0,
+              "operation": "ADD_VALUE"
+            }
+          ]
+        }
+      },
+      "chest": {
+        "armor": 8,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.04,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "minecraft:generic.attack_damage",
+            "value": 0.04,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "minecraft:generic.armor_toughness",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          }
+        ],
+        "conditional_attributes": {
+          "required_mod": "extraspellattributes",
+          "attributes": [
+            {
+              "attribute": "ranged_weapon:damage",
+              "value": 0.04,
+              "operation": "ADD_MULTIPLIED_BASE"
+            },
+            {
+              "attribute": "minecraft:generic.attack_damage",
+              "value": 0.04,
+              "operation": "ADD_MULTIPLIED_BASE"
+            },
+            {
+              "attribute": "extraspellattributes:defiance",
+              "value": 0.5,
+              "operation": "ADD_VALUE"
+            },
+            {
+              "attribute": "minecraft:generic.armor_toughness",
+              "value": 1.0,
+              "operation": "ADD_VALUE"
+            }
+          ]
+        }
+      },
+      "legs": {
+        "armor": 6,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.04,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "minecraft:generic.attack_damage",
+            "value": 0.04,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "minecraft:generic.armor_toughness",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          }
+        ],
+        "conditional_attributes": {
+          "required_mod": "extraspellattributes",
+          "attributes": [
+            {
+              "attribute": "ranged_weapon:damage",
+              "value": 0.04,
+              "operation": "ADD_MULTIPLIED_BASE"
+            },
+            {
+              "attribute": "minecraft:generic.attack_damage",
+              "value": 0.04,
+              "operation": "ADD_MULTIPLIED_BASE"
+            },
+            {
+              "attribute": "extraspellattributes:defiance",
+              "value": 0.5,
+              "operation": "ADD_VALUE"
+            },
+            {
+              "attribute": "minecraft:generic.armor_toughness",
+              "value": 1.0,
+              "operation": "ADD_VALUE"
+            }
+          ]
+        }
+      },
+      "feet": {
+        "armor": 3,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.04,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "minecraft:generic.attack_damage",
+            "value": 0.04,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "minecraft:generic.armor_toughness",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          }
+        ],
+        "conditional_attributes": {
+          "required_mod": "extraspellattributes",
+          "attributes": [
+            {
+              "attribute": "ranged_weapon:damage",
+              "value": 0.04,
+              "operation": "ADD_MULTIPLIED_BASE"
+            },
+            {
+              "attribute": "minecraft:generic.attack_damage",
+              "value": 0.04,
+              "operation": "ADD_MULTIPLIED_BASE"
+            },
+            {
+              "attribute": "extraspellattributes:defiance",
+              "value": 0.5,
+              "operation": "ADD_VALUE"
+            },
+            {
+              "attribute": "minecraft:generic.armor_toughness",
+              "value": 1.0,
+              "operation": "ADD_VALUE"
+            }
+          ]
+        }
+      }
+    },
+    "artillerist": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 3,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.03,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "minecraft:generic.attack_damage",
+            "value": 0.04,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ],
+        "conditional_attributes": {
+          "required_mod": "extraspellattributes",
+          "attributes": [
+            {
+              "attribute": "ranged_weapon:damage",
+              "value": 0.03,
+              "operation": "ADD_MULTIPLIED_BASE"
+            },
+            {
+              "attribute": "minecraft:generic.attack_damage",
+              "value": 0.04,
+              "operation": "ADD_MULTIPLIED_BASE"
+            },
+            {
+              "attribute": "extraspellattributes:defiance",
+              "value": 0.5,
+              "operation": "ADD_VALUE"
+            }
+          ]
+        }
+      },
+      "chest": {
+        "armor": 8,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.03,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "minecraft:generic.attack_damage",
+            "value": 0.03,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ],
+        "conditional_attributes": {
+          "required_mod": "extraspellattributes",
+          "attributes": [
+            {
+              "attribute": "ranged_weapon:damage",
+              "value": 0.03,
+              "operation": "ADD_MULTIPLIED_BASE"
+            },
+            {
+              "attribute": "minecraft:generic.attack_damage",
+              "value": 0.04,
+              "operation": "ADD_MULTIPLIED_BASE"
+            },
+            {
+              "attribute": "extraspellattributes:defiance",
+              "value": 0.5,
+              "operation": "ADD_VALUE"
+            }
+          ]
+        }
+      },
+      "legs": {
+        "armor": 6,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.03,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "minecraft:generic.attack_damage",
+            "value": 0.03,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ],
+        "conditional_attributes": {
+          "required_mod": "extraspellattributes",
+          "attributes": [
+            {
+              "attribute": "ranged_weapon:damage",
+              "value": 0.03,
+              "operation": "ADD_MULTIPLIED_BASE"
+            },
+            {
+              "attribute": "minecraft:generic.attack_damage",
+              "value": 0.04,
+              "operation": "ADD_MULTIPLIED_BASE"
+            },
+            {
+              "attribute": "extraspellattributes:defiance",
+              "value": 0.5,
+              "operation": "ADD_VALUE"
+            }
+          ]
+        }
+      },
+      "feet": {
+        "armor": 3,
+        "attributes": [
+          {
+            "attribute": "ranged_weapon:damage",
+            "value": 0.03,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "minecraft:generic.attack_damage",
+            "value": 0.03,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ],
+        "conditional_attributes": {
+          "required_mod": "extraspellattributes",
+          "attributes": [
+            {
+              "attribute": "ranged_weapon:damage",
+              "value": 0.03,
+              "operation": "ADD_MULTIPLIED_BASE"
+            },
+            {
+              "attribute": "minecraft:generic.attack_damage",
+              "value": 0.04,
+              "operation": "ADD_MULTIPLIED_BASE"
+            },
+            {
+              "attribute": "extraspellattributes:defiance",
+              "value": 0.5,
+              "operation": "ADD_VALUE"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

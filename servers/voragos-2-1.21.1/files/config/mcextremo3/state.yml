@@ -1,0 +1,21 @@
+# McExtremo3 persistent state
+pvp:
+  enabled: false
+  last-disabled-at-millis: 0
+systems:
+  vengeance-enabled: true
+  danger-enabled: true
+  armor-bonus-enabled: false
+  killtop-enabled: false
+  menu-locked: false
+lives:
+danger-levels:
+danger-kill-progress:
+danger-red-expiry:
+armor-bonus-lives:
+permanent-hearts-lost:
+permanent-slots-lost:
+kills:
+kill-names:
+minecoins:
+elimination-action-done:

@@ -1,0 +1,78 @@
+{
+  "version": 3,
+  "mercader": {
+    "item_pedido": "minecraft:diamond",
+    "cantidad_pedida": 2,
+    "monedas_entregadas": 1
+  },
+  "probabilidades": {
+    "sin_premio": 62.0,
+    "calavera": 22.0,
+    "hoja": 11.0,
+    "corazon": 4.9,
+    "axol": 0.1
+  },
+  "duracion_giro_ticks": 60,
+  "intervalo_sonido_rodillos": 3,
+  "anunciar_legendario": true,
+  "anuncio_titulo": true,
+  "anuncio_fuegos_artificiales": true,
+  "anuncio_rayo": true,
+  "sonidos": {
+    "moneda_insertar": {
+      "sonido": "fuente_del_azar:moneda_insertar",
+      "volumen": 1.0,
+      "tono": 1.0
+    },
+    "carrete_tic": {
+      "sonido": "fuente_del_azar:carrete_tic",
+      "volumen": 0.6,
+      "tono": 1.0
+    },
+    "carrete_parada": {
+      "sonido": "fuente_del_azar:carrete_parada",
+      "volumen": 1.0,
+      "tono": 1.0
+    },
+    "sin_premio": {
+      "sonido": "fuente_del_azar:sin_premio",
+      "volumen": 1.0,
+      "tono": 1.0
+    },
+    "premio_calavera": {
+      "sonido": "fuente_del_azar:premio_calavera",
+      "volumen": 1.0,
+      "tono": 1.0
+    },
+    "premio_hoja": {
+      "sonido": "fuente_del_azar:premio_hoja",
+      "volumen": 1.0,
+      "tono": 1.0
+    },
+    "premio_corazon": {
+      "sonido": "fuente_del_azar:premio_corazon",
+      "volumen": 1.0,
+      "tono": 1.0
+    },
+    "premio_axol": {
+      "sonido": "fuente_del_azar:premio_axol",
+      "volumen": 1.5,
+      "tono": 1.0
+    },
+    "anuncio_legendario": {
+      "sonido": "fuente_del_azar:anuncio_legendario",
+      "volumen": 1.0,
+      "tono": 1.0
+    },
+    "moneda_rechazada": {
+      "sonido": "fuente_del_azar:moneda_rechazada",
+      "volumen": 1.0,
+      "tono": 1.0
+    },
+    "admin_pestana": {
+      "sonido": "minecraft:item.book.page_turn",
+      "volumen": 0.7,
+      "tono": 1.0
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "mode": "SEQUENTIAL",
+  "distance": 50.0,
+  "effects": [
+    {
+      "type": "BEAM",
+      "particle": {
+        "type": "minecraft:dust",
+        "color": [ 1.0, 0.0, 0.0 ],
+        "scale": 1
+      },
+      "speed": 5,
+      "start_delay": 0,
+      "end_delay": 0,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "radius": 1.0,
+      "points": 40,
+      "height": 10,
+      "spacing": 0.1,
+      "upwards": true,
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "type": "BEAM",
+      "particle": {
+        "type": "minecraft:dust",
+        "color": [ 1.0, 0.0, 0.0 ],
+        "scale": 1
+      },
+      "speed": 5,
+      "start_delay": 0,
+      "end_delay": 0,
+      "offset": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "radius": 1.0,
+      "points": 40,
+      "height": 10,
+      "spacing": 0.1,
+      "upwards": false,
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    }
+  ]
+}

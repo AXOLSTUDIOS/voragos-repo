@@ -1,0 +1,10 @@
+{
+  "Detailed Loot Table Log": false,
+  "Detailed Recipe Log": false,
+  "Detailed Trade Log": false,
+  "Detailed Tag Log": false,
+  "Blacklist": [
+    // "minecraft:iron_ingot",
+    // "mod_id:mod_item"
+  ]
+}

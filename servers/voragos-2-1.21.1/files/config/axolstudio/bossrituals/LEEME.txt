@@ -1,0 +1,64 @@
+BossRituals — creado por Axolstudio
+===================================
+
+Toda la configuración vive aquí. Los jugadores no necesitan ningún resourcepack.
+
+bossrituals.json     Ajustes globales: avisos (notify_mode: feed/actionbar/chat), gótica, textos.
+portals.json         Portales de colores: tamaño al colocarlos, solo OP, espera tras cruzar, texturas.
+bosses/<id>.json     Un jefe por archivo (entidad o huevo de cualquier mod, NBT, nombre, modificadores,
+                     música de combate "music", barra "hud", cinemática propia "cinematic").
+rewards/<id>.json    Recompensa arrastrada desde el panel (tecla B -> Recompensa). No hace falta tocarlo.
+hud/<id>.json        Barras de jefe en lienzo 1920x1080. Muévelas con el panel (tecla B -> Barras).
+hud_images/*.png     PNG transparentes que se superponen a la barra ("overlay"). Se envían a los jugadores.
+vfx_images/*.png     Tus efectos PNG animados (tira vertical de fotogramas cuadrados). En "vfx" o
+                     "spawn_effects" usa "effect": "nombre_del_archivo".
+portal_images/*.png  Texturas animadas de grietas y portales: grieta.png y portal.png (ritual de los
+                     caballeros), portal_rojo.png, portal_azul.png... (portales de colores). Tira
+                     vertical; los fotogramas pueden ser cuadrados o con la proporción del portal.
+cinematics/<id>.json Cinemáticas: cámara (anchor/orbit/dolly/path), efectos animados, splash, títulos,
+                     subtítulos y sonido. ritual_<tipo>.json = la de cada tipo de ritual.
+                     "clear_view": true (por defecto) = si una estructura tapa al jefe, deja de verse
+                     durante la cinemática solo en la pantalla de cada jugador; el mundo no cambia.
+splash/*.png         Splash art. El servidor lo envía: cámbialo solo aquí y se actualiza para todos.
+sounds/*.ogg         Música y sonidos. El SERVIDOR los envía a cada jugador (se guardan en
+                     .minecraft/bossrituals_cache/), no hace falta ponerlos en el modpack ni pulsar F3+T.
+                     En los JSON: "music": "nombre" o "sound": "nombre" (da igual mayúsculas,
+                     espacios o ".ogg": "Mi Tema.OGG" = "mi tema" = "mi_tema").
+rituals/<id>.json    Los 5 rituales. Coloca un Núcleo de Ritual, sus piezas cerca y vincúlalo con
+                     clic derecho (OP, mano vacía). spawn / spawn_2 = dónde aparece el jefe.
+sky_images/*.png     Imágenes de la cinemática del cielo (PNG transparentes; mejor siluetas grandes).
+assets/              Paquete de recursos interno siempre activo (tus sprites, texturas de vfx, fuente).
+
+Cinemática del cielo (tras la muerte del jefe): tecla B -> Editar jefe -> pestaña Cielo.
+  Retraso, coordenadas X Y Z del portal ("Aquí" = tu posición), color del portal, imágenes, nubes,
+  audio (siempre en volumen General/Master) y subtítulos ("2 Texto | 8.5 Otro" = segundo en que salen).
+  Al terminar se abre el Portal de ese color en las coordenadas; si ya pusiste su otro extremo con la
+  Piedra de Portal, queda enlazado. Se guarda en "sky_cinematic" de bosses/<id>.json.
+  Las nubes son un shader propio (como los packs de shaders): las nubes DIBUJAN cada imagen en el cielo,
+  semitransparente y con el color del cielo, y luego el viento la deshace en jirones que vuelven a ser nubes.
+  "Vista previa" lo muestra con el mismo shader (tamaño, altura, escala de cada imagen, nubes y subtítulos).
+  "Luz del mundo": el cielo y la luz real giran a atardecer o noche mientras dura y vuelven al final.
+presentation.json    Presentación del servidor (tecla B -> Presentación): la misma cinemática del cielo
+                     con música corta, sin portal, que se ve al entrar (primera vez, siempre o nunca).
+
+Los nombres de archivo NO distinguen mayúsculas, acentos, espacios ni extensión.
+
+Vara del Ritual (pestaña BossRituals, solo OP):
+  clic derecho a un Núcleo = seleccionarlo · agachado + clic al aire = cambiar de modo ·
+  clic derecho a un bloque = poner el punto. Modos: Jefe 1, Jefe 2 (eclipse), Grieta, Destino, Borrar.
+  Con la vara en la mano ves balizas en cada punto. /bossrituals vara tamano <ancho> <alto> = tamaño grieta.
+Portales de colores (rojo, azul, verde, amarillo, morado): clic derecho a un bloque coloca un extremo;
+  el otro extremo del MISMO color puede estar en cualquier dimensión. Agachado + clic = quitar.
+  /bossrituals portal lista | portal <color> quitar | portal <color> tamano <ancho> <alto>
+
+Habilidades supremas (tecla B -> jefe -> Habilidades -> "Ver Supremas"): lluvia de espadas, barrido,
+  prisión de cadenas, nova de escarcha, rayo del vacío, pilares de fuego y embestida sombría. Todas avisan
+  antes en el suelo. La lluvia de espadas y las cadenas ATURDEN: el jugador queda clavado hasta pulsar
+  ESPACIO (su tecla de salto) muchas veces, o hasta que pase el tiempo máximo.
+  Sus PNG animadas (tira vertical de fotogramas cuadrados) se cambian subiendo a vfx_images/ una con el
+  mismo nombre: skill_warning, skill_sword, skill_slash, skill_chains, skill_stun, skill_frost,
+  skill_beam, skill_shadow, skill_impact (y fire_pillar, rune_ring, energy_burst, smoke).
+
+Panel de administración: tecla B (solo OP), con Vista previa de splash, barra y música.
+Comandos: /bossrituals menu | reload | list | summon | active | despawn
+Piezas de ritual: irrompibles en supervivencia; en creativo se rompen agachado.

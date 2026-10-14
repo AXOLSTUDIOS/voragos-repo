@@ -1,0 +1,132 @@
+{
+  "enabled": true,
+  "name": "Pokemon Crate",
+  "display": {
+    "item": "minecraft:chest",
+    "name": "<red>Pokemon Crate",
+    "lore": [
+      "<gray>Example Lore!"
+    ]
+  },
+  "unique": false,
+  "preview": "default",
+  "animation": "mystery",
+  "permission": "",
+  "inventory_space": -1,
+  "cost": {},
+  "cooldown": 10,
+  "keys": {
+    "example_key": 1
+  },
+  "failure": {
+    "pushback": 0.5,
+    "sound": {
+      "sound": "minecraft:block.lava.extinguish",
+      "pitch": 1.0,
+      "volume": 0.5
+    }
+  },
+  "block": {
+    "locations": [],
+    "hologram": {
+      "text": [
+        "<red>Pokemon Crate",
+        "<gray>Example Lore!",
+        "Your Keys: %skiescrates:keys example_key%"
+      ],
+      "offset": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "billboard": "VERTICAL",
+      "background": {
+        "color": "000000",
+        "opacity": 50
+      },
+      "shadow": true,
+      "opacity": 1.0,
+      "update_rate": 100,
+      "view_distance": 50.0
+    },
+    "particles": "circle"
+  },
+  "rewards": {
+    "bulbasaur": {
+      "type": "POKEMON",
+      "weight": 50,
+      "name": "<red>Bulbasaur</red>",
+      "pokemon": {
+        "species": "cobblemon:bulbasaur",
+        "form": "",
+        "aspects": [],
+        "level": {
+          "min": 5,
+          "max": 10
+        },
+        "shiny": 0.5
+      }
+    },
+    "squirtle": {
+      "type": "POKEMON",
+      "weight": 50,
+      "name": "<red>Squirtle</red>",
+      "pokemon": {
+        "species": "cobblemon:squirtle",
+        "form": "",
+        "aspects": [],
+        "level": {
+          "min": 5,
+          "max": 10
+        },
+        "shiny": 0.5
+      }
+    },
+    "charmander": {
+      "type": "POKEMON",
+      "weight": 50,
+      "name": "<red>Charmander</red>",
+      "pokemon": {
+        "species": "cobblemon:charmander",
+        "form": "",
+        "aspects": [],
+        "level": {
+          "min": 5,
+          "max": 10
+        },
+        "shiny": 0.5
+      }
+    },
+    "random": {
+      "type": "POKEMON",
+      "weight": 10,
+      "name": "<red>Random Pokemon</red>",
+      "pokemon": {
+        "species": "random",
+        "level": 1
+      }
+    },
+    "rayquaza": {
+      "type": "POKEMON",
+      "weight": 1,
+      "name": "<red>Rayquaza</red>",
+      "pokemon": {
+        "species": "cobblemon:rayquaza",
+        "form": "",
+        "aspects": [],
+        "level": 100,
+        "shiny": true
+      }
+    }
+  }
+}

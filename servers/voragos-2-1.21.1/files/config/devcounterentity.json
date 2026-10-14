@@ -1,0 +1,21 @@
+{
+  "configVersion": 3,
+  "chanceToSpawn": 0.12,
+  "mainScreamerChance": 0.5,
+  "cornerVsScreamerChance": 0.35,
+  "killChance": 0.25,
+  "spawnIntervalTicks": 72000,
+  "spawnJitterTicks": 12000,
+  "minSpawnDelayTicks": 72000,
+  "maxSpawnDelayTicks": 144000,
+  "cornerScreamerMinDelayTicks": 18000,
+  "cornerScreamerMaxDelayTicks": 36000,
+  "rainBeforeSpawnSeconds": 8,
+  "rainAfterScreamerSeconds": 0,
+  "screamerDelaySeconds": 3,
+  "cornerDurationTicks": 24,
+  "cornerEntityLifetimeSeconds": 60,
+  "minDistance": 24,
+  "maxDistance": 44,
+  "cornerScreenerMaxSize": 110
+}

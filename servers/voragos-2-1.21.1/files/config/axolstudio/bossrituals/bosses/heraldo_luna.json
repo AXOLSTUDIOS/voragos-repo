@@ -1,0 +1,12 @@
+{
+  "_author": "Axolstudio",
+  "_info": "Jefe de noche del Reloj del Eclipse.",
+  "entity": "minecraft:wither_skeleton",
+  "nbt": "{PersistenceRequired:1b,Health:150f,attributes:[{id:\"minecraft:generic.max_health\",base:150d}]}",
+  "name": "&9Heraldo de la Luna",
+  "hud": "eclipse_luna",
+  "modifiers": [
+    { "type": "teleport_to_player", "every_hits": 5, "radius": 20, "cooldown_ticks": 60 }
+  ],
+  "global_reward": { "items": [ { "id": "minecraft:lapis_block", "count": 2 } ], "message": "&9La Luna te concede su favor" }
+}

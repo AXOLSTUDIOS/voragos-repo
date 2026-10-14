@@ -1,0 +1,26 @@
+{
+  "configVersion": 2,
+  "showHud": true,
+  "customPosition": false,
+  "posX": 0.85,
+  "posY": 0.5,
+  "scale": 1.0,
+  "heightFraction": 0.4,
+  "maxWidthFraction": 0.3,
+  "edgeMargin": 6,
+  "layout": {
+    "portraitX": 0.262,
+    "portraitY": 0.272,
+    "portraitW": 0.452,
+    "portraitH": 0.366,
+    "nameX": 0.22,
+    "nameY": 0.648,
+    "nameW": 0.56,
+    "nameH": 0.085,
+    "rewardX": 0.255,
+    "rewardY": 0.772,
+    "rewardW": 0.52,
+    "rewardH": 0.09,
+    "paperTop": 0.074
+  }
+}

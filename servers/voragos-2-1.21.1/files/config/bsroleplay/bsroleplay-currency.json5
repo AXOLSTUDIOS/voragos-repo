@@ -1,0 +1,69 @@
+{
+	// Coin Price | Default: true
+	"showCoinPrice": true,
+	// Hostile Mobs Drop Coins | Default: true
+	"hostileMobsDropCoins": true,
+	// Boss Mobs Drop Coins | Default: true
+	"bossMobsDropCoins": true,
+	// Ender Dragon Drop Coins | Default: true
+	"enderDragonDropCoins": true,
+	// Ores Drop Coins | Default: true
+	"oresDropCoins": true,
+	/* Wallet Max Coins | Default: 99999
+	*/
+	"walletMaxCoins": 99999,
+	/* Copper Coin drop chance by Hostile Mobs | Default: 0.15f
+	*/
+	"copperCoinChanceHostileMobs": 0.15000000596046448,
+	/* Max Copper Coin amount drop by Hostile Mobs | Default: 3.0f
+	*/
+	"copperCoinMaxAmountHostileMobs": 3.0,
+	/* Gold Coin drop chance by Hostile Mobs | Default: 0.05f
+	*/
+	"goldCoinChanceHostileMobs": 0.05000000074505806,
+	/* Max Gold Coin amount drop by Hostile Mobs | Default: 1.0f
+	*/
+	"goldCoinMaxAmountHostileMobs": 1.0,
+	/* Gold Coin drop chance by Boss Mobs | Default: 1.0f
+	*/
+	"goldCoinChanceBossMobs": 1.0,
+	/* Max Gold Coin amount drop by Boss Mobs | Default: 3.0f
+	*/
+	"goldCoinMaxAmountBossMobs": 2.0,
+	/* Amethyst Coin drop chance by Boss Mobs | Default: 0.2f
+	*/
+	"amethystCoinChanceBossMobs": 0.20000000298023224,
+	/* Max Amethyst Coin amount drop by Boss Mobs | Default: 1.0f
+	*/
+	"amethystCoinMaxAmountBossMobs": 1.0,
+	/* Amethyst Coin drop chance by Ender Dragon | Default: 1.0f
+	*/
+	"amethystCoinChanceEnderDragon": 1.0,
+	/* Max Amethyst Coin amount drop by Ender Dragon | Default: 2.0f
+	*/
+	"amethystCoinMaxAmountEnderDragon": 2.0,
+	/* Netherite Coin drop chance by Ender Dragon | Default: 0.05f
+	*/
+	"netheriteCoinChanceEnderDragon": 0.05000000074505806,
+	/* Max Netherite Coin amount drop by Ender Dragon | Default: 1.0f
+	*/
+	"netheriteCoinMaxAmountEnderDragon": 1.0,
+	/* Copper Coin drop chance by Ores | Default: 0.05f
+	*/
+	"copperCoinChanceOres": 0.05000000074505806,
+	/* Max Copper Coin amount drop by Ores | Default: 2.0f
+	*/
+	"copperCoinMaxAmountOres": 2.0,
+	/* Gold Coin drop chance by Ores | Default: 0.005f
+	*/
+	"goldCoinChanceOres": 0.004999999888241291,
+	/* Max Gold Coin amount drop by Ores | Default: 1.0f
+	*/
+	"goldCoinMaxAmountOres": 1.0,
+	/* Amethyst Coin drop chance by Ores | Default: 0.0001f
+	*/
+	"amethystCoinChanceOres": 9.999999747378752E-5,
+	/* Max Amethyst Coin amount drop by Ores | Default: 1.0f
+	*/
+	"amethystCoinMaxAmountOres": 1.0
+}

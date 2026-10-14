@@ -1,0 +1,19 @@
+{
+  "_author": "Axolstudio",
+  "_info": "Lienzo virtual 1920x1080: todos ven la barra igual. pos_x/pos_y en fracción de pantalla (0-1). Muévela con el editor: tecla B -> Barras. overlay = PNG de hud_images/.",
+  "pos_x": 0.5,
+  "pos_y": 0.045,
+  "width": 560,
+  "height": 40,
+  "frame": "bossrituals:boss_frame",
+  "fill": "bossrituals:boss_fill",
+  "back": "bossrituals:boss_back",
+  "color": "#B0181E",
+  "show_name": true,
+  "name_color": "#F0C060",
+  "show_percent": true,
+  "stack_offset": 90,
+  "overlay": "",
+  "overlay_margin": 24,
+  "name_scale": 1.0
+}

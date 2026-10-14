@@ -1,0 +1,120 @@
+{
+  "enabled": true,
+  "name": "<blue>Model Crate</blue>",
+  "display": {
+    "item": "minecraft:chest",
+    "slots": [],
+    "amount": 1,
+    "name": "<blue>Model Crate",
+    "lore": "<gray>Example Lore!"
+  },
+  "unique": false,
+  "preview": "default",
+  "animation": "world_random",
+  "permission": "",
+  "inventory_space": -1,
+  "cost": {},
+  "cooldown": 0,
+  "failure": {
+    "pushback": 0.5,
+    "sound": {
+      "sound": "minecraft:block.lava.extinguish",
+      "volume": 0.5,
+      "pitch": 1.0
+    }
+  },
+  "keys": {
+    "unique_key": 1
+  },
+  "block": {
+    "locations": [],
+    "model": {
+      "id": "example_model",
+      "rotation": 270.0,
+      "offset": {
+        "x": 0.0,
+        "y": -0.5,
+        "z": 0.0
+      },
+      "scale": 1.0,
+      "hitbox": {
+        "width": 1.0,
+        "height": 1.0,
+        "offset": {
+          "x": 0.0,
+          "y": -0.5,
+          "z": 0.0
+        }
+      },
+      "animations": {
+        "idle": "idle"
+      }
+    },
+    "hologram": {
+      "text": [
+        "<red>Model Crate",
+        "<gray>Example Lore!"
+      ],
+      "offset": {
+        "x": 0.0,
+        "y": 1.5,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "billboard": "VERTICAL",
+      "background": {
+        "color": "000000",
+        "opacity": 50
+      },
+      "shadow": true,
+      "opacity": 1.0,
+      "update_rate": 100,
+      "view_distance": 50.0
+    },
+    "particles": "helix"
+  },
+  "rewards": {
+    "example_reward": {
+      "type": "COMMAND_CONSOLE",
+      "weight": 2,
+      "name": "<red>Example Reward</red>",
+      "display": {
+        "item": "minecraft:diamond",
+        "name": "<red>Example Reward",
+        "lore": [
+          "<gray>Example Lore!"
+        ],
+        "nbt": {
+          "minecraft:custom_model_data": 1
+        }
+      },
+      "commands": [
+        "give %player% diamond 1"
+      ]
+    },
+    "example_reward_2": {
+      "type": "COMMAND_CONSOLE",
+      "weight": 1,
+      "name": "<green><b>Emerald</b></green>",
+      "display": {
+        "item": "minecraft:emerald",
+        "name": "<green><b>Emerald",
+        "lore": [
+          "<gray>Example Lore!"
+        ]
+      },
+      "commands": [
+        "give %player% emerald 1"
+      ]
+    }
+  }
+}

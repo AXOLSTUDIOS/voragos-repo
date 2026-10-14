@@ -1,0 +1,26 @@
+{
+  "_author": "Axolstudio",
+  "_info": "Prueba con la tecla B (panel) o /bossrituals summon ejemplo_wither. 'entity' acepta el ID de la entidad o de su huevo, también de otros mods.",
+  "entity": "minecraft:wither",
+  "nbt": "{PersistenceRequired:1b}",
+  "name": "&5El Marchito Ancestral",
+  "hud": "ejemplo_wither",
+  "cinematic": "ejemplo_wither",
+  "hide_vanilla_bossbar": true,
+  "modifiers": [
+    { "type": "teleport_to_player", "every_hits": 6, "radius": 24, "cooldown_ticks": 60 },
+    { "type": "summon_minions", "every_hits": 10, "entity": "minecraft:wither_skeleton", "count": 2, "cooldown_ticks": 200 },
+    { "type": "shockwave", "every_hits": 15, "radius": 8, "power": 6 },
+    { "type": "lightning", "every_hits": 20, "radius": 24, "count": 2, "chance": 0.5 },
+    { "type": "enrage", "threshold": 0.3, "effect": "minecraft:strength", "amplifier": 1, "duration": 6000 }
+  ],
+  "global_reward": {
+    "exclude_ops": true,
+    "items": [
+      { "id": "minecraft:diamond", "count": 3 },
+      { "id": "minecraft:experience_bottle", "count": 16 }
+    ],
+    "commands": [],
+    "message": "&eRecibiste la recompensa por derrotar a &6%boss%"
+  }
+}

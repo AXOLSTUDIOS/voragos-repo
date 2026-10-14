@@ -1,0 +1,33 @@
+{
+  "mode": "SEQUENTIAL",
+  "distance": 50.0,
+  "effects": [
+    {
+      "type": "SPIRAL",
+      "particle": {
+        "type": "minecraft:bubble_pop"
+      },
+      "speed": 1,
+      "start_delay": 0,
+      "end_delay": 10,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "radius": 1.0,
+      "points": 40,
+      "turns": 2,
+      "height": 2.0,
+      "phase": 5.0,
+      "clockwise": false,
+      "reverse": true,
+      "strands": 2,
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    }
+  ]
+}

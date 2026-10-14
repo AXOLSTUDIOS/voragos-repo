@@ -1,0 +1,7 @@
+{
+  "particleAmount": "DEFAULT",
+  "shaderPackEffectQuality": "MEDIUM",
+  "soundEnabled": true,
+  "letterboxEnabled": true,
+  "loadingStatusEnabled": true
+}

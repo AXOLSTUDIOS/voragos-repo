@@ -1,0 +1,12 @@
+{
+  "_author": "Axolstudio",
+  "_info": "Jefe de día del Reloj del Eclipse.",
+  "entity": "minecraft:evoker",
+  "nbt": "{PersistenceRequired:1b,Health:150f,attributes:[{id:\"minecraft:generic.max_health\",base:150d}]}",
+  "name": "&6Heraldo del Sol",
+  "hud": "eclipse_sol",
+  "modifiers": [
+    { "type": "summon_minions", "every_hits": 8, "entity": "minecraft:vex", "count": 2, "cooldown_ticks": 200 }
+  ],
+  "global_reward": { "items": [ { "id": "minecraft:gold_block", "count": 2 } ], "message": "&6El Sol te concede su favor" }
+}

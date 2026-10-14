@@ -1,0 +1,10 @@
+{
+  "topArrowEnabled": true,
+  "topArrowOffsetX": 0,
+  "topArrowY": 70,
+  "topArrowScale": 1.1,
+  "distanceTextEnabled": true,
+  "worldMarkerEnabled": true,
+  "worldMarkerScale": 1.0,
+  "range": 19
+}

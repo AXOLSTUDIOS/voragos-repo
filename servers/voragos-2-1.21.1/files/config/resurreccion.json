@@ -1,0 +1,19 @@
+{
+  "purgatoryDimension": "minecraft:overworld",
+  "purgatoryX": 0.5,
+  "purgatoryY": 100.0,
+  "purgatoryZ": 0.5,
+  "purgatoryDefined": false,
+  "purgatoryLeashRadius": 24.0,
+  "mcextremoModId": "mcextremo3",
+  "mcextremoLastLifeValue": 1,
+  "mcextremoEliminatedMode": "espectador",
+  "mcextremoResetPenalties": true,
+  "mcextremoLivesObjective": "vidas",
+  "ritualEffectRadius": 96.0,
+  "announceSoulLocation": true,
+  "announceSoulHolder": true,
+  "soulMarkers": true,
+  "soulWaypoints": true,
+  "broadcastMessages": true
+}

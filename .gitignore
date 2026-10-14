@@ -1,0 +1,5 @@
+# --- AXOL: archivos grandes (los maneja publicar-mods.js) ---
+servers/*/fabricmods/**/*.jar
+servers/*/forgemods/**/*.jar
+servers/voragos-2-1.21.1/files/config/fancymenu/assets/foncg.gif
+# --- AXOL: fin ---

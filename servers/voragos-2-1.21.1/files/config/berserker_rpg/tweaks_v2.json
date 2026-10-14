@@ -1,0 +1,9 @@
+{
+  "ignore_items_required_mods": false,
+  "bloody_strike_self_damage": 0.7,
+  "blood_reckoning_missing_health_to_absorption": 0.6,
+  "blood_reckoning_absorption_to_heal_on_expire": 0.4,
+  "northerners_guillotine_damage_per_amplifier": 0.025,
+  "northerners_guillotine_execute_health_threshold": 0.25,
+  "outrage_rage_bonus_duration": 6.0
+}

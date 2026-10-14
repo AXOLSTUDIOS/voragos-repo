@@ -1,0 +1,14 @@
+{
+  "graceMinutes": 10,
+  "huntMinutes": 30,
+  "disconnectBehavior": "PAUSE",
+  "proximityRadius": 100,
+  "proximityCooldownSeconds": 3,
+  "proximityDuringGrace": true,
+  "revealIntervalSeconds": 120,
+  "revealDurationSeconds": 10,
+  "revealSkullMarker": true,
+  "revealDistanceToHunters": true,
+  "allowKillDuringGrace": false,
+  "announceTargetDuringGrace": false
+}

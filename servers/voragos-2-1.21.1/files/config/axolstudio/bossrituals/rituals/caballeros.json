@@ -1,0 +1,21 @@
+{
+  "_author": "Axolstudio",
+  "_info": "Ritual 5. 5 Estatuas de Caballero cerca del núcleo. 'required' jugadores mantienen clic sobre estatuas distintas a la vez. Para probar solo, pon required: 1.",
+  "type": "knights",
+  "boss": "ejemplo_wither",
+  "required": 5,
+  "radius": 12,
+  "clicks_required": 400,
+  "fill_seconds": 8,
+  "portal": {
+    "offset": [0, 0, -6],
+    "width": 3,
+    "height": 4,
+    "axis": "x",
+    "dimension": "minecraft:the_nether",
+    "destination": [0, 70, 0],
+    "duration": 1200,
+    "blindness": 60
+  },
+  "hint": "&7Cinco caballeros, cinco almas: canalizad juntos o el juramento se rompe."
+}

@@ -1,0 +1,13 @@
+{
+  "enabled": true,
+  "name": "Unique Key",
+  "display": {
+    "item": "minecraft:ender_pearl",
+    "name": "<red>Unique Key",
+    "lore": [
+      "<gray>This key cant be duplicated!"
+    ]
+  },
+  "virtual": false,
+  "unique": true
+}

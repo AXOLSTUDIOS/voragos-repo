@@ -1,0 +1,22 @@
+{
+  "_author": "Axolstudio",
+  "_info": "Ritual 4 (sangre). Acercamiento lento y opresivo; lluvia de sangre y luna carmesí; viñeta que late. Splash con fallo visual (glitch).",
+  "duration": 180,
+  "audience": "server",
+  "sound": "minecraft:entity.warden.emerge",
+  "splash": { "image": "ejemplo_wither.png", "start": 85, "fade_in": 10, "hold": 55, "fade_out": 20, "scale": 0.75, "effect": "glitch" },
+  "title": { "text": "&4El Señor Carmesí", "subtitle": "&cLas almas ofrecidas lo han despertado", "at": 30, "duration": 70 },
+  "subtitles": [
+    { "at": 15, "duration": 55, "text": "&4Seis cabezas, seis almas..." },
+    { "at": 110, "duration": 55, "text": "&cNingún sacrificio queda sin respuesta" }
+  ],
+  "camera": { "mode": "dolly", "offset": [0, 3, -16], "offset_end": [0, 2.2, -6], "look_at": "boss", "look_height": 2.0, "blend_in": 30, "blend_out": 25, "fov": 50, "shake": 1.0 },
+  "vfx": [
+    { "at": 0, "duration": 170, "effect": "blood_rain", "where": "spawn", "scale": 14, "offset": [0, 6, 0] },
+    { "at": 0, "duration": 170, "effect": "moon", "where": "spawn", "scale": 6, "color": "#FF3040", "offset": [0, 12, 6] },
+    { "at": 20, "duration": 150, "effect": "rune_ring", "where": "spawn", "ground": true, "scale": 10, "spin": -30, "color": "#C01020", "offset": [0, 0.05, 0] },
+    { "at": 0, "duration": 180, "effect": "vignette", "where": "screen", "intensity": 0.7, "color": "#6A0008" },
+    { "at": 80, "duration": 12, "effect": "flash", "where": "screen", "intensity": 0.6, "color": "#FF2030" },
+    { "at": 0, "duration": 180, "effect": "letterbox", "where": "screen", "intensity": 0.14 }
+  ]
+}

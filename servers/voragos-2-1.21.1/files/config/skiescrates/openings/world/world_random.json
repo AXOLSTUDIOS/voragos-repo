@@ -1,0 +1,20 @@
+{
+  "type": "SIMPLE_ROLL",
+  "spin_count": 30,
+  "spin_interval": 1,
+  "start_delay": 0,
+  "change_interval": 3,
+  "change_amount": 1,
+  "end_delay": 40,
+  "sound": {
+    "sound": "minecraft:block.note_block.xylophone",
+    "pitch": 0.5,
+    "volume": 0.5
+  },
+  "offset": {
+    "x": 0.0,
+    "y": 1.0,
+    "z": 0.0
+  },
+  "hide_hologram": true
+}

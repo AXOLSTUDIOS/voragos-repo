@@ -1,0 +1,104 @@
+{
+  "title": "Opening %crate_name%",
+  "type": "GENERIC_9X5",
+  "close_delay": 40,
+  "win_slots": [20],
+  "items": {
+    "rewards": {
+      "main": {
+        "preset": "default",
+        "mode": "SEQUENTIAL",
+        "slots": [39, 40, 41, 33, 24, 15, 5, 4, 3, 11, 20, 29],
+        "spin_count": 75,
+        "spin_interval": 1,
+        "start_delay": 0,
+        "change_interval": 10,
+        "change_amount": 1,
+        "sound": {
+          "sound": "minecraft:block.note_block.banjo",
+          "pitch": 0.5,
+          "volume": 0.5
+        }
+      }
+    },
+    "animated": {
+      "background": {
+        "preset": "default",
+        "mode": "INDEPENDENT",
+        "spin_count": 71,
+        "spin_interval": 1,
+        "start_delay": 0,
+        "change_interval": 10,
+        "change_amount": 1
+      }
+    },
+    "static": {
+      "background": {
+        "item": "minecraft:black_stained_glass_pane",
+        "amount": 1,
+        "slots": [
+          0, 1, 2, 3, 4, 5, 6, 7, 8,
+          9, 10, 11, 12, 13, 14, 15, 16, 17,
+          18, 20, 22, 23, 24, 25, 26,
+          27, 28, 29, 30, 31, 32, 33, 34, 35,
+          36, 37, 38, 39, 40, 41, 42, 43, 44
+        ],
+        "nbt": {
+          "minecraft:hide_tooltips": {}
+        }
+      },
+      "arrow_right": {
+        "item": "minecraft:player_head",
+        "name": "<green>Your Prize!",
+        "amount": 1,
+        "slots": [19],
+        "nbt": {
+          "minecraft:profile": {
+            "id": [
+              -196519489,
+              2140293705,
+              -1793618238,
+              -806686714
+            ],
+            "properties": [
+              {
+                "name": "textures",
+                "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWE5MmFkNDU2Zjc2ZWM3Y2FhMzU5NTkyMmQ1ZmNjMzhkY2E5MjhkYzY3MTVmNzUyZTc0YzhkZGRlMzQ0ZSJ9fX0="
+              }
+            ]
+          }
+        }
+      },
+      "arrow_left": {
+        "item": "minecraft:player_head",
+        "name": "<green>Your Prize!",
+        "amount": 1,
+        "slots": [21],
+        "nbt": {
+          "minecraft:profile": {
+            "id": [
+              382788716,
+              -516730913,
+              -1368080864,
+              -1042777403
+            ],
+            "properties": [
+              {
+                "name": "textures",
+                "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGZhNjA1ZTI1ZjRmYzJjZWE1YTc2NmQ3OWE4YmZhMjkwMzEzZTQ1ZDhmNWU5NTdkOTU4YTBmMzNmY2IxNiJ9fX0="
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "presets": {
+    "rewards": {
+      "default": {
+
+      }
+    },
+    "animations": {}
+  }
+}

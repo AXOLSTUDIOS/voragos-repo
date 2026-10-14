@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "cullEntities": false,
+  "cullBlockEntities": false,
+  "cullParticles": true,
+  "skipOffscreenItemAnim": true,
+  "batchChunkUpdates": true,
+  "poolHotVectors": true
+}

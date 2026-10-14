@@ -1,0 +1,17 @@
+{
+  "_author": "Axolstudio",
+  "_info": "Tiempos en ticks (20 = 1 segundo) desde la aparición. sound acepta sonidos vanilla o tuyos en assets/.",
+  "duration": 150,
+  "radius": 64,
+  "sound": "minecraft:entity.wither.spawn",
+  "volume": 1.0,
+  "splash": { "image": "ejemplo_wither.png", "start": 10, "fade_in": 15, "hold": 60, "fade_out": 20, "scale": 0.7, "anchor": "center" },
+  "title": { "text": "&5El Marchito Ancestral", "subtitle": "&7Ha despertado de su letargo", "at": 30, "duration": 70 },
+  "subtitles": [
+    { "at": 20, "duration": 50, "text": "&7Las cenizas se agitan..." },
+    { "at": 80, "duration": 60, "text": "&dPreparaos para la batalla" }
+  ],
+  "camera": { "offset": [9, 4, 9], "look_at": "boss", "look_height": 2.0, "blend_in": 25, "blend_out": 25, "fov": 50, "shake": 2.0 },
+  "freeze_boss": true,
+  "protect_players": true
+}

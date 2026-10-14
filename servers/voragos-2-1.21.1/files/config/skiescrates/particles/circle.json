@@ -1,0 +1,58 @@
+{
+  "mode": "CONCURRENT",
+  "distance": 50.0,
+  "effects": [
+    {
+      "type": "CIRCLE",
+      "particle": {
+        "type": "minecraft:dust",
+        "color": [ 1.0, 0.0, 0.0 ],
+        "scale": 1
+      },
+      "speed": 1,
+      "start_delay": 0,
+      "end_delay": 0,
+      "offset": {
+        "x": 0.0,
+        "y": 0.5,
+        "z": 0.0
+      },
+      "radius": 1.0,
+      "points": 40,
+      "phase": 0.0,
+      "clockwise": false,
+      "strands": 2,
+      "rotation": {
+        "x": 30.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "type": "CIRCLE",
+      "particle": {
+        "type": "minecraft:dust",
+        "color": [ 1.0, 0.0, 0.0 ],
+        "scale": 1
+      },
+      "speed": 1,
+      "start_delay": 0,
+      "end_delay": 0,
+      "offset": {
+        "x": 0.0,
+        "y": 0.5,
+        "z": 0.0
+      },
+      "radius": 1.0,
+      "points": 40,
+      "phase": 0.0,
+      "clockwise": true,
+      "strands": 2,
+      "rotation": {
+        "x": -30.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    }
+  ]
+}

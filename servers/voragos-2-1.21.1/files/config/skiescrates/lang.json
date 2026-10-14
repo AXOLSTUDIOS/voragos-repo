@@ -1,0 +1,71 @@
+{
+  "CRATE_GIVE": [
+    "<green>You have received a %crate_name% crate!"
+  ],
+  "CRATE_OPENING": [
+    "<green>Opening crate..."
+  ],
+  "CRATE_REWARD": [
+    "<green>You have received %reward_name% reward from the %crate_name% crate!"
+  ],
+  "CRATE_REWARD_BROADCAST": [
+    "<green>%player% has received %reward_name% reward from the %crate_name% crate!"
+  ],
+  "ERROR_ALREADY_OPENING": [
+    "<red>You are already opening a crate!"
+  ],
+  "ERROR_BALANCE_CHANGED": [
+    "<red>Your balance changed while attempting to open this crate! Not sure how that happened..."
+  ],
+  "ERROR_COOLDOWN": [
+    "<red>You are on cooldown for this crate! Please wait %cooldown% before opening it again."
+  ],
+  "ERROR_COST": [
+    "<red>You don't have enough money to open this crate!"
+  ],
+  "ERROR_ECONOMY_PROVIDER": [
+    "<red>This crate has an invalid economy provider! Please contact an admin."
+  ],
+  "ERROR_INVALID_ANIMATION": [
+    "<red>This crate has an invalid animation! Please contact an admin."
+  ],
+  "ERROR_INVALID_PREVIEW": [
+    "<red>This crate has an invalid preview! Please contact an admin."
+  ],
+  "ERROR_INVENTORY_SPACE": [
+    "<red>You don't have at least %crate_inventory_space% free spaces in your inventory!"
+  ],
+  "ERROR_KEYS_CHANGED": [
+    "<red>You don't have the required key in your inventory anymore! Not sure how that happened..."
+  ],
+  "ERROR_KEY_NOT_FOUND": [
+    "<red>The specified keys for this crate were invalid! Please contact an admin."
+  ],
+  "ERROR_MISSING_KEYS": [
+    "<red>You don't have enough keys to open this crate! Keys: %crate_keys%"
+  ],
+  "ERROR_NO_CRATE": [
+    "<red>You do not have this crate in your inventory! Not sure how that happened..."
+  ],
+  "ERROR_NO_PERMISSION": [
+    "<red>You don't have permission to open this crate!"
+  ],
+  "ERROR_NO_REWARDS": [
+    "<red>This crate has no rewards! Please contact an admin."
+  ],
+  "ERROR_STORAGE": [
+    "<red>There was an error with the storage system! Please contact an admin."
+  ],
+  "KEY_DUPLICATE_ALERT": [
+    "<red>Your inventory contained keys that were marked as duplicated. This incident has been reported..."
+  ],
+  "KEY_GIVE": [
+    "<green>You have received x%amount% %key_name% crate key(s)!"
+  ],
+  "KEY_SET": [
+    "<green>Your %key_name% crate keys were set to x%amount%!"
+  ],
+  "KEY_TAKE": [
+    "<green>You had x%amount% %key_name% crate key(s) taken from you!"
+  ]
+}

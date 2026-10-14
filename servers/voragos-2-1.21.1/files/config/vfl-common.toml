@@ -1,0 +1,43 @@
+#Enable the flicker effect: the beam flickers on low battery and near the blocks/entities in flicker_multipliers.
+flicker = true
+#[Accessibility Setting] When the beam flickers, dim it briefly instead of blinking it off.
+mild_flicker = false
+#Range to search for blocks/entities that affect the flashlight flicker.
+# Default: 10
+# Range: 1 ~ 100
+flicker_range = 10
+#When these blocks/entities are near, the beam flickers. Higher numbers flicker more; 1 is a normal flicker.
+#Each entry is text in quotes: "block:<mod>:<block>:<multiplier>" or "entity:<mod>:<entity>:<multiplier>"
+#Example: flicker_multipliers = ["entity:minecraft:enderman:1.5", "block:minecraft:jack_o_lantern:1"]
+#Invalid entries are skipped (and logged); they never crash the game.
+flicker_multipliers = []
+#Range to search for blocks/entities that affect the flashlight drain.
+# Default: 10
+# Range: 1 ~ 100
+drain_range = 10
+#When these blocks/entities are near, the battery drains this many times faster. Leave empty to remove the drain effect.
+#Each entry is text in quotes: "block:<mod>:<block>:<multiplier>" or "entity:<mod>:<entity>:<multiplier>"
+#Example: drain_multipliers = ["entity:minecraft:enderman:5", "block:minecraft:jack_o_lantern:2"]
+#Invalid entries are skipped (and logged); they never crash the game.
+drain_multipliers = []
+#Battery life, in seconds, for the base flashlight and miner's helmet (20 ticks = 1 second).
+# Default: 420
+# Range: 1 ~ 107374182
+battery_life_seconds = 420
+#Battery life, in seconds, for the ultra flashlight and ultra miner's helmet (20 ticks = 1 second).
+# Default: 2100
+# Range: 1 ~ 107374182
+ultra_battery_life_seconds = 2100
+#Forge Energy (RF) that restores one tick of battery life when charging in an FE/RF charger (20 ticks = 1 second).
+#Higher values make RF charging slower. The redstone crafting recipe is unaffected.
+#A full base battery then holds battery_life_seconds * 20 * this many RF (default: 420 * 20 * 10 = 84,000 RF).
+# Default: 10
+# Range: 1 ~ 100000
+energy_per_charge_tick = 10
+#Whether armor stands and mobs can have lit flashlights and miner's helmets. When false, the server
+#switches off any lit light an armor stand or mob is wearing or holding, so nobody sees its beam.
+entity_lights = true
+#Whether lit flashlights and miner's helmets on armor stands and mobs use up their battery (and switch
+#off when empty), the same as when a player uses them. Set to false for lights that stay on forever,
+#e.g. decorative armor stands in adventure or horror maps.
+entity_lights_drain = true

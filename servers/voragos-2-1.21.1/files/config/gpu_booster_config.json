@@ -1,0 +1,10 @@
+{
+  "dsa": "all",
+  "dsa_var": "core",
+  "vertex_format_cache": false,
+  "render_cycle_pool_size": 256,
+  "renderbuffer_depth": true,
+  "fast_math": true,
+  "batch_text": true,
+  "smart_cull": "base"
+}

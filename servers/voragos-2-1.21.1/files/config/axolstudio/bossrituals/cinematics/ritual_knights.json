@@ -1,0 +1,18 @@
+{
+  "_author": "Axolstudio",
+  "_info": "Ritual 5 (caballeros). La cámara sale del portal hacia el jefe; rayos de luz y resplandor blanco cegador. Splash deslizándose.",
+  "duration": 170,
+  "audience": "server",
+  "sound": "minecraft:block.end_portal.spawn",
+  "splash": { "image": "ejemplo_wither.png", "start": 70, "fade_in": 15, "hold": 55, "fade_out": 20, "scale": 0.7, "effect": "slide_left" },
+  "title": { "text": "&fEl Juramento Roto", "subtitle": "&7Cinco caballeros abrieron la puerta de la luz", "at": 20, "duration": 65 },
+  "subtitles": [ { "at": 100, "duration": 55, "text": "&fEl guardián no dejará pasar a nadie con vida" } ],
+  "camera": { "mode": "dolly", "offset": [0, 3, -3], "offset_end": [6, 4, 9], "look_at": "boss", "look_height": 2.0, "blend_in": 20, "blend_out": 25, "fov": 65 },
+  "vfx": [
+    { "at": 0, "duration": 160, "effect": "portal_glow", "where": "spawn", "scale": 7, "offset": [0, 2, -3] },
+    { "at": 0, "duration": 160, "effect": "light_rays", "where": "spawn", "scale": 12, "color": "#FFFFFF", "offset": [0, 2.5, -3] },
+    { "at": 45, "duration": 40, "effect": "energy_burst", "where": "boss", "scale": 6, "color": "#E8F0FF", "offset": [0, 1.5, 0] },
+    { "at": 0, "duration": 24, "effect": "flash", "where": "screen", "intensity": 1.0, "color": "#FFFFFF" },
+    { "at": 0, "duration": 170, "effect": "letterbox", "where": "screen", "intensity": 0.12 }
+  ]
+}

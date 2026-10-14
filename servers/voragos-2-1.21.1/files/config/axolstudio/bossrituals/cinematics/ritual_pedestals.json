@@ -1,0 +1,18 @@
+{
+  "_author": "Axolstudio",
+  "_info": "Ritual 1 (pódiums). Órbita lenta mientras los 4 rayos elementales convergen; círculo mágico en el suelo y destello. Splash con zoom.",
+  "duration": 170,
+  "audience": "server",
+  "sound": "minecraft:entity.wither.spawn",
+  "splash": { "image": "ejemplo_wither.png", "start": 70, "fade_in": 12, "hold": 55, "fade_out": 18, "scale": 0.72, "effect": "zoom" },
+  "title": { "text": "&6El Llamado Elemental", "subtitle": "&7Fuego, agua, aire y tierra responden", "at": 20, "duration": 60 },
+  "subtitles": [ { "at": 100, "duration": 60, "text": "&eLos cuatro elementos han abierto la puerta..." } ],
+  "camera": { "mode": "orbit", "orbit_radius": 11, "orbit_height": 5, "orbit_degrees": 220, "orbit_start": 30, "look_at": "boss", "look_height": 2.0, "blend_in": 25, "blend_out": 25, "fov": 55, "shake": 1.5 },
+  "vfx": [
+    { "at": 0, "duration": 150, "effect": "magic_circle", "where": "spawn", "ground": true, "scale": 8, "spin": 25, "color": "#FFD27A", "offset": [0, 0.05, 0] },
+    { "at": 10, "duration": 130, "effect": "rune_ring", "where": "spawn", "ground": true, "scale": 12, "spin": -15, "color": "#9FD0FF", "offset": [0, 0.1, 0] },
+    { "at": 50, "duration": 40, "effect": "energy_burst", "where": "boss", "scale": 7, "color": "#FFF0C0", "offset": [0, 1.5, 0] },
+    { "at": 60, "duration": 14, "effect": "flash", "where": "screen", "intensity": 0.9, "color": "#FFF6D8" },
+    { "at": 0, "duration": 170, "effect": "letterbox", "where": "screen", "intensity": 0.12 }
+  ]
+}

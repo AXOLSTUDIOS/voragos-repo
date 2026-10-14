@@ -1,0 +1,9 @@
+{
+  "_author": "Axolstudio",
+  "_info": "Ritual 2. El Reloj del Eclipse ocupa solo un muro vertical de 3x3: necesita ese espacio libre y se orienta hacia quien lo coloca. No hacen falta Marcos. Ponlo a menos de radius bloques del núcleo. Clic derecho gira la aguja (agachado: al revés).",
+  "type": "eclipse",
+  "bosses": ["heraldo_sol", "heraldo_luna"],
+  "radius": 10,
+  "cooldown_ticks": 24000,
+  "hint": "&7Cuando el Sol bese el horizonte y la Luna aguarde al otro lado, alinea la aguja con el astro que muere."
+}

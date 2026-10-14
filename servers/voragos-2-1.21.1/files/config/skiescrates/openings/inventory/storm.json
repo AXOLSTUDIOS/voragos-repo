@@ -1,0 +1,209 @@
+{
+  "title": "Opening %crate_name%",
+  "type": "GENERIC_9X6",
+  "close_delay": 40,
+  "win_slots": [49],
+  "items": {
+    "rewards": {
+      "main": {
+        "preset": "default",
+        "mode": "INDEPENDENT",
+        "slots": [49],
+        "spin_count": 1,
+        "spin_interval": 1,
+        "start_delay": 83,
+        "change_interval": 0,
+        "change_amount": 0,
+        "sound": {
+          "sound": "minecraft:block.note_block.xylophone",
+          "pitch": 0.5,
+          "volume": 0.5
+        }
+      }
+    },
+    "animated": {
+      "cloud_1_down": {
+        "preset": "cloud",
+        "mode": "SEQUENTIAL",
+        "slots": [9, 10, 11, 12, 13],
+        "spin_count": 6,
+        "spin_interval": 6,
+        "start_delay": 2,
+        "change_interval": 0,
+        "change_amount": 0
+      },
+      "cloud_1_up": {
+        "preset": "cloud",
+        "mode": "SEQUENTIAL",
+        "slots": [0, 1, 2, 3],
+        "spin_count": 4,
+        "spin_interval": 6,
+        "start_delay": 5,
+        "change_interval": 0,
+        "change_amount": 0
+      },
+      "cloud_1_up_clear_corner": {
+        "preset": "clear",
+        "mode": "SEQUENTIAL",
+        "slots": [0],
+        "spin_count": 1,
+        "spin_interval": 1,
+        "start_delay": 25,
+        "change_interval": 0,
+        "change_amount": 0
+      },
+      "cloud_2_up": {
+        "preset": "cloud",
+        "mode": "SEQUENTIAL",
+        "slots": [8, 7, 6, 5],
+        "spin_count": 4,
+        "spin_interval": 5,
+        "start_delay": 9,
+        "change_interval": 0,
+        "change_amount": 0
+      },
+      "cloud_2_down": {
+        "preset": "cloud",
+        "mode": "SEQUENTIAL",
+        "slots": [17, 16, 15],
+        "spin_count": 3,
+        "spin_interval": 5,
+        "start_delay": 15,
+        "change_interval": 0,
+        "change_amount": 0
+      },
+      "cloud_2_down_clear_corner": {
+        "preset": "clear",
+        "mode": "SEQUENTIAL",
+        "slots": [17],
+        "spin_count": 1,
+        "spin_interval": 1,
+        "start_delay": 30,
+        "change_interval": 0,
+        "change_amount": 0
+      },
+      "rain_sound": {
+        "preset": "clear",
+        "mode": "SEQUENTIAL",
+        "slots": [-1],
+        "spin_count": 1,
+        "spin_interval": 5,
+        "start_delay": 30,
+        "change_interval": 0,
+        "change_amount": 0,
+        "sound": {
+          "sound": "minecraft:weather.rain.above",
+          "pitch": 0.5,
+          "volume": 0.5
+        }
+      },
+      "thunder_1": {
+        "preset": "thunder",
+        "mode": "SEQUENTIAL",
+        "slots": [19, 29, 38, 48],
+        "spin_count": 4,
+        "spin_interval": 4,
+        "start_delay": 52,
+        "change_interval": 0,
+        "change_amount": 0
+      },
+      "thunder_1_sound": {
+        "preset": "clear",
+        "mode": "INDEPENDENT",
+        "slots": [-1],
+        "spin_count": 1,
+        "spin_interval": 1,
+        "start_delay": 66,
+        "change_interval": 0,
+        "change_amount": 0,
+        "sound": {
+          "sound": "minecraft:entity.lightning_bolt.impact",
+          "pitch": 0.5,
+          "volume": 0.5
+        }
+      },
+      "thunder_1_clear": {
+        "preset": "clear",
+        "mode": "INDEPENDENT",
+        "slots": [19, 29, 38, 48],
+        "spin_count": 1,
+        "spin_interval": 1,
+        "start_delay": 71,
+        "change_interval": 0,
+        "change_amount": 0
+      },
+      "thunder_2": {
+        "preset": "thunder",
+        "mode": "SEQUENTIAL",
+        "slots": [24, 33, 41, 50],
+        "spin_count": 4,
+        "spin_interval": 4,
+        "start_delay": 68,
+        "change_interval": 0,
+        "change_amount": 0
+      },
+      "thunder_2_sound": {
+        "preset": "clear",
+        "mode": "INDEPENDENT",
+        "slots": [-1],
+        "spin_count": 1,
+        "spin_interval": 1,
+        "start_delay": 82,
+        "change_interval": 0,
+        "change_amount": 0,
+        "sound": {
+          "sound": "minecraft:entity.lightning_bolt.impact",
+          "pitch": 0.5,
+          "volume": 0.5
+        }
+      },
+      "thunder_2_clear": {
+        "preset": "clear",
+        "mode": "INDEPENDENT",
+        "slots": [24, 33, 41, 50],
+        "spin_count": 1,
+        "spin_interval": 1,
+        "start_delay": 87,
+        "change_interval": 0,
+        "change_amount": 0
+      }
+    },
+    "static": {}
+  },
+  "presets": {
+    "rewards": {
+      "default": {
+
+      }
+    },
+    "animations": {
+      "cloud": [
+        {
+          "weight": 1,
+          "item": "minecraft:white_stained_glass_pane",
+          "nbt": {
+            "minecraft:hide_tooltip": {}
+          }
+        }
+      ],
+      "clear": [
+        {
+          "weight": 1,
+          "item": "minecraft:air",
+          "nbt": {
+            "minecraft:hide_tooltip": {}
+          }
+        }
+      ],
+      "thunder": [
+        {
+          "weight": 1,
+          "item": "minecraft:yellow_stained_glass_pane",
+          "nbt": {
+            "minecraft:hide_tooltip": {}
+          }
+        }
+      ]
+    }
+  }
+}

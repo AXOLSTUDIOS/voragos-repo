@@ -1,0 +1,253 @@
+{
+  "title": "Opening %crate_name%",
+  "type": "GENERIC_9X5",
+  "close_delay": 40,
+  "win_slots": [22],
+  "items": {
+    "rewards": {
+      "dummy_1": {
+        "preset": "default",
+        "mode": "INDEPENDENT",
+        "slots": [0, 9, 18, 27, 36, 8, 17, 26, 35, 44],
+        "spin_count": 6,
+        "spin_interval": 2,
+        "start_delay": 0,
+        "change_interval": 0,
+        "change_amount": 0
+      },
+      "dummy_2": {
+        "preset": "default",
+        "mode": "INDEPENDENT",
+        "slots": [1, 10, 19, 28, 37, 7, 16, 25, 34, 43],
+        "spin_count": 9,
+        "spin_interval": 2,
+        "start_delay": 0,
+        "change_interval": 0,
+        "change_amount": 0
+      },
+      "dummy_3": {
+        "preset": "default",
+        "mode": "INDEPENDENT",
+        "slots": [2, 11, 20, 29, 38, 6, 15, 24, 33, 42],
+        "spin_count": 12,
+        "spin_interval": 2,
+        "start_delay": 0,
+        "change_interval": 0,
+        "change_amount": 0
+      },
+      "dummy_4": {
+        "preset": "default",
+        "mode": "INDEPENDENT",
+        "slots": [3, 5, 39, 41],
+        "spin_count": 15,
+        "spin_interval": 2,
+        "start_delay": 0,
+        "change_interval": 0,
+        "change_amount": 0
+      },
+      "dummy_5": {
+        "preset": "default",
+        "mode": "INDEPENDENT",
+        "slots": [4, 40],
+        "spin_count": 18,
+        "spin_interval": 2,
+        "start_delay": 0,
+        "change_interval": 0,
+        "change_amount": 0
+      },
+      "dummy_6": {
+        "preset": "default",
+        "mode": "INDEPENDENT",
+        "slots": [12, 21, 30, 14, 23, 32],
+        "spin_count": 21,
+        "spin_interval": 2,
+        "start_delay": 0,
+        "change_interval": 0,
+        "change_amount": 0
+      },
+      "dummy_7": {
+        "preset": "default",
+        "mode": "INDEPENDENT",
+        "slots": [13, 31],
+        "spin_count": 24,
+        "spin_interval": 2,
+        "start_delay": 0,
+        "change_interval": 0,
+        "change_amount": 0
+      },
+      "real": {
+        "preset": "default",
+        "mode": "SEQUENTIAL",
+        "slots": [22],
+        "spin_count": 25,
+        "spin_interval": 2,
+        "start_delay": 0,
+        "change_interval": 0,
+        "change_amount": 0,
+        "sound": {
+          "sound": "minecraft:block.note_block.xylophone",
+          "pitch": 0.5,
+          "volume": 0.5
+        }
+      }
+    },
+    "animated": {
+      "black_1": {
+        "preset": "fill_black",
+        "mode": "SYNCED",
+        "slots": [
+          0, 9, 18, 27, 36, 8, 17, 26, 35, 44
+        ],
+        "spin_count": 1,
+        "spin_interval": 1,
+        "start_delay": 13,
+        "change_interval": 0,
+        "change_amount": 0,
+        "sound": {
+          "sound": "minecraft:block.piston.extend",
+          "pitch": 0.5,
+          "volume": 0.5
+        }
+      },
+      "black_2": {
+        "preset": "fill_black",
+        "mode": "SYNCED",
+        "slots": [
+          1, 10, 19, 28, 37, 7, 16, 25, 34, 43
+        ],
+        "spin_count": 1,
+        "spin_interval": 1,
+        "start_delay": 19,
+        "change_interval": 0,
+        "change_amount": 0,
+        "sound": {
+          "sound": "minecraft:block.piston.extend",
+          "pitch": 0.5,
+          "volume": 0.5
+        }
+      },
+      "gray_1": {
+        "preset": "fill_gray",
+        "mode": "SYNCED",
+        "slots": [
+          2, 11, 20, 29, 38, 6, 15, 24, 33, 42
+        ],
+        "spin_count": 1,
+        "spin_interval": 1,
+        "start_delay": 25,
+        "change_interval": 0,
+        "change_amount": 0,
+        "sound": {
+          "sound": "minecraft:block.piston.extend",
+          "pitch": 0.5,
+          "volume": 0.5
+        }
+      },
+      "gray_2": {
+        "preset": "fill_gray",
+        "mode": "SYNCED",
+        "slots": [
+          3, 5, 39, 41
+        ],
+        "spin_count": 1,
+        "spin_interval": 1,
+        "start_delay": 31,
+        "change_interval": 0,
+        "change_amount": 0,
+        "sound": {
+          "sound": "minecraft:block.piston.extend",
+          "pitch": 0.5,
+          "volume": 0.5
+        }
+      },
+      "gray_3": {
+        "preset": "fill_gray",
+        "mode": "SYNCED",
+        "slots": [
+          4, 40
+        ],
+        "spin_count": 1,
+        "spin_interval": 1,
+        "start_delay": 37,
+        "change_interval": 0,
+        "change_amount": 0,
+        "sound": {
+          "sound": "minecraft:block.piston.extend",
+          "pitch": 0.5,
+          "volume": 0.5
+        }
+      },
+      "white_1": {
+        "preset": "fill_white",
+        "mode": "SYNCED",
+        "slots": [
+          12, 21, 30, 14, 23, 32
+        ],
+        "spin_count": 1,
+        "spin_interval": 1,
+        "start_delay": 43,
+        "change_interval": 0,
+        "change_amount": 0,
+        "sound": {
+          "sound": "minecraft:block.piston.extend",
+          "pitch": 0.5,
+          "volume": 0.5
+        }
+      },
+      "white_2": {
+        "preset": "fill_white",
+        "mode": "SYNCED",
+        "slots": [
+          13, 31
+        ],
+        "spin_count": 1,
+        "spin_interval": 1,
+        "start_delay": 49,
+        "change_interval": 0,
+        "change_amount": 0,
+        "sound": {
+          "sound": "minecraft:block.piston.extend",
+          "pitch": 0.5,
+          "volume": 0.5
+        }
+      }
+    },
+    "static": {}
+  },
+  "presets": {
+    "rewards": {
+      "default": {
+
+      }
+    },
+    "animations": {
+      "fill_white": [
+        {
+          "weight": 1,
+          "item": "minecraft:white_stained_glass_pane",
+          "nbt": {
+            "minecraft:hide_tooltip": {}
+          }
+        }
+      ],
+      "fill_gray": [
+        {
+          "weight": 1,
+          "item": "minecraft:gray_stained_glass_pane",
+          "nbt": {
+            "minecraft:hide_tooltip": {}
+          }
+        }
+      ],
+      "fill_black": [
+        {
+          "weight": 1,
+          "item": "minecraft:black_stained_glass_pane",
+          "nbt": {
+            "minecraft:hide_tooltip": {}
+          }
+        }
+      ]
+    }
+  }
+}

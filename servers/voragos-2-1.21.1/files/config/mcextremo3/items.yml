@@ -1,0 +1,7 @@
+# McExtremo3 blocked items
+blocked-items:
+  - minecraft:cobweb
+  - minecraft:mace
+  - minecraft:end_crystal
+  - minecraft:tnt_minecart
+  - minecraft:totem_of_undying

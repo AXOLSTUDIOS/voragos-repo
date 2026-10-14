@@ -1,0 +1,5 @@
+#What you see of your own flashlight in third person (F5 or a third-person camera mod).
+#SHADER (default): the same light effect as in first person, cast from the camera. NONE: nothing.
+#Other players see a beam cone from your flashlight either way; you never see your own cone.
+#Allowed Values: NONE, SHADER
+third_person_beam = "SHADER"

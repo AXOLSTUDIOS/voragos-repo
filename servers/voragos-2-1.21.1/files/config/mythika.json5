@@ -1,0 +1,17 @@
+{
+	"cyclopsHealth": 120.0,
+	"cyclopsAttackDamage": 16.0,
+	"cyclopsBreaksBlocks": true,
+	"cyclopsSlamRadius": 3.0,
+	"cyclopsSpawnWeight": 8,
+	"minotaurHealth": 80.0,
+	"minotaurAttackDamage": 11.0,
+	"minotaurChargeDamage": 14.0,
+	"minotaurChargeBreaksBlocks": true,
+	"minotaurSpawnWeight": 6,
+	"satyrHealth": 24.0,
+	"satyrAttackDamage": 5.0,
+	"satyrSpawnWeight": 12,
+	"satyrPlaysMusic": true,
+	"satyrLightsCampfires": true
+}

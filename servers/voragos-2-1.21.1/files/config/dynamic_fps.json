@@ -1,0 +1,8 @@
+{
+  "states": {
+    "unfocused": {
+      "frame_rate_target": 30,
+      "enable_vsync": true
+    }
+  }
+}

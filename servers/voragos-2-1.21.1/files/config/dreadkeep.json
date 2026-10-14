@@ -1,0 +1,60 @@
+{
+  "voice": {
+    "floorDb": -55.0,
+    "ceilDb": -6.0,
+    "gargoyleHearingDb": -24.0,
+    "holdMillis": 250,
+    "ignoredActivations": [
+      "whisper"
+    ]
+  },
+  "gargoyle": {
+    "gazeMaxDistance": 64.0,
+    "defaultFovDeg": 70.0,
+    "defaultAspect": 1.7777778,
+    "gazeMarginDeg": 4.0,
+    "creativeObserversFreeze": false,
+    "hearingRadius": 28.0,
+    "strideTicks": 6,
+    "pauseTicks": 10,
+    "enragedPauseTicks": 3,
+    "speed": 0.3,
+    "enragedSpeedMultiplier": 1.6,
+    "enragedDurationTicks": 200,
+    "warnCooldownTicks": 160,
+    "grabReach": 1.7,
+    "stunTicks": 100,
+    "screamerDelayTicks": 24
+  },
+  "plant": {
+    "soloSequenceLength": 8,
+    "coopSequenceLength": 10,
+    "rescuerMaxDistance": 4.5
+  },
+  "qte": {
+    "stepTimeoutTicks": 50,
+    "coopSyncWindowTicks": 6,
+    "coopMaxLatencyBonusTicks": 6,
+    "mashGainPerPress": 0.07,
+    "mashDecayPerTick": 0.011,
+    "mashTimeoutTicks": 140,
+    "mashMaxPressesPerSecond": 16,
+    "missResetsSequence": true
+  },
+  "mechanisms": {
+    "maxContraptionBlocks": 512,
+    "maxPortcullisBlocks": 2048,
+    "maxGlueSize": 24
+  },
+  "mimic": {
+    "maxClipsPerPlayer": 4,
+    "clipTtlSeconds": 600,
+    "minClipMillis": 700,
+    "maxClipMillis": 4000,
+    "phraseGapMillis": 450,
+    "speechDb": -45.0,
+    "playbackDistance": 24,
+    "lureRange": 28.0,
+    "preferOtherVoices": true
+  }
+}

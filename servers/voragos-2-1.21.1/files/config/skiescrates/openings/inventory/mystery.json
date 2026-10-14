@@ -1,0 +1,165 @@
+{
+  "title": "Opening %crate_name%",
+  "type": "GENERIC_9X3",
+  "close_delay": 40,
+  "win_slots": [13],
+  "items": {
+    "rewards": {
+      "main": {
+        "preset": "default",
+        "mode": "SEQUENTIAL",
+        "slots": [13],
+        "spin_count": 51,
+        "spin_interval": 1,
+        "start_delay": 0,
+        "change_interval": 5,
+        "change_amount": 1,
+        "sound": {
+          "sound": "minecraft:block.note_block.xylophone",
+          "pitch": 0.5,
+          "volume": 0.5
+        }
+      }
+    },
+    "animated": {
+      "background": {
+        "preset": "default",
+        "mode": "INDEPENDENT",
+        "slots": [
+          0, 1, 2, 3, 4, 5, 6, 7, 8,
+          9, 10, 11, 12, 14, 15, 16, 17,
+          18, 19, 20, 21, 22, 23, 24, 25, 26
+        ],
+        "spin_count": 51,
+        "spin_interval": 1,
+        "start_delay": 0,
+        "change_interval": 5,
+        "change_amount": 1
+      }
+    },
+    "static": {}
+  },
+  "presets": {
+    "rewards": {
+      "default": {
+
+      }
+    },
+    "animations": {
+      "default": [
+        {
+          "weight": 1,
+          "item": "minecraft:white_stained_glass_pane",
+          "nbt": {
+            "minecraft:hide_tooltip": {}
+          }
+        },
+        {
+          "weight": 1,
+          "item": "minecraft:light_gray_stained_glass_pane",
+          "nbt": {
+            "minecraft:hide_tooltip": {}
+          }
+        },
+        {
+          "weight": 1,
+          "item": "minecraft:gray_stained_glass_pane",
+          "nbt": {
+            "minecraft:hide_tooltip": {}
+          }
+        },
+        {
+          "weight": 1,
+          "item": "minecraft:black_stained_glass_pane",
+          "nbt": {
+            "minecraft:hide_tooltip": {}
+          }
+        },
+        {
+          "weight": 1,
+          "item": "minecraft:brown_stained_glass_pane",
+          "nbt": {
+            "minecraft:hide_tooltip": {}
+          }
+        },
+        {
+          "weight": 1,
+          "item": "minecraft:red_stained_glass_pane",
+          "nbt": {
+            "minecraft:hide_tooltip": {}
+          }
+        },
+        {
+          "weight": 1,
+          "item": "minecraft:orange_stained_glass_pane",
+          "nbt": {
+            "minecraft:hide_tooltip": {}
+          }
+        },
+        {
+          "weight": 1,
+          "item": "minecraft:yellow_stained_glass_pane",
+          "nbt": {
+            "minecraft:hide_tooltip": {}
+          }
+        },
+        {
+          "weight": 1,
+          "item": "minecraft:lime_stained_glass_pane",
+          "nbt": {
+            "minecraft:hide_tooltip": {}
+          }
+        },
+        {
+          "weight": 1,
+          "item": "minecraft:green_stained_glass_pane",
+          "nbt": {
+            "minecraft:hide_tooltip": {}
+          }
+        },
+        {
+          "weight": 1,
+          "item": "minecraft:cyan_stained_glass_pane",
+          "nbt": {
+            "minecraft:hide_tooltip": {}
+          }
+        },
+        {
+          "weight": 1,
+          "item": "minecraft:light_blue_stained_glass_pane",
+          "nbt": {
+            "minecraft:hide_tooltip": {}
+          }
+        },
+        {
+          "weight": 1,
+          "item": "minecraft:blue_stained_glass_pane",
+          "nbt": {
+            "minecraft:hide_tooltip": {}
+          }
+        },
+        {
+          "weight": 1,
+          "item": "minecraft:purple_stained_glass_pane",
+          "nbt": {
+            "minecraft:hide_tooltip": {}
+          }
+        },
+        {
+          "weight": 1,
+          "item": "minecraft:magenta_stained_glass_pane",
+          "nbt": {
+            "minecraft:hide_tooltip": {}
+          }
+        },
+        {
+          "weight": 1,
+          "item": "minecraft:pink_stained_glass_pane",
+          "nbt": {
+            "minecraft:hide_tooltip": {}
+          }
+        }
+      ]
+    }
+  }
+}

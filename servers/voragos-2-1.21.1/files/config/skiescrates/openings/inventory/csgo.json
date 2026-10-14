@@ -1,0 +1,111 @@
+{
+  "title": "Opening %crate_name%",
+  "type": "GENERIC_9X3",
+  "close_delay": 40,
+  "win_slots": [13],
+  "items": {
+    "rewards": {
+      "main": {
+        "preset": "default",
+        "mode": "SEQUENTIAL",
+        "slots": [17, 16, 15, 14, 13, 12, 11, 10, 9],
+        "spin_count": 51,
+        "spin_interval": 1,
+        "start_delay": 0,
+        "change_interval": 5,
+        "change_amount": 1,
+        "sound": {
+          "sound": "minecraft:block.note_block.xylophone",
+          "pitch": 0.5,
+          "volume": 0.5
+        }
+      }
+    },
+    "animated": {
+      "background": {
+        "preset": "default",
+        "mode": "INDEPENDENT",
+        "slots": [
+          0, 1, 2, 3, 5, 6, 7, 8,
+          18, 19, 20, 21, 23, 24, 25, 26
+        ],
+        "spin_count": 71,
+        "spin_interval": 1,
+        "start_delay": 0,
+        "change_interval": 10,
+        "change_amount": 1
+      }
+    },
+    "static": {
+      "arrow_down": {
+        "item": "minecraft:player_head",
+        "name": "<green>Your Prize!",
+        "amount": 1,
+        "slots": [4],
+        "nbt": {
+          "minecraft:profile": {
+            "id": [
+              1536920107,
+              347163045,
+              -1261494509,
+              -2018433375
+            ],
+            "properties": [
+              {
+                "name": "textures",
+                "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTllOTM4MTgxZDhjOTZiNGY1OGY2MzMyZDNkZDIzM2VjNWZiODUxYjVhODQwNDM4ZWFjZGJiNjE5YTNmNWYifX19"
+              }
+            ]
+          }
+        }
+      },
+      "arrow_up": {
+        "item": "minecraft:player_head",
+        "name": "<green>Your Prize!",
+        "amount": 1,
+        "slots": [22],
+        "nbt": {
+          "minecraft:profile": {
+            "id": [
+              1043905791,
+              -832811058,
+              -1873213302,
+              -1633785084
+            ],
+            "properties": [
+              {
+                "name": "textures",
+                "value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGZlYjM5ZDcxZWY4ZTZhNDI2NDY1OTMzOTNhNTc1M2NlMjZhMWJlZTI3YTBjYThhMzJjYjYzN2IxZmZhZSJ9fX0="
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "presets": {
+    "rewards": {
+      "default": {
+
+      }
+    },
+    "animations": {
+      "default": [
+        {
+          "weight": 1,
+          "item": "minecraft:purple_stained_glass_pane",
+          "nbt": {
+            "minecraft:hide_tooltip": {}
+          }
+        },
+        {
+          "weight": 1,
+          "item": "minecraft:blue_stained_glass_pane",
+          "nbt": {
+            "minecraft:hide_tooltip": {}
+          }
+        }
+      ]
+    }
+  }
+}

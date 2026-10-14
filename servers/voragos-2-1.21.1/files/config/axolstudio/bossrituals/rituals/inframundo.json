@@ -1,0 +1,11 @@
+{
+  "_author": "Axolstudio",
+  "_info": "Ritual 3. Como el elemental pero con Pilares del Inframundo. real_fire=true coloca fuego de verdad unos segundos.",
+  "type": "nether_pillars",
+  "boss": "ejemplo_wither",
+  "items": ["minecraft:blaze_powder", "minecraft:magma_cream", "minecraft:ghast_tear", "minecraft:nether_star"],
+  "radius": 10,
+  "real_fire": false,
+  "summon_delay": 60,
+  "hint": "&7Alimenta los cuatro pilares con la esencia del inframundo."
+}

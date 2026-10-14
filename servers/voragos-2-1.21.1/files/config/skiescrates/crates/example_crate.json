@@ -1,0 +1,100 @@
+{
+  "enabled": true,
+  "name": "Example Crate",
+  "display": {
+    "item": "minecraft:chest",
+    "name": "<red>Example Crate",
+    "lore": [
+      "<gray>Example Lore!"
+    ]
+  },
+  "unique": false,
+  "preview": "default",
+  "animation": "enclosing",
+  "permission": "",
+  "inventory_space": -1,
+  "cost": {
+    "provider": "IMPACTOR",
+    "currency": "impactor:dollars",
+    "amount": 100
+  },
+  "cooldown": 10,
+  "keys": {
+    "example_key": 1
+  },
+  "failure": {
+    "pushback": 0.5,
+    "sound": {
+      "sound": "minecraft:block.lava.extinguish",
+      "pitch": 1.0,
+      "volume": 0.5
+    }
+  },
+  "block": {
+    "locations": [],
+    "hologram": {
+      "text": [
+        "<red>Example Crate",
+        "<gray>Example Lore!",
+        "Your Keys: %skiescrates:keys example_key%"
+      ],
+      "offset": {
+        "x": 0.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "billboard": "VERTICAL",
+      "background": {
+        "color": "000000",
+        "opacity": 50
+      },
+      "shadow": true,
+      "opacity": 1.0,
+      "update_rate": 100,
+      "view_distance": 50.0
+    },
+    "particles": "spiral"
+  },
+  "rewards": {
+    "example_reward": {
+      "type": "ITEM",
+      "weight": 2,
+      "name": "<red>Example Reward</red>",
+      "item": {
+        "item": "minecraft:diamond",
+        "name": "<red>Example Reward",
+        "lore": [
+          "<gray>Example Lore!"
+        ],
+        "nbt": {
+          "minecraft:custom_model_data": 1
+        }
+      }
+    },
+    "example_reward_2": {
+      "type": "COMMAND_CONSOLE",
+      "weight": 1,
+      "name": "<green><b>Emerald</b></green>",
+      "display": {
+        "item": "minecraft:emerald",
+        "name": "<green><b>Emerald",
+        "lore": [
+        "<gray>Example Lore!"
+        ]
+      },
+      "commands": [
+        "give %player% emerald 1"
+      ]
+    }
+  }
+}

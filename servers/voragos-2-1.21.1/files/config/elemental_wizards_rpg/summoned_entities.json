@@ -1,0 +1,23 @@
+{
+  "entries": {
+    "elemental_wizards_rpg:earth_golem": {
+      "common": {
+        "max_health": 40.0,
+        "movement_speed": 0.3,
+        "attack_damage": 8.0,
+        "follow_range": 16.0
+      },
+      "custom": [
+        {
+          "id": "spell_power:earth",
+          "value": 1.0
+        },
+        {
+          "id": "minecraft:generic.knockback_resistance",
+          "value": 0.8
+        }
+      ]
+    }
+  },
+  "schema_version": 0
+}

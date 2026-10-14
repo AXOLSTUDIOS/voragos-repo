@@ -1,0 +1,16 @@
+# Veinminer++ - blocks voided (deleted, no drops) when "Void basic materials" is on.
+# One block id per line; lines starting with # are comments. Takes effect on restart.
+
+minecraft:stone
+minecraft:cobblestone
+minecraft:deepslate
+minecraft:cobbled_deepslate
+minecraft:granite
+minecraft:diorite
+minecraft:andesite
+minecraft:tuff
+minecraft:dirt
+minecraft:grass_block
+minecraft:gravel
+minecraft:sand
+minecraft:netherrack

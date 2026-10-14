@@ -1,0 +1,9 @@
+{
+  "_author": "Axolstudio",
+  "_info": "Portales de colores (rojo, azul, verde, amarillo, morado). width/height = tamaño al colocarlos (bloques). op_only = solo OP los colocan. cooldown = ticks tras cruzar. textures = PNG de portal_images/ para cada color (o llama al archivo portal_rojo.png...).",
+  "width": 2.0,
+  "height": 3.0,
+  "op_only": true,
+  "cooldown": 60,
+  "textures": {}
+}

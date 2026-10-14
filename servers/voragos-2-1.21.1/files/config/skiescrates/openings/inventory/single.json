@@ -1,0 +1,33 @@
+{
+  "title": "Opening %crate_name%",
+  "type": "GENERIC_9X1",
+  "close_delay": 40,
+  "win_slots": [4],
+  "items": {
+    "rewards": {
+      "main": {
+        "preset": "default",
+        "mode": "INDEPENDENT",
+        "slots": [4],
+        "spin_count": 1,
+        "spin_interval": 1,
+        "start_delay": 0,
+        "change_interval": 0,
+        "change_amount": 0,
+        "sound": {
+          "sound": "minecraft:block.note_block.xylophone",
+          "pitch": 0.5,
+          "volume": 0.5
+        }
+      }
+    },
+    "animated": {},
+    "static": {}
+  },
+  "presets": {
+    "rewards": {
+      "default": {}
+    },
+    "animations": {}
+  }
+}

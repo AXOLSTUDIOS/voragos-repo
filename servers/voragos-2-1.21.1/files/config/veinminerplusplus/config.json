@@ -1,0 +1,15 @@
+{
+  "veinMax": 32,
+  "spreadMax": 256,
+  "treeMax": 256,
+  "smartTrees": true,
+  "clearLeaves": true,
+  "blocksPerTick": 16,
+  "requireTool": false,
+  "sneakActivates": true,
+  "enableSpread": false,
+  "enableExtraShapes": false,
+  "durabilityPercent": 40,
+  "alwaysShowGuide": false,
+  "voidBasicMaterials": false
+}

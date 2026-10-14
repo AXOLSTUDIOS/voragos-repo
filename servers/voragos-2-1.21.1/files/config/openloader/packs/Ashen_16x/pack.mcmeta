@@ -1,0 +1,43 @@
+{
+	"pack": {
+		"pack_format": 89,
+		"min_format": [22,0],
+		"max_format": [89,0],
+		"supported_formats": [22,89],
+		"description": "A 16px, medieval-fantasy take on Minecraft. v1.16.1"
+	},
+	"overlays": {
+		"entries": [
+			{
+				"directory": "overlay_22-43",
+				"formats": [22, 43],
+				"min_format": [22,0],
+				"max_format": [43,0]
+			},
+			{
+				"directory": "overlay_22-46",
+				"formats": [22, 46],
+				"min_format": [22,0],
+				"max_format": [46,0]
+			},
+			{
+				"directory": "overlay_22-54",
+				"formats": [22, 54],
+				"min_format": [22,0],
+				"max_format": [54,0]
+			},
+			{
+				"directory": "overlay_22-83",
+				"formats": [22, 83],
+				"min_format": [22,0],
+				"max_format": [83,0]
+			},
+			{
+				"directory": "overlay_84",
+				"formats": [84, 1000],
+				"min_format": [84,0],
+				"max_format": [1000,0]
+			}
+		]
+	}
+}

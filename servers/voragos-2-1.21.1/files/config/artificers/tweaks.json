@@ -1,0 +1,6 @@
+{
+  "ignore_items_required_mods": false,
+  "arcane_charge_damage_per_stack": 0.15,
+  "salvage_chance": 0.5,
+  "crossbow_autoload": false
+}

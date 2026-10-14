@@ -1,0 +1,16 @@
+{
+  "_author": "Axolstudio",
+  "_info": "Ritual 4. 6 Estacas de Sangre cerca del núcleo. 'required' jugadores DISTINTOS deben morir dentro de trigger_radius; sus cabezas se clavan en las estacas. Para probar solo, pon required: 1.",
+  "type": "blood",
+  "boss": "ejemplo_wither",
+  "required": 6,
+  "radius": 10,
+  "trigger_radius": 12,
+  "riddle": [
+    "&4Seis estacas sedientas esperan su ofrenda.",
+    "&cNo basta la sangre de bestias ni de siervos;",
+    "&csolo la cabeza de quien entrega su propio aliento",
+    "&4abrirá la puerta del Señor Carmesí."
+  ],
+  "hint": "&8Las estacas solo aceptan cabezas de sacrificio."
+}

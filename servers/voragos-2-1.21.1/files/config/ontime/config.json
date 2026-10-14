@@ -1,0 +1,22 @@
+{
+  "timerX": -1,
+  "timerY": 4,
+  "timerScale": 1.0,
+  "hideOnCooldown": true,
+  "positionPreset": "BOSSBAR",
+  "maxTimerSeconds": 86400,
+  "colorHigh": "#FFFFFF",
+  "colorMid": "#FFFF00",
+  "colorLow": "#FF0000",
+  "thresholdMid": 30,
+  "thresholdLow": 10,
+  "timerSoundId": "minecraft:block.note_block.hat",
+  "timerSoundVolume": 1.0,
+  "timerSoundPitch": 2.0,
+  "webSocketEnabled": false,
+  "webSocketPort": 25581,
+  "webPanelPort": 25580,
+  "webPanelBindAddress": "0.0.0.0",
+  "webSocketBindAddress": "0.0.0.0",
+  "confirmRunThreshold": 8
+}

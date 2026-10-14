@@ -1,0 +1,18 @@
+{
+  "_author": "Axolstudio",
+  "_info": "Solo actúa mientras suena TU música de un jefe. blocked_sounds admite * ("soulsweapons:*" = todo el audio de Soulslike Weaponry, incluidos golpes). Con log_boss_sounds=true, el latest.log del CLIENTE apunta cada sonido del mod del jefe para que sepas su nombre.",
+  "block_mod_music": true,
+  "blocked_sounds": [
+    "soulsweapons:fallen_icon_song",
+    "soulsweapons:fallen_icon_mono",
+    "soulsweapons:draugr_boss_song",
+    "soulsweapons:draugr_boss_song_mono",
+    "soulsweapons:frenzied_shade_song",
+    "soulsweapons:frenzied_shade_song_mono",
+    "soulsweapons:big_chungus_song",
+    "soulsweapons:*music*",
+    "soulsweapons:*theme*"
+  ],
+  "allowed_sounds": [],
+  "log_boss_sounds": true
+}

@@ -1,0 +1,57 @@
+{
+  "title": "Previewing %crate_name%",
+  "type": "GENERIC_9X3",
+  "rewards": {
+    "slots": [
+      0, 1, 2, 3, 4, 5, 6, 7, 8,
+      9, 10, 11, 12, 13, 14, 15, 16, 17,
+      18, 19, 20, 21, 22, 23, 24, 25, 26
+    ],
+    "name": "%reward_name%",
+    "lore": [
+      "<gray>Example Lore!",
+      "<gray>Weight: <white>%reward_weight%"
+    ]
+  },
+  "items": {
+    "page_next": {
+      "slots": [53],
+      "item": "minecraft:arrow",
+      "name": "<green>Next Page",
+      "lore": [
+        "<gray>Click to view next page"
+      ],
+      "actions": {
+        "close": {
+          "type": "NEXT_PAGE"
+        }
+      }
+    },
+    "page_previous": {
+      "slots": [45],
+      "item": "minecraft:arrow",
+      "name": "<green>Previous Page",
+      "lore": [
+        "<gray>Click to view previous page"
+      ],
+      "actions": {
+        "close": {
+          "type": "PREVIOUS_PAGE"
+        }
+      }
+    },
+    "close": {
+      "slots": [49],
+      "item": "minecraft:barrier",
+      "name": "<red>Close",
+      "lore": [
+        "<gray>Click to close menu"
+      ],
+      "actions": {
+        "close": {
+          "type": "CLOSE_GUI"
+        }
+      }
+    }
+  }
+}

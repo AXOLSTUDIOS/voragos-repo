@@ -1,0 +1,12 @@
+{
+  "_author": "Axolstudio",
+  "_info": "Barra del jefe de ejemplo con marco PNG superpuesto (hud_images/marco_ejemplo.png).",
+  "pos_x": 0.5,
+  "pos_y": 0.05,
+  "width": 640,
+  "height": 44,
+  "color": "#7A2BB8",
+  "name_color": "#D9B3FF",
+  "overlay": "marco_ejemplo.png",
+  "overlay_margin": 48
+}

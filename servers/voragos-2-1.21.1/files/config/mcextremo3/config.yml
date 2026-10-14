@@ -1,0 +1,43 @@
+# McExtremo3
+pvp:
+  # Tiempo que hay que esperar para volver a activar PVP despues de desactivarlo.
+  reactivation-cooldown-seconds: 60
+  # Duracion del GIF central cuando se activa PVP. 20 ticks = 1 segundo.
+  activation-gif-duration-ticks: 90
+death:
+  # Duracion del GIF de vida perdida cuando un jugador muere. 20 ticks = 1 segundo.
+  gif-duration-ticks: 98
+  # Mensaje global cuando un jugador pierde una vida.
+  # Placeholders: {player}, {cause}, {lives}, {max_lives}
+  # Soporta texto unicode directo y escapes como \uE000.
+  chat-message: "jugador {player} Murio por {cause} y le quedan {lives}/{max_lives}"
+  # Color del mensaje: nombre vanilla (red, gold, yellow...) o hexadecimal tipo 0xFFAA00.
+  chat-color: white
+slot-lost:
+  # Duracion del GIF de slot de vida perdido (nivel rojo). 20 ticks = 1 segundo.
+  gif-duration-ticks: 100
+elimination:
+  # Duracion del GIF cuando un jugador queda sin vidas. 20 ticks = 1 segundo.
+  gif-duration-ticks: 100
+  # Accion final al perder todas las vidas: kick, ban o none.
+  action: kick
+  # Segundos antes de expulsar al jugador eliminado.
+  kick-delay-seconds: 10
+  # Mensaje del kick final.
+  kick-message: Perdiste tus vidas
+armor-bonus:
+  # Sistema de corazones vanilla extra por armadura completa. Por defecto esta apagado.
+  enabled: false
+  # Corazones extra por set completo de hierro, diamante o netherite.
+  extra-hearts: 6
+danger:
+  # Cuantas kills contra otros jugadores se necesitan para subir 1 nivel de peligrosidad.
+  kills-per-level: 1
+  # Horas que dura el Nivel Rojo por cada eliminacion (se acumula). Solo aplica al rojo.
+  red-duration-hours: 24
+  # Cada cuantos segundos se actualiza el temporizador rojo.
+  tick-seconds: 30
+  # Radio para que los mobs prioricen jugadores peligrosos.
+  mob-target-radius-blocks: 32
+  # Cooldown de alertas de nivel rojo en chat.
+  alert-cooldown-seconds: 180

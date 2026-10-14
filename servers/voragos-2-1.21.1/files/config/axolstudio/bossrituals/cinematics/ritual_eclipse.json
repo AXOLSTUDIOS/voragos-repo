@@ -1,0 +1,22 @@
+{
+  "_author": "Axolstudio",
+  "_info": "Ritual 2 (eclipse). Travelling ascendente; el Sol y la Luna giran sobre los heraldos; pantalla dorada y azul. Splash partido desde el centro.",
+  "duration": 190,
+  "audience": "server",
+  "sound": "minecraft:block.beacon.power_select",
+  "splash": { "image": "ejemplo_wither.png", "start": 80, "fade_in": 15, "hold": 60, "fade_out": 20, "scale": 0.7, "effect": "split" },
+  "title": { "text": "&eEl Eclipse", "subtitle": "&9El día y la noche reclaman su trono", "at": 25, "duration": 70 },
+  "subtitles": [
+    { "at": 10, "duration": 50, "text": "&6El Sol se detiene en el horizonte..." },
+    { "at": 70, "duration": 50, "text": "&9...y la Luna despierta en el opuesto" }
+  ],
+  "camera": { "mode": "dolly", "offset": [0, 2, -14], "offset_end": [0, 12, -9], "look_at": "spawn", "look_height": 3.0, "blend_in": 30, "blend_out": 30, "fov": 60 },
+  "vfx": [
+    { "at": 0, "duration": 180, "effect": "sun", "where": "spawn", "scale": 5, "spin": 20, "offset": [-4, 6, 0] },
+    { "at": 0, "duration": 180, "effect": "moon", "where": "spawn", "scale": 4.5, "spin": -10, "offset": [4, 6, 0] },
+    { "at": 20, "duration": 150, "effect": "light_rays", "where": "spawn", "scale": 10, "color": "#FFE7A0", "offset": [0, 3, 0] },
+    { "at": 0, "duration": 100, "effect": "tint", "where": "screen", "intensity": 0.18, "color": "#E8A020" },
+    { "at": 90, "duration": 100, "effect": "tint", "where": "screen", "intensity": 0.22, "color": "#3A5CD8" },
+    { "at": 0, "duration": 190, "effect": "letterbox", "where": "screen", "intensity": 0.12 }
+  ]
+}

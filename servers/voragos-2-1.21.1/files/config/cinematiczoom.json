@@ -1,0 +1,14 @@
+{
+  "zoomMultiplier": 4.0,
+  "smoothMs": 180,
+  "scrollSensitivity": 0.1,
+  "cinematicBars": true,
+  "hideHudDuringZoom": true,
+  "useAspectRatio": true,
+  "targetAspectRatio": 2.39,
+  "barHeight": 36.0,
+  "smoothCamera": true,
+  "minZoom": 1.1,
+  "maxZoom": 50.0,
+  "zoomSpeed": 2.0
+}

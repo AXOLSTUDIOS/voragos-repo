@@ -1,0 +1,14 @@
+{
+  "_author": "Axolstudio",
+  "_mod": "BossRituals",
+  "_info": "Textos: & para colores, %boss% y %player% como marcadores. notify_actionbar=false manda los avisos al chat.",
+  "notify_actionbar": true,
+  "gothic_font": true,
+  "hud_range": 96,
+  "announce_spawn": true,
+  "announce_death": true,
+  "spawn_message": "&6%boss% &eha sido invocado por &f%player%",
+  "spawn_message_no_player": "&6%boss% &eha despertado",
+  "death_message": "&f%player% &aderrotó a &6%boss%",
+  "death_message_no_player": "&6%boss% &aha sido derrotado"
+}

@@ -1,0 +1,60 @@
+{
+  "mode": "SEQUENTIAL",
+  "distance": 50.0,
+  "effects": [
+    {
+      "type": "PULSE",
+      "particle": {
+        "type": "minecraft:dust",
+        "color": [ 1.0, 0.0, 0.0 ],
+        "scale": 1
+      },
+      "speed": 2,
+      "start_delay": 0,
+      "end_delay": 0,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "start_radius": 0.5,
+      "end_radius": 3.0,
+      "start_points": 20,
+      "end_points": 50,
+      "rings": 10,
+      "outwards": true,
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    },
+    {
+      "type": "PULSE",
+      "particle": {
+        "type": "minecraft:dust",
+        "color": [ 1.0, 0.0, 0.0 ],
+        "scale": 1
+      },
+      "speed": 2,
+      "start_delay": 0,
+      "end_delay": 0,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "start_radius": 0.5,
+      "end_radius": 3.0,
+      "start_points": 20,
+      "end_points": 50,
+      "rings": 10,
+      "outwards": false,
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      }
+    }
+  ]
+}

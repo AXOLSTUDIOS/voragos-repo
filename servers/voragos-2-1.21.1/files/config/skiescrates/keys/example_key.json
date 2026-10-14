@@ -1,0 +1,16 @@
+{
+  "enabled": true,
+  "name": "Test Key",
+  "display": {
+    "item": "minecraft:tripwire_hook",
+    "name": "<red>Test Key",
+    "lore": [
+      "<gray>Example Lore!"
+    ],
+    "nbt": {
+      "minecraft:custom_model_data": 1
+    }
+  },
+  "virtual": true,
+  "unique": false
+}

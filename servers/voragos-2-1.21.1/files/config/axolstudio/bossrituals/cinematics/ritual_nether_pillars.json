@@ -1,0 +1,19 @@
+{
+  "_author": "Axolstudio",
+  "_info": "Ritual 3 (inframundo). Cámara rasante que recorre las estelas de fuego; columna de llamas y viñeta roja. Splash quemándose.",
+  "duration": 170,
+  "audience": "server",
+  "sound": "minecraft:entity.blaze.ambient",
+  "splash": { "image": "ejemplo_wither.png", "start": 75, "fade_in": 25, "hold": 50, "fade_out": 15, "scale": 0.72, "effect": "burn" },
+  "title": { "text": "&cLas Brasas del Abismo", "subtitle": "&6El inframundo exhala su furia", "at": 20, "duration": 65 },
+  "subtitles": [ { "at": 95, "duration": 60, "text": "&cEl fuego converge... y algo responde desde abajo" } ],
+  "camera": { "mode": "path", "keyframes": [ { "at": 0, "offset": [12, 1.2, 6] }, { "at": 60, "offset": [7, 1.5, -6] }, { "at": 120, "offset": [-4, 4, -10] }, { "at": 170, "offset": [-9, 7, -4] } ], "look_at": "spawn", "look_height": 2.5, "blend_in": 25, "blend_out": 25, "shake": 3.0 },
+  "vfx": [
+    { "at": 0, "duration": 160, "effect": "magic_circle", "where": "spawn", "ground": true, "scale": 9, "spin": 40, "color": "#FF7A2A", "offset": [0, 0.05, 0] },
+    { "at": 40, "duration": 120, "effect": "fire_pillar", "where": "spawn", "scale": 6, "offset": [0, 3, 0] },
+    { "at": 60, "duration": 40, "effect": "flame_burst", "where": "boss", "scale": 8, "offset": [0, 1.5, 0] },
+    { "at": 0, "duration": 170, "effect": "vignette", "where": "screen", "intensity": 0.55, "color": "#B8300E" },
+    { "at": 62, "duration": 10, "effect": "flash", "where": "screen", "intensity": 0.7, "color": "#FF9040" },
+    { "at": 0, "duration": 170, "effect": "letterbox", "where": "screen", "intensity": 0.12 }
+  ]
+}

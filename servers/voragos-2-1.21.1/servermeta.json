@@ -1,0 +1,24 @@
+{
+    "$schema":  "file:///F:/AxolDev/voragos-repo/schemas/ServerMetaSchema.schema.json",
+    "meta":  {
+                 "version":  "1.0.0",
+                 "name":  "Voragos 2",
+                 "description":  "Fantasía oscura medieval. Explora, sobrevive y conquista.",
+                 "icon":  "",
+                 "address":  "localhost:25565",
+                 "mainServer":  true,
+                 "autoconnect":  false,
+                 "javaOptions":  {
+                                     "ram":  {
+                                                 "recommended":  6144,
+                                                 "minimum":  4096
+                                             }
+                                 }
+             },
+    "fabric":  {
+                   "version":  "0.19.5"
+               },
+    "untrackedFiles":  [
+
+                       ]
+}

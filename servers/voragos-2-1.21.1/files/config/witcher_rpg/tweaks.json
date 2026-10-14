@@ -1,0 +1,7 @@
+{
+  "ignore_items_required_mods": false,
+  "adrenaline_max_amplifier": 20,
+  "adrenaline_max_seconds_duration": 180,
+  "battle_trance_damage_per_adrenaline_level": 0.05,
+  "battle_trance_attack_damage_bonus": 0.2
+}
