@@ -1741,9 +1741,9 @@
           "name": "Resurrección: El Gran Altar",
           "type": "FabricMod",
           "artifact": {
-            "size": 913178,
+            "size": 914440,
             "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--resurreccion-1.0.0.jar",
-            "MD5": "5f86a50292f18b7963181f42252de866"
+            "MD5": "529525a6aa73bf61841eddb45ba51d0d"
           }
         },
         {
