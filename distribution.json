@@ -911,9 +911,9 @@
           "name": "Fuente del Azar",
           "type": "FabricMod",
           "artifact": {
-            "size": 333223,
+            "size": 130124,
             "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--fuente-del-azar-1.0.0.jar",
-            "MD5": "d4b163c95e8170a5460282294504f9c6"
+            "MD5": "295a42d128554646682f5c69bf6756da"
           }
         },
         {
