@@ -221,16 +221,6 @@
           }
         },
         {
-          "id": "com.moulberry:axiom:6.0.5@jar",
-          "name": "Axiom",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 47202626,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--Axiom-6.0.5-for-MC1.21.1.jar",
-            "MD5": "9fcc8564431427c355f61278d479df0f"
-          }
-        },
-        {
           "id": "generated.fabricmod:axolsplash:1.0.0@jar",
           "name": "Axol Splash",
           "type": "FabricMod",
