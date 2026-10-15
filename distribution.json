@@ -2335,17 +2335,6 @@
           }
         },
         {
-          "id": "options.txt",
-          "name": "options.txt",
-          "type": "File",
-          "artifact": {
-            "size": 15974,
-            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/options.txt",
-            "MD5": "a8cf35443ee6b7d6383a45d76b0249a2",
-            "path": "options.txt"
-          }
-        },
-        {
           "id": "accessories.json5",
           "name": "accessories.json5",
           "type": "File",
@@ -139722,6 +139711,17 @@
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/journeymap/server/6.0/journeymap.server.minecraft~the_nether.config",
             "MD5": "e97379a8de95e24761831dcffdac6032",
             "path": "journeymap/server/6.0/journeymap.server.minecraft~the_nether.config"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 14856,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/options.txt",
+            "MD5": "3ddc749bfa2c6c632d0173a726442ae0",
+            "path": "options.txt"
           }
         }
       ]
