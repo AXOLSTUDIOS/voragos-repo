@@ -1,8 +1,0 @@
-{
-    "parent": "block/slab_top",
-    "textures": {
-        "bottom": "block/cinnabar4",
-        "top": "block/cinnabar4",
-        "side": "block/cinnabar4"
-    }
-}

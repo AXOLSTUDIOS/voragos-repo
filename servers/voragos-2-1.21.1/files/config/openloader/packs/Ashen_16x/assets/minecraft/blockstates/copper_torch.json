@@ -1,9 +1,0 @@
-{
-	"variants": {
-		"": [
-			{"model": "minecraft:block/copper_torch"},
-			{"model": "minecraft:block/copper_torch1"},
-			{"model": "minecraft:block/copper_torch2"}
-		]
-	}
-}

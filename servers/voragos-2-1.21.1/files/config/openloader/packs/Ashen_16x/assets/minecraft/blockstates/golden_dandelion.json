@@ -1,8 +1,0 @@
-{
-	"variants": {
-		"": [
-			{"model": "block/golden_dandelion"},
-			{"model": "block/golden_dandelion1"}
-		]
-	}
-}
