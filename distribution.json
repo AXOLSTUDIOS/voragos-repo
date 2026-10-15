@@ -1,11 +1,5 @@
 {
   "version": "1.0.0",
-  "rss": "<LINK TO RSS FEED>",
-  "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
-  },
   "servers": [
     {
       "id": "voragos-2-1.21.1",
@@ -911,9 +905,9 @@
           "name": "Fuente del Azar",
           "type": "FabricMod",
           "artifact": {
-            "size": 130124,
+            "size": 130544,
             "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--fuente-del-azar-1.0.0.jar",
-            "MD5": "295a42d128554646682f5c69bf6756da"
+            "MD5": "11ec3d2fbc81137ea8464f72e69c4c02"
           }
         },
         {

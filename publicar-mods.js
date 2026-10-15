@@ -171,7 +171,7 @@ function main() {
     for (const serv of dist.servers || []) {
         walkModules(serv.modules, m => {
             const a = m.artifact
-            if (!a || !a.url || !a.url.startsWith(BASE + 'servers/')) return
+            if (!a || !a.url || !a.url.toLowerCase().startsWith((BASE + 'servers/').toLowerCase())) return
             const rel = decodeURIComponent(a.url.slice(BASE.length))
             const local = path.join(ROOT, ...rel.split('/'))
             if (!fs.existsSync(local)) return
@@ -185,17 +185,29 @@ function main() {
         })
     }
 
+    if (wanted.size === 0) {
+        fail('No encontré ningún mod para subir en distribution.json.\n' +
+             'Revisa que los .jar estén en servers\\<modpack>\\fabricmods\\required y que BASE_URL del .env de Nebula sea correcto.')
+    }
+
     // 3. Release "mods"
     log(`\n[2/4] Subiendo mods al Release "${TAG}" de ${repo}...`)
-    let existing = []
+    let releaseId
     try {
-        existing = JSON.parse(gh(['release', 'view', TAG, '--repo', repo, '--json', 'assets'])).assets || []
+        releaseId = JSON.parse(gh(['api', `repos/${repo}/releases/tags/${TAG}`])).id
     } catch {
         gh(['release', 'create', TAG, '--repo', repo, '--title', 'Archivos de los modpacks',
             '--notes', 'Archivos que descarga AXOL Launcher. Los administra publicar.bat: no los edites a mano.', '--latest=false'])
-        existing = []
+        releaseId = JSON.parse(gh(['api', `repos/${repo}/releases/tags/${TAG}`])).id
     }
-    const remoteSize = new Map(existing.map(a => [a.name, a.size]))
+    // Lista COMPLETA de archivos del Release (paginada; "gh release view" no siempre los trae todos)
+    const listAssets = () => {
+        const out = gh(['api', '--paginate', `repos/${repo}/releases/${releaseId}/assets?per_page=100`, '--jq', '.[] | [.name, .size, .state] | @tsv'])
+        return out.split(/\r?\n/).filter(Boolean).map(l => { const [name, size, state] = l.split('\t'); return { name, size: Number(size), state } })
+    }
+    const existing = listAssets()
+    const remoteSize = new Map(existing.filter(a => a.state === 'uploaded').map(a => [a.name, a.size]))
+    log(`    En GitHub hay ${remoteSize.size} archivo(s); el modpack necesita ${wanted.size}.`)
 
     const cacheDir = path.join(path.dirname(ROOT), '.cache')
     fs.mkdirSync(cacheDir, { recursive: true })
@@ -234,13 +246,50 @@ function main() {
         }
     }
 
-    // Limpiar los que ya no se usan
-    const stale = existing.map(a => a.name).filter(n => !wanted.has(n))
+    // Verificar que TODO quedó en GitHub; reintentar lo que falte
+    for (let intento = 1; ; intento++) {
+        const now = new Map(listAssets().filter(a => a.state === 'uploaded').map(a => [a.name, a.size]))
+        const missing = [...wanted].filter(([n, f]) => now.get(n) !== f.size).map(([n]) => n)
+        if (missing.length === 0) { log(`    Verificado: los ${wanted.size} archivos están en GitHub.`); break }
+        if (intento > 3) fail(`Faltan ${missing.length} archivo(s) en GitHub después de 3 intentos, por ejemplo:\n  ` + missing.slice(0, 5).join('\n  ') + '\nRevisa tu conexión y vuelve a ejecutar publicar.bat.')
+        log(`    Faltan ${missing.length} archivo(s) en GitHub. Reintentando (${intento}/3)...`)
+        const stage = path.join(cacheDir, 'subida')
+        fs.rmSync(stage, { recursive: true, force: true })
+        fs.mkdirSync(stage, { recursive: true })
+        for (let i = 0; i < missing.length; i += 10) {
+            const chunk = missing.slice(i, i + 10)
+            const files = chunk.map(n => {
+                const dst = path.join(stage, n)
+                try { fs.linkSync(wanted.get(n).local, dst) } catch { fs.copyFileSync(wanted.get(n).local, dst) }
+                return dst
+            })
+            try {
+                gh(['release', 'upload', TAG, ...files, '--repo', repo, '--clobber'], { stdio: ['ignore', 'pipe', 'inherit'] })
+                for (const n of chunk) manifest[n] = wanted.get(n).md5
+            } catch (e) { log('    Error al subir: ' + e.message.split('\n')[0]) }
+            files.forEach(f => fs.rmSync(f, { force: true }))
+            log(`    ${Math.min(i + 10, missing.length)}/${missing.length}`)
+        }
+        fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2))
+    }
+
+    // Limpiar los que ya no se usan (con seguro: nunca borra más de la mitad de golpe)
+    let stale = existing.map(a => a.name).filter(n => !wanted.has(n))
+    if (stale.length > 20 && stale.length > existing.length / 2) {
+        log(`    AVISO: ${stale.length} archivos del Release ya no se usan. Por seguridad NO se borran automáticamente.`)
+        log('    Si de verdad quitaste tantos mods, bórralos a mano desde la página del Release.')
+        stale = []
+    }
     for (const n of stale) {
         try { gh(['release', 'delete-asset', TAG, n, '--repo', repo, '-y']); delete manifest[n] } catch { /* no importa */ }
     }
     if (stale.length) log(`    ${stale.length} archivo(s) viejos borrados del Release.`)
     fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2))
+
+    // Quitar valores de ejemplo que Nebula deja en distrometa ("<LINK TO RSS FEED>", etc.)
+    if (typeof dist.rss === 'string' && !/^https?:\/\//.test(dist.rss)) delete dist.rss
+    if (dist.discord && /FILL IN/.test(JSON.stringify(dist.discord))) delete dist.discord
+    for (const sv of dist.servers || []) if (sv.discord && /FILL IN/.test(JSON.stringify(sv.discord))) delete sv.discord
 
     // 4. distribution.json con las URLs nuevas
     fs.writeFileSync(distPath, JSON.stringify(dist, null, 2))
