@@ -6,7 +6,7 @@
       "name": "Voragos 2",
       "description": "Fantasía oscura medieval. Explora, sobrevive y conquista.",
       "icon": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/icono.png",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "address": "localhost:25565",
       "minecraftVersion": "1.21.1",
       "mainServer": true,
@@ -3477,6 +3477,7 @@
           "artifact": {
             "size": 6062,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/animatedframes/media/.server-cache/00690dcd5a4991eafef1eff56726e623f35730884457bc689ce4177cd07aea38.png",
+            "MD5": "c29ef12f6027e799302eff5928062282",
             "path": "config/animatedframes/media/.server-cache/00690dcd5a4991eafef1eff56726e623f35730884457bc689ce4177cd07aea38.png"
           }
         },
@@ -3487,6 +3488,7 @@
           "artifact": {
             "size": 417450,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/animatedframes/media/.server-cache/07001bdc9fb92f22f98ddc243495f9e58117e904613a659ca48adfdd075372c8.png",
+            "MD5": "2fdad386955cf13da6f4f2186cc5d910",
             "path": "config/animatedframes/media/.server-cache/07001bdc9fb92f22f98ddc243495f9e58117e904613a659ca48adfdd075372c8.png"
           }
         },
@@ -3497,6 +3499,7 @@
           "artifact": {
             "size": 716986,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/animatedframes/media/.server-cache/166c63760b0d6860afc11a0e7c11fd4c2fd232c87212ca8bfc59e6b06730580e.png",
+            "MD5": "11eff8672480af61fd43da2defde1e47",
             "path": "config/animatedframes/media/.server-cache/166c63760b0d6860afc11a0e7c11fd4c2fd232c87212ca8bfc59e6b06730580e.png"
           }
         },
@@ -3507,6 +3510,7 @@
           "artifact": {
             "size": 6611983,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/animatedframes/media/.server-cache/20650255ad2f7fd16df29c6ff25d7094280eb3d6a456d751b6cb5c780afcab24.png",
+            "MD5": "8ad1269692d5c6c1bc4e05280e895ac8",
             "path": "config/animatedframes/media/.server-cache/20650255ad2f7fd16df29c6ff25d7094280eb3d6a456d751b6cb5c780afcab24.png"
           }
         },
@@ -3517,6 +3521,7 @@
           "artifact": {
             "size": 1110984,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/animatedframes/media/.server-cache/354840e614e315b162d756050f2be143678595523d8ca11fffb312a25c02c181.png",
+            "MD5": "3d2395297d4e14cdbe89901cb8dda3ec",
             "path": "config/animatedframes/media/.server-cache/354840e614e315b162d756050f2be143678595523d8ca11fffb312a25c02c181.png"
           }
         },
@@ -3527,6 +3532,7 @@
           "artifact": {
             "size": 509906,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/animatedframes/media/.server-cache/3d7ffbddf21ecf568d59528bb09309d127adbd355579847a1bb7663ae5b98441.png",
+            "MD5": "9102945c28b5b044f43c368aa522f19c",
             "path": "config/animatedframes/media/.server-cache/3d7ffbddf21ecf568d59528bb09309d127adbd355579847a1bb7663ae5b98441.png"
           }
         },
@@ -3537,6 +3543,7 @@
           "artifact": {
             "size": 8150405,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/animatedframes/media/.server-cache/4f78af61f6b7b275a9fb1c35847dfb241af10a0116e8f4122eced76bce803160.png",
+            "MD5": "9fa1089a65d3f80e9d3c9bb7908cba78",
             "path": "config/animatedframes/media/.server-cache/4f78af61f6b7b275a9fb1c35847dfb241af10a0116e8f4122eced76bce803160.png"
           }
         },
@@ -3547,6 +3554,7 @@
           "artifact": {
             "size": 479431,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/animatedframes/media/.server-cache/5168e3413b678b4f4694b23192b758de9dc6727796aa97572c657de764905cd6.png",
+            "MD5": "5b97e23fb99934cf68c666ac74168f3f",
             "path": "config/animatedframes/media/.server-cache/5168e3413b678b4f4694b23192b758de9dc6727796aa97572c657de764905cd6.png"
           }
         },
@@ -3557,6 +3565,7 @@
           "artifact": {
             "size": 392323,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/animatedframes/media/.server-cache/5c8180c102ffca0f17ed7842196ef7a021fec26540b9fa35cbb0fdc044c2fd33.png",
+            "MD5": "3d769ac75c25d0d4ccc9149eaac050bd",
             "path": "config/animatedframes/media/.server-cache/5c8180c102ffca0f17ed7842196ef7a021fec26540b9fa35cbb0fdc044c2fd33.png"
           }
         },
@@ -3567,6 +3576,7 @@
           "artifact": {
             "size": 6068292,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/animatedframes/media/.server-cache/77bd6dc3329c5ee6b035711289d399caf5c91ccf847978214814814b161c2dcc.png",
+            "MD5": "843f3fb4c75dce6334121682be935515",
             "path": "config/animatedframes/media/.server-cache/77bd6dc3329c5ee6b035711289d399caf5c91ccf847978214814814b161c2dcc.png"
           }
         },
@@ -3577,6 +3587,7 @@
           "artifact": {
             "size": 11830264,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/animatedframes/media/.server-cache/7cf278b702246c6589f876091143eee0e558acd302930a54875bbe98aecdf4b2.gif",
+            "MD5": "a4d903d0b22262c243e3f9356b926e56",
             "path": "config/animatedframes/media/.server-cache/7cf278b702246c6589f876091143eee0e558acd302930a54875bbe98aecdf4b2.gif"
           }
         },
@@ -3587,6 +3598,7 @@
           "artifact": {
             "size": 2961819,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/animatedframes/media/.server-cache/9141d1bc4ec37868dc132869e0ef0562f1c8a691d469974add0ca45bccd2a2ee.png",
+            "MD5": "4d32f7e947450415937855cd25f8313b",
             "path": "config/animatedframes/media/.server-cache/9141d1bc4ec37868dc132869e0ef0562f1c8a691d469974add0ca45bccd2a2ee.png"
           }
         },
@@ -3597,6 +3609,7 @@
           "artifact": {
             "size": 1368586,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/animatedframes/media/.server-cache/b083ae4113d1b9aae210f658cd376a4c49c23c8aae96d37e2fafcc6b07b15b6b.png",
+            "MD5": "41f1c8732f4ee24fb638623a00bf24dc",
             "path": "config/animatedframes/media/.server-cache/b083ae4113d1b9aae210f658cd376a4c49c23c8aae96d37e2fafcc6b07b15b6b.png"
           }
         },
@@ -3607,6 +3620,7 @@
           "artifact": {
             "size": 1712268,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/animatedframes/media/.server-cache/b8a5d47b3b4dd25840ffac203dbbcb194ffec044546a98538451ecf3cbe21d7b.png",
+            "MD5": "7551a8a74c0b8e0056af5da062e885d7",
             "path": "config/animatedframes/media/.server-cache/b8a5d47b3b4dd25840ffac203dbbcb194ffec044546a98538451ecf3cbe21d7b.png"
           }
         },
@@ -3617,6 +3631,7 @@
           "artifact": {
             "size": 8178937,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/animatedframes/media/.server-cache/d673c39c8a68d2ebeadfe777d24675bdaac6512636b10bce5d3967352efe0580.png",
+            "MD5": "860b75d8580aa9c3f5bdb395eeab5c83",
             "path": "config/animatedframes/media/.server-cache/d673c39c8a68d2ebeadfe777d24675bdaac6512636b10bce5d3967352efe0580.png"
           }
         },
@@ -3627,6 +3642,7 @@
           "artifact": {
             "size": 6745204,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/animatedframes/media/.server-cache/e9b30e1c4ebe255566d092213cf8c3a9ad60b5b4b177330db70ddffdbd9caee1.png",
+            "MD5": "fbf024b037bde071da665fb087fca1f2",
             "path": "config/animatedframes/media/.server-cache/e9b30e1c4ebe255566d092213cf8c3a9ad60b5b4b177330db70ddffdbd9caee1.png"
           }
         },
@@ -3637,6 +3653,7 @@
           "artifact": {
             "size": 1489043,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/animatedframes/media/.server-cache/eae9b76686d06a3eb47a54ee17e460191695aa1ac19fb24a1f6f917a6e455be1.png",
+            "MD5": "fbcac81a376641913f21a165b7b3a85e",
             "path": "config/animatedframes/media/.server-cache/eae9b76686d06a3eb47a54ee17e460191695aa1ac19fb24a1f6f917a6e455be1.png"
           }
         },
@@ -4887,6 +4904,7 @@
           "artifact": {
             "size": 9630,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/axiom/.axiom.json.backup",
+            "MD5": "4db2f5af4a74929e8bb831bd621bfee3",
             "path": "config/axiom/.axiom.json.backup"
           }
         },
@@ -5927,6 +5945,7 @@
           "artifact": {
             "size": 216,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/audio_element_controller_metas.json",
+            "MD5": "bbcc180ee511adb02e2c7280b9affacc",
             "path": "config/fancymenu/audio_element_controller_metas.json"
           }
         },
@@ -5937,6 +5956,7 @@
           "artifact": {
             "size": 84,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/customizablemenus.txt",
+            "MD5": "8b2fbd740b2f342bbce5d3eb36cf5739",
             "path": "config/fancymenu/customizablemenus.txt"
           }
         },
@@ -5947,6 +5967,7 @@
           "artifact": {
             "size": 51,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/custom_gui_screens.txt",
+            "MD5": "106e52948415f0879c53304f50783b28",
             "path": "config/fancymenu/custom_gui_screens.txt"
           }
         },
@@ -5957,6 +5978,7 @@
           "artifact": {
             "size": 42,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/legacy_checklist.txt",
+            "MD5": "bc03e01c4f1bf1e24e9b86591baa512b",
             "path": "config/fancymenu/legacy_checklist.txt"
           }
         },
@@ -5967,6 +5989,7 @@
           "artifact": {
             "size": 2129,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/options.txt",
+            "MD5": "a16f699140de3b715c705e18510060d5",
             "path": "config/fancymenu/options.txt"
           }
         },
@@ -5977,6 +6000,7 @@
           "artifact": {
             "size": 23,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/user_variables.db",
+            "MD5": "458e4f3f673e3fea22fb92bf76fcf912",
             "path": "config/fancymenu/user_variables.db"
           }
         },
@@ -5987,6 +6011,7 @@
           "artifact": {
             "size": 642,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/video_element_controller_metas.json",
+            "MD5": "9d13c91f11bdbc171915459488d2b683",
             "path": "config/fancymenu/video_element_controller_metas.json"
           }
         },
@@ -5997,6 +6022,7 @@
           "artifact": {
             "size": 2485936,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/ambiente.ogg",
+            "MD5": "f442409f7683ba4d10982a89b81130a9",
             "path": "config/fancymenu/assets/ambiente.ogg"
           }
         },
@@ -6007,6 +6033,7 @@
           "artifact": {
             "size": 59666,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/boton.ogg",
+            "MD5": "f76aa2ceffea737afa44316dab19022e",
             "path": "config/fancymenu/assets/boton.ogg"
           }
         },
@@ -6017,6 +6044,7 @@
           "artifact": {
             "size": 54423,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/botton.ogg",
+            "MD5": "93a15f040843375e57a18500fcc3239f",
             "path": "config/fancymenu/assets/botton.ogg"
           }
         },
@@ -6027,6 +6055,7 @@
           "artifact": {
             "size": 423218,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/denunciarj.png",
+            "MD5": "baefa258cc44aaae678a1affdc5cfdb0",
             "path": "config/fancymenu/assets/denunciarj.png"
           }
         },
@@ -6037,6 +6066,7 @@
           "artifact": {
             "size": 298993,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/denunciarj2.png",
+            "MD5": "f8fe55f35f1488801cac12116eb7d744",
             "path": "config/fancymenu/assets/denunciarj2.png"
           }
         },
@@ -6047,6 +6077,7 @@
           "artifact": {
             "size": 429443,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/desconectarse.png",
+            "MD5": "3a9c220577996f7b2c8000512750f59c",
             "path": "config/fancymenu/assets/desconectarse.png"
           }
         },
@@ -6057,6 +6088,7 @@
           "artifact": {
             "size": 346319,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/desconectarse2.png",
+            "MD5": "6aa6018a616bc2f8f5fd278eb681fd90",
             "path": "config/fancymenu/assets/desconectarse2.png"
           }
         },
@@ -6067,6 +6099,7 @@
           "artifact": {
             "size": 225954,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/ent_mundo.ogg",
+            "MD5": "2daf82841a2a143ae6d54998e356754e",
             "path": "config/fancymenu/assets/ent_mundo.ogg"
           }
         },
@@ -6077,6 +6110,7 @@
           "artifact": {
             "size": 81525957,
             "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--files--config--fancymenu--assets--foncg.gif",
+            "MD5": "ceda70316fd9075b4a386ca0bdc60c77",
             "path": "config/fancymenu/assets/foncg.gif"
           }
         },
@@ -6087,6 +6121,7 @@
           "artifact": {
             "size": 52272470,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/foncov1.mp4",
+            "MD5": "497fa18ff341c1bb090c2857e33e9071",
             "path": "config/fancymenu/assets/foncov1.mp4"
           }
         },
@@ -6097,6 +6132,7 @@
           "artifact": {
             "size": 5818,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/fondoops.png",
+            "MD5": "72916b187da24ed554107b2a396d3079",
             "path": "config/fancymenu/assets/fondoops.png"
           }
         },
@@ -6107,6 +6143,7 @@
           "artifact": {
             "size": 266548,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/in_world.png",
+            "MD5": "d1b67085d0c16ace4432851654ed888b",
             "path": "config/fancymenu/assets/in_world.png"
           }
         },
@@ -6117,6 +6154,7 @@
           "artifact": {
             "size": 275934,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/in_world2.png",
+            "MD5": "928f2fedcf3ff028b2805605e064620f",
             "path": "config/fancymenu/assets/in_world2.png"
           }
         },
@@ -6127,6 +6165,7 @@
           "artifact": {
             "size": 43605,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/log.png",
+            "MD5": "184fd021e288a51bb5dd4e057e630ff6",
             "path": "config/fancymenu/assets/log.png"
           }
         },
@@ -6137,6 +6176,7 @@
           "artifact": {
             "size": 61768,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/logoazura.png",
+            "MD5": "9896e4fe4a60a8aafad945cd0c13676d",
             "path": "config/fancymenu/assets/logoazura.png"
           }
         },
@@ -6147,6 +6187,7 @@
           "artifact": {
             "size": 235699,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/logo_alan.png",
+            "MD5": "2ea3198ebd87574da13e56baae1b9c41",
             "path": "config/fancymenu/assets/logo_alan.png"
           }
         },
@@ -6157,6 +6198,7 @@
           "artifact": {
             "size": 320478,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/mods.png",
+            "MD5": "5edaf500fdc8fe1725a478d9b326458c",
             "path": "config/fancymenu/assets/mods.png"
           }
         },
@@ -6167,6 +6209,7 @@
           "artifact": {
             "size": 304624,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/mods1.png",
+            "MD5": "bd96d63ff27293fa7596a29b80cb6c59",
             "path": "config/fancymenu/assets/mods1.png"
           }
         },
@@ -6177,6 +6220,7 @@
           "artifact": {
             "size": 301706,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/opcion.png",
+            "MD5": "c235d8abaed5cfa4baa671ad258847f6",
             "path": "config/fancymenu/assets/opcion.png"
           }
         },
@@ -6187,6 +6231,7 @@
           "artifact": {
             "size": 302782,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/opcion2.png",
+            "MD5": "9dd46e822b04e1045c25941a07584445",
             "path": "config/fancymenu/assets/opcion2.png"
           }
         },
@@ -6197,6 +6242,7 @@
           "artifact": {
             "size": 348820,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/opcionesj.png",
+            "MD5": "d9f04f19f627e287d7c901a6322c2392",
             "path": "config/fancymenu/assets/opcionesj.png"
           }
         },
@@ -6207,6 +6253,7 @@
           "artifact": {
             "size": 225985,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/opcionesj2.png",
+            "MD5": "954ce883241f21b61754470a21f2a3ec",
             "path": "config/fancymenu/assets/opcionesj2.png"
           }
         },
@@ -6217,6 +6264,7 @@
           "artifact": {
             "size": 3313038,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/ovelays.rar",
+            "MD5": "a1e24d0228e1d9b64ccbdbcead677302",
             "path": "config/fancymenu/assets/ovelays.rar"
           }
         },
@@ -6227,6 +6275,7 @@
           "artifact": {
             "size": 26672,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/punto_y_coma.png",
+            "MD5": "fd382d4c20fff9470ea2dda84d40f02a",
             "path": "config/fancymenu/assets/punto_y_coma.png"
           }
         },
@@ -6237,6 +6286,7 @@
           "artifact": {
             "size": 330963,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/salir.png",
+            "MD5": "8d54203028c9913792547413ddb00d7c",
             "path": "config/fancymenu/assets/salir.png"
           }
         },
@@ -6247,6 +6297,7 @@
           "artifact": {
             "size": 424191,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/salir2.png",
+            "MD5": "d046d46cc73b3560f1e2887d2a9f3b1d",
             "path": "config/fancymenu/assets/salir2.png"
           }
         },
@@ -6257,6 +6308,7 @@
           "artifact": {
             "size": 49614,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/selec_b.ogg",
+            "MD5": "81727f331260425421b0dcf5d085da08",
             "path": "config/fancymenu/assets/selec_b.ogg"
           }
         },
@@ -6267,6 +6319,7 @@
           "artifact": {
             "size": 306115,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/volveraljuego.png",
+            "MD5": "16ced6d46639725bca5c04fc4bb4ecda",
             "path": "config/fancymenu/assets/volveraljuego.png"
           }
         },
@@ -6277,6 +6330,7 @@
           "artifact": {
             "size": 277234,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/volveraljuego2.png",
+            "MD5": "9eae852cd975839b6020b6ec367398a5",
             "path": "config/fancymenu/assets/volveraljuego2.png"
           }
         },
@@ -6287,6 +6341,7 @@
           "artifact": {
             "size": 1370381,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/voragos.png",
+            "MD5": "84350230b9001cf11b90a815ca801bd5",
             "path": "config/fancymenu/assets/voragos.png"
           }
         },
@@ -6297,6 +6352,7 @@
           "artifact": {
             "size": 1580065,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/v_logo.png",
+            "MD5": "543fde3a1d65fa77f7239664c4300770",
             "path": "config/fancymenu/assets/v_logo.png"
           }
         },
@@ -6307,6 +6363,7 @@
           "artifact": {
             "size": 1368213,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/v_menu.png",
+            "MD5": "b091946497232f4cad9558d054fe110e",
             "path": "config/fancymenu/assets/v_menu.png"
           }
         },
@@ -6317,6 +6374,7 @@
           "artifact": {
             "size": 45684,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/customization/pause_screen_layout.txt",
+            "MD5": "a458d7a803b047b0abc4e1b4b6a0d5c9",
             "path": "config/fancymenu/customization/pause_screen_layout.txt"
           }
         },
@@ -6327,6 +6385,7 @@
           "artifact": {
             "size": 46318,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/customization/title_screen_layout.txt",
+            "MD5": "20900320066412a7293c83b68d9c0a50",
             "path": "config/fancymenu/customization/title_screen_layout.txt"
           }
         },
@@ -6337,6 +6396,7 @@
           "artifact": {
             "size": 197,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+            "MD5": "70546b71ee503f0bf790bfbd1a1b8c2d",
             "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
           }
         },
@@ -6347,6 +6407,7 @@
           "artifact": {
             "size": 2306,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/btn_mod.png",
+            "MD5": "e8eca99a016d06a823b8a6cffb1a2f99",
             "path": "config/fancymenu/sakura/btn_mod.png"
           }
         },
@@ -6357,6 +6418,7 @@
           "artifact": {
             "size": 2291,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/btn_mod_active.png",
+            "MD5": "e400383a63701c71a7302f679ee02971",
             "path": "config/fancymenu/sakura/btn_mod_active.png"
           }
         },
@@ -6367,6 +6429,7 @@
           "artifact": {
             "size": 26124,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/btn_mp.fma",
+            "MD5": "7d5590e91864232d7e55531b45bee8b0",
             "path": "config/fancymenu/sakura/btn_mp.fma"
           }
         },
@@ -6377,6 +6440,7 @@
           "artifact": {
             "size": 690,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/btn_mp.png",
+            "MD5": "33c0f15f5948fc0319899a9723535d6f",
             "path": "config/fancymenu/sakura/btn_mp.png"
           }
         },
@@ -6387,6 +6451,7 @@
           "artifact": {
             "size": 21878,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/btn_opt.fma",
+            "MD5": "65660147c42ad003eee9f417f782c2d8",
             "path": "config/fancymenu/sakura/btn_opt.fma"
           }
         },
@@ -6397,6 +6462,7 @@
           "artifact": {
             "size": 544,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/btn_opt.png",
+            "MD5": "02d986d401c3fbb7422f585d1e7130bf",
             "path": "config/fancymenu/sakura/btn_opt.png"
           }
         },
@@ -6407,6 +6473,7 @@
           "artifact": {
             "size": 18541,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/btn_quit.fma",
+            "MD5": "c80d0c4f1422c9b6fb6c4ee35d90713a",
             "path": "config/fancymenu/sakura/btn_quit.fma"
           }
         },
@@ -6417,6 +6484,7 @@
           "artifact": {
             "size": 431,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/btn_quit.png",
+            "MD5": "47ec57d21cd451a919cce35272eeef96",
             "path": "config/fancymenu/sakura/btn_quit.png"
           }
         },
@@ -6427,6 +6495,7 @@
           "artifact": {
             "size": 30056,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/btn_rl.fma",
+            "MD5": "9625138b4a75d1d2ec9ed67ee300cef6",
             "path": "config/fancymenu/sakura/btn_rl.fma"
           }
         },
@@ -6437,6 +6506,7 @@
           "artifact": {
             "size": 825,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/btn_rl.png",
+            "MD5": "05a299779e6362d92dbcabe68d01abac",
             "path": "config/fancymenu/sakura/btn_rl.png"
           }
         },
@@ -6447,6 +6517,7 @@
           "artifact": {
             "size": 28526,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/btn_sp.fma",
+            "MD5": "8fbce45d2440c7307df2e101dad1b731",
             "path": "config/fancymenu/sakura/btn_sp.fma"
           }
         },
@@ -6457,6 +6528,7 @@
           "artifact": {
             "size": 779,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/btn_sp.png",
+            "MD5": "d25b89ee38b5ae0649847325790a1ff2",
             "path": "config/fancymenu/sakura/btn_sp.png"
           }
         },
@@ -6467,6 +6539,7 @@
           "artifact": {
             "size": 1869,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/btn_template_0.png",
+            "MD5": "5b1d1e3b21834ede67baf877aecc8b74",
             "path": "config/fancymenu/sakura/btn_template_0.png"
           }
         },
@@ -6477,6 +6550,7 @@
           "artifact": {
             "size": 1869,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/btn_template_1.png",
+            "MD5": "20878385e18293af1ff6359192c6c677",
             "path": "config/fancymenu/sakura/btn_template_1.png"
           }
         },
@@ -6487,6 +6561,7 @@
           "artifact": {
             "size": 1873,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/btn_template_2.png",
+            "MD5": "03fbfadb2b196bba3ee8796ec705fbac",
             "path": "config/fancymenu/sakura/btn_template_2.png"
           }
         },
@@ -6497,6 +6572,7 @@
           "artifact": {
             "size": 1869,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/btn_template_3.png",
+            "MD5": "6d045189debd30fc6c3fb64c1857cbb1",
             "path": "config/fancymenu/sakura/btn_template_3.png"
           }
         },
@@ -6507,6 +6583,7 @@
           "artifact": {
             "size": 1066652,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/bush.fma",
+            "MD5": "e3a87cbf0d2b4265d170b321d5bdb013",
             "path": "config/fancymenu/sakura/bush.fma"
           }
         },
@@ -6517,6 +6594,7 @@
           "artifact": {
             "size": 11717,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/bush.png",
+            "MD5": "5afda768f292d2e7eb944c5238f0dbea",
             "path": "config/fancymenu/sakura/bush.png"
           }
         },
@@ -6527,6 +6605,7 @@
           "artifact": {
             "size": 1065365,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/bush_back.fma",
+            "MD5": "ccba95f5b8a75fecf69e0b67e15c8a90",
             "path": "config/fancymenu/sakura/bush_back.fma"
           }
         },
@@ -6537,6 +6616,7 @@
           "artifact": {
             "size": 22482,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/disc_0.png",
+            "MD5": "ec573c092c3a226c812ddd1ecbebd1a8",
             "path": "config/fancymenu/sakura/disc_0.png"
           }
         },
@@ -6547,6 +6627,7 @@
           "artifact": {
             "size": 13905,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/disc_1.png",
+            "MD5": "b62f55e2b8f2be5a73dd6ecb93d2bc73",
             "path": "config/fancymenu/sakura/disc_1.png"
           }
         },
@@ -6557,6 +6638,7 @@
           "artifact": {
             "size": 13925,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/disc_2.png",
+            "MD5": "061601ec14aff94adc0dc5fcc1f24a10",
             "path": "config/fancymenu/sakura/disc_2.png"
           }
         },
@@ -6567,6 +6649,7 @@
           "artifact": {
             "size": 52159,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/disc_3.png",
+            "MD5": "6f54e37e1e9fcf75837797e30c853847",
             "path": "config/fancymenu/sakura/disc_3.png"
           }
         },
@@ -6577,6 +6660,7 @@
           "artifact": {
             "size": 192094,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/heroes.fma",
+            "MD5": "7016e8583ed82e8b6503acfabfbbe95b",
             "path": "config/fancymenu/sakura/heroes.fma"
           }
         },
@@ -6587,6 +6671,7 @@
           "artifact": {
             "size": 4379,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/heroes.png",
+            "MD5": "e53116f19cdec4cb6d744c169732fb31",
             "path": "config/fancymenu/sakura/heroes.png"
           }
         },
@@ -6597,6 +6682,7 @@
           "artifact": {
             "size": 3758,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/heroes_cape.png",
+            "MD5": "f5f6253366b497ff80b80c1d4adec781",
             "path": "config/fancymenu/sakura/heroes_cape.png"
           }
         },
@@ -6607,6 +6693,7 @@
           "artifact": {
             "size": 3245,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/hidden.png",
+            "MD5": "671d8010a5fe94a05f736d21d76ac960",
             "path": "config/fancymenu/sakura/hidden.png"
           }
         },
@@ -6617,6 +6704,7 @@
           "artifact": {
             "size": 6810,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/logo.png",
+            "MD5": "da1fc4b87ad59eda2611ace95632f44c",
             "path": "config/fancymenu/sakura/logo.png"
           }
         },
@@ -6627,6 +6715,7 @@
           "artifact": {
             "size": 18597,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/mountain.png",
+            "MD5": "5a13e8c54fa081ea66e69b35307a64cf",
             "path": "config/fancymenu/sakura/mountain.png"
           }
         },
@@ -6637,6 +6726,7 @@
           "artifact": {
             "size": 97321,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/particle_season_sakura.fma",
+            "MD5": "8dc19beb17c8fce174030864a6e8ca6d",
             "path": "config/fancymenu/sakura/particle_season_sakura.fma"
           }
         },
@@ -6647,6 +6737,7 @@
           "artifact": {
             "size": 7600,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/particle_teleportation.fma",
+            "MD5": "4141f25dd503e062c9fcce20327f9128",
             "path": "config/fancymenu/sakura/particle_teleportation.fma"
           }
         },
@@ -6657,6 +6748,7 @@
           "artifact": {
             "size": 10148,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/particle_teleportation_beta.fma",
+            "MD5": "b90614399da83616f78f13ae2f1da515",
             "path": "config/fancymenu/sakura/particle_teleportation_beta.fma"
           }
         },
@@ -6667,6 +6759,7 @@
           "artifact": {
             "size": 5245576,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/portal_active.fma",
+            "MD5": "2196d37b63fc08f3d96f0920d5b0fc87",
             "path": "config/fancymenu/sakura/portal_active.fma"
           }
         },
@@ -6677,6 +6770,7 @@
           "artifact": {
             "size": 4215729,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/portal_inactive.fma",
+            "MD5": "99f7668c2890c1649df683de658da61b",
             "path": "config/fancymenu/sakura/portal_inactive.fma"
           }
         },
@@ -6687,6 +6781,7 @@
           "artifact": {
             "size": 36996,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/portal_inactive.png",
+            "MD5": "505e56c5921af0ec6d200d72761eaa68",
             "path": "config/fancymenu/sakura/portal_inactive.png"
           }
         },
@@ -6697,6 +6792,7 @@
           "artifact": {
             "size": 11162,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/road.png",
+            "MD5": "19def87a4c65d12f4c23aa946465c66b",
             "path": "config/fancymenu/sakura/road.png"
           }
         },
@@ -6707,6 +6803,7 @@
           "artifact": {
             "size": 4451,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/tree_frame.png",
+            "MD5": "f7014a75a99e82cace3925d730aae39b",
             "path": "config/fancymenu/sakura/tree_frame.png"
           }
         },
@@ -6717,6 +6814,7 @@
           "artifact": {
             "size": 20599,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/ui_template.png",
+            "MD5": "1fdbefd882b2a6de45f48ebae4838571",
             "path": "config/fancymenu/sakura/ui_template.png"
           }
         },
@@ -6727,6 +6825,7 @@
           "artifact": {
             "size": 14676,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/widget.png",
+            "MD5": "2ec2ceb93598882c066a940f3fc29d57",
             "path": "config/fancymenu/sakura/widget.png"
           }
         },
@@ -6737,6 +6836,7 @@
           "artifact": {
             "size": 1851,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/widget_close.png",
+            "MD5": "03e776045055b67147df2d0a547bc656",
             "path": "config/fancymenu/sakura/widget_close.png"
           }
         },
@@ -6747,6 +6847,7 @@
           "artifact": {
             "size": 1852,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/widget_open.png",
+            "MD5": "29145ed17536b9011f3ba8c239911b69",
             "path": "config/fancymenu/sakura/widget_open.png"
           }
         },
@@ -6757,6 +6858,7 @@
           "artifact": {
             "size": 3862591,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/bgm/camelot.ogg",
+            "MD5": "87d3ae4683d3fdad49c2d260ccfc4d60",
             "path": "config/fancymenu/sakura/bgm/camelot.ogg"
           }
         },
@@ -6767,6 +6869,7 @@
           "artifact": {
             "size": 10489772,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/bgm/longjourney.ogg",
+            "MD5": "3a060178f3fa377f59bfe1f0858d3b5e",
             "path": "config/fancymenu/sakura/bgm/longjourney.ogg"
           }
         },
@@ -6777,6 +6880,7 @@
           "artifact": {
             "size": 6218,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/ui_themes/dark.json",
+            "MD5": "df90c4d23315ff6e63e15541b3031197",
             "path": "config/fancymenu/ui_themes/dark.json"
           }
         },
@@ -6787,6 +6891,7 @@
           "artifact": {
             "size": 6220,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/ui_themes/light.json",
+            "MD5": "21a51e7a223939c9fae277fcd02cf4fc",
             "path": "config/fancymenu/ui_themes/light.json"
           }
         },
@@ -8687,6 +8792,7 @@
           "artifact": {
             "size": 0,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/fancymenu_data/action_favorites.json",
+            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
             "path": "fancymenu_data/action_favorites.json"
           }
         },
@@ -8697,6 +8803,7 @@
           "artifact": {
             "size": 92,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/fancymenu_data/last_world.fmdata",
+            "MD5": "c930b4737bad654dae89463a104e603a",
             "path": "fancymenu_data/last_world.fmdata"
           }
         },
@@ -8707,6 +8814,7 @@
           "artifact": {
             "size": 1619,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/fancymenu_data/buddy/buddy_leveling.json",
+            "MD5": "e04a398b8ea5086f2c2d1287cdf72ffa",
             "path": "fancymenu_data/buddy/buddy_leveling.json"
           }
         },
@@ -8717,6 +8825,7 @@
           "artifact": {
             "size": 260,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/fancymenu_data/buddy/buddy_save.json",
+            "MD5": "dc68d5845162ee81d1e37ea54c11e13c",
             "path": "fancymenu_data/buddy/buddy_save.json"
           }
         },
@@ -8727,6 +8836,7 @@
           "artifact": {
             "size": 26954,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/fancymenu_data/fancymenu_temp/web/videoplayer/player.html",
+            "MD5": "f6e0587596db28200c05f90eb2fc7149",
             "path": "fancymenu_data/fancymenu_temp/web/videoplayer/player.html"
           }
         },
