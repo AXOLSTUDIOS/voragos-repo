@@ -1,7 +1,7 @@
 {
   "$schema": "file:///F:/AxolDev/voragos-repo/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "name": "Voragos 2",
     "description": "Fantasía oscura medieval. Explora, sobrevive y conquista.",
     "icon": "",
@@ -24,38 +24,9 @@
         "files"
       ],
       "patterns": [
-        "options.txt",
-        "config/*-client.*",
-        "config/*.client.*",
-        "config/sodium-options.json",
-        "config/sodium-fingerprint.json",
-        "config/sodium-mixins.properties",
-        "config/iris.properties",
-        "config/iris-excluded.json",
-        "config/dynamic_fps.json",
-        "config/fpsbooster.json",
-        "config/gpu_booster_config.json",
-        "config/lambdynlights.toml",
-        "config/entity_model_features.json",
-        "config/entity_texture_features.json",
-        "config/entity_sound_features.json",
-        "config/visuality.json",
-        "emotes/**",
-        "config/modmenu.json",
-        "config/inventoryhud.json",
-        "config/appleskin.json5",
-        "config/dynamiccrosshair.json5",
-        "config/cinematiczoom.json",
-        "config/freecam.json5",
-        "config/hold-my-items.json",
-        "config/pingwheel.json",
-        "config/emotecraft.json",
-        "config/emotecraft_emote_map.json",
-        "config/jei/**",
-        "config/InventoryHUD/**",
-        "config/crosshairs/**",
-        "config/plasmovoice/**",
-        "config/NoChatReports/**"
+        "**",
+        "**/.*",
+        "**/.*/**"
       ]
     }
   ]
