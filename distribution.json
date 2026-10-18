@@ -581,16 +581,6 @@
           }
         },
         {
-          "id": "com.astryxion:damageindicators:1.21.1-1.1.0@jar",
-          "name": "Damage Indicators (Expanded)",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 516604,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--damageindicatorsfabric-1.21.1-1.1.0.jar",
-            "MD5": "b0412a8eb22a76e48266e773aa4d96b7"
-          }
-        },
-        {
           "id": "com.razz:decocraft:3.0.9@jar",
           "name": "Decocraft",
           "type": "FabricMod",
