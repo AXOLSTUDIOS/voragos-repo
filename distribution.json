@@ -1991,16 +1991,6 @@
           }
         },
         {
-          "id": "com.cerbon:talk_balloons:1.6.3@jar",
-          "name": "Talk Balloons",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1301671,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--TalkBalloons-fabric-1.6.3_1.21.1.jar",
-            "MD5": "cfe5b57bf05344b81697c7660508a1fd"
-          }
-        },
-        {
           "id": "terrablender.core:terrablender:4.1.0.8@jar",
           "name": "TerraBlender",
           "type": "FabricMod",
@@ -2635,7 +2625,7 @@
           "name": "entity_model_features.json",
           "type": "File",
           "artifact": {
-            "size": 1207,
+            "size": 1287,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/entity_model_features.json",
             "path": "config/entity_model_features.json"
           }
@@ -2655,7 +2645,7 @@
           "name": "entity_texture_features.json",
           "type": "File",
           "artifact": {
-            "size": 1452,
+            "size": 1458,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/entity_texture_features.json",
             "path": "config/entity_texture_features.json"
           }
