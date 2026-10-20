@@ -2165,9 +2165,9 @@
           "name": "VoragosVision",
           "type": "FabricMod",
           "artifact": {
-            "size": 57513,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--voragosvision-1.0.0mc1.21.1.jar",
-            "MD5": "1b5d87360af8a97fb3b1632b40bd5514"
+            "size": 58235,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--voragosvision-1.0.1mc1.21.1.jar",
+            "MD5": "2f8fb4903306ff51099c8b26d89e701b"
           }
         },
         {
