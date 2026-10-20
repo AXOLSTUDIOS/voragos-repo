@@ -145,9 +145,9 @@
           "name": "AdminBubbles",
           "type": "FabricMod",
           "artifact": {
-            "size": 32002,
+            "size": 33360,
             "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--adminbubbles-1.0.0.jar",
-            "MD5": "26c9ae286c14b6e00d764a6cc7b6c3f2"
+            "MD5": "3a60ec5c0d21a13f79fa63af5adc8b52"
           }
         },
         {
@@ -2161,6 +2161,16 @@
           }
         },
         {
+          "id": "com.axolstudio:voragosvision:1.0.0@jar",
+          "name": "VoragosVision",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 57513,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--voragosvision-1.0.0mc1.21.1.jar",
+            "MD5": "1b5d87360af8a97fb3b1632b40bd5514"
+          }
+        },
+        {
           "id": "me.srrapero720:waterframes:2.1.12b@jar",
           "name": "WaterFrames",
           "type": "FabricMod",
@@ -2188,16 +2198,6 @@
             "size": 37046674,
             "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--watermedia-2.1.37_-_copia.jar",
             "MD5": "4a09ad3ea22ad258802605b8aa929bbd"
-          }
-        },
-        {
-          "id": "me.srrapero720:watervision:0.1.0-alpha@jar",
-          "name": "WaterVision",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 82210,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--watervision-FB-mc1.21.1-v0.1.0-alpha_-_copia.jar",
-            "MD5": "83bb7201ca88556eedee1f66cf15ce99"
           }
         },
         {
