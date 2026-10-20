@@ -141,6 +141,16 @@
           }
         },
         {
+          "id": "com.axolstudio:adminbubbles:1.0.0@jar",
+          "name": "AdminBubbles",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 32002,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--adminbubbles-1.0.0.jar",
+            "MD5": "26c9ae286c14b6e00d764a6cc7b6c3f2"
+          }
+        },
+        {
           "id": "com.spunkyinsaan:afkcinematics:1.21.1@jar",
           "name": "AFK Cinematics",
           "type": "FabricMod",
@@ -1505,9 +1515,9 @@
           "name": "Ordalia",
           "type": "FabricMod",
           "artifact": {
-            "size": 3258984,
+            "size": 3450658,
             "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--ordalia-0.1.0_1.21.1.jar",
-            "MD5": "6fcd6a875fc0bc4fe05737ed590e7ec9"
+            "MD5": "cc4db63e279afe976776675fb963053f"
           }
         },
         {
