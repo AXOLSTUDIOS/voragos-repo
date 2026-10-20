@@ -261,6 +261,16 @@
           }
         },
         {
+          "id": "generated.fabricmod:badoptimizations:2.4.1@jar",
+          "name": "BadOptimizations",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 283566,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--BadOptimizations-2.4.1-1.21.1.jar",
+            "MD5": "59ee243a5ccd09fff1dd2879b3cad72a"
+          }
+        },
+        {
           "id": "net.blay09.mods:balm:21.0.64@jar",
           "name": "Balm",
           "type": "FabricMod",
@@ -418,6 +428,16 @@
             "size": 1157166,
             "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--cloth-config-15.0.140-fabric.jar",
             "MD5": "a2c091b027ad6ba8e54b07020fd45884"
+          }
+        },
+        {
+          "id": "generated.fabricmod:clumps:19.0.0.1@jar",
+          "name": "Clumps",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 20723,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--Clumps-fabric-1.21.1-19.0.0.1.jar",
+            "MD5": "8715713c6b63565a5eafb4c925275035"
           }
         },
         {
@@ -761,6 +781,16 @@
           }
         },
         {
+          "id": "dev.tr7zw:entityculling:1.11.3@jar",
+          "name": "EntityCulling",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1519243,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--entityculling-fabric-1.11.3-mc1.21.1.jar",
+            "MD5": "5496362052a938cb668e050ef6a106b4"
+          }
+        },
+        {
           "id": "com.entityplayercompat:entity_player_compat:2.2.1@jar",
           "name": "Entity Player Compat",
           "type": "FabricMod",
@@ -828,6 +858,16 @@
             "size": 3240212,
             "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--FarmersDelight-1.21.1-3.3.3_refabricated.jar",
             "MD5": "0a509a64f871c958ab659fa684ea10c4"
+          }
+        },
+        {
+          "id": "generated.fabricmod:ferritecore:7.0.3@jar",
+          "name": "FerriteCore",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 123450,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--ferritecore-7.0.3-fabric.jar",
+            "MD5": "b8513c8c3eef01ea1117ed8d8cba060d"
           }
         },
         {
@@ -978,6 +1018,16 @@
             "size": 172980,
             "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--imagetitles-fabric-1.21.1-1.2.0.jar",
             "MD5": "0213fe481b497dddafe2a7cd4ba15ecb"
+          }
+        },
+        {
+          "id": "generated.fabricmod:immediatelyfast:1.6.15+1.21.1@jar",
+          "name": "ImmediatelyFast",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 342235,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--ImmediatelyFast-Fabric-1.6.15_1.21.1.jar",
+            "MD5": "66b44206af5115e07e22804ee414fb02"
           }
         },
         {
@@ -1311,6 +1361,16 @@
           }
         },
         {
+          "id": "org.embeddedt:modernfix:5.25.1+mc1.21.1@jar",
+          "name": "ModernFix",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 471258,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--modernfix-fabric-5.25.1_mc1.21.1.jar",
+            "MD5": "17260c894041b7b4a1b1f2fd1a8f1a8b"
+          }
+        },
+        {
           "id": "com.terraformersmc:modmenu:11.0.4@jar",
           "name": "Mod Menu",
           "type": "FabricMod",
@@ -1368,6 +1428,16 @@
             "size": 558346,
             "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--more-enchantment-info-0.4.2.jar",
             "MD5": "4bc6468572c69ae0f37bef5a6321f9da"
+          }
+        },
+        {
+          "id": "ca.fxco:moreculling:1.0.10@jar",
+          "name": "More Culling",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 332266,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--moreculling-fabric-1.21.1-1.0.10.jar",
+            "MD5": "4231304913067a3f8df1968794bb092e"
           }
         },
         {
@@ -1698,6 +1768,16 @@
             "size": 6549655,
             "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--santa_dweller-1.21.1-1.7.0-fabric.jar",
             "MD5": "a372ce2ee28fea6cba028a80e4f1492e"
+          }
+        },
+        {
+          "id": "ca.spottedleaf.starlight:scalablelux:0.1.0.1+fabric.d0d58ab@jar",
+          "name": "ScalableLux",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 177266,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--ScalableLux-0.1.0.1_fabric.d0d58ab-all.jar",
+            "MD5": "34cb60a3db0f2439db221bc3325c1411"
           }
         },
         {
@@ -2091,13 +2171,13 @@
           }
         },
         {
-          "id": "com.axolstudio:voragosvision:1.1.0@jar",
+          "id": "com.axolstudio:voragosvision:1.1.1@jar",
           "name": "VoragosVision",
           "type": "FabricMod",
           "artifact": {
-            "size": 73312,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--voragosvision-1.1.0mc1.21.1.jar",
-            "MD5": "4e124cb6fc2e589f5f36c2647fca6bec"
+            "size": 74083,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--voragosvision-1.1.1mc1.21.1.jar",
+            "MD5": "a0220a70c07d53752c64e42b0151b0a2"
           }
         },
         {
