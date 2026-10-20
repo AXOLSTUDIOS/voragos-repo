@@ -2161,13 +2161,13 @@
           }
         },
         {
-          "id": "com.axolstudio:voragosvision:1.0.0@jar",
+          "id": "com.axolstudio:voragosvision:1.1.0@jar",
           "name": "VoragosVision",
           "type": "FabricMod",
           "artifact": {
-            "size": 70170,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--voragosvision-1.0.3mc1.21.1.jar",
-            "MD5": "47190db1c3945b240b631da6c1e5dd49"
+            "size": 73312,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--voragosvision-1.1.0mc1.21.1.jar",
+            "MD5": "4e124cb6fc2e589f5f36c2647fca6bec"
           }
         },
         {
