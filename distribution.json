@@ -1515,9 +1515,9 @@
           "name": "Ordalia",
           "type": "FabricMod",
           "artifact": {
-            "size": 3450658,
+            "size": 3470882,
             "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--ordalia-0.1.0_1.21.1.jar",
-            "MD5": "cc4db63e279afe976776675fb963053f"
+            "MD5": "f9fce05257751b99365d7979e62ff8f9"
           }
         },
         {
@@ -2161,13 +2161,13 @@
           }
         },
         {
-          "id": "com.axolstudio:voragosvision:1.1.1@jar",
+          "id": "com.axolstudio:voragosvision:1.2.0@jar",
           "name": "VoragosVision",
           "type": "FabricMod",
           "artifact": {
-            "size": 74083,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--voragosvision-1.1.1mc1.21.1.jar",
-            "MD5": "a0220a70c07d53752c64e42b0151b0a2"
+            "size": 91610,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--voragosvision-1.2.0mc1.21.1.jar",
+            "MD5": "63f55aed05a76dbe4e888537b44b64d5"
           }
         },
         {
