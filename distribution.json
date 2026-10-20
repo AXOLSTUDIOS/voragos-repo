@@ -121,16 +121,6 @@
           }
         },
         {
-          "id": "generated.fabricmod:2.4.3:fabric-1.21.1-bluelib-2.4.3@jar",
-          "name": "2.4.3",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1091476,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--2.4.3-fabric-1.21.1-bluelib-2.4.3.jar",
-            "MD5": "1c952e9a539068d397770c67964105e6"
-          }
-        },
-        {
           "id": "io.wispforest:accessories:1.1.0-beta.53+1.21.1@jar",
           "name": "Accessories",
           "type": "FabricMod",
@@ -871,16 +861,6 @@
           }
         },
         {
-          "id": "com.fpsbooster:fpsbooster:1.0.0@jar",
-          "name": "FPS Booster",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 17264,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--fpsbooster-fabric-1.21.1-1.0.0.jar",
-            "MD5": "7a64ee884877f190155497086cbba407"
-          }
-        },
-        {
           "id": "com.mrcrayfish:framework:0.13.11@jar",
           "name": "Framework",
           "type": "FabricMod",
@@ -938,16 +918,6 @@
             "size": 325862,
             "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--GooeyLibs-Fabric-3.1.1-1.21.x.jar",
             "MD5": "59dd5aab6095793531ffca44cc04226d"
-          }
-        },
-        {
-          "id": "com.mr_toad:gpu_booster:1.3.1@jar",
-          "name": "GPUBooster",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 87973,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--GPUBooster-1.3.1-1.21-1.21.1.jar",
-            "MD5": "7ad22b0f94611b051b245d547a289b2b"
           }
         },
         {
@@ -1321,16 +1291,6 @@
           }
         },
         {
-          "id": "generated.fabricmod:menumobs:1.12.2-1.21@jar",
-          "name": "MenuMobs",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 74930,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--MenuMobs-1.12.2-1.21.jar",
-            "MD5": "a1136aeed8b5133f1bb4e88bc3c13c31"
-          }
-        },
-        {
           "id": "cn.zbx1425:minopp:1.4.0+1.21.1+fabric@jar",
           "name": "Minopp",
           "type": "FabricMod",
@@ -1348,16 +1308,6 @@
             "size": 231095,
             "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--mobcontrol-1.21.1-2.0.1-beta-2.jar",
             "MD5": "25d314e04d15ad56cb2df68004a06735"
-          }
-        },
-        {
-          "id": "generated.fabricmod:modernnetworking:2.0.1@jar",
-          "name": "ModernNetworking",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 382172,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--ModernNetworking-fabric-2.0.1_1.21.1.jar",
-            "MD5": "c9903865d42d3e368b398367f216be50"
           }
         },
         {
@@ -1398,16 +1348,6 @@
             "size": 3794509,
             "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--MoogsNetherStructures-1.21-3.0.0.jar",
             "MD5": "907fbddc98260e775c4830e2209ff377"
-          }
-        },
-        {
-          "id": "net.mehvahdjukaar.moonlight.platform:moonlight:1.21.1-3.3.3@jar",
-          "name": "Moonlight Lib",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 2176286,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--moonlight-1.21.1-3.3.3-fabric.jar",
-            "MD5": "7e66f320e6cddf1337068ba929c25a5c"
           }
         },
         {
@@ -1608,16 +1548,6 @@
             "size": 1490716,
             "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--playermusic-FABRIC-mc1.21.1-v3.0.0.jar",
             "MD5": "b20905f9e4feee36d067b053db08628a"
-          }
-        },
-        {
-          "id": "generated.fabricmod:preloading_tricks:3.7.3@jar",
-          "name": "PreloadingTricks",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1759406,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--preloading-tricks-3.7.3.jar",
-            "MD5": "2a044caefec3688f598f8e9aa903c259"
           }
         },
         {
