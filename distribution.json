@@ -1431,16 +1431,6 @@
           }
         },
         {
-          "id": "ca.fxco:moreculling:1.0.10@jar",
-          "name": "More Culling",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 332266,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--moreculling-fabric-1.21.1-1.0.10.jar",
-            "MD5": "4231304913067a3f8df1968794bb092e"
-          }
-        },
-        {
           "id": "generated.fabricmod:mr_moreenchantments:1.2.1@jar",
           "name": "More Enchants",
           "type": "FabricMod",
