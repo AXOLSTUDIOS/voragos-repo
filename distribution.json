@@ -8300,7 +8300,7 @@
           "name": "voxy-config.json",
           "type": "File",
           "artifact": {
-            "size": 338,
+            "size": 339,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/voxy-config.json",
             "path": "config/voxy-config.json"
           }

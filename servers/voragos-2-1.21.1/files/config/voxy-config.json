@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "enable_rendering": true,
   "ingest_enabled": true,
   "section_render_distance": 12.0,
