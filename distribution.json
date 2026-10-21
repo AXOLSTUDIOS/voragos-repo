@@ -2325,7 +2325,7 @@
           "name": "LegendaryAtmosphere_v2.6_Voxy.zip.txt",
           "type": "File",
           "artifact": {
-            "size": 1733,
+            "size": 864,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/shaderpacks/LegendaryAtmosphere_v2.6_Voxy.zip.txt",
             "path": "shaderpacks/LegendaryAtmosphere_v2.6_Voxy.zip.txt"
           }
@@ -2335,7 +2335,7 @@
           "name": "LegendaryAtmosphere_v2.6_Voxy.zip",
           "type": "File",
           "artifact": {
-            "size": 1186677,
+            "size": 1186700,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/shaderpacks/LegendaryAtmosphere_v2.6_Voxy.zip",
             "path": "shaderpacks/LegendaryAtmosphere_v2.6_Voxy.zip"
           }
