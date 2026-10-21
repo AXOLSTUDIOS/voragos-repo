@@ -1811,13 +1811,13 @@
           }
         },
         {
-          "id": "ru.magistu:siegemachines:1.39@jar",
+          "id": "ru.magistu:siegemachines:1.39-axol.1@jar",
           "name": "SiegeMachines",
           "type": "FabricMod",
           "artifact": {
-            "size": 1968155,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--siege-machines-1.21.1-fabric-1.39.jar",
-            "MD5": "f8ced692d75b0aeaf91ce8ad5c402658"
+            "size": 1986481,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--siege-machines-1.21.1-fabric-1.39-axol.1.jar",
+            "MD5": "d56aecbf74f24e51ce950bb4c45b9ae5"
           }
         },
         {
@@ -2301,23 +2301,13 @@
           }
         },
         {
-          "id": "LegendaryAtmosphere_v2.6.zip",
-          "name": "LegendaryAtmosphere_v2.6.zip",
+          "id": "LegendaryAtmosphere_v2.6_Voxy.zip",
+          "name": "LegendaryAtmosphere_v2.6_Voxy.zip",
           "type": "File",
           "artifact": {
-            "size": 1186244,
-            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/shaderpacks/LegendaryAtmosphere_v2.6.zip",
-            "path": "shaderpacks/LegendaryAtmosphere_v2.6.zip"
-          }
-        },
-        {
-          "id": "LegendaryAtmosphere_v2.6.zip.txt",
-          "name": "LegendaryAtmosphere_v2.6.zip.txt",
-          "type": "File",
-          "artifact": {
-            "size": 177,
-            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/shaderpacks/LegendaryAtmosphere_v2.6.zip.txt",
-            "path": "shaderpacks/LegendaryAtmosphere_v2.6.zip.txt"
+            "size": 1186332,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/shaderpacks/LegendaryAtmosphere_v2.6_Voxy.zip",
+            "path": "shaderpacks/LegendaryAtmosphere_v2.6_Voxy.zip"
           }
         },
         {
@@ -8273,6 +8263,16 @@
             "size": 1317,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/wizards/villages.json",
             "path": "config/wizards/villages.json"
+          }
+        },
+        {
+          "id": "voxy-config.json",
+          "name": "voxy-config.json",
+          "type": "File",
+          "artifact": {
+            "size": 338,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/voxy-config.json",
+            "path": "config/voxy-config.json"
           }
         },
         {
