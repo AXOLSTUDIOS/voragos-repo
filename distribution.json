@@ -1811,13 +1811,13 @@
           }
         },
         {
-          "id": "ru.magistu:siegemachines:1.39-axol.1@jar",
+          "id": "ru.magistu:siegemachines:1.39-axol.2@jar",
           "name": "SiegeMachines",
           "type": "FabricMod",
           "artifact": {
-            "size": 1986481,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--siege-machines-1.21.1-fabric-1.39-axol.1.jar",
-            "MD5": "d56aecbf74f24e51ce950bb4c45b9ae5"
+            "size": 1986867,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--siege-machines-1.21.1-fabric-1.39-axol.2.jar",
+            "MD5": "fd5026af827e2dc8af1ab8bdc3b903cb"
           }
         },
         {
@@ -2081,6 +2081,16 @@
           }
         },
         {
+          "id": "net.ochibo:twilightteleport:1.0.1-axol+fabric1.21.1@jar",
+          "name": "TwilightTeleport",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 244324,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--TwilightTeleport-1.0.1-axolfabric1.21.1.jar",
+            "MD5": "bc3f1f798fddd90321801e94389625b5"
+          }
+        },
+        {
           "id": "com.iafenvoy:uranus:2.4.1@jar",
           "name": "Uranus",
           "type": "FabricMod",
@@ -2315,7 +2325,7 @@
           "name": "LegendaryAtmosphere_v2.6_Voxy.zip.txt",
           "type": "File",
           "artifact": {
-            "size": 249,
+            "size": 1733,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/shaderpacks/LegendaryAtmosphere_v2.6_Voxy.zip.txt",
             "path": "shaderpacks/LegendaryAtmosphere_v2.6_Voxy.zip.txt"
           }
@@ -2325,7 +2335,7 @@
           "name": "LegendaryAtmosphere_v2.6_Voxy.zip",
           "type": "File",
           "artifact": {
-            "size": 1186384,
+            "size": 1186677,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/shaderpacks/LegendaryAtmosphere_v2.6_Voxy.zip",
             "path": "shaderpacks/LegendaryAtmosphere_v2.6_Voxy.zip"
           }
