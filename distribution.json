@@ -2171,6 +2171,16 @@
           }
         },
         {
+          "id": "me.cortex.voxy.commonImpl:voxy:0.2.14-alpha@jar",
+          "name": "Voxy",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 12598301,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--voxy-0.2.14-alpha.jar",
+            "MD5": "1a0c6976160bd10810411a44dc6345d1"
+          }
+        },
+        {
           "id": "me.srrapero720:waterframes:2.1.12b@jar",
           "name": "WaterFrames",
           "type": "FabricMod",
