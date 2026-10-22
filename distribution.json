@@ -2121,16 +2121,6 @@
           }
         },
         {
-          "id": "com.alaharranhonor:vfl:2.0.0@jar",
-          "name": "Vulcan's Flashlights",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 83048,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--vfl_fabric_1.21.1_2.0.0__1_.jar",
-            "MD5": "47b3a94fcd0e83a1efdae9ea30c02d60"
-          }
-        },
-        {
           "id": "visuality:visuality:0.7.7+1.21@jar",
           "name": "Visuality",
           "type": "FabricMod",
