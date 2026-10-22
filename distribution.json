@@ -1351,6 +1351,16 @@
           }
         },
         {
+          "id": "com.axolstudio:misiones:1.0.0@jar",
+          "name": "Misiones",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 93676,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--misiones-1.0.0.jar",
+            "MD5": "b8fb64ba19ad3c5bd924eb851905a0d1"
+          }
+        },
+        {
           "id": "com.crackerjackbox:mobcontrol:2.0.1-beta-2@jar",
           "name": "Mob Control",
           "type": "FabricMod",
@@ -2145,9 +2155,9 @@
           "name": "Voragos - Altar de Misiones",
           "type": "FabricMod",
           "artifact": {
-            "size": 142647,
+            "size": 285963,
             "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--voragos-altar-1.0.0.jar",
-            "MD5": "ab7935081ee45ff19365332041edcc91"
+            "MD5": "304abbf50de887c42fe11c137797811f"
           }
         },
         {
