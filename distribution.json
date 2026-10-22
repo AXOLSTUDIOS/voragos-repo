@@ -2171,6 +2171,16 @@
           }
         },
         {
+          "id": "com.axolstudio:voragoslinterna:1.0.0@jar",
+          "name": "Voragos Linterna",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 68562,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--voragoslinterna-1.0.0.jar",
+            "MD5": "585265a0a2eb81c30e88659b28b4ad66"
+          }
+        },
+        {
           "id": "com.axolstudio:voragosvision:1.2.0@jar",
           "name": "VoragosVision",
           "type": "FabricMod",
