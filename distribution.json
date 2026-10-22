@@ -511,16 +511,6 @@
           }
         },
         {
-          "id": "com.corner.entity:corner-entity:2.0.0+1.21.1@jar",
-          "name": "Corner Entity",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 2690163,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--corner-entity-2.0.0_1.21.1.jar",
-            "MD5": "1ce675803401101924f78bc0912d0e29"
-          }
-        },
-        {
           "id": "com.axolstudio:courierfamiliars:1.1.0@jar",
           "name": "CourierFamiliars",
           "type": "FabricMod",
@@ -1355,9 +1345,9 @@
           "name": "Misiones",
           "type": "FabricMod",
           "artifact": {
-            "size": 98422,
+            "size": 105043,
             "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--misiones-1.0.0.jar",
-            "MD5": "c3a983fef5bcc7f27cfadc974fb56e40"
+            "MD5": "27afb130de58f9d98e7fe37562042e7e"
           }
         },
         {
