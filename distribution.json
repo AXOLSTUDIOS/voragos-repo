@@ -1345,9 +1345,9 @@
           "name": "Misiones",
           "type": "FabricMod",
           "artifact": {
-            "size": 105043,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--misiones-1.0.0.jar",
-            "MD5": "27afb130de58f9d98e7fe37562042e7e"
+            "size": 106264,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--misiones-1.0.1.jar",
+            "MD5": "b849330ed934271499b4a856501c5fbc"
           }
         },
         {
