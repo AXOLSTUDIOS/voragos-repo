@@ -3815,6 +3815,11 @@ hash = "fc85103617da713523269e34cac548ea96f2817efb8be066b6f3ec90ce84835a"
 metafile = true
 
 [[files]]
+file = "mods/axolguard-1.0.0.pw.toml"
+hash = "885718eadbdf605572f5fc6a264b3eaed1d20814713a2cdade5f71abedad4716"
+metafile = true
+
+[[files]]
 file = "mods/azurelib-fabric-1.21.1-3.1.11.pw.toml"
 hash = "cb9e8b326ac33a7b6917b193560f24e1c16d699389f5788355dd3bc250407314"
 metafile = true

@@ -232,6 +232,16 @@
           }
         },
         {
+          "id": "generated.fabricmod:axolguard:1.0.0@jar",
+          "name": "AxolGuard",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 4543,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--axolguard-1.0.0.jar",
+            "MD5": "c6f03c2a5939d332bb68018e06e5bc2e"
+          }
+        },
+        {
           "id": "mod.azure:azurelib:3.1.11@jar",
           "name": "AzureLib",
           "type": "FabricMod",
