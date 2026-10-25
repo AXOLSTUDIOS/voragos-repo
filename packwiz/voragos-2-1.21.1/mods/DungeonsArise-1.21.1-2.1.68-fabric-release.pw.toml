@@ -1,0 +1,8 @@
+name = "When Dungeons Arise"
+filename = "DungeonsArise-1.21.1-2.1.68-fabric-release.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--DungeonsArise-1.21.1-2.1.68-fabric-release.jar"
+hash-format = "md5"
+hash = "bcd57e61a14f511af3f3cc724be02384"

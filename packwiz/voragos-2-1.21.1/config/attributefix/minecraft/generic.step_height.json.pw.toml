@@ -1,0 +1,8 @@
+name = "generic.step_height.json"
+filename = "generic.step_height.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/attributefix/minecraft/generic.step_height.json"
+hash-format = "md5"
+hash = "bd46cf15cc23d9ca31a6c943949dd500"

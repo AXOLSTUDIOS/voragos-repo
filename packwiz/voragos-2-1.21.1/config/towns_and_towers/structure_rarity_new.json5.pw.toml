@@ -1,0 +1,8 @@
+name = "structure_rarity_new.json5"
+filename = "structure_rarity_new.json5"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/towns_and_towers/structure_rarity_new.json5"
+hash-format = "md5"
+hash = "ed94246ff48f8f7f92e7d77c33c3a95f"

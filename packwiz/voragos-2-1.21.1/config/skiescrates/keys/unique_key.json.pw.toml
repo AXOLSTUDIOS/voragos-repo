@@ -1,0 +1,8 @@
+name = "unique_key.json"
+filename = "unique_key.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/skiescrates/keys/unique_key.json"
+hash-format = "md5"
+hash = "583ec7ee076d1cbf3551428ca66db004"

@@ -1,0 +1,8 @@
+name = "single.json"
+filename = "single.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/skiescrates/openings/inventory/single.json"
+hash-format = "md5"
+hash = "f871270b45c303d4c06fc5c3b2b1e477"

@@ -1,0 +1,8 @@
+name = "example_crate.json"
+filename = "example_crate.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/skiescrates/crates/example_crate.json"
+hash-format = "md5"
+hash = "f2576706d435162677d8bcd532b11adf"

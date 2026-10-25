@@ -1,0 +1,8 @@
+name = "Rogues & Warriors (RPG Series)"
+filename = "rogues-fabric-3.0.4_1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--rogues-fabric-3.0.4_1.21.1.jar"
+hash-format = "md5"
+hash = "7d157c56665f5d582739db69ca76086e"

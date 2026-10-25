@@ -1,0 +1,8 @@
+name = "defiance.json"
+filename = "defiance.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/attributefix/extraspellattributes/defiance.json"
+hash-format = "md5"
+hash = "5c136593bade9be3f88af1dc4f189e1f"

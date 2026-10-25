@@ -1,0 +1,8 @@
+name = "stackable_items-client.json"
+filename = "stackable_items-client.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/stackable_items-client.json"
+hash-format = "md5"
+hash = "dedc931f2e9e2bd0bf3dae0b2312894a"

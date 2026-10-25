@@ -1,0 +1,8 @@
+name = "Cloth Config v15"
+filename = "cloth-config-15.0.140-fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--cloth-config-15.0.140-fabric.jar"
+hash-format = "md5"
+hash = "a2c091b027ad6ba8e54b07020fd45884"

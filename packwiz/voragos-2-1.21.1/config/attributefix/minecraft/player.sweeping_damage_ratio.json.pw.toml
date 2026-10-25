@@ -1,0 +1,8 @@
+name = "player.sweeping_damage_ratio.json"
+filename = "player.sweeping_damage_ratio.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/attributefix/minecraft/player.sweeping_damage_ratio.json"
+hash-format = "md5"
+hash = "40b9ee4d14941fbd0614c3338677e4e9"

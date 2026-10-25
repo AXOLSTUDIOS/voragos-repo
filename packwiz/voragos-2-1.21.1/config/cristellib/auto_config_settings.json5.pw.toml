@@ -1,0 +1,8 @@
+name = "auto_config_settings.json5"
+filename = "auto_config_settings.json5"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/cristellib/auto_config_settings.json5"
+hash-format = "md5"
+hash = "aa54d6d3b89813d75245fef9f3d2ce81"

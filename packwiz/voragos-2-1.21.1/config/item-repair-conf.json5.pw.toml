@@ -1,0 +1,8 @@
+name = "item-repair-conf.json5"
+filename = "item-repair-conf.json5"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/item-repair-conf.json5"
+hash-format = "md5"
+hash = "0331d0936ab5591f1f6db5d48a7157f7"

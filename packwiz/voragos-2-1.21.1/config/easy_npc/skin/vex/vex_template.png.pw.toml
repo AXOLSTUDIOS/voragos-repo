@@ -1,0 +1,8 @@
+name = "vex_template.png"
+filename = "vex_template.png"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/easy_npc/skin/vex/vex_template.png"
+hash-format = "md5"
+hash = "37f6d362729979569dd8f1f4e6429f07"

@@ -1,0 +1,8 @@
+name = "hands in back.emotecraft"
+filename = "hands in back.emotecraft"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/emotes/hands%20in%20back.emotecraft"
+hash-format = "md5"
+hash = "76501803ea88978c69948aaec9a6dcdd"

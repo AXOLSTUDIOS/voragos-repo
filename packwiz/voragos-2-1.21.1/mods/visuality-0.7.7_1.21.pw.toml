@@ -1,0 +1,8 @@
+name = "Visuality"
+filename = "visuality-0.7.7_1.21.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--visuality-0.7.7_1.21.jar"
+hash-format = "md5"
+hash = "f6afa7bac94101addeb4b2ee34eb828f"

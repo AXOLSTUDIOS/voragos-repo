@@ -1,0 +1,8 @@
+name = "die and respawn.emotecraft"
+filename = "die and respawn.emotecraft"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/emotes/die%20and%20respawn.emotecraft"
+hash-format = "md5"
+hash = "5efb22a2bf9736cdf872f2753efa0226"

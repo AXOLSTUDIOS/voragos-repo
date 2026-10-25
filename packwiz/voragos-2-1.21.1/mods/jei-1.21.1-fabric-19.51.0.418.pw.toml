@@ -1,0 +1,8 @@
+name = "Just Enough Items"
+filename = "jei-1.21.1-fabric-19.51.0.418.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--jei-1.21.1-fabric-19.51.0.418.jar"
+hash-format = "md5"
+hash = "e1f77cb31adcd3061008f96c19f1ec51"

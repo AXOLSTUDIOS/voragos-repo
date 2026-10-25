@@ -1,0 +1,8 @@
+name = "Paladins & Priests (RPG Series)"
+filename = "paladins-fabric-3.0.5_1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--paladins-fabric-3.0.5_1.21.1.jar"
+hash-format = "md5"
+hash = "f76306e1220dba9b47d28a8254c7aa31"

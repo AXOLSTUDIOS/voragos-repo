@@ -1,0 +1,8 @@
+name = "config.json"
+filename = "config.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/veinminerplusplus/config.json"
+hash-format = "md5"
+hash = "d414b957dc7a1b7e7408cb80a6e476a4"

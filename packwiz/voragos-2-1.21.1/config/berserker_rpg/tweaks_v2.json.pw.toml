@@ -1,0 +1,8 @@
+name = "tweaks_v2.json"
+filename = "tweaks_v2.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/berserker_rpg/tweaks_v2.json"
+hash-format = "md5"
+hash = "427c6d2d05232607441c37d7361fe94e"

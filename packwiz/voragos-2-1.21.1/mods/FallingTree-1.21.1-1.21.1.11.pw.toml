@@ -1,0 +1,8 @@
+name = "FallingTree"
+filename = "FallingTree-1.21.1-1.21.1.11.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--FallingTree-1.21.1-1.21.1.11.jar"
+hash-format = "md5"
+hash = "7318bdea54e4c69c1c90650b30fc4bde"

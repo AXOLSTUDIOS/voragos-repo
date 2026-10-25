@@ -1,0 +1,8 @@
+name = "Konkrete"
+filename = "konkrete_fabric_1.9.9_MC_1.21.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--konkrete_fabric_1.9.9_MC_1.21.jar"
+hash-format = "md5"
+hash = "287ee9cfc6015f706672fd8c20f5ef9c"

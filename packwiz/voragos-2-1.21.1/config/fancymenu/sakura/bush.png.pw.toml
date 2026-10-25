@@ -1,0 +1,8 @@
+name = "bush.png"
+filename = "bush.png"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/bush.png"
+hash-format = "md5"
+hash = "5afda768f292d2e7eb944c5238f0dbea"

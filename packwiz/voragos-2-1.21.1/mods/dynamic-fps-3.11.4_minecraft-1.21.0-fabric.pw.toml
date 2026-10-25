@@ -1,0 +1,8 @@
+name = "Dynamic FPS"
+filename = "dynamic-fps-3.11.4_minecraft-1.21.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--dynamic-fps-3.11.4_minecraft-1.21.0-fabric.jar"
+hash-format = "md5"
+hash = "aa6037fac4244ba15a7ea67adc335eff"

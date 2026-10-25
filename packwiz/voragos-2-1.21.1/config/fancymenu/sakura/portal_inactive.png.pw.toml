@@ -1,0 +1,8 @@
+name = "portal_inactive.png"
+filename = "portal_inactive.png"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/portal_inactive.png"
+hash-format = "md5"
+hash = "505e56c5921af0ec6d200d72761eaa68"

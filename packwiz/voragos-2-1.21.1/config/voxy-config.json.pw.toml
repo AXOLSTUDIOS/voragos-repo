@@ -1,0 +1,8 @@
+name = "voxy-config.json"
+filename = "voxy-config.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/voxy-config.json"
+hash-format = "md5"
+hash = "001bffaf07a7a43a42288ce3dc20eace"

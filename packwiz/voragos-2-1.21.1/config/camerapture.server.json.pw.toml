@@ -1,0 +1,8 @@
+name = "camerapture.server.json"
+filename = "camerapture.server.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/camerapture.server.json"
+hash-format = "md5"
+hash = "0e4d130183d5ad1972dae474f6e91cb9"

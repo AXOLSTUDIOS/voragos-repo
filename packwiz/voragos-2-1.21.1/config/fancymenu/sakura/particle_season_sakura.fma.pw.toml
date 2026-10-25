@@ -1,0 +1,8 @@
+name = "particle_season_sakura.fma"
+filename = "particle_season_sakura.fma"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/particle_season_sakura.fma"
+hash-format = "md5"
+hash = "8dc19beb17c8fce174030864a6e8ca6d"

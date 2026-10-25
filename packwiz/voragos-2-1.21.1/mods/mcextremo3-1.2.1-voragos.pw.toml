@@ -1,0 +1,8 @@
+name = "Minecraft Extremo 3"
+filename = "mcextremo3-1.2.1-voragos.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--mcextremo3-1.2.1-voragos.jar"
+hash-format = "md5"
+hash = "bd4ebe85f205bd897c09fceb4621bbcc"

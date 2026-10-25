@@ -1,0 +1,8 @@
+name = "NiftyCarts"
+filename = "niftycarts-21.1.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--niftycarts-21.1.1.jar"
+hash-format = "md5"
+hash = "2fd1237d2c627f059b6202efc27a235e"

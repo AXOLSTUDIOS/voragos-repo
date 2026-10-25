@@ -1,0 +1,8 @@
+name = "More Enchants"
+filename = "moreenchantments-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--moreenchantments-1.2.1.jar"
+hash-format = "md5"
+hash = "8c9ef01a8eda0b6696c66c651d92db8c"

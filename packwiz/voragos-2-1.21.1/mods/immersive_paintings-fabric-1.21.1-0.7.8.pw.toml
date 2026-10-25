@@ -1,0 +1,8 @@
+name = "Immersive Paintings"
+filename = "immersive_paintings-fabric-1.21.1-0.7.8.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--immersive_paintings-fabric-1.21.1-0.7.8.jar"
+hash-format = "md5"
+hash = "88efac14716e59b6eddf4da2bace83ba"

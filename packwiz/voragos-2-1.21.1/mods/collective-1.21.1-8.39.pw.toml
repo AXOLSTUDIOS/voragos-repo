@@ -1,0 +1,8 @@
+name = "Collective"
+filename = "collective-1.21.1-8.39.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--collective-1.21.1-8.39.jar"
+hash-format = "md5"
+hash = "7ae605279aacf6ae233bb1aafe2775c4"

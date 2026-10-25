@@ -1,0 +1,8 @@
+name = "Item Obliterator"
+filename = "Item_Obliterator-Fabric_Quilt-MC_1.21-3.1.1__4_.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--Item_Obliterator-Fabric_Quilt-MC_1.21-3.1.1__4_.jar"
+hash-format = "md5"
+hash = "0cba336efc008242654a9eb80947b89c"

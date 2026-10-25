@@ -1,0 +1,8 @@
+name = "Sodium Extras"
+filename = "sodiumextras-fabric-1.0.8-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--sodiumextras-fabric-1.0.8-1.21.1.jar"
+hash-format = "md5"
+hash = "96aea86ef993c13f9a7c145c95095977"

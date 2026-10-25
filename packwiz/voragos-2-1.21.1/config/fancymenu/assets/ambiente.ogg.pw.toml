@@ -1,0 +1,8 @@
+name = "ambiente.ogg"
+filename = "ambiente.ogg"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/ambiente.ogg"
+hash-format = "md5"
+hash = "f442409f7683ba4d10982a89b81130a9"

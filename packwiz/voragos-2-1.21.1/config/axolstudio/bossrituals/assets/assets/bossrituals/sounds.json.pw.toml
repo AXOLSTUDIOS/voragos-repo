@@ -1,0 +1,8 @@
+name = "sounds.json"
+filename = "sounds.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/axolstudio/bossrituals/assets/assets/bossrituals/sounds.json"
+hash-format = "md5"
+hash = "99914b932bd37a50b983c5e7c90ae93b"

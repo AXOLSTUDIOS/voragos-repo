@@ -1,0 +1,8 @@
+name = "buddy_save.json"
+filename = "buddy_save.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/fancymenu_data/buddy/buddy_save.json"
+hash-format = "md5"
+hash = "dc68d5845162ee81d1e37ea54c11e13c"

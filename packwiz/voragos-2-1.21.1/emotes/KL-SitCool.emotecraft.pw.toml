@@ -1,0 +1,8 @@
+name = "KL-SitCool.emotecraft"
+filename = "KL-SitCool.emotecraft"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/emotes/KL-SitCool.emotecraft"
+hash-format = "md5"
+hash = "74c4ca98896f57876384a1fe52dcc561"

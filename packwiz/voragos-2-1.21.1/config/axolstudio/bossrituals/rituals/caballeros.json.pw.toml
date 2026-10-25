@@ -1,0 +1,8 @@
+name = "caballeros.json"
+filename = "caballeros.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/axolstudio/bossrituals/rituals/caballeros.json"
+hash-format = "md5"
+hash = "465efe065dce588ae7fc1ecc4eaabfd0"

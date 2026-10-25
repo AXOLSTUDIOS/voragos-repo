@@ -1,0 +1,8 @@
+name = "title_screen_layout.txt"
+filename = "title_screen_layout.txt"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/customization/title_screen_layout.txt"
+hash-format = "md5"
+hash = "20900320066412a7293c83b68d9c0a50"

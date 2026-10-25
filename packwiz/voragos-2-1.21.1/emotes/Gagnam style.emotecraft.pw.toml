@@ -1,0 +1,8 @@
+name = "Gagnam style.emotecraft"
+filename = "Gagnam style.emotecraft"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/emotes/Gagnam%20style.emotecraft"
+hash-format = "md5"
+hash = "04c6ae206aefc6a240a3f28d56ba284f"

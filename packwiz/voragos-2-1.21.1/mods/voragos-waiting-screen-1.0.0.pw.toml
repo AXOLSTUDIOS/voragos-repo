@@ -1,0 +1,8 @@
+name = "Voragos Waiting Screen"
+filename = "voragos-waiting-screen-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--voragos-waiting-screen-1.0.0.jar"
+hash-format = "md5"
+hash = "5d8375321ef755277f47a13cf7e10e4d"

@@ -1,0 +1,8 @@
+name = "volveraljuego.png"
+filename = "volveraljuego.png"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/volveraljuego.png"
+hash-format = "md5"
+hash = "16ced6d46639725bca5c04fc4bb4ecda"

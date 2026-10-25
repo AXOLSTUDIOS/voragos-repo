@@ -1,0 +1,8 @@
+name = "eclipse_luna.json"
+filename = "eclipse_luna.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/axolstudio/bossrituals/hud/eclipse_luna.json"
+hash-format = "md5"
+hash = "71c80040626c64d899b028f84c30eb8d"

@@ -1,0 +1,8 @@
+name = "Repair-mod"
+filename = "repair-mod-0.0.5-1.21.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--repair-mod-0.0.5-1.21.1-fabric.jar"
+hash-format = "md5"
+hash = "bfe32e330e6f4a9841ceb03f55e942a6"

@@ -1,0 +1,8 @@
+name = "structure_toggle_config.json5"
+filename = "structure_toggle_config.json5"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/cristellib/terralith/structure_toggle_config.json5"
+hash-format = "md5"
+hash = "289aef084fcd91055b7b9655c3201d7d"

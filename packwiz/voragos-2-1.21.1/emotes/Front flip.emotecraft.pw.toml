@@ -1,0 +1,8 @@
+name = "Front flip.emotecraft"
+filename = "Front flip.emotecraft"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/emotes/Front%20flip.emotecraft"
+hash-format = "md5"
+hash = "4ab18f6394b31e7ea6b31ab528c7a9b0"

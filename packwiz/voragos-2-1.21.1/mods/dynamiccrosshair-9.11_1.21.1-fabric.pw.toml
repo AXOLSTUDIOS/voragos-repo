@@ -1,0 +1,8 @@
+name = "Dynamic Crosshair"
+filename = "dynamiccrosshair-9.11_1.21.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--dynamiccrosshair-9.11_1.21.1-fabric.jar"
+hash-format = "md5"
+hash = "835abe7c58e88701b69785c74dfcc3c0"

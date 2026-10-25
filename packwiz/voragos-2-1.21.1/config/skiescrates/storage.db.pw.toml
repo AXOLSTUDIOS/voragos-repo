@@ -1,0 +1,8 @@
+name = "storage.db"
+filename = "storage.db"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/skiescrates/storage.db"
+hash-format = "md5"
+hash = "aa3e5330f3f9029b665bb096ebd288dd"

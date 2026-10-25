@@ -1,0 +1,8 @@
+name = "Configured"
+filename = "configured-fabric-1.21.1-2.6.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--configured-fabric-1.21.1-2.6.3.jar"
+hash-format = "md5"
+hash = "b8f52c50212c6db4485535c6a9d5af9a"

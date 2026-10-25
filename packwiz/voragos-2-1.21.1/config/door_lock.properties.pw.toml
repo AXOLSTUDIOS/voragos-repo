@@ -1,0 +1,8 @@
+name = "door_lock.properties"
+filename = "door_lock.properties"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/door_lock.properties"
+hash-format = "md5"
+hash = "224bdc9d04bd4bc1040abc74dfcc0f0e"

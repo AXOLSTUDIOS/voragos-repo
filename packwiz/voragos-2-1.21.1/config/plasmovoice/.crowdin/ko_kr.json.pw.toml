@@ -1,0 +1,8 @@
+name = "ko_kr.json"
+filename = "ko_kr.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/plasmovoice/.crowdin/ko_kr.json"
+hash-format = "md5"
+hash = "ab87eb710206cd3eef9e1ba03f88bd57"

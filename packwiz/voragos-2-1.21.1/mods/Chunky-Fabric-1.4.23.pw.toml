@@ -1,0 +1,8 @@
+name = "Chunky"
+filename = "Chunky-Fabric-1.4.23.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--Chunky-Fabric-1.4.23.jar"
+hash-format = "md5"
+hash = "2f9ea1108ade07fc89d8e75a9510163c"

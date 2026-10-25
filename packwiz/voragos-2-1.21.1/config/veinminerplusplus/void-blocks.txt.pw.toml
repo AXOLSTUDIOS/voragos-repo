@@ -1,0 +1,8 @@
+name = "void-blocks.txt"
+filename = "void-blocks.txt"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/veinminerplusplus/void-blocks.txt"
+hash-format = "md5"
+hash = "c80a1c0b1553e63c95ff55db6a60eac3"

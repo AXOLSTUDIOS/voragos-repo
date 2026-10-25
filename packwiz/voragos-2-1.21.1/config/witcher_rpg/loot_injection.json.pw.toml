@@ -1,0 +1,8 @@
+name = "loot_injection.json"
+filename = "loot_injection.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/witcher_rpg/loot_injection.json"
+hash-format = "md5"
+hash = "612c05293ea2a4d2dd87c1ba49f74133"

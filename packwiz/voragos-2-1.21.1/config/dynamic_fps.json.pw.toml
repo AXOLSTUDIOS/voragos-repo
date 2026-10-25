@@ -1,0 +1,8 @@
+name = "dynamic_fps.json"
+filename = "dynamic_fps.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/dynamic_fps.json"
+hash-format = "md5"
+hash = "bd092eaba0699f6b229173e86b010eaf"

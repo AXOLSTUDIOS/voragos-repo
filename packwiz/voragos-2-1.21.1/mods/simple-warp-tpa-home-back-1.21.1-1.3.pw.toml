@@ -1,0 +1,8 @@
+name = "Simple-warp-tpa-home-back"
+filename = "simple-warp-tpa-home-back-1.21.1-1.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--simple-warp-tpa-home-back-1.21.1-1.3.jar"
+hash-format = "md5"
+hash = "cda71e46efd6676264a4af6273daf6d5"

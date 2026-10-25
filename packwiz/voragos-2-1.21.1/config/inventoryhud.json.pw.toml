@@ -1,0 +1,8 @@
+name = "inventoryhud.json"
+filename = "inventoryhud.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/inventoryhud.json"
+hash-format = "md5"
+hash = "99a7b10cd78ed19b6ca13d9dbce54cc9"

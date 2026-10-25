@@ -1,0 +1,8 @@
+name = "lootr.json"
+filename = "lootr.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/lootr.json"
+hash-format = "md5"
+hash = "e91f27a8e6a900f96f906a83345c0a3f"

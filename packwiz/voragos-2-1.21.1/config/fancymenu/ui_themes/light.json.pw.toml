@@ -1,0 +1,8 @@
+name = "light.json"
+filename = "light.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/ui_themes/light.json"
+hash-format = "md5"
+hash = "21a51e7a223939c9fae277fcd02cf4fc"

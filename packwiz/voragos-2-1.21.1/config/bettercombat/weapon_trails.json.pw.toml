@@ -1,0 +1,8 @@
+name = "weapon_trails.json"
+filename = "weapon_trails.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/bettercombat/weapon_trails.json"
+hash-format = "md5"
+hash = "edd1522cb4e3d28eb526e3c8f69af2d2"

@@ -1,0 +1,8 @@
+name = "circle.json"
+filename = "circle.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/skiescrates/particles/circle.json"
+hash-format = "md5"
+hash = "e8fed5c50348c160ad47459057dcea06"

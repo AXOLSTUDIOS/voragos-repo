@@ -1,0 +1,8 @@
+name = "Macaw's Fences and Walls"
+filename = "mcw-mcwfences-1.2.1-mc1.21.1fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--mcw-mcwfences-1.2.1-mc1.21.1fabric.jar"
+hash-format = "md5"
+hash = "e43b81245c7a783e6d2ea0e34c39b172"

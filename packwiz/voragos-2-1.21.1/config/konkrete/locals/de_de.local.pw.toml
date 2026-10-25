@@ -1,0 +1,8 @@
+name = "de_de.local"
+filename = "de_de.local"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/konkrete/locals/de_de.local"
+hash-format = "md5"
+hash = "3aac3df2519057d2305f894c37771e30"

@@ -1,0 +1,8 @@
+name = "witch_template.png"
+filename = "witch_template.png"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/easy_npc/skin/witch/witch_template.png"
+hash-format = "md5"
+hash = "3f15cb59a845607aca5614bd12e9df62"

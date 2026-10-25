@@ -1,0 +1,8 @@
+name = "Enchanting Infuser"
+filename = "EnchantingInfuser-v21.1.4-1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--EnchantingInfuser-v21.1.4-1.21.1-Fabric.jar"
+hash-format = "md5"
+hash = "470f89445f537fe855858676dae2e9e1"

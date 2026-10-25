@@ -1,0 +1,8 @@
+name = "logo_alan.png"
+filename = "logo_alan.png"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/logo_alan.png"
+hash-format = "md5"
+hash = "2ea3198ebd87574da13e56baae1b9c41"

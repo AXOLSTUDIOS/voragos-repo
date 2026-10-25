@@ -1,0 +1,8 @@
+name = "Lootr"
+filename = "lootr-fabric-1.21.1-1.11.38.126.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--lootr-fabric-1.21.1-1.11.38.126.jar"
+hash-format = "md5"
+hash = "3f60d9418e9146084d86946efe6a331a"

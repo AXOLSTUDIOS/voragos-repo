@@ -1,0 +1,8 @@
+name = "storm.json"
+filename = "storm.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/skiescrates/openings/inventory/storm.json"
+hash-format = "md5"
+hash = "b539647a6b93713f44365c71d01b73a3"

@@ -1,0 +1,8 @@
+name = "axiom.json"
+filename = "axiom.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/axiom/axiom.json"
+hash-format = "md5"
+hash = "4db2f5af4a74929e8bb831bd621bfee3"

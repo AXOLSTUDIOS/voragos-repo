@@ -1,0 +1,8 @@
+name = "client.json5"
+filename = "client.json5"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/bettercombat/client.json5"
+hash-format = "md5"
+hash = "30745bb72a61556f4e2cc0a0c045bbb7"

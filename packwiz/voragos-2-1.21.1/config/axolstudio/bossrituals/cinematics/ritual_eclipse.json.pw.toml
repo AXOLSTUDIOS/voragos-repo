@@ -1,0 +1,8 @@
+name = "ritual_eclipse.json"
+filename = "ritual_eclipse.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/axolstudio/bossrituals/cinematics/ritual_eclipse.json"
+hash-format = "md5"
+hash = "c228f6679245b7b6f422e04faf91e2e0"

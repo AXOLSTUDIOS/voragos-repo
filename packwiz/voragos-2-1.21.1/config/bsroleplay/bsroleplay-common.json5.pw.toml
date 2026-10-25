@@ -1,0 +1,8 @@
+name = "bsroleplay-common.json5"
+filename = "bsroleplay-common.json5"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/bsroleplay/bsroleplay-common.json5"
+hash-format = "md5"
+hash = "4886077fe50759f06248d0d1cd0a7938"

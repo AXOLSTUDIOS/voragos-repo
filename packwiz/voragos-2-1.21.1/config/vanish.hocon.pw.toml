@@ -1,0 +1,8 @@
+name = "vanish.hocon"
+filename = "vanish.hocon"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/vanish.hocon"
+hash-format = "md5"
+hash = "2524625ac9824cc227557d39e68b12c0"

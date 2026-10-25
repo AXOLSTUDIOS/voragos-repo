@@ -1,0 +1,8 @@
+name = "shields.json"
+filename = "shields.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/paladins/shields.json"
+hash-format = "md5"
+hash = "ae011c02f4cf0df883759ce8c245c35c"

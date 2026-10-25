@@ -1,0 +1,8 @@
+name = "WaterFrames"
+filename = "waterframes-FABRIC-mc1.21.1-v2.1.12b.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--waterframes-FABRIC-mc1.21.1-v2.1.12b.jar"
+hash-format = "md5"
+hash = "579d229bd78201306aea89d674587b04"

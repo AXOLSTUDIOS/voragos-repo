@@ -1,0 +1,8 @@
+name = "fortitude.json"
+filename = "fortitude.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/attributefix/extraspellattributes/fortitude.json"
+hash-format = "md5"
+hash = "f9d66bd962045a9eaf29a92b2cf1e711"

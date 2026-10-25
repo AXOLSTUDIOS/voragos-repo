@@ -1,0 +1,8 @@
+name = "ejemplo_wither.json"
+filename = "ejemplo_wither.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/axolstudio/bossrituals/bosses/ejemplo_wither.json"
+hash-format = "md5"
+hash = "3de05e8e0fbd6c378abf8969bb6f805e"

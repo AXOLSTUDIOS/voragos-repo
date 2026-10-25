@@ -1,0 +1,8 @@
+name = "custom_gui_screens.txt"
+filename = "custom_gui_screens.txt"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/custom_gui_screens.txt"
+hash-format = "md5"
+hash = "106e52948415f0879c53304f50783b28"

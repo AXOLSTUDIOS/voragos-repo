@@ -1,0 +1,8 @@
+name = "Resourcefulconfig"
+filename = "resourcefulconfig-fabric-1.21-3.0.11.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--resourcefulconfig-fabric-1.21-3.0.11.jar"
+hash-format = "md5"
+hash = "1ee62431638048c9c8188988a38b12bb"

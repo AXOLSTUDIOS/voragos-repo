@@ -1,0 +1,8 @@
+name = "generic.fall_damage_multiplier.json"
+filename = "generic.fall_damage_multiplier.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/attributefix/minecraft/generic.fall_damage_multiplier.json"
+hash-format = "md5"
+hash = "2d55e174c4e63027f66fba8a12a0b70c"

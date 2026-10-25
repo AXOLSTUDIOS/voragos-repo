@@ -1,0 +1,8 @@
+name = "jei-colors.ini"
+filename = "jei-colors.ini"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/jei/jei-colors.ini"
+hash-format = "md5"
+hash = "2b1d073ff360c11353f0079b7539cb2e"

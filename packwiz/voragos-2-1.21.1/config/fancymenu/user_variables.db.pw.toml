@@ -1,0 +1,8 @@
+name = "user_variables.db"
+filename = "user_variables.db"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/user_variables.db"
+hash-format = "md5"
+hash = "458e4f3f673e3fea22fb92bf76fcf912"

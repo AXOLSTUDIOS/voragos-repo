@@ -1,0 +1,8 @@
+name = "disc_3.png"
+filename = "disc_3.png"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/disc_3.png"
+hash-format = "md5"
+hash = "6f54e37e1e9fcf75837797e30c853847"

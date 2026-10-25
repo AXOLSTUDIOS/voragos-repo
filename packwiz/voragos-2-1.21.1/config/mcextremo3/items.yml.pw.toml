@@ -1,0 +1,8 @@
+name = "items.yml"
+filename = "items.yml"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/mcextremo3/items.yml"
+hash-format = "md5"
+hash = "ab046d409862f7256e19db4cf9a4ee98"

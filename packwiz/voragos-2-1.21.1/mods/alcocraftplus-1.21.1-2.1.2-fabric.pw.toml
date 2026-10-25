@@ -1,0 +1,8 @@
+name = "AlcoCraft+"
+filename = "alcocraftplus-1.21.1-2.1.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--alcocraftplus-1.21.1-2.1.2-fabric.jar"
+hash-format = "md5"
+hash = "9585953ec64ed6c2dbb47a2e91eb6bc3"

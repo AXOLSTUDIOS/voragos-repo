@@ -1,0 +1,8 @@
+name = "pfm.json"
+filename = "pfm.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pfm.json"
+hash-format = "md5"
+hash = "93c6e387b88b4589b12b36aece7b314f"

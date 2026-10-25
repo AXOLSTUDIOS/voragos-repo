@@ -1,0 +1,8 @@
+name = "spider_template.png"
+filename = "spider_template.png"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/easy_npc/skin/spider/spider_template.png"
+hash-format = "md5"
+hash = "03664e96aea4f091f754f2b853f2b853"

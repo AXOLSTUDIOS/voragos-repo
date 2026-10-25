@@ -1,0 +1,8 @@
+name = "AppleSkin"
+filename = "appleskin-fabric-mc1.21-3.0.6.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--appleskin-fabric-mc1.21-3.0.6.jar"
+hash-format = "md5"
+hash = "a24c435e84973afd607e20395ecba19d"

@@ -1,0 +1,8 @@
+name = "punto_y_coma.png"
+filename = "punto_y_coma.png"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/punto_y_coma.png"
+hash-format = "md5"
+hash = "fd382d4c20fff9470ea2dda84d40f02a"

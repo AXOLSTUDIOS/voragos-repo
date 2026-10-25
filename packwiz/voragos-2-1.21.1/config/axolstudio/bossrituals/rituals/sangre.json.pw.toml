@@ -1,0 +1,8 @@
+name = "sangre.json"
+filename = "sangre.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/axolstudio/bossrituals/rituals/sangre.json"
+hash-format = "md5"
+hash = "92c7e41823785ec15d2a35b46888d28a"

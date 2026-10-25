@@ -1,0 +1,8 @@
+name = "TwilightTeleport"
+filename = "TwilightTeleport-1.0.1-axolfabric1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--TwilightTeleport-1.0.1-axolfabric1.21.1.jar"
+hash-format = "md5"
+hash = "bc3f1f798fddd90321801e94389625b5"

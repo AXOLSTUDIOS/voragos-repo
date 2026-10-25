@@ -1,0 +1,8 @@
+name = "waystones-common.toml"
+filename = "waystones-common.toml"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/waystones-common.toml"
+hash-format = "md5"
+hash = "cea0c3f9e747e524ff20ab2f678515a9"

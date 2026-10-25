@@ -1,0 +1,8 @@
+name = "SiegeMachines"
+filename = "siege-machines-1.21.1-fabric-1.39-axol.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--siege-machines-1.21.1-fabric-1.39-axol.2.jar"
+hash-format = "md5"
+hash = "fd5026af827e2dc8af1ab8bdc3b903cb"

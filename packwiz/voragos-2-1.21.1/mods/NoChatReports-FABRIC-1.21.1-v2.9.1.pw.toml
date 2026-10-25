@@ -1,0 +1,8 @@
+name = "No Chat Reports"
+filename = "NoChatReports-FABRIC-1.21.1-v2.9.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--NoChatReports-FABRIC-1.21.1-v2.9.1.jar"
+hash-format = "md5"
+hash = "2dce5b67904bc681b1a166b49e66efdc"

@@ -1,0 +1,8 @@
+name = "tree_frame.png"
+filename = "tree_frame.png"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/tree_frame.png"
+hash-format = "md5"
+hash = "f7014a75a99e82cace3925d730aae39b"

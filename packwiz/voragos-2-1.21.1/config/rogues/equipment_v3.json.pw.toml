@@ -1,0 +1,8 @@
+name = "equipment_v3.json"
+filename = "equipment_v3.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/rogues/equipment_v3.json"
+hash-format = "md5"
+hash = "a7fdee98d2a9d5c59cb1d087ac01e90d"

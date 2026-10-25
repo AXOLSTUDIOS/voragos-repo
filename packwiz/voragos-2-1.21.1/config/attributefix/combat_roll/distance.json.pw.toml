@@ -1,0 +1,8 @@
+name = "distance.json"
+filename = "distance.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/attributefix/combat_roll/distance.json"
+hash-format = "md5"
+hash = "a5fa19174214a439540d1a193452c8e7"

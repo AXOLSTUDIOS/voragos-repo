@@ -1,0 +1,8 @@
+name = "imgui.ini"
+filename = "imgui.ini"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/axiom/imgui.ini"
+hash-format = "md5"
+hash = "b2c9c8e0275fe06f0eda6dcead2d6434"

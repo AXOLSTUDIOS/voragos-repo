@@ -1,0 +1,8 @@
+name = "Misiones"
+filename = "misiones-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--misiones-1.0.1.jar"
+hash-format = "md5"
+hash = "b849330ed934271499b4a856501c5fbc"

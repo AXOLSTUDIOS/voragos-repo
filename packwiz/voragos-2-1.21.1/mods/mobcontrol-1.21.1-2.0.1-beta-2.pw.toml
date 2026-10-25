@@ -1,0 +1,8 @@
+name = "Mob Control"
+filename = "mobcontrol-1.21.1-2.0.1-beta-2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--mobcontrol-1.21.1-2.0.1-beta-2.jar"
+hash-format = "md5"
+hash = "25d314e04d15ad56cb2df68004a06735"

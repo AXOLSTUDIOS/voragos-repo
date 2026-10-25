@@ -1,0 +1,8 @@
+name = "OnTime"
+filename = "ontime_fabric_1.21.1-5.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--ontime_fabric_1.21.1-5.0.0.jar"
+hash-format = "md5"
+hash = "691f6c58f64da5330da81cdd71394fff"

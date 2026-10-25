@@ -1,0 +1,8 @@
+name = "freecam.json5"
+filename = "freecam.json5"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/freecam.json5"
+hash-format = "md5"
+hash = "27485e9c8a6fa8fe0f8b9c8df3166dba"

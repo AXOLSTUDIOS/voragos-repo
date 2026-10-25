@@ -1,0 +1,8 @@
+name = "tweaks.json"
+filename = "tweaks.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/rogues/tweaks.json"
+hash-format = "md5"
+hash = "988f2268de8443f81de408f491823a04"

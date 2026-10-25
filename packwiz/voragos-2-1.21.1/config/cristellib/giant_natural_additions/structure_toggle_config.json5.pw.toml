@@ -1,0 +1,8 @@
+name = "structure_toggle_config.json5"
+filename = "structure_toggle_config.json5"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/cristellib/giant_natural_additions/structure_toggle_config.json5"
+hash-format = "md5"
+hash = "da42f1e259a1461aac5e08bfa174b99a"

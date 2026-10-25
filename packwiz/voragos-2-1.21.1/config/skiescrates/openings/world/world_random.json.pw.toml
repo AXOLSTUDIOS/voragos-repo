@@ -1,0 +1,8 @@
+name = "world_random.json"
+filename = "world_random.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/skiescrates/openings/world/world_random.json"
+hash-format = "md5"
+hash = "3a305c9e0c564b0b5f4521dcce55a9ec"

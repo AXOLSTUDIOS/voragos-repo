@@ -1,0 +1,8 @@
+name = "dreadkeep-client.json"
+filename = "dreadkeep-client.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/dreadkeep-client.json"
+hash-format = "md5"
+hash = "682ec6b42265cbf4ee517e9ffbebada5"

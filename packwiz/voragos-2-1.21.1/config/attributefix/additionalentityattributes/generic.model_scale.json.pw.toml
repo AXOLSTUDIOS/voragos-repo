@@ -1,0 +1,8 @@
+name = "generic.model_scale.json"
+filename = "generic.model_scale.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/attributefix/additionalentityattributes/generic.model_scale.json"
+hash-format = "md5"
+hash = "687b9cd1c2ef3fa5506723cec6d8764d"

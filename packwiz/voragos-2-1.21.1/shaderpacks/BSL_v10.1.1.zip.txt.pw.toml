@@ -1,0 +1,8 @@
+name = "BSL_v10.1.1.zip.txt"
+filename = "BSL_v10.1.1.zip.txt"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/shaderpacks/BSL_v10.1.1.zip.txt"
+hash-format = "md5"
+hash = "4c30ea8fb45e5ce3e8c02d0c7fcda931"

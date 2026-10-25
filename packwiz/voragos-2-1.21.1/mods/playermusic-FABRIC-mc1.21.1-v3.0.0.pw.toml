@@ -1,0 +1,8 @@
+name = "PlayerMusic"
+filename = "playermusic-FABRIC-mc1.21.1-v3.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--playermusic-FABRIC-mc1.21.1-v3.0.0.jar"
+hash-format = "md5"
+hash = "b20905f9e4feee36d067b053db08628a"

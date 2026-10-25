@@ -1,0 +1,8 @@
+name = "justhammers.json"
+filename = "justhammers.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/justhammers.json"
+hash-format = "md5"
+hash = "591bfff95eff1d2e12b03d355fc34f71"

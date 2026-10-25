@@ -1,0 +1,8 @@
+name = "Minecraft Comes Alive"
+filename = "mca-fabric-7.7.32_1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--mca-fabric-7.7.32_1.21.1.jar"
+hash-format = "md5"
+hash = "bd4dd923e93192df3b446a2833d1636f"

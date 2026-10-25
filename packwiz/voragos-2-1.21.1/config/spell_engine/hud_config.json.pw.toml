@@ -1,0 +1,8 @@
+name = "hud_config.json"
+filename = "hud_config.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/spell_engine/hud_config.json"
+hash-format = "md5"
+hash = "450e49fb63c66ee588a8fdd38c329570"

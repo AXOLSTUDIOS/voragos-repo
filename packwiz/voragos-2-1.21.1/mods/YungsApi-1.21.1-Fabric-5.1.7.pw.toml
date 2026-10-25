@@ -1,0 +1,8 @@
+name = "YUNG's API"
+filename = "YungsApi-1.21.1-Fabric-5.1.7.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--YungsApi-1.21.1-Fabric-5.1.7.jar"
+hash-format = "md5"
+hash = "cf7fd69131b308b3cf6d2aa87eace581"

@@ -1,0 +1,8 @@
+name = "Medieval Music Mod"
+filename = "zmedievalmusic-fabric-1.21-2.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--zmedievalmusic-fabric-1.21-2.1.jar"
+hash-format = "md5"
+hash = "8fb5054c23e7e07ddd01546e54b850ea"

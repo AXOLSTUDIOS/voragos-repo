@@ -1,0 +1,8 @@
+name = "equipment_v2.json"
+filename = "equipment_v2.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/artificers/equipment_v2.json"
+hash-format = "md5"
+hash = "e3a374a27dfdfd6c27f9b2fb66c21093"

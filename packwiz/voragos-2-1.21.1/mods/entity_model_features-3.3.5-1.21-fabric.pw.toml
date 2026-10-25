@@ -1,0 +1,8 @@
+name = "Entity Model Features"
+filename = "entity_model_features-3.3.5-1.21-fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--entity_model_features-3.3.5-1.21-fabric.jar"
+hash-format = "md5"
+hash = "34756d245f323854b1119d1be163b94f"

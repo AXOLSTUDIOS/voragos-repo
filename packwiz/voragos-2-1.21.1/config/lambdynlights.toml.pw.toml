@@ -1,0 +1,8 @@
+name = "lambdynlights.toml"
+filename = "lambdynlights.toml"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/lambdynlights.toml"
+hash-format = "md5"
+hash = "ea1917df0f1c3fd26e782f0d9f5a63cc"

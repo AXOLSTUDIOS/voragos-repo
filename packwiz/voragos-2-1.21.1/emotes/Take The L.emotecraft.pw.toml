@@ -1,0 +1,8 @@
+name = "Take The L.emotecraft"
+filename = "Take The L.emotecraft"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/emotes/Take%20The%20L.emotecraft"
+hash-format = "md5"
+hash = "acb99c11f344de8854865211ccbca764"

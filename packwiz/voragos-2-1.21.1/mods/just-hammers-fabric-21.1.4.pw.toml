@@ -1,0 +1,8 @@
+name = "Just Hammers"
+filename = "just-hammers-fabric-21.1.4.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--just-hammers-fabric-21.1.4.jar"
+hash-format = "md5"
+hash = "709cf9b716871e3ecca862dff129fb47"

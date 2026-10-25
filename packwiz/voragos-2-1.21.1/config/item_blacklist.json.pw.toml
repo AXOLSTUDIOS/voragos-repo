@@ -1,0 +1,8 @@
+name = "item_blacklist.json"
+filename = "item_blacklist.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/item_blacklist.json"
+hash-format = "md5"
+hash = "8858e39a7a5d1c751af290274f9450d8"

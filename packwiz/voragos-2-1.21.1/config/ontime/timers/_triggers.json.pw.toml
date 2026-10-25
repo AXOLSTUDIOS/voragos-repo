@@ -1,0 +1,8 @@
+name = "_triggers.json"
+filename = "_triggers.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/ontime/timers/_triggers.json"
+hash-format = "md5"
+hash = "dbfd2f3a3a0be509913cf0b77529ef74"

@@ -1,0 +1,8 @@
+name = "effects.json"
+filename = "effects.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/wizards/effects.json"
+hash-format = "md5"
+hash = "532d9e21d7cedd1323dccf012c96e9bf"

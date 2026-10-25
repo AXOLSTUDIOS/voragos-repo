@@ -1,0 +1,8 @@
+name = "translations.zip"
+filename = "translations.zip"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/axiom/translations.zip"
+hash-format = "md5"
+hash = "46b28cd829321c6159c7e6563e7b5aef"

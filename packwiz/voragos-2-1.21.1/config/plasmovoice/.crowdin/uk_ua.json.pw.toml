@@ -1,0 +1,8 @@
+name = "uk_ua.json"
+filename = "uk_ua.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/plasmovoice/.crowdin/uk_ua.json"
+hash-format = "md5"
+hash = "a68060377351fcfdbf5c0af87330e6c7"

@@ -1,0 +1,8 @@
+name = "betterchunkloading.json"
+filename = "betterchunkloading.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/betterchunkloading.json"
+hash-format = "md5"
+hash = "ff1598c81880a664b6b655cd79c5ab66"

@@ -1,0 +1,8 @@
+name = "marco_ejemplo.png"
+filename = "marco_ejemplo.png"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/axolstudio/bossrituals/hud_images/marco_ejemplo.png"
+hash-format = "md5"
+hash = "67e1a9e75ba278c1376ba882b8337519"

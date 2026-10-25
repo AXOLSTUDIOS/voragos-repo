@@ -1,0 +1,8 @@
+name = "AttributeFix"
+filename = "attributefix-fabric-1.21.1-21.1.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--attributefix-fabric-1.21.1-21.1.3.jar"
+hash-format = "md5"
+hash = "28af5a62c2c3d8e9baf7e74ce4549ac8"

@@ -1,0 +1,8 @@
+name = "NCR-Client.json"
+filename = "NCR-Client.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/NoChatReports/NCR-Client.json"
+hash-format = "md5"
+hash = "37b8f0ed4931d2d3e87b0f4831a95d2e"

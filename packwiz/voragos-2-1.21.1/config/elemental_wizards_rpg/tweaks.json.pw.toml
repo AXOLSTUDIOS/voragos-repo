@@ -1,0 +1,8 @@
+name = "tweaks.json"
+filename = "tweaks.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/elemental_wizards_rpg/tweaks.json"
+hash-format = "md5"
+hash = "24cd8e95241a20cca7c4d0595510d54b"

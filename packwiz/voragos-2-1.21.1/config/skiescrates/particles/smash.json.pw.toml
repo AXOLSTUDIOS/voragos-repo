@@ -1,0 +1,8 @@
+name = "smash.json"
+filename = "smash.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/skiescrates/particles/smash.json"
+hash-format = "md5"
+hash = "3a8fdfbd011da440da72c1be08bbb04b"

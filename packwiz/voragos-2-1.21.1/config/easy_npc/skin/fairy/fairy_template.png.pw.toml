@@ -1,0 +1,8 @@
+name = "fairy_template.png"
+filename = "fairy_template.png"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/easy_npc/skin/fairy/fairy_template.png"
+hash-format = "md5"
+hash = "531b238034eb6fdcf494378d6de62d69"

@@ -1,0 +1,8 @@
+name = "ritual_pedestals.json"
+filename = "ritual_pedestals.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/axolstudio/bossrituals/cinematics/ritual_pedestals.json"
+hash-format = "md5"
+hash = "b70d551b30e5082ab6bcfddee62d0cbd"

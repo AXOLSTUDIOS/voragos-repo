@@ -1,0 +1,8 @@
+name = "Walking.emotecraft"
+filename = "Walking.emotecraft"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/emotes/Walking.emotecraft"
+hash-format = "md5"
+hash = "7ac93b0c0818883873b482ddda4bd471"

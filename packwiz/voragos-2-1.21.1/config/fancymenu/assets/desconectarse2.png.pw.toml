@@ -1,0 +1,8 @@
+name = "desconectarse2.png"
+filename = "desconectarse2.png"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/desconectarse2.png"
+hash-format = "md5"
+hash = "6aa6018a616bc2f8f5fd278eb681fd90"

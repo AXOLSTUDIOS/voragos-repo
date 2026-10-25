@@ -1,0 +1,8 @@
+name = "chicken_template.png"
+filename = "chicken_template.png"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/easy_npc/skin/chicken/chicken_template.png"
+hash-format = "md5"
+hash = "f06078d2850eb0020f2e86dd93c84a5a"

@@ -1,0 +1,8 @@
+name = "Load My F***ing Tags"
+filename = "lmft-1.1.1_1.21.9-fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--lmft-1.1.1_1.21.9-fabric.jar"
+hash-format = "md5"
+hash = "e7a53c88031b0732fd6023e13f60795f"

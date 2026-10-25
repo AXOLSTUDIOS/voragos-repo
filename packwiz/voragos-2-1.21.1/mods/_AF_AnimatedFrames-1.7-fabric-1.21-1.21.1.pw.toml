@@ -1,0 +1,8 @@
+name = "[AF]AnimatedFrames"
+filename = "_AF_AnimatedFrames-1.7-fabric-1.21-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--_AF_AnimatedFrames-1.7-fabric-1.21-1.21.1.jar"
+hash-format = "md5"
+hash = "a407c76136e3a95a6b02601c40a6982e"

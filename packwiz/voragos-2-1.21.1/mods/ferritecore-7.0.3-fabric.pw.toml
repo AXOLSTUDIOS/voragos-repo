@@ -1,0 +1,8 @@
+name = "FerriteCore"
+filename = "ferritecore-7.0.3-fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--ferritecore-7.0.3-fabric.jar"
+hash-format = "md5"
+hash = "b8513c8c3eef01ea1117ed8d8cba060d"

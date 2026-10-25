@@ -1,0 +1,8 @@
+name = "MCEF (Minecraft Chromium Embedded Framework)"
+filename = "mcef-fabric-2.1.5-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--mcef-fabric-2.1.5-1.21.1.jar"
+hash-format = "md5"
+hash = "762fb527618414fc2d449dca9dfb4ef2"

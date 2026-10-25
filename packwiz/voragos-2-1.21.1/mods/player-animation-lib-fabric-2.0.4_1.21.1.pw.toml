@@ -1,0 +1,8 @@
+name = "Player Animator"
+filename = "player-animation-lib-fabric-2.0.4_1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--player-animation-lib-fabric-2.0.4_1.21.1.jar"
+hash-format = "md5"
+hash = "93e684b0c741294dc2ac7e6b1f958dd2"

@@ -1,0 +1,8 @@
+name = "TorneyBook"
+filename = "torneybook-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--torneybook-1.0.4.jar"
+hash-format = "md5"
+hash = "0498a48a713072daf462350adeceb5e5"

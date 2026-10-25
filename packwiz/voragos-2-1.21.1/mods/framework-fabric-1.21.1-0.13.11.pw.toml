@@ -1,0 +1,8 @@
+name = "Framework"
+filename = "framework-fabric-1.21.1-0.13.11.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--framework-fabric-1.21.1-0.13.11.jar"
+hash-format = "md5"
+hash = "dd84f69d6773a1c48394149039154539"

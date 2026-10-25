@@ -1,0 +1,8 @@
+name = "lithium.properties"
+filename = "lithium.properties"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/lithium.properties"
+hash-format = "md5"
+hash = "65a61a8f2201e0a571d48a7f0295da19"

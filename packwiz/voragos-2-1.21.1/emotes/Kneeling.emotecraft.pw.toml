@@ -1,0 +1,8 @@
+name = "Kneeling.emotecraft"
+filename = "Kneeling.emotecraft"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/emotes/Kneeling.emotecraft"
+hash-format = "md5"
+hash = "af65e0bbc39d3d3427e6273a7282e979"

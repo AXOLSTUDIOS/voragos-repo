@@ -1,0 +1,8 @@
+name = "KL-HandsBehindTheBback (1).emotecraft"
+filename = "KL-HandsBehindTheBback (1).emotecraft"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/emotes/KL-HandsBehindTheBback%20(1).emotecraft"
+hash-format = "md5"
+hash = "d248accb27d6af95d2dd4f8e68706e6e"

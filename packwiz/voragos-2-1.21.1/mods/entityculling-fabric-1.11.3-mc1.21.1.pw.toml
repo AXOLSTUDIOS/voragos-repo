@@ -1,0 +1,8 @@
+name = "EntityCulling"
+filename = "entityculling-fabric-1.11.3-mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--entityculling-fabric-1.11.3-mc1.21.1.jar"
+hash-format = "md5"
+hash = "5496362052a938cb668e050ef6a106b4"

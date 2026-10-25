@@ -1,0 +1,8 @@
+name = "fuente_del_azar.json"
+filename = "fuente_del_azar.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fuente_del_azar.json"
+hash-format = "md5"
+hash = "09cbfa939d37ef078360432f80cdd710"

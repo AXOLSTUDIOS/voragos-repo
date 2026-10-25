@@ -1,0 +1,8 @@
+name = "bossrituals.json"
+filename = "bossrituals.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/axolstudio/bossrituals/bossrituals.json"
+hash-format = "md5"
+hash = "7c72cb6ede670656ee3d56044b70a24d"

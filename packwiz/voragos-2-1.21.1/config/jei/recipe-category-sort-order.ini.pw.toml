@@ -1,0 +1,8 @@
+name = "recipe-category-sort-order.ini"
+filename = "recipe-category-sort-order.ini"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/jei/recipe-category-sort-order.ini"
+hash-format = "md5"
+hash = "9225862f055db397748f4c90ed13b856"

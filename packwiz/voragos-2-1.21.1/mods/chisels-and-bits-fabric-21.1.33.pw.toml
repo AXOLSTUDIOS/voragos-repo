@@ -1,0 +1,8 @@
+name = "Chisels & Bits"
+filename = "chisels-and-bits-fabric-21.1.33.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--chisels-and-bits-fabric-21.1.33.jar"
+hash-format = "md5"
+hash = "cb16b2acb4b1a47dbc028d85a0618d4e"

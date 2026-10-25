@@ -1,0 +1,8 @@
+name = "gpu_booster_config.json"
+filename = "gpu_booster_config.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/gpu_booster_config.json"
+hash-format = "md5"
+hash = "730869d99794d680dde00b50379b768a"

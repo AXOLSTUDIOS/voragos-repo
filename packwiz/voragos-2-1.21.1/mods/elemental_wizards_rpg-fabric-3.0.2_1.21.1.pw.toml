@@ -1,0 +1,8 @@
+name = "Elemental Wizards (RPG Series Plus)"
+filename = "elemental_wizards_rpg-fabric-3.0.2_1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--elemental_wizards_rpg-fabric-3.0.2_1.21.1.jar"
+hash-format = "md5"
+hash = "2204551dc46bcab0904ef9cf92fffb4d"

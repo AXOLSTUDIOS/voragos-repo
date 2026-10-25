@@ -1,0 +1,8 @@
+name = "common_config.toml"
+filename = "common_config.toml"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/immersive_paintings/common_config.toml"
+hash-format = "md5"
+hash = "21daeabd954deb4c46d4a6807f7d26a4"

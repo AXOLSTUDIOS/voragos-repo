@@ -1,0 +1,8 @@
+name = "render_entity_type_support.cfg"
+filename = "render_entity_type_support.cfg"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/easy_npc/render_entity_type_support.cfg"
+hash-format = "md5"
+hash = "f6eabe0e6d110b948d10ea1945d62715"

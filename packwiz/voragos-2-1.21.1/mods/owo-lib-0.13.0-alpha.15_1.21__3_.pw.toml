@@ -1,0 +1,8 @@
+name = "Oωo"
+filename = "owo-lib-0.13.0-alpha.15_1.21__3_.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--owo-lib-0.13.0-alpha.15_1.21__3_.jar"
+hash-format = "md5"
+hash = "a3eb2ecafeb4bc1fb453b13cb43a12c1"

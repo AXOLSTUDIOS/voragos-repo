@@ -1,0 +1,8 @@
+name = "player.bonus_loot_count_rolls.json"
+filename = "player.bonus_loot_count_rolls.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/attributefix/additionalentityattributes/player.bonus_loot_count_rolls.json"
+hash-format = "md5"
+hash = "23b8d1b18ef85c4c6a0d1e2411f5bd3c"

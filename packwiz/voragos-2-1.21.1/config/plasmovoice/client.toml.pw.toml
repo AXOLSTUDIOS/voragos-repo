@@ -1,0 +1,8 @@
+name = "client.toml"
+filename = "client.toml"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/plasmovoice/client.toml"
+hash-format = "md5"
+hash = "f1c3cc26c517f9c49b46d1ac3ac9b4c1"

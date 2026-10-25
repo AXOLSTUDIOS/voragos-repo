@@ -1,0 +1,8 @@
+name = "buddy_leveling.json"
+filename = "buddy_leveling.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/fancymenu_data/buddy/buddy_leveling.json"
+hash-format = "md5"
+hash = "e04a398b8ea5086f2c2d1287cdf72ffa"

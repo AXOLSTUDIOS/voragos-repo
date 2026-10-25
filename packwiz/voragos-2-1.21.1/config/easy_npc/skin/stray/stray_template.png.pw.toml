@@ -1,0 +1,8 @@
+name = "stray_template.png"
+filename = "stray_template.png"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/easy_npc/skin/stray/stray_template.png"
+hash-format = "md5"
+hash = "66e672cdead5768165586f4b24c1f61c"

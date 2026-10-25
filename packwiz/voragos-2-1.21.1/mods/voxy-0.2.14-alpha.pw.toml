@@ -1,0 +1,8 @@
+name = "Voxy"
+filename = "voxy-0.2.14-alpha.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--voxy-0.2.14-alpha.jar"
+hash-format = "md5"
+hash = "1a0c6976160bd10810411a44dc6345d1"

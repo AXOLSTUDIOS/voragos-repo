@@ -1,0 +1,8 @@
+name = "WaterMedia: Binaries"
+filename = "wm_binaries-3.0.0-rc.1__1_.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--wm_binaries-3.0.0-rc.1__1_.jar"
+hash-format = "md5"
+hash = "67e097835161c6c4f7c5325624fc51fb"

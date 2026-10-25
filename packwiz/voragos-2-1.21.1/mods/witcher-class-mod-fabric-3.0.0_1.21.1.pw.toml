@@ -1,0 +1,8 @@
+name = "Witcher Class Mod"
+filename = "witcher-class-mod-fabric-3.0.0_1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--witcher-class-mod-fabric-3.0.0_1.21.1.jar"
+hash-format = "md5"
+hash = "c4601e83f9fcf8d31589f9a4e4167dfa"

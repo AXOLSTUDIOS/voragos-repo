@@ -1,0 +1,8 @@
+name = "logo.png"
+filename = "logo.png"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/logo.png"
+hash-format = "md5"
+hash = "da1fc4b87ad59eda2611ace95632f44c"

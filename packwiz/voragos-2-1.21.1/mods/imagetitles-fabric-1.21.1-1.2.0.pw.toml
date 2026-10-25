@@ -1,0 +1,8 @@
+name = "ImageTitles"
+filename = "imagetitles-fabric-1.21.1-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--imagetitles-fabric-1.21.1-1.2.0.jar"
+hash-format = "md5"
+hash = "0213fe481b497dddafe2a7cd4ba15ecb"

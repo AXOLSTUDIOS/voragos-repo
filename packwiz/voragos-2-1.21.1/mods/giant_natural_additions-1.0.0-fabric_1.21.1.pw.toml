@@ -1,0 +1,8 @@
+name = "Giant Natural Additions"
+filename = "giant_natural_additions-1.0.0-fabric_1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--giant_natural_additions-1.0.0-fabric_1.21.1.jar"
+hash-format = "md5"
+hash = "f062957cb439c94f58f02388646f08a4"

@@ -1,0 +1,8 @@
+name = "anime_dance.json"
+filename = "anime_dance.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/emotes/anime_dance.json"
+hash-format = "md5"
+hash = "68ace021420e286e96ef912b4a82511d"

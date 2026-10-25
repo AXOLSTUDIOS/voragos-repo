@@ -1,0 +1,8 @@
+name = "toadlib_config.json"
+filename = "toadlib_config.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/toadlib_config.json"
+hash-format = "md5"
+hash = "4a0040d6185e0aa734fa3661d1b296c5"

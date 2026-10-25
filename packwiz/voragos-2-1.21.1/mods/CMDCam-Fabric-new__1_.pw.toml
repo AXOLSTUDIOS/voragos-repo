@@ -1,0 +1,8 @@
+name = "CMDCam"
+filename = "CMDCam-Fabric-new__1_.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--CMDCam-Fabric-new__1_.jar"
+hash-format = "md5"
+hash = "1e2275c9060d67c0aa179808d227cb56"

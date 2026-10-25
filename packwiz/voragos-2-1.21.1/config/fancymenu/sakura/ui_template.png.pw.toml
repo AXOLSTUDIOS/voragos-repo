@@ -1,0 +1,8 @@
+name = "ui_template.png"
+filename = "ui_template.png"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/ui_template.png"
+hash-format = "md5"
+hash = "1fdbefd882b2a6de45f48ebae4838571"

@@ -1,0 +1,8 @@
+name = "equipment_v1.json"
+filename = "equipment_v1.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/elemental_wizards_rpg/equipment_v1.json"
+hash-format = "md5"
+hash = "ba2e4d373098de83feb1fe0f54a1bd9e"

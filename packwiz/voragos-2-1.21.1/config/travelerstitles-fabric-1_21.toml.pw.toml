@@ -1,0 +1,8 @@
+name = "travelerstitles-fabric-1_21.toml"
+filename = "travelerstitles-fabric-1_21.toml"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/travelerstitles-fabric-1_21.toml"
+hash-format = "md5"
+hash = "4e45ec16b5161240a10c1d8aad7c1a0e"

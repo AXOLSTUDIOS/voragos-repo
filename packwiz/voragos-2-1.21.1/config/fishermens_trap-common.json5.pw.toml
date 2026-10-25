@@ -1,0 +1,8 @@
+name = "fishermens_trap-common.json5"
+filename = "fishermens_trap-common.json5"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fishermens_trap-common.json5"
+hash-format = "md5"
+hash = "20245c4497ca24f9c6959390d76347a5"

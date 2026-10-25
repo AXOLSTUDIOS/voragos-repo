@@ -1,0 +1,8 @@
+name = "options.txt"
+filename = "options.txt"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/options.txt"
+hash-format = "md5"
+hash = "a16f699140de3b715c705e18510060d5"

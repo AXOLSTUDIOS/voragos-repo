@@ -1,0 +1,8 @@
+name = "Shuffle.emotecraft"
+filename = "Shuffle.emotecraft"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/emotes/Shuffle.emotecraft"
+hash-format = "md5"
+hash = "9d1da1bb24d1c1bd68b289e90a5304b4"

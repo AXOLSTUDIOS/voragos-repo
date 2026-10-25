@@ -1,0 +1,8 @@
+name = "player.entity_interaction_range.json"
+filename = "player.entity_interaction_range.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/attributefix/minecraft/player.entity_interaction_range.json"
+hash-format = "md5"
+hash = "4b5ce9eb02b47618d4cb468da0e597e1"

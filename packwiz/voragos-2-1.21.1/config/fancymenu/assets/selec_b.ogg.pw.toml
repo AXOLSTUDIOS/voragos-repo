@@ -1,0 +1,8 @@
+name = "selec_b.ogg"
+filename = "selec_b.ogg"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/selec_b.ogg"
+hash-format = "md5"
+hash = "81727f331260425421b0dcf5d085da08"

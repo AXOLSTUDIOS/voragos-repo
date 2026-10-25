@@ -1,0 +1,8 @@
+name = "ent_mundo.ogg"
+filename = "ent_mundo.ogg"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/ent_mundo.ogg"
+hash-format = "md5"
+hash = "2daf82841a2a143ae6d54998e356754e"

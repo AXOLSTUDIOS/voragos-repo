@@ -1,0 +1,8 @@
+name = "SkiesCrates"
+filename = "SkiesCrates-fabric-1.21.1-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--SkiesCrates-fabric-1.21.1-1.0.5.jar"
+hash-format = "md5"
+hash = "6810a6df2e3b5ba222939ad319f07513"

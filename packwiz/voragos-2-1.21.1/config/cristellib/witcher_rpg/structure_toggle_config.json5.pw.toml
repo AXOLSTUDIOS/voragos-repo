@@ -1,0 +1,8 @@
+name = "structure_toggle_config.json5"
+filename = "structure_toggle_config.json5"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/cristellib/witcher_rpg/structure_toggle_config.json5"
+hash-format = "md5"
+hash = "5af7f9ac7af86d04106ef99ad99697fc"

@@ -635,9 +635,9 @@
           "name": "Dreadkeep: Mazmorras Vivas",
           "type": "FabricMod",
           "artifact": {
-            "size": 2660055,
+            "size": 2662234,
             "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--dreadkeep-0.2.0.jar",
-            "MD5": "d398958c834178e4764b7ebc566e4d71"
+            "MD5": "afc5f5b8228932cd4f39e2d0df292b94"
           }
         },
         {

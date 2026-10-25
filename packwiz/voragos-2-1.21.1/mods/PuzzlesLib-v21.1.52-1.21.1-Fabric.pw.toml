@@ -1,0 +1,8 @@
+name = "Puzzles Lib"
+filename = "PuzzlesLib-v21.1.52-1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--PuzzlesLib-v21.1.52-1.21.1-Fabric.jar"
+hash-format = "md5"
+hash = "dc27f9ca3b9fc3df98df03919dc72456"

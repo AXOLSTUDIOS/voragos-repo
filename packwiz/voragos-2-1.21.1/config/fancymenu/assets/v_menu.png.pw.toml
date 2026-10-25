@@ -1,0 +1,8 @@
+name = "v_menu.png"
+filename = "v_menu.png"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/v_menu.png"
+hash-format = "md5"
+hash = "b091946497232f4cad9558d054fe110e"

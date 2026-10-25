@@ -1,0 +1,8 @@
+name = "Resurrección: El Gran Altar"
+filename = "resurreccion-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--resurreccion-1.0.1.jar"
+hash-format = "md5"
+hash = "7594e6fb6d37d1ba08d9ce6d3e7e97ad"

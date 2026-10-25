@@ -1,0 +1,8 @@
+name = "Architectury"
+filename = "architectury-13.0.11-fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--architectury-13.0.11-fabric.jar"
+hash-format = "md5"
+hash = "5d7a93f9b84d8facf6a7d7a51d71158b"

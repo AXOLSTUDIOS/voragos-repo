@@ -1,0 +1,8 @@
+name = "Custom Glow Enchantment Outline"
+filename = "custom-glow-enchantment-outline-fabric-1.21.1-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--custom-glow-enchantment-outline-fabric-1.21.1-1.2.2.jar"
+hash-format = "md5"
+hash = "81cfe76de59b690898c905f49fa180da"

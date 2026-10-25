@@ -1,0 +1,8 @@
+name = "Combat Roll"
+filename = "combat_roll-fabric-2.0.6_1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--combat_roll-fabric-2.0.6_1.21.1.jar"
+hash-format = "md5"
+hash = "51cfad43f982b6979b1a73735fc0125e"

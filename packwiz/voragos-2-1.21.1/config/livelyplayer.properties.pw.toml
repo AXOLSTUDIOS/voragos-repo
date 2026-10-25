@@ -1,0 +1,8 @@
+name = "livelyplayer.properties"
+filename = "livelyplayer.properties"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/livelyplayer.properties"
+hash-format = "md5"
+hash = "1630eb7830b1eca5875599a5e436d993"

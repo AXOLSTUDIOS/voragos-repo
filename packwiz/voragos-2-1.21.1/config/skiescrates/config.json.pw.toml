@@ -1,0 +1,8 @@
+name = "config.json"
+filename = "config.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/skiescrates/config.json"
+hash-format = "md5"
+hash = "755542aff0974fd2a6ff7e7da9ba2c03"

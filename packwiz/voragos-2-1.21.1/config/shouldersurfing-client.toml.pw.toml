@@ -1,0 +1,8 @@
+name = "shouldersurfing-client.toml"
+filename = "shouldersurfing-client.toml"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/shouldersurfing-client.toml"
+hash-format = "md5"
+hash = "78165dcdb9c9d458d6359884ba61d525"

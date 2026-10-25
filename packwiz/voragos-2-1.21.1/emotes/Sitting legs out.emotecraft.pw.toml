@@ -1,0 +1,8 @@
+name = "Sitting legs out.emotecraft"
+filename = "Sitting legs out.emotecraft"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/emotes/Sitting%20legs%20out.emotecraft"
+hash-format = "md5"
+hash = "a6ceaf32c5fa66a84ed2b5aa9f0c93ae"

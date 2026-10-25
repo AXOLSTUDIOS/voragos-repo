@@ -1,0 +1,8 @@
+name = "equipment_v1.json"
+filename = "equipment_v1.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/berserker_rpg/equipment_v1.json"
+hash-format = "md5"
+hash = "4dbfbeb7027d59a7a18bd9ae7e360ec0"

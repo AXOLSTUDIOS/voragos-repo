@@ -1,0 +1,8 @@
+name = "handheldmoon-client.toml"
+filename = "handheldmoon-client.toml"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/handheldmoon-client.toml"
+hash-format = "md5"
+hash = "4f3a482bfcd405f62779d71ae9d26e6d"

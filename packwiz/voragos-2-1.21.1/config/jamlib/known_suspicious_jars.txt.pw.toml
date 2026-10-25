@@ -1,0 +1,8 @@
+name = "known_suspicious_jars.txt"
+filename = "known_suspicious_jars.txt"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/jamlib/known_suspicious_jars.txt"
+hash-format = "md5"
+hash = "d41d8cd98f00b204e9800998ecf8427e"

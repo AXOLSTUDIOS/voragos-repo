@@ -1,0 +1,8 @@
+name = "fabric_compatibility.json"
+filename = "fabric_compatibility.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/spell_engine/fabric_compatibility.json"
+hash-format = "md5"
+hash = "1babd21ff9f590e3495612bdeec18675"

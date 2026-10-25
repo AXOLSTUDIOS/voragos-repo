@@ -1,0 +1,8 @@
+name = "npc_base.cfg"
+filename = "npc_base.cfg"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/easy_npc/npc_base.cfg"
+hash-format = "md5"
+hash = "b8eb691c1b0371d7957c64b458f1610d"

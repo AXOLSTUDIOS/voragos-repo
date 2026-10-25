@@ -1,0 +1,8 @@
+name = "Spell Engine"
+filename = "spell_engine-fabric-1.9.16_1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--spell_engine-fabric-1.9.16_1.21.1.jar"
+hash-format = "md5"
+hash = "0bf4dcccb9b2fd18be5717c5b2d97640"

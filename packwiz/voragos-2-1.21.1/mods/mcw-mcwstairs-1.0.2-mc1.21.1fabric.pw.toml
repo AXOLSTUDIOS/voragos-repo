@@ -1,0 +1,8 @@
+name = "Macaw's Stairs and Balconies"
+filename = "mcw-mcwstairs-1.0.2-mc1.21.1fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--mcw-mcwstairs-1.0.2-mc1.21.1fabric.jar"
+hash-format = "md5"
+hash = "4bcc423d90ed6c1c06850c3fb96ce2f9"

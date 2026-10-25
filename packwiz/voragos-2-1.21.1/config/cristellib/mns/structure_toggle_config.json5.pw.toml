@@ -1,0 +1,8 @@
+name = "structure_toggle_config.json5"
+filename = "structure_toggle_config.json5"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/cristellib/mns/structure_toggle_config.json5"
+hash-format = "md5"
+hash = "4f54bcfb140d891ad6e8aa022f8c4ffa"

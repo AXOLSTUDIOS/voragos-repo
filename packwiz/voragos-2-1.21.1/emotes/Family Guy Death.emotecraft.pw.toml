@@ -1,0 +1,8 @@
+name = "Family Guy Death.emotecraft"
+filename = "Family Guy Death.emotecraft"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/emotes/Family%20Guy%20Death.emotecraft"
+hash-format = "md5"
+hash = "8d6ec02003aec180df18194f9b8aeb23"

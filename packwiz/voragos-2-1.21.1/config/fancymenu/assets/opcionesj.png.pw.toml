@@ -1,0 +1,8 @@
+name = "opcionesj.png"
+filename = "opcionesj.png"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/opcionesj.png"
+hash-format = "md5"
+hash = "d9f04f19f627e287d7c901a6322c2392"

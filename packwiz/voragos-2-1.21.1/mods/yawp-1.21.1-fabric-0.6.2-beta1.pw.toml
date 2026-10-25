@@ -1,0 +1,8 @@
+name = "Yet Another World Protector"
+filename = "yawp-1.21.1-fabric-0.6.2-beta1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--yawp-1.21.1-fabric-0.6.2-beta1.jar"
+hash-format = "md5"
+hash = "d9274ddd36ef3437bd25e793e201da3b"

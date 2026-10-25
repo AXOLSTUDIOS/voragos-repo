@@ -1,0 +1,8 @@
+name = "niftycarts-client.toml"
+filename = "niftycarts-client.toml"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/niftycarts-client.toml"
+hash-format = "md5"
+hash = "84ce26cdb277eaac5e0701639c6cf79e"

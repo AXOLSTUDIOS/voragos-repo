@@ -1,0 +1,8 @@
+name = "WorldEdit"
+filename = "worldedit-mod-7.3.8.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--worldedit-mod-7.3.8.jar"
+hash-format = "md5"
+hash = "f5d6f09ca5c4b1958780d01a099b779d"

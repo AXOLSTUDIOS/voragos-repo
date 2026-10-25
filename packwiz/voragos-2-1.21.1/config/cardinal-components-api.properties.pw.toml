@@ -1,0 +1,8 @@
+name = "cardinal-components-api.properties"
+filename = "cardinal-components-api.properties"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/cardinal-components-api.properties"
+hash-format = "md5"
+hash = "7a5c42bb5538c774652ad99f2a3b0078"

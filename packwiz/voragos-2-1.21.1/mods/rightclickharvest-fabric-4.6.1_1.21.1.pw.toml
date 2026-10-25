@@ -1,0 +1,8 @@
+name = "Right Click Harvest"
+filename = "rightclickharvest-fabric-4.6.1_1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--rightclickharvest-fabric-4.6.1_1.21.1.jar"
+hash-format = "md5"
+hash = "9f5798b10497a77b1fa8dd0ea67f9234"

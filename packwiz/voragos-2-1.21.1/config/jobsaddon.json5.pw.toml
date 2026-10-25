@@ -1,0 +1,8 @@
+name = "jobsaddon.json5"
+filename = "jobsaddon.json5"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/jobsaddon.json5"
+hash-format = "md5"
+hash = "b9f4abf54e4f960346ac65f9654a37cf"

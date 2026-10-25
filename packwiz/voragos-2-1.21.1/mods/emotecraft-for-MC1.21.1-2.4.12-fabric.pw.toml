@@ -1,0 +1,8 @@
+name = "Emotecraft"
+filename = "emotecraft-for-MC1.21.1-2.4.12-fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--emotecraft-for-MC1.21.1-2.4.12-fabric.jar"
+hash-format = "md5"
+hash = "068aace7ea97d0a511ce4e13599c7c79"

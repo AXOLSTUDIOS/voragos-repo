@@ -1,0 +1,8 @@
+name = "Searchables"
+filename = "Searchables-fabric-1.21.1-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--Searchables-fabric-1.21.1-1.0.2.jar"
+hash-format = "md5"
+hash = "33d8f858261d757ef89144ac13013987"

@@ -1,0 +1,8 @@
+name = "Lay on side.emotecraft"
+filename = "Lay on side.emotecraft"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/emotes/Lay%20on%20side.emotecraft"
+hash-format = "md5"
+hash = "ddab70e77f3d3db3ff74cedcc7388155"

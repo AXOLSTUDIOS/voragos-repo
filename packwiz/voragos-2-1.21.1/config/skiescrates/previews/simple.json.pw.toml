@@ -1,0 +1,8 @@
+name = "simple.json"
+filename = "simple.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/skiescrates/previews/simple.json"
+hash-format = "md5"
+hash = "0f943c45faf2b6ba9cce7075d17ca9e2"

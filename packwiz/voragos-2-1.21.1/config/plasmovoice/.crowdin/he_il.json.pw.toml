@@ -1,0 +1,8 @@
+name = "he_il.json"
+filename = "he_il.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/plasmovoice/.crowdin/he_il.json"
+hash-format = "md5"
+hash = "2f2e21189a6f11d39a33b7b66a111b5c"

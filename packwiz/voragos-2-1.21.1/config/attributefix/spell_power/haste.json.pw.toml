@@ -1,0 +1,8 @@
+name = "haste.json"
+filename = "haste.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/attributefix/spell_power/haste.json"
+hash-format = "md5"
+hash = "c8ddfda6335d72c7a83161a565c1f1d2"

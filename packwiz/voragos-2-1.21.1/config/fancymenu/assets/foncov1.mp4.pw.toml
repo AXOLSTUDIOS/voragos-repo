@@ -1,0 +1,8 @@
+name = "foncov1.mp4"
+filename = "foncov1.mp4"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/foncov1.mp4"
+hash-format = "md5"
+hash = "497fa18ff341c1bb090c2857e33e9071"

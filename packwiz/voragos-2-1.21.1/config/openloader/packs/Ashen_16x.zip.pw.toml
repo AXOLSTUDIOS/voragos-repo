@@ -1,0 +1,8 @@
+name = "Ashen_16x.zip"
+filename = "Ashen_16x.zip"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/openloader/packs/Ashen_16x.zip"
+hash-format = "md5"
+hash = "db797feac160fb6ff711db453be025fb"

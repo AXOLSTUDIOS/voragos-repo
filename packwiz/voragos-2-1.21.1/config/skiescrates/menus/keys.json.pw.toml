@@ -1,0 +1,8 @@
+name = "keys.json"
+filename = "keys.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/skiescrates/menus/keys.json"
+hash-format = "md5"
+hash = "5dde79b66b80f91efaf4879ac6ce5375"

@@ -1,0 +1,8 @@
+name = "built_in_packs.json5"
+filename = "built_in_packs.json5"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/cristellib/built_in_packs.json5"
+hash-format = "md5"
+hash = "6bdeef46adad3bea4852aba537837198"

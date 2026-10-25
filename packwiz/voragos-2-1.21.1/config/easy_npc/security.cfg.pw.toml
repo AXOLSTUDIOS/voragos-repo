@@ -1,0 +1,8 @@
+name = "security.cfg"
+filename = "security.cfg"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/easy_npc/security.cfg"
+hash-format = "md5"
+hash = "7f5400d2a15bf2aaa498bbb425f3225d"

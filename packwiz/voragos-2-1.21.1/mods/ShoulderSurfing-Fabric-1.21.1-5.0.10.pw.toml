@@ -1,0 +1,8 @@
+name = "Shoulder Surfing Reloaded"
+filename = "ShoulderSurfing-Fabric-1.21.1-5.0.10.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--ShoulderSurfing-Fabric-1.21.1-5.0.10.jar"
+hash-format = "md5"
+hash = "6668ed190fbd41a2f4ab085725d93812"

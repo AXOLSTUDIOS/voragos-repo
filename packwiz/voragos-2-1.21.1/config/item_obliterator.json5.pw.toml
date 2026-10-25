@@ -1,0 +1,8 @@
+name = "item_obliterator.json5"
+filename = "item_obliterator.json5"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/item_obliterator.json5"
+hash-format = "md5"
+hash = "f401cda18867b431ead875a0f62ebff1"

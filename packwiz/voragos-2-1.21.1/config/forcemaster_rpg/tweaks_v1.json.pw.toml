@@ -1,0 +1,8 @@
+name = "tweaks_v1.json"
+filename = "tweaks_v1.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/forcemaster_rpg/tweaks_v1.json"
+hash-format = "md5"
+hash = "d37ed33e3ca6b417de22d3400cbef211"

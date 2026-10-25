@@ -1,0 +1,8 @@
+name = "ordalia-client.properties"
+filename = "ordalia-client.properties"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/ordalia-client.properties"
+hash-format = "md5"
+hash = "f620c1d401891fb65a489009c7b81102"

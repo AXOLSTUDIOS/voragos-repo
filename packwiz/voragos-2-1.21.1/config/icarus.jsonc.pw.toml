@@ -1,0 +1,8 @@
+name = "icarus.jsonc"
+filename = "icarus.jsonc"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/icarus.jsonc"
+hash-format = "md5"
+hash = "3d743daee232cd4d020e1508e0aac78b"

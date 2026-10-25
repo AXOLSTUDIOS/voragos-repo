@@ -1,0 +1,8 @@
+name = "LoopingFuck.json"
+filename = "LoopingFuck.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/emotes/LoopingFuck.json"
+hash-format = "md5"
+hash = "2fed512ef02a6b01d5bd1d3b5ba53268"

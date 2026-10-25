@@ -1,0 +1,8 @@
+name = "finesse.json"
+filename = "finesse.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/attributefix/extraspellattributes/finesse.json"
+hash-format = "md5"
+hash = "e20bea46f566640f9401668262ecef39"

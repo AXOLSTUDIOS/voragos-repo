@@ -1,0 +1,8 @@
+name = "spawn_zones.yml"
+filename = "spawn_zones.yml"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/mcextremo3/spawn_zones.yml"
+hash-format = "md5"
+hash = "4f74d0ea37394d5c39c9bd77b44fb8ec"

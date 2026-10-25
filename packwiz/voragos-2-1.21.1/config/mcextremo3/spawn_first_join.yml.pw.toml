@@ -1,0 +1,8 @@
+name = "spawn_first_join.yml"
+filename = "spawn_first_join.yml"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/mcextremo3/spawn_first_join.yml"
+hash-format = "md5"
+hash = "ae8d89901ff105ae0ce060414d8dd8cc"

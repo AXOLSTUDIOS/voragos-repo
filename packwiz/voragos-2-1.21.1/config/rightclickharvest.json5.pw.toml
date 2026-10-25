@@ -1,0 +1,8 @@
+name = "rightclickharvest.json5"
+filename = "rightclickharvest.json5"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/rightclickharvest.json5"
+hash-format = "md5"
+hash = "6f1d5d9807c1df57d0495423a49cdde9"

@@ -1,0 +1,8 @@
+name = "Mod Menu"
+filename = "modmenu-11.0.4.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--modmenu-11.0.4.jar"
+hash-format = "md5"
+hash = "b2b9c53a887c100f780708c4f36db6c4"

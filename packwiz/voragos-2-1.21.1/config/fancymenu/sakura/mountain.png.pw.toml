@@ -1,0 +1,8 @@
+name = "mountain.png"
+filename = "mountain.png"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/mountain.png"
+hash-format = "md5"
+hash = "5a13e8c54fa081ea66e69b35307a64cf"

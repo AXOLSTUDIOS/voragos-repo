@@ -1,0 +1,8 @@
+name = "Plasmo Voice"
+filename = "plasmovoice-fabric-1.21.1-2.1.13.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--plasmovoice-fabric-1.21.1-2.1.13.jar"
+hash-format = "md5"
+hash = "2a473414715c4b9752668491a8971c1a"

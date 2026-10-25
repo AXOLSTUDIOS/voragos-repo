@@ -1,0 +1,8 @@
+name = "AFK Cinematics"
+filename = "afk-cinematics-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--afk-cinematics-1.21.1.jar"
+hash-format = "md5"
+hash = "9171616478ecfaf04c6202591f43625c"

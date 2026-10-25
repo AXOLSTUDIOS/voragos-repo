@@ -1,0 +1,8 @@
+name = "trinkets_v0.json"
+filename = "trinkets_v0.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/witcher_rpg/trinkets_v0.json"
+hash-format = "md5"
+hash = "085320b2fe529bbde9b437de83d1128e"

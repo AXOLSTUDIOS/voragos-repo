@@ -1,0 +1,8 @@
+name = "elemental_weaknesses.json"
+filename = "elemental_weaknesses.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/spell_engine/elemental_weaknesses.json"
+hash-format = "md5"
+hash = "1834f3ade3a02f852dd565863f3fd414"

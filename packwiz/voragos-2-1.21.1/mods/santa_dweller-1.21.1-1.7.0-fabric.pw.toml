@@ -1,0 +1,8 @@
+name = "Santa_dweller"
+filename = "santa_dweller-1.21.1-1.7.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--santa_dweller-1.21.1-1.7.0-fabric.jar"
+hash-format = "md5"
+hash = "a372ce2ee28fea6cba028a80e4f1492e"

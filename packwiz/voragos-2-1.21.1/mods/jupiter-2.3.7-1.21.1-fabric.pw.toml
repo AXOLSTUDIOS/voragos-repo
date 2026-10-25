@@ -1,0 +1,8 @@
+name = "Jupiter"
+filename = "jupiter-2.3.7-1.21.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--jupiter-2.3.7-1.21.1-fabric.jar"
+hash-format = "md5"
+hash = "aeaa38387df34544ddde4e4c644eafaa"

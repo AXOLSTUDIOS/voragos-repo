@@ -1,0 +1,8 @@
+name = "README.md"
+filename = "README.md"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/NoChatReports/README.md"
+hash-format = "md5"
+hash = "964a995c80aa43cc34d780276a65b898"

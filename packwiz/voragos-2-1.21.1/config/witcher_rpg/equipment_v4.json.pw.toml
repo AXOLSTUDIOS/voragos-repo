@@ -1,0 +1,8 @@
+name = "equipment_v4.json"
+filename = "equipment_v4.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/witcher_rpg/equipment_v4.json"
+hash-format = "md5"
+hash = "68a5daba3e6284620b7964d1208c4b73"

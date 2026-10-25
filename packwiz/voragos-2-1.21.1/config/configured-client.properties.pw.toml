@@ -1,0 +1,8 @@
+name = "configured-client.properties"
+filename = "configured-client.properties"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/configured-client.properties"
+hash-format = "md5"
+hash = "ed1c9259b2075d30ff9ed3c679ee7d50"

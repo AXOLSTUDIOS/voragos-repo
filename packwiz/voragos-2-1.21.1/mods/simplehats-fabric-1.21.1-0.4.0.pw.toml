@@ -1,0 +1,8 @@
+name = "SimpleHats"
+filename = "simplehats-fabric-1.21.1-0.4.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--simplehats-fabric-1.21.1-0.4.0.jar"
+hash-format = "md5"
+hash = "74757c9b45d752ece72240dbced8f19b"

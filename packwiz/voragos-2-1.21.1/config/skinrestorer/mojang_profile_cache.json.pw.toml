@@ -1,0 +1,8 @@
+name = "mojang_profile_cache.json"
+filename = "mojang_profile_cache.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/skinrestorer/mojang_profile_cache.json"
+hash-format = "md5"
+hash = "b2cd4e924eda26c7fadc93aa3cfa15ff"

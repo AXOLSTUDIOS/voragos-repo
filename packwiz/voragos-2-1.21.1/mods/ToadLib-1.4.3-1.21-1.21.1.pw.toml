@@ -1,0 +1,8 @@
+name = "ToadLib"
+filename = "ToadLib-1.4.3-1.21-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--ToadLib-1.4.3-1.21-1.21.1.jar"
+hash-format = "md5"
+hash = "abf8c3c51b9a7063f372b245d8fe8f4a"

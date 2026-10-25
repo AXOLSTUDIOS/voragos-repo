@@ -1,0 +1,8 @@
+name = "dialog_client.cfg"
+filename = "dialog_client.cfg"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/easy_npc/dialog_client.cfg"
+hash-format = "md5"
+hash = "5ac1ffbe219bcaf3906b46d3f0f40def"

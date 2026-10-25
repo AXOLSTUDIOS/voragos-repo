@@ -1,0 +1,8 @@
+name = "bountyhunt-client.json"
+filename = "bountyhunt-client.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/bountyhunt-client.json"
+hash-format = "md5"
+hash = "4191116b8e70ffe9e8d568f07e6c9149"

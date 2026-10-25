@@ -1,0 +1,8 @@
+name = "equipment_v2.json"
+filename = "equipment_v2.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/forcemaster_rpg/equipment_v2.json"
+hash-format = "md5"
+hash = "1b0c7d616ef579da142a75eb81b0ead9"

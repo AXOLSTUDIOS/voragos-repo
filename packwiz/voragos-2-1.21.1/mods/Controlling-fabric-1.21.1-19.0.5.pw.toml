@@ -1,0 +1,8 @@
+name = "Controlling"
+filename = "Controlling-fabric-1.21.1-19.0.5.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--Controlling-fabric-1.21.1-19.0.5.jar"
+hash-format = "md5"
+hash = "5660c1ed5fee202ca5ca9a617a4202b4"

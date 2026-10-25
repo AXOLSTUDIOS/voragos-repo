@@ -1,0 +1,8 @@
+name = "indigo-renderer.properties"
+filename = "indigo-renderer.properties"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fabric/indigo-renderer.properties"
+hash-format = "md5"
+hash = "ccb1dda787667d949a3aa31d33b8022a"

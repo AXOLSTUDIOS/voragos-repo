@@ -1,0 +1,8 @@
+name = "levelz.json5"
+filename = "levelz.json5"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/levelz.json5"
+hash-format = "md5"
+hash = "3723cad9b95e283fc02fe1d83c3414de"

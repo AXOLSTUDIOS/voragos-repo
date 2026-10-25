@@ -1,0 +1,8 @@
+name = "jupiter.json"
+filename = "jupiter.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/jupiter.json"
+hash-format = "md5"
+hash = "8f4bca3be8047b6a946288be8036fbae"

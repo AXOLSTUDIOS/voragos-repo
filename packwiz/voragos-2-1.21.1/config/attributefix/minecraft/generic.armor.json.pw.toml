@@ -1,0 +1,8 @@
+name = "generic.armor.json"
+filename = "generic.armor.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/attributefix/minecraft/generic.armor.json"
+hash-format = "md5"
+hash = "cf0f2e14c8880f6ab533d56080adecef"

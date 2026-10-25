@@ -1,0 +1,8 @@
+name = "earth_fuse_modifier.json"
+filename = "earth_fuse_modifier.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/attributefix/more_rpg_classes/earth_fuse_modifier.json"
+hash-format = "md5"
+hash = "5f1d4266ac1b01fa4f37172e3bfe182e"

@@ -1,0 +1,8 @@
+name = "de_de.json"
+filename = "de_de.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/plasmovoice/.crowdin/de_de.json"
+hash-format = "md5"
+hash = "cb8838ceada0cc1ac72d33c3359eb883"

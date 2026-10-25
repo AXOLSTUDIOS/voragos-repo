@@ -1,0 +1,8 @@
+name = "server_v3.json5"
+filename = "server_v3.json5"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/extraspellattributes/server_v3.json5"
+hash-format = "md5"
+hash = "97a2141d313cb81a5da7b4a6c2f1340b"

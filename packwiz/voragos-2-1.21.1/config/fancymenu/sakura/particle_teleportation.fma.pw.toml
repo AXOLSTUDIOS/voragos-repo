@@ -1,0 +1,8 @@
+name = "particle_teleportation.fma"
+filename = "particle_teleportation.fma"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/particle_teleportation.fma"
+hash-format = "md5"
+hash = "4141f25dd503e062c9fcce20327f9128"

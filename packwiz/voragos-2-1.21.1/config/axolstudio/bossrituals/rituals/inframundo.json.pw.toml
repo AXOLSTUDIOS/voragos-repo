@@ -1,0 +1,8 @@
+name = "inframundo.json"
+filename = "inframundo.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/axolstudio/bossrituals/rituals/inframundo.json"
+hash-format = "md5"
+hash = "8c92cf5b57b5a893a3aa2ca3c6e7cc21"

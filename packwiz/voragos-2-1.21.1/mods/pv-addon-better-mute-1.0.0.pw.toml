@@ -1,0 +1,8 @@
+name = "Pv-addon-better-mute"
+filename = "pv-addon-better-mute-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--pv-addon-better-mute-1.0.0.jar"
+hash-format = "md5"
+hash = "8dd8250748a94e177864741691403bb0"

@@ -295,6 +295,14 @@ function main() {
     fs.writeFileSync(distPath, JSON.stringify(dist, null, 2))
     log('\n[3/4] distribution.json actualizado.')
 
+    // Modpack para Prism Launcher / MultiMC (packwiz), con las mismas URLs
+    const pwScript = path.join(__dirname, 'generar-packwiz.js')
+    if (fs.existsSync(pwScript)) {
+        log('    Generando modpack para otros launchers (packwiz)...')
+        try { require(pwScript).generate({ root: ROOT, dist, baseUrl: BASE, log }) }
+        catch (e) { log('    (packwiz falló, AXOL no se ve afectado: ' + e.message + ')') }
+    }
+
     // .gitignore: los mods no van al repositorio (pesan demasiado para Pages)
     const giPath = path.join(ROOT, '.gitignore')
     let gi = fs.existsSync(giPath) ? fs.readFileSync(giPath, 'utf8') : ''

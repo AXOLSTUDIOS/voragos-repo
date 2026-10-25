@@ -1,0 +1,8 @@
+name = "Better village"
+filename = "bettervillage-fabric-1.21.1-3.3.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--bettervillage-fabric-1.21.1-3.3.1.jar"
+hash-format = "md5"
+hash = "91f96663bd16b90bc850351929bf5dc8"

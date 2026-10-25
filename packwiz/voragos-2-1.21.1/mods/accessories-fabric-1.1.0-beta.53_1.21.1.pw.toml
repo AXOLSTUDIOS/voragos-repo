@@ -1,0 +1,8 @@
+name = "Accessories"
+filename = "accessories-fabric-1.1.0-beta.53_1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--accessories-fabric-1.1.0-beta.53_1.21.1.jar"
+hash-format = "md5"
+hash = "1f332447eadf66a07b33e641816fcd5e"

@@ -1,0 +1,8 @@
+name = "btn_mod_active.png"
+filename = "btn_mod_active.png"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/btn_mod_active.png"
+hash-format = "md5"
+hash = "e400383a63701c71a7302f679ee02971"

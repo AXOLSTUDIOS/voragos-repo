@@ -1,0 +1,8 @@
+name = "opcion2.png"
+filename = "opcion2.png"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/opcion2.png"
+hash-format = "md5"
+hash = "9dd46e822b04e1045c25941a07584445"

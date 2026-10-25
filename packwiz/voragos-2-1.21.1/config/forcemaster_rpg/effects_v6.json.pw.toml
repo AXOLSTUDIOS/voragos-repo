@@ -1,0 +1,8 @@
+name = "effects_v6.json"
+filename = "effects_v6.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/forcemaster_rpg/effects_v6.json"
+hash-format = "md5"
+hash = "0c86fe2543e7730ccdb2a689c937fd40"

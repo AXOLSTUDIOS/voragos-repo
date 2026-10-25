@@ -1,0 +1,8 @@
+name = "afkcinematics.properties"
+filename = "afkcinematics.properties"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/afkcinematics.properties"
+hash-format = "md5"
+hash = "0f9de38e5a2bd2e17903cfb6f5f42483"

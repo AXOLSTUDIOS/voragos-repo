@@ -1,0 +1,8 @@
+name = "necronomicon.json5"
+filename = "necronomicon.json5"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/necronomicon.json5"
+hash-format = "md5"
+hash = "f5d72523e51844112485d6c21b8d51c3"

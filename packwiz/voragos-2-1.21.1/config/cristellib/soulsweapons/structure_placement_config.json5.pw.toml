@@ -1,0 +1,8 @@
+name = "structure_placement_config.json5"
+filename = "structure_placement_config.json5"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/cristellib/soulsweapons/structure_placement_config.json5"
+hash-format = "md5"
+hash = "c8651d6191fa727547f1acbfe047e813"

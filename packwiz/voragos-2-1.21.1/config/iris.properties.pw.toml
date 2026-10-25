@@ -1,0 +1,8 @@
+name = "iris.properties"
+filename = "iris.properties"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/iris.properties"
+hash-format = "md5"
+hash = "7e085e04ec6c8a9cbf3d20b548b31347"

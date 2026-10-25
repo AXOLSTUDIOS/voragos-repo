@@ -1,0 +1,8 @@
+name = "BadOptimizations"
+filename = "BadOptimizations-2.4.1-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--BadOptimizations-2.4.1-1.21.1.jar"
+hash-format = "md5"
+hash = "59ee243a5ccd09fff1dd2879b3cad72a"

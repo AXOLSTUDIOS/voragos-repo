@@ -1,0 +1,8 @@
+name = "Entity Sound Features"
+filename = "entity_sound_features-0.8.2-1.21-fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--entity_sound_features-0.8.2-1.21-fabric.jar"
+hash-format = "md5"
+hash = "a6b2bfea0f2fe99369cdd0ed3c70782f"

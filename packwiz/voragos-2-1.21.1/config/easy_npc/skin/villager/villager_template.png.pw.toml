@@ -1,0 +1,8 @@
+name = "villager_template.png"
+filename = "villager_template.png"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/easy_npc/skin/villager/villager_template.png"
+hash-format = "md5"
+hash = "30e84778924e6c66aef598b8a3cd728a"

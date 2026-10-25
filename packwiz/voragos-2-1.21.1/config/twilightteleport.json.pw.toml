@@ -1,0 +1,8 @@
+name = "twilightteleport.json"
+filename = "twilightteleport.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/twilightteleport.json"
+hash-format = "md5"
+hash = "b930d72a164e3c113e07aa2d208ee289"

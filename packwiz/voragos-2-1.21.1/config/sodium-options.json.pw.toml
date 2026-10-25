@@ -1,0 +1,8 @@
+name = "sodium-options.json"
+filename = "sodium-options.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/sodium-options.json"
+hash-format = "md5"
+hash = "9ada8b081a61e6c50c8428be32466999"

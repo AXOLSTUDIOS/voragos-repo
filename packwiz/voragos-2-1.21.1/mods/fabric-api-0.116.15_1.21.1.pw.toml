@@ -1,0 +1,8 @@
+name = "Fabric API"
+filename = "fabric-api-0.116.15_1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--fabric-api-0.116.15_1.21.1.jar"
+hash-format = "md5"
+hash = "e24c27a4ece4ee82ca7a55f2f5b544f4"

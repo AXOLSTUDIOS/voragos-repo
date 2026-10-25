@@ -1,0 +1,8 @@
+name = "critical_chance.json"
+filename = "critical_chance.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/attributefix/spell_power/critical_chance.json"
+hash-format = "md5"
+hash = "4cd85feee77b36b7b3ca57d5c41edb6b"

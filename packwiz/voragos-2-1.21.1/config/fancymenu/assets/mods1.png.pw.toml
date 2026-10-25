@@ -1,0 +1,8 @@
+name = "mods1.png"
+filename = "mods1.png"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/mods1.png"
+hash-format = "md5"
+hash = "bd96d63ff27293fa7596a29b80cb6c59"

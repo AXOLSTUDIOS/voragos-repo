@@ -1,0 +1,8 @@
+name = "loot_equipment_v2.json"
+filename = "loot_equipment_v2.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/rpg_series/loot_equipment_v2.json"
+hash-format = "md5"
+hash = "708ba65c53aff4957c25303f18a08602"

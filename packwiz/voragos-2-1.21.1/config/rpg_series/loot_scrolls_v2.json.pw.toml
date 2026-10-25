@@ -1,0 +1,8 @@
+name = "loot_scrolls_v2.json"
+filename = "loot_scrolls_v2.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/rpg_series/loot_scrolls_v2.json"
+hash-format = "md5"
+hash = "bf9de76985fccac8aaef171c419cefd4"

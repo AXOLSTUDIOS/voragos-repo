@@ -1,0 +1,8 @@
+name = "max_stamina.json"
+filename = "max_stamina.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/attributefix/icarus/max_stamina.json"
+hash-format = "md5"
+hash = "d1cb3e396bcf7b2f0941c474d5d64644"

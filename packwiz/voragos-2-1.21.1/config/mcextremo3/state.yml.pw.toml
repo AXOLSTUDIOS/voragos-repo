@@ -1,0 +1,8 @@
+name = "state.yml"
+filename = "state.yml"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/mcextremo3/state.yml"
+hash-format = "md5"
+hash = "1ef12419c211bf31ad090a30f2aa5a25"

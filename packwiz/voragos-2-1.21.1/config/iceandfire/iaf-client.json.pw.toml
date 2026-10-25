@@ -1,0 +1,8 @@
+name = "iaf-client.json"
+filename = "iaf-client.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/iceandfire/iaf-client.json"
+hash-format = "md5"
+hash = "3cc4214c82dd180c7a73e657f417a0e7"

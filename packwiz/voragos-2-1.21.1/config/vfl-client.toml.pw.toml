@@ -1,0 +1,8 @@
+name = "vfl-client.toml"
+filename = "vfl-client.toml"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/vfl-client.toml"
+hash-format = "md5"
+hash = "d1d35d694593721603dc751efff38834"

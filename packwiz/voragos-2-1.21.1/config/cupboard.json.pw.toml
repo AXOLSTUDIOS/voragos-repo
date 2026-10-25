@@ -1,0 +1,8 @@
+name = "cupboard.json"
+filename = "cupboard.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/cupboard.json"
+hash-format = "md5"
+hash = "0b12c55739cf2fe35ebb742036a2482c"

@@ -1,0 +1,8 @@
+name = "bsroleplay-currency.json5"
+filename = "bsroleplay-currency.json5"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/bsroleplay/bsroleplay-currency.json5"
+hash-format = "md5"
+hash = "316aa32e0d20844a51a9c2189475edeb"

@@ -1,0 +1,8 @@
+name = "salir2.png"
+filename = "salir2.png"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/salir2.png"
+hash-format = "md5"
+hash = "d046d46cc73b3560f1e2887d2a9f3b1d"

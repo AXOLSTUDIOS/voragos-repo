@@ -1,0 +1,8 @@
+name = "Drunk fall.emotecraft"
+filename = "Drunk fall.emotecraft"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/emotes/Drunk%20fall.emotecraft"
+hash-format = "md5"
+hash = "01222e74079ed26697d52955d92e43b3"

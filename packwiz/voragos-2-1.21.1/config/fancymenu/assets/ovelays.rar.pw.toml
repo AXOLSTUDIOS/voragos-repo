@@ -1,0 +1,8 @@
+name = "ovelays.rar"
+filename = "ovelays.rar"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/ovelays.rar"
+hash-format = "md5"
+hash = "a1e24d0228e1d9b64ccbdbcead677302"

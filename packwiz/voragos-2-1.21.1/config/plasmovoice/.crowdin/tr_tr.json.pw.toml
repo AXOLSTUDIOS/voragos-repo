@@ -1,0 +1,8 @@
+name = "tr_tr.json"
+filename = "tr_tr.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/plasmovoice/.crowdin/tr_tr.json"
+hash-format = "md5"
+hash = "9eb2a3be47503ed7b7065e4c3f2413bc"

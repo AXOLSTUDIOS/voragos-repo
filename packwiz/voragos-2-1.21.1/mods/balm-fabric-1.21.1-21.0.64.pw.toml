@@ -1,0 +1,8 @@
+name = "Balm"
+filename = "balm-fabric-1.21.1-21.0.64.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--balm-fabric-1.21.1-21.0.64.jar"
+hash-format = "md5"
+hash = "b080a873d3afefd6bc045468d74da3ca"

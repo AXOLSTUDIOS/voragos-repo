@@ -1,0 +1,8 @@
+name = "meta_cache.json"
+filename = "meta_cache.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/plasmovoice/meta_cache.json"
+hash-format = "md5"
+hash = "b94624cd83f0fd0ab9fa0bfb7efdebe6"

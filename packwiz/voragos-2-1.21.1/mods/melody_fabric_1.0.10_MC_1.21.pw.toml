@@ -1,0 +1,8 @@
+name = "Melody"
+filename = "melody_fabric_1.0.10_MC_1.21.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--melody_fabric_1.0.10_MC_1.21.jar"
+hash-format = "md5"
+hash = "0f1bfbf2dd4fa047a1616fc448f3b856"

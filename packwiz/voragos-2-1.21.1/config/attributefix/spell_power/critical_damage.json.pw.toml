@@ -1,0 +1,8 @@
+name = "critical_damage.json"
+filename = "critical_damage.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/attributefix/spell_power/critical_damage.json"
+hash-format = "md5"
+hash = "4cd85feee77b36b7b3ca57d5c41edb6b"

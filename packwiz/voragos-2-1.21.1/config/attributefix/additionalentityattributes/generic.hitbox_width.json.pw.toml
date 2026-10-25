@@ -1,0 +1,8 @@
+name = "generic.hitbox_width.json"
+filename = "generic.hitbox_width.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/attributefix/additionalentityattributes/generic.hitbox_width.json"
+hash-format = "md5"
+hash = "687b9cd1c2ef3fa5506723cec6d8764d"

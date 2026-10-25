@@ -1,0 +1,8 @@
+name = "soulsweapons.json"
+filename = "soulsweapons.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/soulsweapons/soulsweapons.json"
+hash-format = "md5"
+hash = "b5daa09a5f581192d9991ed5723cfd38"

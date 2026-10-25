@@ -1,0 +1,8 @@
+name = "lookupHistory.json"
+filename = "lookupHistory.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/jei/world/server/voragoslch_neovex_net_25585%20(voragoslch_neovex_net%2025585)/lookupHistory.json"
+hash-format = "md5"
+hash = "bcce13b2ad488962425bc2538ecad7e3"

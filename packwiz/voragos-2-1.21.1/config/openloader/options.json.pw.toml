@@ -1,0 +1,8 @@
+name = "options.json"
+filename = "options.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/openloader/options.json"
+hash-format = "md5"
+hash = "5a6baf9444a511f4c56614c9b24c8886"

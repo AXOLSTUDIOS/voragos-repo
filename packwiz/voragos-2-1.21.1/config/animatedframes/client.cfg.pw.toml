@@ -1,0 +1,8 @@
+name = "client.cfg"
+filename = "client.cfg"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/animatedframes/client.cfg"
+hash-format = "md5"
+hash = "9e34aef10da397c16ab964175f09730c"

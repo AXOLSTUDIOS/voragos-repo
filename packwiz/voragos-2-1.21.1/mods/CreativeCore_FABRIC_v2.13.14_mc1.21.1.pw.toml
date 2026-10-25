@@ -1,0 +1,8 @@
+name = "CreativeCore"
+filename = "CreativeCore_FABRIC_v2.13.14_mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--CreativeCore_FABRIC_v2.13.14_mc1.21.1.jar"
+hash-format = "md5"
+hash = "55809417ae7e3debcd15147198808a17"

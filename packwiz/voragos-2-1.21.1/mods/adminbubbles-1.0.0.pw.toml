@@ -1,0 +1,8 @@
+name = "AdminBubbles"
+filename = "adminbubbles-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--adminbubbles-1.0.0.jar"
+hash-format = "md5"
+hash = "3a60ec5c0d21a13f79fa63af5adc8b52"

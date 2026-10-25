@@ -1,0 +1,8 @@
+name = "generic.jump_strength.json"
+filename = "generic.jump_strength.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/attributefix/minecraft/generic.jump_strength.json"
+hash-format = "md5"
+hash = "5632ebce0c4553d8498fd0fef2a576b0"

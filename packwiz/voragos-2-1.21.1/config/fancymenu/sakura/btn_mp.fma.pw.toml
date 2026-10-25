@@ -1,0 +1,8 @@
+name = "btn_mp.fma"
+filename = "btn_mp.fma"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/btn_mp.fma"
+hash-format = "md5"
+hash = "7d5590e91864232d7e55531b45bee8b0"

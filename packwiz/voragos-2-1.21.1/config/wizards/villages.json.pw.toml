@@ -1,0 +1,8 @@
+name = "villages.json"
+filename = "villages.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/wizards/villages.json"
+hash-format = "md5"
+hash = "dbaec4e0e9a1c049f66c1780a1682654"

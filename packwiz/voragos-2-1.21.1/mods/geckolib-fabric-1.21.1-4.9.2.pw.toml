@@ -1,0 +1,8 @@
+name = "GeckoLib 4"
+filename = "geckolib-fabric-1.21.1-4.9.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--geckolib-fabric-1.21.1-4.9.2.jar"
+hash-format = "md5"
+hash = "fe791e7b10c8b7c736ea3e57747eac09"

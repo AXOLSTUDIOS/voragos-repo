@@ -1,0 +1,8 @@
+name = "FA+Classic_Horses-v1.5.zip"
+filename = "FA+Classic_Horses-v1.5.zip"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/openloader/packs/FA+Classic_Horses-v1.5.zip"
+hash-format = "md5"
+hash = "b3bbc0747eb4a8f45f585dde875e16ec"

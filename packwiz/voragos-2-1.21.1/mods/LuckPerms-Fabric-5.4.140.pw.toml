@@ -1,0 +1,8 @@
+name = "LuckPerms"
+filename = "LuckPerms-Fabric-5.4.140.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--LuckPerms-Fabric-5.4.140.jar"
+hash-format = "md5"
+hash = "bf65dccc5ad31cd8384d94eb9500d4af"

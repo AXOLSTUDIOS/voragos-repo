@@ -1,0 +1,8 @@
+name = "tag_cache.json"
+filename = "tag_cache.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/rpg_series/tag_cache.json"
+hash-format = "md5"
+hash = "75cda63ebc2b62a24006d2b2c2df6857"

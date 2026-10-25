@@ -1,0 +1,8 @@
+name = "ModernFix"
+filename = "modernfix-fabric-5.25.1_mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--modernfix-fabric-5.25.1_mc1.21.1.jar"
+hash-format = "md5"
+hash = "17260c894041b7b4a1b1f2fd1a8f1a8b"

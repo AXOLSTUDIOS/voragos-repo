@@ -1,0 +1,8 @@
+name = "SkinRestorer"
+filename = "skinrestorer-2.11.0_1.21-fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--skinrestorer-2.11.0_1.21-fabric.jar"
+hash-format = "md5"
+hash = "174f49b8063c5c699dd08c0e84a2b64a"

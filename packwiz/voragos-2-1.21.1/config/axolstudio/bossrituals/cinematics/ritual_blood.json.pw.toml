@@ -1,0 +1,8 @@
+name = "ritual_blood.json"
+filename = "ritual_blood.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/axolstudio/bossrituals/cinematics/ritual_blood.json"
+hash-format = "md5"
+hash = "57b871759d834ec184b3d8700d4ff73a"

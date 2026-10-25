@@ -1,0 +1,8 @@
+name = "AzureLib Armor"
+filename = "azurelibarmor-fabric-1.21.1-3.1.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--azurelibarmor-fabric-1.21.1-3.1.3.jar"
+hash-format = "md5"
+hash = "cf60f394f2fa7b6c9b15950346ee9f1c"

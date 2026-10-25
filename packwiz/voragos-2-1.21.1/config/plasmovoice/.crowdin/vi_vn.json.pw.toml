@@ -1,0 +1,8 @@
+name = "vi_vn.json"
+filename = "vi_vn.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/plasmovoice/.crowdin/vi_vn.json"
+hash-format = "md5"
+hash = "0458e0a83010b7648fec3488e7dd2341"

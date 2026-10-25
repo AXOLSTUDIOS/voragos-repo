@@ -1,0 +1,8 @@
+name = "pause_screen_layout.txt"
+filename = "pause_screen_layout.txt"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/customization/pause_screen_layout.txt"
+hash-format = "md5"
+hash = "a458d7a803b047b0abc4e1b4b6a0d5c9"

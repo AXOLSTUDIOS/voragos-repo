@@ -1,0 +1,8 @@
+name = "tt_ru.json"
+filename = "tt_ru.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/plasmovoice/.crowdin/tt_ru.json"
+hash-format = "md5"
+hash = "6f8f48b6ce5ec3b6f8ea9cf34a3d5dc4"

@@ -1,0 +1,8 @@
+name = "NCR-Encryption.json"
+filename = "NCR-Encryption.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/NoChatReports/NCR-Encryption.json"
+hash-format = "md5"
+hash = "137196dfc1619ce0f3b341713498c7c3"

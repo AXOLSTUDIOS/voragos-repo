@@ -1,0 +1,8 @@
+name = "weapon_fallback.json"
+filename = "weapon_fallback.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/spell_engine/weapon_fallback.json"
+hash-format = "md5"
+hash = "37761e16a159eacbd207b170c25cbd4c"

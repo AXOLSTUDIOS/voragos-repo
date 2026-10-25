@@ -1,0 +1,8 @@
+name = "Lithostitched"
+filename = "lithostitched-1.8.0_beta5-fabric-21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--lithostitched-1.8.0_beta5-fabric-21.1.jar"
+hash-format = "md5"
+hash = "94484b19124040eb2a93e55fb552f654"

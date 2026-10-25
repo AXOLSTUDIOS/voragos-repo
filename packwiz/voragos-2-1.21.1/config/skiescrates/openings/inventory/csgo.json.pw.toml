@@ -1,0 +1,8 @@
+name = "csgo.json"
+filename = "csgo.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/skiescrates/openings/inventory/csgo.json"
+hash-format = "md5"
+hash = "69f8446669e41db97e6dd6b8eed8ed18"

@@ -1,0 +1,8 @@
+name = "player.water_visibility.json"
+filename = "player.water_visibility.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/attributefix/additionalentityattributes/player.water_visibility.json"
+hash-format = "md5"
+hash = "8ff762621da1eeb0ef7ed3537091bc02"

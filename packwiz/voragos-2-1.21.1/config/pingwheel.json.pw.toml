@@ -1,0 +1,8 @@
+name = "pingwheel.json"
+filename = "pingwheel.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pingwheel.json"
+hash-format = "md5"
+hash = "a80c669a06b0a99d5d9f433a5c0e1418"

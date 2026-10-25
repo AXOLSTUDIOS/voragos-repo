@@ -1,0 +1,8 @@
+name = "bettervillage_1.properties"
+filename = "bettervillage_1.properties"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/bettervillage_1.properties"
+hash-format = "md5"
+hash = "d167fa0eae6a9249a17dc8ccc5be7fbb"

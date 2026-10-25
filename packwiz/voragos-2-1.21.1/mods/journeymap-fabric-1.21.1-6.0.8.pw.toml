@@ -1,0 +1,8 @@
+name = "Journeymap"
+filename = "journeymap-fabric-1.21.1-6.0.8.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--journeymap-fabric-1.21.1-6.0.8.jar"
+hash-format = "md5"
+hash = "2cee35cc396eb791ffaef72c7b52501f"

@@ -1,0 +1,8 @@
+name = "Cacería de Recompensas"
+filename = "bountyhunt-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--bountyhunt-1.0.0.jar"
+hash-format = "md5"
+hash = "f786ea796c3978c8591fbfb14eb054d4"

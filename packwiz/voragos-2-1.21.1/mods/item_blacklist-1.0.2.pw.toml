@@ -1,0 +1,8 @@
+name = "Item Blacklist"
+filename = "item_blacklist-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--item_blacklist-1.0.2.jar"
+hash-format = "md5"
+hash = "fa66a749e6ffca38298c69789debf465"

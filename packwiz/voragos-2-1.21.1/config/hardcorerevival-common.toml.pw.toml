@@ -1,0 +1,8 @@
+name = "hardcorerevival-common.toml"
+filename = "hardcorerevival-common.toml"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/hardcorerevival-common.toml"
+hash-format = "md5"
+hash = "889747cacf6decf72579ab97923fca6f"

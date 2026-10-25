@@ -1,0 +1,8 @@
+name = "Shovel Taunt.emotecraft"
+filename = "Shovel Taunt.emotecraft"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/emotes/Shovel%20Taunt.emotecraft"
+hash-format = "md5"
+hash = "eb0f6081f5a12084713188d852a6e0b0"

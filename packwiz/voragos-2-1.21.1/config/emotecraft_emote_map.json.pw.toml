@@ -1,0 +1,8 @@
+name = "emotecraft_emote_map.json"
+filename = "emotecraft_emote_map.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/emotecraft_emote_map.json"
+hash-format = "md5"
+hash = "fdcffe9e7eaa4949ee1d33d613a7c2eb"

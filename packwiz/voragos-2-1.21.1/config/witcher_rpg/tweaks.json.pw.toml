@@ -1,0 +1,8 @@
+name = "tweaks.json"
+filename = "tweaks.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/witcher_rpg/tweaks.json"
+hash-format = "md5"
+hash = "9f66a270b3bc51490d050f17b99df44d"

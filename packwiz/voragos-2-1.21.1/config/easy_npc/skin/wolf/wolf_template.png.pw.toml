@@ -1,0 +1,8 @@
+name = "wolf_template.png"
+filename = "wolf_template.png"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/easy_npc/skin/wolf/wolf_template.png"
+hash-format = "md5"
+hash = "0adf39c4b15ec11850e85fdfcd8e0a59"

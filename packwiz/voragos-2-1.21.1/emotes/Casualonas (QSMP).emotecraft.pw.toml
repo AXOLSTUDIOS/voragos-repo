@@ -1,0 +1,8 @@
+name = "Casualonas (QSMP).emotecraft"
+filename = "Casualonas (QSMP).emotecraft"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/emotes/Casualonas%20(QSMP).emotecraft"
+hash-format = "md5"
+hash = "ca9c5a96550ae5c7b7aa5271a11f62d8"

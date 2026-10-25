@@ -1,0 +1,8 @@
+name = "structure_toggle_config.json5"
+filename = "structure_toggle_config.json5"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/cristellib/dungeons_arise_seven_seas/structure_toggle_config.json5"
+hash-format = "md5"
+hash = "b315689a4ce740ea39a448a6513088f8"

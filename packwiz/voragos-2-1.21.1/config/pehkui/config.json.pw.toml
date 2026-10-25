@@ -1,0 +1,8 @@
+name = "config.json"
+filename = "config.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pehkui/config.json"
+hash-format = "md5"
+hash = "c150c29884c8bd15f8e141249d55d8c6"

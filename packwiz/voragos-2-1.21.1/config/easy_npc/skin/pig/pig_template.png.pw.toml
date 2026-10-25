@@ -1,0 +1,8 @@
+name = "pig_template.png"
+filename = "pig_template.png"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/easy_npc/skin/pig/pig_template.png"
+hash-format = "md5"
+hash = "cfc2538d1df812a5ee4ced14b78f9fd3"

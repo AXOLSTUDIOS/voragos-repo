@@ -1,0 +1,8 @@
+name = "summoned_entities.json"
+filename = "summoned_entities.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/paladins/summoned_entities.json"
+hash-format = "md5"
+hash = "94a1856131205f0343eb7fa66b2b740c"

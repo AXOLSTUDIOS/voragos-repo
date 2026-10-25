@@ -1,0 +1,8 @@
+name = "options.txt"
+filename = "options.txt"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/options.txt"
+hash-format = "md5"
+hash = "3ddc749bfa2c6c632d0173a726442ae0"

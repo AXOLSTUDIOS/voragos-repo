@@ -1,0 +1,8 @@
+name = "chiselsandbits-server.json"
+filename = "chiselsandbits-server.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/chiselsandbits-server.json"
+hash-format = "md5"
+hash = "025a956a8fd7b624dbbec616f4a1c30d"

@@ -1,0 +1,8 @@
+name = "fallback_compatibility.json"
+filename = "fallback_compatibility.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/bettercombat/fallback_compatibility.json"
+hash-format = "md5"
+hash = "cd6019eba788c56ca9a0b6f7a03a02c8"

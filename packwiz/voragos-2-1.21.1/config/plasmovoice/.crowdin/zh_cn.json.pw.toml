@@ -1,0 +1,8 @@
+name = "zh_cn.json"
+filename = "zh_cn.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/plasmovoice/.crowdin/zh_cn.json"
+hash-format = "md5"
+hash = "6a385d12b888457adee2b62acc8e9aa6"

@@ -1,0 +1,8 @@
+name = "Straw Statues"
+filename = "StrawStatues-v21.1.0-1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--StrawStatues-v21.1.0-1.21.1-Fabric.jar"
+hash-format = "md5"
+hash = "b15d7dde36af26670f3f1edb3d5e679c"

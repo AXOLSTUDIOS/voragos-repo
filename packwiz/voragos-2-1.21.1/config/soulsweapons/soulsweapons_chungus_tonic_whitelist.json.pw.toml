@@ -1,0 +1,8 @@
+name = "soulsweapons_chungus_tonic_whitelist.json"
+filename = "soulsweapons_chungus_tonic_whitelist.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/soulsweapons/soulsweapons_chungus_tonic_whitelist.json"
+hash-format = "md5"
+hash = "df51a64aa69e5946d9fceeb3a3f14fb2"

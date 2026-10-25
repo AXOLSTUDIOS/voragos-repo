@@ -1,0 +1,8 @@
+name = "Lethal Company.emotecraft"
+filename = "Lethal Company.emotecraft"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/emotes/Lethal%20Company.emotecraft"
+hash-format = "md5"
+hash = "152ed5d0c22d2481d83cc2db015b6a3e"

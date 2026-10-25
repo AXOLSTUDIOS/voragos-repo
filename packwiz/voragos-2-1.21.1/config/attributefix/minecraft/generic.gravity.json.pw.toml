@@ -1,0 +1,8 @@
+name = "generic.gravity.json"
+filename = "generic.gravity.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/attributefix/minecraft/generic.gravity.json"
+hash-format = "md5"
+hash = "9f79a5c3cde5fab1bf97548840fc8dd6"

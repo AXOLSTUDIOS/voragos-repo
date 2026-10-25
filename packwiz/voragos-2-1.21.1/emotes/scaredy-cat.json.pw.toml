@@ -1,0 +1,8 @@
+name = "scaredy-cat.json"
+filename = "scaredy-cat.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/emotes/scaredy-cat.json"
+hash-format = "md5"
+hash = "9809c2487219ae8bfc40f587d654dc59"

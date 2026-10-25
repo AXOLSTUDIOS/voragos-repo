@@ -1,0 +1,8 @@
+name = "mca.json"
+filename = "mca.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/mca.json"
+hash-format = "md5"
+hash = "613380dff4c5458f9989dbdbf1e9c00f"

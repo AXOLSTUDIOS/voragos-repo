@@ -1,0 +1,8 @@
+name = "terralith.json"
+filename = "terralith.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/terralith.json"
+hash-format = "md5"
+hash = "4555bfc348c70b4b33ded045222d4a6a"

@@ -1,0 +1,8 @@
+name = "entity_texture_features.json"
+filename = "entity_texture_features.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/entity_texture_features.json"
+hash-format = "md5"
+hash = "28f33350efd1439dc348013d0b37cb74"

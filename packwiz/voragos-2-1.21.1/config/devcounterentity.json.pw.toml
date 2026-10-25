@@ -1,0 +1,8 @@
+name = "devcounterentity.json"
+filename = "devcounterentity.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/devcounterentity.json"
+hash-format = "md5"
+hash = "756afab717bafa7ea03f28b5ce88d343"

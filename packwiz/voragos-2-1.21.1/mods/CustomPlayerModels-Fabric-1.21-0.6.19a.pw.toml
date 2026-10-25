@@ -1,0 +1,8 @@
+name = "Customizable Player Models"
+filename = "CustomPlayerModels-Fabric-1.21-0.6.19a.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--CustomPlayerModels-Fabric-1.21-0.6.19a.jar"
+hash-format = "md5"
+hash = "3d4c040189a5e79694db19f3c0c48eab"

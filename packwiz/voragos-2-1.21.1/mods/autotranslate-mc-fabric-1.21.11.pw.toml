@@ -1,0 +1,8 @@
+name = "Auto Translate"
+filename = "autotranslate-mc-fabric-1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--autotranslate-mc-fabric-1.21.11.jar"
+hash-format = "md5"
+hash = "32c730c19cfeec80ede2ffa4537c9df6"

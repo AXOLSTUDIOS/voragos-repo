@@ -1,0 +1,8 @@
+name = "Paladin's Furniture"
+filename = "paladin-furniture-mod-1.5.0-fabric-mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--paladin-furniture-mod-1.5.0-fabric-mc1.21.1.jar"
+hash-format = "md5"
+hash = "b98a40ed4497d6337874b71c69b95d74"

@@ -1,0 +1,8 @@
+name = "fog_zones.yml"
+filename = "fog_zones.yml"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/mcextremo3/fog_zones.yml"
+hash-format = "md5"
+hash = "6cfbca98dc390f24d752ea95480a97e4"

@@ -1,0 +1,8 @@
+name = "cinematiczoom.json"
+filename = "cinematiczoom.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/cinematiczoom.json"
+hash-format = "md5"
+hash = "134a993c46bee01c14b9ea0cb67b6cdb"

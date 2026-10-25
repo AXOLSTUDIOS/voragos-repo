@@ -1,0 +1,8 @@
+name = "action_favorites.json"
+filename = "action_favorites.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/fancymenu_data/action_favorites.json"
+hash-format = "md5"
+hash = "d41d8cd98f00b204e9800998ecf8427e"

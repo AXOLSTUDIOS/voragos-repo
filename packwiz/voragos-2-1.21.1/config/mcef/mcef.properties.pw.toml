@@ -1,0 +1,8 @@
+name = "mcef.properties"
+filename = "mcef.properties"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/mcef/mcef.properties"
+hash-format = "md5"
+hash = "11588504fd92a8972fd61246339ab7d3"

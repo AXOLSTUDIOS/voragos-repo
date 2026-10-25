@@ -1,0 +1,8 @@
+name = "fpsbooster.json"
+filename = "fpsbooster.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fpsbooster.json"
+hash-format = "md5"
+hash = "4d4dc9f4f59138eb93ac0c4dee946862"

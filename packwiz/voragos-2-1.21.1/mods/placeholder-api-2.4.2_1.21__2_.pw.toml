@@ -1,0 +1,8 @@
+name = "Placeholder API"
+filename = "placeholder-api-2.4.2_1.21__2_.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--placeholder-api-2.4.2_1.21__2_.jar"
+hash-format = "md5"
+hash = "4de8568a088a276c94168514d625413d"

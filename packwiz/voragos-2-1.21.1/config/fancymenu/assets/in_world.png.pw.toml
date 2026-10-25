@@ -1,0 +1,8 @@
+name = "in_world.png"
+filename = "in_world.png"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/in_world.png"
+hash-format = "md5"
+hash = "d1b67085d0c16ace4432851654ed888b"

@@ -1,0 +1,8 @@
+name = "BsRolePlay"
+filename = "bsroleplay-2.0.0-pre8.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--bsroleplay-2.0.0-pre8.3.jar"
+hash-format = "md5"
+hash = "48d99ad000af006bd6e7f736663dbe6e"

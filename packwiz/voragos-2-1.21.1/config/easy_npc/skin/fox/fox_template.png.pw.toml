@@ -1,0 +1,8 @@
+name = "fox_template.png"
+filename = "fox_template.png"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/easy_npc/skin/fox/fox_template.png"
+hash-format = "md5"
+hash = "5850512e21b0c58b42207510a63a923d"

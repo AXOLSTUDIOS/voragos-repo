@@ -1,0 +1,8 @@
+name = "widget_close.png"
+filename = "widget_close.png"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/widget_close.png"
+hash-format = "md5"
+hash = "03e776045055b67147df2d0a547bc656"

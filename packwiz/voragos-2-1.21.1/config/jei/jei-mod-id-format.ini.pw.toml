@@ -1,0 +1,8 @@
+name = "jei-mod-id-format.ini"
+filename = "jei-mod-id-format.ini"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/jei/jei-mod-id-format.ini"
+hash-format = "md5"
+hash = "1f48f1ee6a22052b1966e6d48de178cd"

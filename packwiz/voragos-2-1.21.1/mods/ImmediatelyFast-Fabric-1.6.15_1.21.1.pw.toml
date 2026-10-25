@@ -1,0 +1,8 @@
+name = "ImmediatelyFast"
+filename = "ImmediatelyFast-Fabric-1.6.15_1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--ImmediatelyFast-Fabric-1.6.15_1.21.1.jar"
+hash-format = "md5"
+hash = "66b44206af5115e07e22804ee414fb02"

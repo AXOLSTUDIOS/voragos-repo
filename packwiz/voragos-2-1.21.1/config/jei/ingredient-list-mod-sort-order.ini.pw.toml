@@ -1,0 +1,8 @@
+name = "ingredient-list-mod-sort-order.ini"
+filename = "ingredient-list-mod-sort-order.ini"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/jei/ingredient-list-mod-sort-order.ini"
+hash-format = "md5"
+hash = "66e6d8da93a8ed7aedf0a351f0894928"

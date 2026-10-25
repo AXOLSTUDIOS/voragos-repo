@@ -1,0 +1,8 @@
+name = "CPM PV Compat"
+filename = "cpm-pv-compat-1.1.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--cpm-pv-compat-1.1.3.jar"
+hash-format = "md5"
+hash = "77134c4d9661868f172d4bceacaee7c8"

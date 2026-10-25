@@ -1,0 +1,8 @@
+name = "seeu-server.json"
+filename = "seeu-server.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/seeu-server.json"
+hash-format = "md5"
+hash = "1271de90afb39ab4f080c153b98e7f3a"

@@ -1,0 +1,8 @@
+name = "sophisticatedbackpacks-common.toml"
+filename = "sophisticatedbackpacks-common.toml"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/sophisticatedbackpacks-common.toml"
+hash-format = "md5"
+hash = "3c220b8881045a5364a3a8d7395974a8"

@@ -1,0 +1,8 @@
+name = "entity_sound_features.json"
+filename = "entity_sound_features.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/entity_sound_features.json"
+hash-format = "md5"
+hash = "5756aab42afd46471accf76bc0c1f490"

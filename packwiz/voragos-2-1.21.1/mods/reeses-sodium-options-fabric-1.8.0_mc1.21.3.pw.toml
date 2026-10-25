@@ -1,0 +1,8 @@
+name = "Reese's Sodium Options"
+filename = "reeses-sodium-options-fabric-1.8.0_mc1.21.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--reeses-sodium-options-fabric-1.8.0_mc1.21.3.jar"
+hash-format = "md5"
+hash = "1d9261cac0c95cfc77ce8029c13ae0df"

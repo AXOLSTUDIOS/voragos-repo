@@ -1,0 +1,8 @@
+name = "MoreTotems"
+filename = "MoreTotems-fabric-1.21-2.20.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--MoreTotems-fabric-1.21-2.20.3.jar"
+hash-format = "md5"
+hash = "df3214ddbaf5810329dadfa412fc645d"

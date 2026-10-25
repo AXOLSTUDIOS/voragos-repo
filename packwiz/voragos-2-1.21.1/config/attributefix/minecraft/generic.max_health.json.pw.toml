@@ -1,0 +1,8 @@
+name = "generic.max_health.json"
+filename = "generic.max_health.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/attributefix/minecraft/generic.max_health.json"
+hash-format = "md5"
+hash = "0de76ebcc9aecf1a31155db78ed020d3"

@@ -1,0 +1,8 @@
+name = "ejemplo_wither.png"
+filename = "ejemplo_wither.png"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/axolstudio/bossrituals/splash/ejemplo_wither.png"
+hash-format = "md5"
+hash = "ac902832b03c76c8be8e4b1daa7593ff"

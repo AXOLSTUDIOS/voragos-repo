@@ -1,0 +1,8 @@
+name = "Po Pi Po.emotecraft"
+filename = "Po Pi Po.emotecraft"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/emotes/Po%20Pi%20Po.emotecraft"
+hash-format = "md5"
+hash = "4820466fbf3a83c5221cbdd0d81e24ac"

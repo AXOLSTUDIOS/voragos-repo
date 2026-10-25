@@ -1,0 +1,8 @@
+name = "ritual_knights.json"
+filename = "ritual_knights.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/axolstudio/bossrituals/cinematics/ritual_knights.json"
+hash-format = "md5"
+hash = "23233c270569d233ac2cd0988fc2a7b2"

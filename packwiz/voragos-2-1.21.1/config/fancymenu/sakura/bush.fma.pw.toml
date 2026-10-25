@@ -1,0 +1,8 @@
+name = "bush.fma"
+filename = "bush.fma"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/bush.fma"
+hash-format = "md5"
+hash = "e3a87cbf0d2b4265d170b321d5bdb013"

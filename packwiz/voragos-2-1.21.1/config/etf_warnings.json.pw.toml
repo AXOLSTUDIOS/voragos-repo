@@ -1,0 +1,8 @@
+name = "etf_warnings.json"
+filename = "etf_warnings.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/etf_warnings.json"
+hash-format = "md5"
+hash = "b49b5603d2df29fa132f89ec91974572"

@@ -1,0 +1,8 @@
+name = "allay_template.png"
+filename = "allay_template.png"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/easy_npc/skin/allay/allay_template.png"
+hash-format = "md5"
+hash = "dc449d0dd6cb93d91fa6e34ecd44376a"

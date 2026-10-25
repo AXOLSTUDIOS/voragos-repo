@@ -1,0 +1,8 @@
+name = "spiral.json"
+filename = "spiral.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/skiescrates/particles/spiral.json"
+hash-format = "md5"
+hash = "02789017ec4e48dcf7e7404833f9a28a"

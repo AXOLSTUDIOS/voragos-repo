@@ -1,0 +1,8 @@
+name = "GooeyLibs"
+filename = "GooeyLibs-Fabric-3.1.1-1.21.x.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--GooeyLibs-Fabric-3.1.1-1.21.x.jar"
+hash-format = "md5"
+hash = "59dd5aab6095793531ffca44cc04226d"

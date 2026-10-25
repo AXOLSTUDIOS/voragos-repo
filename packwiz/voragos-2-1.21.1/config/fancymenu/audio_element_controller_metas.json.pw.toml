@@ -1,0 +1,8 @@
+name = "audio_element_controller_metas.json"
+filename = "audio_element_controller_metas.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/audio_element_controller_metas.json"
+hash-format = "md5"
+hash = "bbcc180ee511adb02e2c7280b9affacc"

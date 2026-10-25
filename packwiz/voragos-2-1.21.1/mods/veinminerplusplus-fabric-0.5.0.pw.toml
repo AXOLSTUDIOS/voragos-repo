@@ -1,0 +1,8 @@
+name = "Veinminer++"
+filename = "veinminerplusplus-fabric-0.5.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--veinminerplusplus-fabric-0.5.0.jar"
+hash-format = "md5"
+hash = "ae04d57696c2583cd32e8907810127a3"

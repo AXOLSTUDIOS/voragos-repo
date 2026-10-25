@@ -1,0 +1,8 @@
+name = "player.submerged_mining_speed.json"
+filename = "player.submerged_mining_speed.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/attributefix/minecraft/player.submerged_mining_speed.json"
+hash-format = "md5"
+hash = "e3e87f6cd8419415a538d639a4026392"

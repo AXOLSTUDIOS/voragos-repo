@@ -1,0 +1,8 @@
+name = "Extra RPG Attributes"
+filename = "extraspellattributes-1.7.0_1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--extraspellattributes-1.7.0_1.21.1.jar"
+hash-format = "md5"
+hash = "0cf3f96f776bfd235b2dea46b07e1a30"

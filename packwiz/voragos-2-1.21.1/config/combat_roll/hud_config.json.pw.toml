@@ -1,0 +1,8 @@
+name = "hud_config.json"
+filename = "hud_config.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/combat_roll/hud_config.json"
+hash-format = "md5"
+hash = "8de57eb66a3b916439b308a8b9364445"

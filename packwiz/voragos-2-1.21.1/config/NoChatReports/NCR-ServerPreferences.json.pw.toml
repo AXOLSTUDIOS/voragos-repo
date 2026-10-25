@@ -1,0 +1,8 @@
+name = "NCR-ServerPreferences.json"
+filename = "NCR-ServerPreferences.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/NoChatReports/NCR-ServerPreferences.json"
+hash-format = "md5"
+hash = "0968f5e80aa16a9f465f91ee816e165f"

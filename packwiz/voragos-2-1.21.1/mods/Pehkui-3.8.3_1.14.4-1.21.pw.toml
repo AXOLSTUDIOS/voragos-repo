@@ -1,0 +1,8 @@
+name = "Pehkui"
+filename = "Pehkui-3.8.3_1.14.4-1.21.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--Pehkui-3.8.3_1.14.4-1.21.jar"
+hash-format = "md5"
+hash = "c28dbac324e13836c2c15e47bfcd9e45"

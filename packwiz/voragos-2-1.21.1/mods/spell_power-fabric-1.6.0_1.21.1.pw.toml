@@ -1,0 +1,8 @@
+name = "Spell Power Attribute"
+filename = "spell_power-fabric-1.6.0_1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--spell_power-fabric-1.6.0_1.21.1.jar"
+hash-format = "md5"
+hash = "bac904d97e8bd18bc6f39e7a1bc14197"

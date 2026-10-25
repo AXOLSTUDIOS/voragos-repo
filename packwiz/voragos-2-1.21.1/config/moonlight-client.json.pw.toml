@@ -1,0 +1,8 @@
+name = "moonlight-client.json"
+filename = "moonlight-client.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/moonlight-client.json"
+hash-format = "md5"
+hash = "a1eaa23bff05c9326226a96a89c2f812"

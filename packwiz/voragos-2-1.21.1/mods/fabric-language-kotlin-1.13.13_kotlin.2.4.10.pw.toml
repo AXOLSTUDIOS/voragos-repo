@@ -1,0 +1,8 @@
+name = "Fabric Language Kotlin"
+filename = "fabric-language-kotlin-1.13.13_kotlin.2.4.10.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--fabric-language-kotlin-1.13.13_kotlin.2.4.10.jar"
+hash-format = "md5"
+hash = "b70470268be8c74a10e10b24a2bf7df6"

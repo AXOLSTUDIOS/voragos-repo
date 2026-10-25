@@ -1,0 +1,8 @@
+name = "boton.ogg"
+filename = "boton.ogg"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/boton.ogg"
+hash-format = "md5"
+hash = "f76aa2ceffea737afa44316dab19022e"

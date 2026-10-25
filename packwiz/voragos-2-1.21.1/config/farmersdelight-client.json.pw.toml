@@ -1,0 +1,8 @@
+name = "farmersdelight-client.json"
+filename = "farmersdelight-client.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/farmersdelight-client.json"
+hash-format = "md5"
+hash = "57aa52c3e1378452aa4c5f34f6914f26"

@@ -1,0 +1,8 @@
+name = "forgeconfigapiport.toml"
+filename = "forgeconfigapiport.toml"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/forgeconfigapiport.toml"
+hash-format = "md5"
+hash = "80b3cd8edc58e5849bf5a7a0c48bd4ef"

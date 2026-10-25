@@ -1,0 +1,8 @@
+name = "humanoid_template.png"
+filename = "humanoid_template.png"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/easy_npc/skin/humanoid/humanoid_template.png"
+hash-format = "md5"
+hash = "a39224182358dcbf6615b9faeb732933"

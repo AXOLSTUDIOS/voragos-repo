@@ -1,0 +1,8 @@
+name = "sodium-fingerprint.json"
+filename = "sodium-fingerprint.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/sodium-fingerprint.json"
+hash-format = "md5"
+hash = "1c1e5feebb0c100a63bde52389bdf5be"

@@ -1,0 +1,8 @@
+name = "Ordalia"
+filename = "ordalia-0.1.0_1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--ordalia-0.1.0_1.21.1.jar"
+hash-format = "md5"
+hash = "f9fce05257751b99365d7979e62ff8f9"

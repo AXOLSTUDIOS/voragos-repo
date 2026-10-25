@@ -1,0 +1,8 @@
+name = "PrickleMC"
+filename = "prickle-fabric-1.21.1-21.1.11.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--prickle-fabric-1.21.1-21.1.11.jar"
+hash-format = "md5"
+hash = "507c4368b9c2c19ad99b02413fe34865"

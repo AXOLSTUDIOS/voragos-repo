@@ -1,0 +1,8 @@
+name = "visuality.json"
+filename = "visuality.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/visuality.json"
+hash-format = "md5"
+hash = "f3ab874017001fb36fcc1d7e0cd99aaf"

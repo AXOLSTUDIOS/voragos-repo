@@ -1,0 +1,8 @@
+name = "damageindicators-client.toml"
+filename = "damageindicators-client.toml"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/damageindicators-client.toml"
+hash-format = "md5"
+hash = "080c479d7996f2eebbd41bde0608fe9a"

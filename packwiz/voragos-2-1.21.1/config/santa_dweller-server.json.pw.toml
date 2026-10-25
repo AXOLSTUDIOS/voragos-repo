@@ -1,0 +1,8 @@
+name = "santa_dweller-server.json"
+filename = "santa_dweller-server.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/santa_dweller-server.json"
+hash-format = "md5"
+hash = "595b9679b297206bddfe13b0e11f4696"

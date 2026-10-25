@@ -1,0 +1,8 @@
+name = "element_layer_control.lewidget"
+filename = "element_layer_control.lewidget"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash-format = "md5"
+hash = "70546b71ee503f0bf790bfbd1a1b8c2d"

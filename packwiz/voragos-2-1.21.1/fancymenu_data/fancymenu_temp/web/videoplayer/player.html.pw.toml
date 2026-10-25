@@ -1,0 +1,8 @@
+name = "player.html"
+filename = "player.html"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/fancymenu_data/fancymenu_temp/web/videoplayer/player.html"
+hash-format = "md5"
+hash = "f6e0587596db28200c05f90eb2fc7149"

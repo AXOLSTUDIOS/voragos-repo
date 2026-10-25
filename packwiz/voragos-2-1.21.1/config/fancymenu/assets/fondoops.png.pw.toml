@@ -1,0 +1,8 @@
+name = "fondoops.png"
+filename = "fondoops.png"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/fondoops.png"
+hash-format = "md5"
+hash = "72916b187da24ed554107b2a396d3079"

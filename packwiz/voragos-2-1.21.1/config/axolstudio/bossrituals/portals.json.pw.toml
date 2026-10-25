@@ -1,0 +1,8 @@
+name = "portals.json"
+filename = "portals.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/axolstudio/bossrituals/portals.json"
+hash-format = "md5"
+hash = "90a90f501ecaa4222fdc8d10c97a98ab"

@@ -1,0 +1,8 @@
+name = "example_pokemon_crate.json"
+filename = "example_pokemon_crate.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/skiescrates/crates/example_pokemon_crate.json"
+hash-format = "md5"
+hash = "8137135757f5d07c48930c4b1399497d"

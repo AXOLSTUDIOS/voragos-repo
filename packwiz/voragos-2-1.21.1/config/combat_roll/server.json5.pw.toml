@@ -1,0 +1,8 @@
+name = "server.json5"
+filename = "server.json5"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/combat_roll/server.json5"
+hash-format = "md5"
+hash = "0be540dcb7e363dca4dea7f2354ca8d6"

@@ -1,0 +1,8 @@
+name = "reabsorbarmormax.json"
+filename = "reabsorbarmormax.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/attributefix/extraspellattributes/reabsorbarmormax.json"
+hash-format = "md5"
+hash = "a38ef0a60725c9e80ae1e6ef0231bad3"

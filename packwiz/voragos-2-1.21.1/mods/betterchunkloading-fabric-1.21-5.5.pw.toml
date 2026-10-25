@@ -1,0 +1,8 @@
+name = "Better chunk loading mod"
+filename = "betterchunkloading-fabric-1.21-5.5.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--betterchunkloading-fabric-1.21-5.5.jar"
+hash-format = "md5"
+hash = "cee3e30cb3ab708ddd3be8fcd7a7ffa4"

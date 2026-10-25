@@ -1,0 +1,8 @@
+name = "config.json"
+filename = "config.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/essential-mod-partner/config.json"
+hash-format = "md5"
+hash = "845936bf3faee04970d11535a80bf3aa"

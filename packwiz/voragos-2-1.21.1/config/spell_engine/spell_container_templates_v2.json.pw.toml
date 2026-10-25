@@ -1,0 +1,8 @@
+name = "spell_container_templates_v2.json"
+filename = "spell_container_templates_v2.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/spell_engine/spell_container_templates_v2.json"
+hash-format = "md5"
+hash = "6374993834b48612cc9c6100aa0b9099"

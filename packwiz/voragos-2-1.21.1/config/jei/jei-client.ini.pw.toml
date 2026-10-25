@@ -1,0 +1,8 @@
+name = "jei-client.ini"
+filename = "jei-client.ini"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/jei/jei-client.ini"
+hash-format = "md5"
+hash = "65e6bc517172b16655e31d70ad7104c1"

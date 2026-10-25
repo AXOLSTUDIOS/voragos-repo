@@ -1,0 +1,8 @@
+name = "CPD bend.emotecraft"
+filename = "CPD bend.emotecraft"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/emotes/CPD%20bend.emotecraft"
+hash-format = "md5"
+hash = "8b1d9f6dec3a824d8b7654b2d604dd9d"

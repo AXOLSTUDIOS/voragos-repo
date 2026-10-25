@@ -1,0 +1,8 @@
+name = "Clumps"
+filename = "Clumps-fabric-1.21.1-19.0.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--Clumps-fabric-1.21.1-19.0.0.1.jar"
+hash-format = "md5"
+hash = "8715713c6b63565a5eafb4c925275035"

@@ -1,0 +1,8 @@
+name = "Lithium"
+filename = "lithium-fabric-0.15.4_mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--lithium-fabric-0.15.4_mc1.21.1.jar"
+hash-format = "md5"
+hash = "6fd6783640f42130f041b50cca2d3be6"

@@ -1,0 +1,8 @@
+name = "Towns and Towers"
+filename = "t_and_t-neoforge-fabric-1.13.9_1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--t_and_t-neoforge-fabric-1.13.9_1.21.1.jar"
+hash-format = "md5"
+hash = "c3b46230060d91601503cf5b7ab6e4b7"

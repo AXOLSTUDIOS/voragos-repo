@@ -1,0 +1,8 @@
+name = "eclipse.json"
+filename = "eclipse.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/axolstudio/bossrituals/rituals/eclipse.json"
+hash-format = "md5"
+hash = "30aedc7c08538e87b87f0ba044d717cd"

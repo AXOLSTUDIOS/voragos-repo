@@ -1,0 +1,8 @@
+name = "dark.json"
+filename = "dark.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/ui_themes/dark.json"
+hash-format = "md5"
+hash = "df90c4d23315ff6e63e15541b3031197"

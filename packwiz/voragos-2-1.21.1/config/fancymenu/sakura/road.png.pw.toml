@@ -1,0 +1,8 @@
+name = "road.png"
+filename = "road.png"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/road.png"
+hash-format = "md5"
+hash = "19def87a4c65d12f4c23aa946465c66b"

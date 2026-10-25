@@ -1,0 +1,8 @@
+name = "longjourney.ogg"
+filename = "longjourney.ogg"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/bgm/longjourney.ogg"
+hash-format = "md5"
+hash = "3a060178f3fa377f59bfe1f0858d3b5e"

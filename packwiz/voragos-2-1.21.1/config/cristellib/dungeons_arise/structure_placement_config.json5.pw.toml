@@ -1,0 +1,8 @@
+name = "structure_placement_config.json5"
+filename = "structure_placement_config.json5"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/cristellib/dungeons_arise/structure_placement_config.json5"
+hash-format = "md5"
+hash = "34a2b2d20a59547083eb1133f5dacacc"

@@ -1,0 +1,8 @@
+name = "legacy_checklist.txt"
+filename = "legacy_checklist.txt"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/legacy_checklist.txt"
+hash-format = "md5"
+hash = "bc03e01c4f1bf1e24e9b86591baa512b"

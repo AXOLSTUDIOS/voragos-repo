@@ -1,0 +1,8 @@
+name = "Waystones"
+filename = "waystones-fabric-1.21.1-21.1.40.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--waystones-fabric-1.21.1-21.1.40.jar"
+hash-format = "md5"
+hash = "9ffee476da7b3338b9c3183c3f0d9aad"

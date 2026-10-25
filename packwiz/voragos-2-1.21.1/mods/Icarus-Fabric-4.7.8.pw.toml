@@ -1,0 +1,8 @@
+name = "Icarus"
+filename = "Icarus-Fabric-4.7.8.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--Icarus-Fabric-4.7.8.jar"
+hash-format = "md5"
+hash = "08c626ddd4b2167118d6d858a1c69b8b"

@@ -1,0 +1,8 @@
+name = "Безысходность.emotecraft"
+filename = "Безысходность.emotecraft"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/emotes/%D0%91%D0%B5%D0%B7%D1%8B%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D1%8C.emotecraft"
+hash-format = "md5"
+hash = "238c487f6ff712a65b612c2906d6b732"

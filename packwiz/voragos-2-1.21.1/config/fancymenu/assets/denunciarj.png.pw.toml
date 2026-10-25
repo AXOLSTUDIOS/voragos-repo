@@ -1,0 +1,8 @@
+name = "denunciarj.png"
+filename = "denunciarj.png"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/denunciarj.png"
+hash-format = "md5"
+hash = "baefa258cc44aaae678a1affdc5cfdb0"

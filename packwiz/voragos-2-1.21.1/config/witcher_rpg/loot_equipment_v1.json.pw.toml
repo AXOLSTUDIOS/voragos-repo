@@ -1,0 +1,8 @@
+name = "loot_equipment_v1.json"
+filename = "loot_equipment_v1.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/witcher_rpg/loot_equipment_v1.json"
+hash-format = "md5"
+hash = "355cda4b7263ee89a8d234f4bf09d633"

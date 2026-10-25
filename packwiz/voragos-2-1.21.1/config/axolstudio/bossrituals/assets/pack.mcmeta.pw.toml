@@ -1,0 +1,8 @@
+name = "pack.mcmeta"
+filename = "pack.mcmeta"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/axolstudio/bossrituals/assets/pack.mcmeta"
+hash-format = "md5"
+hash = "f309c88fb32b9fec7cba08d6ebc11e22"

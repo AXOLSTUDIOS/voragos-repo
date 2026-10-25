@@ -1,0 +1,8 @@
+name = "Sophisticated Core"
+filename = "sophisticatedcore-1.21.1-1.2.9.21.168.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--sophisticatedcore-1.21.1-1.2.9.21.168.jar"
+hash-format = "md5"
+hash = "44bf607ca1a8bfb7410514db85ac9c28"

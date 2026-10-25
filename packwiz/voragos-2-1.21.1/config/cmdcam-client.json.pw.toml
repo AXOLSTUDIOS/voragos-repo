@@ -1,0 +1,8 @@
+name = "cmdcam-client.json"
+filename = "cmdcam-client.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/cmdcam-client.json"
+hash-format = "md5"
+hash = "0a36f08df7ec1fcf96315306b5bb15b3"

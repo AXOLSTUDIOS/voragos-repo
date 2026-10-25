@@ -1,0 +1,8 @@
+name = "Archers (RPG Series)"
+filename = "archers-fabric-3.0.3_1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--archers-fabric-3.0.3_1.21.1.jar"
+hash-format = "md5"
+hash = "eab6b414cb605f20c8c07c62eb907138"

@@ -1,0 +1,8 @@
+name = "jei-server.properties"
+filename = "jei-server.properties"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/jei-server.properties"
+hash-format = "md5"
+hash = "fdc0f6c5fb65bd12addf7b3acaf11bb7"

@@ -1,0 +1,8 @@
+name = "Common Network"
+filename = "common-networking-fabric-1.0.21-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--common-networking-fabric-1.0.21-1.21.1.jar"
+hash-format = "md5"
+hash = "b500fdeb0b05d0e69ee857f3c52cce06"

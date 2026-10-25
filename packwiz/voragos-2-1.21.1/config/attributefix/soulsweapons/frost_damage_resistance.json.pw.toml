@@ -1,0 +1,8 @@
+name = "frost_damage_resistance.json"
+filename = "frost_damage_resistance.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/attributefix/soulsweapons/frost_damage_resistance.json"
+hash-format = "md5"
+hash = "56f34b245b320cdc0c6e27836def73b9"

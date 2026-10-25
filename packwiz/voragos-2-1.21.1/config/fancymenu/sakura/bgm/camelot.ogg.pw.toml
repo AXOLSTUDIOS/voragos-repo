@@ -1,0 +1,8 @@
+name = "camelot.ogg"
+filename = "camelot.ogg"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/bgm/camelot.ogg"
+hash-format = "md5"
+hash = "87d3ae4683d3fdad49c2d260ccfc4d60"

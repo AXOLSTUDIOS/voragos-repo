@@ -1,0 +1,8 @@
+name = "Necronomicon"
+filename = "Necronomicon-Fabric-1.6.0_1.21.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--Necronomicon-Fabric-1.6.0_1.21.jar"
+hash-format = "md5"
+hash = "e197f0343fe4965699ce56f381b54952"

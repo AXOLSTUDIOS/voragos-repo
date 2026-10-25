@@ -1,0 +1,8 @@
+name = "RangedWeaponAPI"
+filename = "ranged_weapon_api-fabric-2.3.3_1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--ranged_weapon_api-fabric-2.3.3_1.21.1.jar"
+hash-format = "md5"
+hash = "c1c9f6fe5c0e5561bc4095ae8a887ddc"

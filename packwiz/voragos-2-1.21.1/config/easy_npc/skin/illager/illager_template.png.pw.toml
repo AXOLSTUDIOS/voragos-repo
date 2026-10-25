@@ -1,0 +1,8 @@
+name = "illager_template.png"
+filename = "illager_template.png"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/easy_npc/skin/illager/illager_template.png"
+hash-format = "md5"
+hash = "62e2eafe9879c26a5d39f6eed5a0d4c0"

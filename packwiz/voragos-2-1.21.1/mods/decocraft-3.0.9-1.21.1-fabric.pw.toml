@@ -1,0 +1,8 @@
+name = "Decocraft"
+filename = "decocraft-3.0.9-1.21.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--decocraft-3.0.9-1.21.1-fabric.jar"
+hash-format = "md5"
+hash = "919fe94bd9ab4d37e0fcc418a1fbe14a"

@@ -1,0 +1,8 @@
+name = "effects_v2.json"
+filename = "effects_v2.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/elemental_wizards_rpg/effects_v2.json"
+hash-format = "md5"
+hash = "06cde966f30699d7f529cb0b43265460"

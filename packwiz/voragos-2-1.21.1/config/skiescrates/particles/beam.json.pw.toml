@@ -1,0 +1,8 @@
+name = "beam.json"
+filename = "beam.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/skiescrates/particles/beam.json"
+hash-format = "md5"
+hash = "34335a187cf2ecfbf65667ff9f330b19"

@@ -1,0 +1,8 @@
+name = "00690dcd5a4991eafef1eff56726e623f35730884457bc689ce4177cd07aea38.png"
+filename = "00690dcd5a4991eafef1eff56726e623f35730884457bc689ce4177cd07aea38.png"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/animatedframes/media/.server-cache/00690dcd5a4991eafef1eff56726e623f35730884457bc689ce4177cd07aea38.png"
+hash-format = "md5"
+hash = "c29ef12f6027e799302eff5928062282"

@@ -1,0 +1,8 @@
+name = "FancyMenu"
+filename = "fancymenu_fabric_3.8.1_MC_1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--fancymenu_fabric_3.8.1_MC_1.21.1.jar"
+hash-format = "md5"
+hash = "8e396d8a4315d4d5db4fe742d8d4c0b2"

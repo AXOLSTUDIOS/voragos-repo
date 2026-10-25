@@ -1,0 +1,8 @@
+name = "Ping Wheel"
+filename = "Ping-Wheel-1.12.2-fabric-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--Ping-Wheel-1.12.2-fabric-1.21.1.jar"
+hash-format = "md5"
+hash = "d0da2169a144c577794d38a03927f28e"

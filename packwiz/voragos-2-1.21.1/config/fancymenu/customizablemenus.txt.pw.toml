@@ -1,0 +1,8 @@
+name = "customizablemenus.txt"
+filename = "customizablemenus.txt"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/customizablemenus.txt"
+hash-format = "md5"
+hash = "8b2fbd740b2f342bbce5d3eb36cf5739"

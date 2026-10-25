@@ -1,0 +1,8 @@
+name = "Terralith"
+filename = "Terralith_1.21.x_v2.6.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--Terralith_1.21.x_v2.6.2.jar"
+hash-format = "md5"
+hash = "7d2aa346b66270e770fee79e5b4541d6"

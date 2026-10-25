@@ -1,0 +1,8 @@
+name = "heraldo_sol.json"
+filename = "heraldo_sol.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/axolstudio/bossrituals/bosses/heraldo_sol.json"
+hash-format = "md5"
+hash = "2c53b39ed7e002a8de3afb1b05109a4f"

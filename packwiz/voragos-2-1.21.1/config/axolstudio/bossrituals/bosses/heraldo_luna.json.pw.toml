@@ -1,0 +1,8 @@
+name = "heraldo_luna.json"
+filename = "heraldo_luna.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/axolstudio/bossrituals/bosses/heraldo_luna.json"
+hash-format = "md5"
+hash = "41e17777fe01e5a3cd3fbc0cb574e461"

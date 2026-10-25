@@ -1,0 +1,8 @@
+name = "timestamp"
+filename = "timestamp"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/plasmovoice/.crowdin/timestamp"
+hash-format = "md5"
+hash = "4218c9a64e9137f97319836fe1e15bfd"

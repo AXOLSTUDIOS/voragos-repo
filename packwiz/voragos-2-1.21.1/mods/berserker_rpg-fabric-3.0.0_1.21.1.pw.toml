@@ -1,0 +1,8 @@
+name = "Berserker Class Mod"
+filename = "berserker_rpg-fabric-3.0.0_1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--berserker_rpg-fabric-3.0.0_1.21.1.jar"
+hash-format = "md5"
+hash = "389d9b1d87a36cefbd7941c52bafe3ab"

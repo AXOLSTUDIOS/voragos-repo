@@ -1,0 +1,8 @@
+name = "btn_sp.png"
+filename = "btn_sp.png"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/btn_sp.png"
+hash-format = "md5"
+hash = "d25b89ee38b5ae0649847325790a1ff2"

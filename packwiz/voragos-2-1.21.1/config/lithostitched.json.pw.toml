@@ -1,0 +1,8 @@
+name = "lithostitched.json"
+filename = "lithostitched.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/lithostitched.json"
+hash-format = "md5"
+hash = "3ca8222416b50ea7d94763ee5b4a9fb5"

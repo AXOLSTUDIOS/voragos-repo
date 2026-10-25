@@ -1,0 +1,8 @@
+name = "attributes.json"
+filename = "attributes.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/spell_power/attributes.json"
+hash-format = "md5"
+hash = "d8b753bdb2f670e72930dc769ba0347e"

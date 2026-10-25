@@ -1,0 +1,8 @@
+name = "sophisticatedcore-common.toml"
+filename = "sophisticatedcore-common.toml"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/sophisticatedcore-common.toml"
+hash-format = "md5"
+hash = "d854fed94b71d0e1b2585b53a785ffa9"

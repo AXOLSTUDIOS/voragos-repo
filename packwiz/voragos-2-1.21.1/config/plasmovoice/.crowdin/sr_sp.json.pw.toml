@@ -1,0 +1,8 @@
+name = "sr_sp.json"
+filename = "sr_sp.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/plasmovoice/.crowdin/sr_sp.json"
+hash-format = "md5"
+hash = "282b43f1eb31530195afa47b888005f3"

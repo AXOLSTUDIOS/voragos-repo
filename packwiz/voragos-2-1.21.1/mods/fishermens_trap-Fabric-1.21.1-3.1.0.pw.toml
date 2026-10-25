@@ -1,0 +1,8 @@
+name = "Fishermens Trap"
+filename = "fishermens_trap-Fabric-1.21.1-3.1.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--fishermens_trap-Fabric-1.21.1-3.1.0.jar"
+hash-format = "md5"
+hash = "fce0cd225137c70b18ab5c1f6494c961"

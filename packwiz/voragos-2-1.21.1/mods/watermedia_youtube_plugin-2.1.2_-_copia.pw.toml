@@ -1,0 +1,8 @@
+name = "WaterMedia YT Plugin"
+filename = "watermedia_youtube_plugin-2.1.2_-_copia.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--watermedia_youtube_plugin-2.1.2_-_copia.jar"
+hash-format = "md5"
+hash = "5b0ed7502f1d3c0553e6d536d5a74d4a"

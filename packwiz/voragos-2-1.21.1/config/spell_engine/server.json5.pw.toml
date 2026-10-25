@@ -1,0 +1,8 @@
+name = "server.json5"
+filename = "server.json5"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/spell_engine/server.json5"
+hash-format = "md5"
+hash = "72ef1b8d51954d72c2c6e59e92865190"

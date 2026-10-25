@@ -1,0 +1,8 @@
+name = "modmenu.json"
+filename = "modmenu.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/modmenu.json"
+hash-format = "md5"
+hash = "6f801fc101c146e1c993f05544858c34"

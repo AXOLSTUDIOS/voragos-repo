@@ -1,0 +1,8 @@
+name = "pulse.json"
+filename = "pulse.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/skiescrates/particles/pulse.json"
+hash-format = "md5"
+hash = "1de178ee5d56f384744eb0bac81a97c7"

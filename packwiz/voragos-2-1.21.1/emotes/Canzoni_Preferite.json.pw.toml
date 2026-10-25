@@ -1,0 +1,8 @@
+name = "Canzoni_Preferite.json"
+filename = "Canzoni_Preferite.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/emotes/Canzoni_Preferite.json"
+hash-format = "md5"
+hash = "ded094ccd0703a9a6e3904b1c0aaa549"

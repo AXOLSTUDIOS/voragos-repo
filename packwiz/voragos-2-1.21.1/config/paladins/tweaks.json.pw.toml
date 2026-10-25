@@ -1,0 +1,8 @@
+name = "tweaks.json"
+filename = "tweaks.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/paladins/tweaks.json"
+hash-format = "md5"
+hash = "97db20e6230020996a135aba77a61dd5"

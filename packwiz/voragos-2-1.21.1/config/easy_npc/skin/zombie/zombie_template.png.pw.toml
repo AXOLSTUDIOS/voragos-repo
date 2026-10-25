@@ -1,0 +1,8 @@
+name = "zombie_template.png"
+filename = "zombie_template.png"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/easy_npc/skin/zombie/zombie_template.png"
+hash-format = "md5"
+hash = "a38b0b7043eb7c0e91379628aeed1db2"

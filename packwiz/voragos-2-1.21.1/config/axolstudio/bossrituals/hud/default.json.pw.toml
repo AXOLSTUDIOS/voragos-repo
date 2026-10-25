@@ -1,0 +1,8 @@
+name = "default.json"
+filename = "default.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/axolstudio/bossrituals/hud/default.json"
+hash-format = "md5"
+hash = "8bfd7733ff511571646edeef2f63e1a8"

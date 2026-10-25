@@ -1,0 +1,8 @@
+name = "simplehats.json"
+filename = "simplehats.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/simplehats.json"
+hash-format = "md5"
+hash = "c018a899802a96bebfbbfa3a57bfaadb"

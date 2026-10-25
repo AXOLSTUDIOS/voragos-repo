@@ -1,0 +1,8 @@
+name = "ritual_nether_pillars.json"
+filename = "ritual_nether_pillars.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/axolstudio/bossrituals/cinematics/ritual_nether_pillars.json"
+hash-format = "md5"
+hash = "9d4f5bb1bdaf635417c3cf0612ab41b1"

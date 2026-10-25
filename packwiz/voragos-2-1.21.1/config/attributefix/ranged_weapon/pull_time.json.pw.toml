@@ -1,0 +1,8 @@
+name = "pull_time.json"
+filename = "pull_time.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/attributefix/ranged_weapon/pull_time.json"
+hash-format = "md5"
+hash = "db9b7f3086737518551a2e1700ad31b1"

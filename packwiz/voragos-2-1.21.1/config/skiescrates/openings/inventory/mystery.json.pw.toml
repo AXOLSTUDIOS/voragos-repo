@@ -1,0 +1,8 @@
+name = "mystery.json"
+filename = "mystery.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/skiescrates/openings/inventory/mystery.json"
+hash-format = "md5"
+hash = "7be0ef78680d4631d008837f60873e7b"

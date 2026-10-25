@@ -1,0 +1,8 @@
+name = "LibZ"
+filename = "libz-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--libz-1.1.0.jar"
+hash-format = "md5"
+hash = "f6a7945708e72fffe8e7d4b419f4129f"

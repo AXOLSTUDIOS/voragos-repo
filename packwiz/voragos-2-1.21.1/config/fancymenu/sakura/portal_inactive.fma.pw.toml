@@ -1,0 +1,8 @@
+name = "portal_inactive.fma"
+filename = "portal_inactive.fma"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/sakura/portal_inactive.fma"
+hash-format = "md5"
+hash = "99f7668c2890c1649df683de658da61b"

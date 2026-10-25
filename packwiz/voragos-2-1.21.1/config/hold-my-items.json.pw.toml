@@ -1,0 +1,8 @@
+name = "hold-my-items.json"
+filename = "hold-my-items.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/hold-my-items.json"
+hash-format = "md5"
+hash = "62a8ee8b84d5b63fd772e6bf85577919"

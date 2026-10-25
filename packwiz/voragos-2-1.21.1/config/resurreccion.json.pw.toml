@@ -1,0 +1,8 @@
+name = "resurreccion.json"
+filename = "resurreccion.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/resurreccion.json"
+hash-format = "md5"
+hash = "fee56c3310ee7055cd49db07448155f3"

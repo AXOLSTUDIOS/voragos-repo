@@ -1,0 +1,8 @@
+name = "Fzzy Config"
+filename = "fzzy_config-0.7.6_1.21.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--fzzy_config-0.7.6_1.21.jar"
+hash-format = "md5"
+hash = "dcedb9014b228c01941b2ef4f2743f19"

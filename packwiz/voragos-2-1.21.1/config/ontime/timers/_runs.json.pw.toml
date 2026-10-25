@@ -1,0 +1,8 @@
+name = "_runs.json"
+filename = "_runs.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/ontime/timers/_runs.json"
+hash-format = "md5"
+hash = "b0360300eb01fe583e275e5cc1afa7b9"

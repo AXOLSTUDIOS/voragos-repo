@@ -1,0 +1,8 @@
+name = "WaterMedia"
+filename = "watermedia-2.1.37_-_copia.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--watermedia-2.1.37_-_copia.jar"
+hash-format = "md5"
+hash = "4a09ad3ea22ad258802605b8aa929bbd"

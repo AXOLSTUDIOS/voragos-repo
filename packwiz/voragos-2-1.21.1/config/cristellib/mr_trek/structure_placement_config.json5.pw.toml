@@ -1,0 +1,8 @@
+name = "structure_placement_config.json5"
+filename = "structure_placement_config.json5"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/cristellib/mr_trek/structure_placement_config.json5"
+hash-format = "md5"
+hash = "1895185d8dff1e9948d1e34fcad68921"

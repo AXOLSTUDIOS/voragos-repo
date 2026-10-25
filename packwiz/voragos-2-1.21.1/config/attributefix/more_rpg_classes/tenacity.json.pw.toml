@@ -1,0 +1,8 @@
+name = "tenacity.json"
+filename = "tenacity.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/attributefix/more_rpg_classes/tenacity.json"
+hash-format = "md5"
+hash = "1ac6a24eb6dd6084e66c7c73ad84919a"

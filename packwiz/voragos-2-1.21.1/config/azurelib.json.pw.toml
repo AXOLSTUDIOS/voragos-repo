@@ -1,0 +1,8 @@
+name = "azurelib.json"
+filename = "azurelib.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/azurelib.json"
+hash-format = "md5"
+hash = "b8d8d908de3f6293fcfa48de72eea553"
