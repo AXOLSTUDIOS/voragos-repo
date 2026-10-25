@@ -516,9 +516,9 @@
           "name": "CourierFamiliars",
           "type": "FabricMod",
           "artifact": {
-            "size": 268433,
+            "size": 268467,
             "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--courierfamiliars-1.1.0.jar",
-            "MD5": "3ddcd0f86844556257b4510235fab6d1"
+            "MD5": "5520b84b0593c06f80af34ff21d37826"
           }
         },
         {
