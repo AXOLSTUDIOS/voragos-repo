@@ -5,4 +5,4 @@ side = "client"
 [download]
 url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/shaderpacks/LegendaryAtmosphere_v2.6_Voxy.zip.txt"
 hash-format = "md5"
-hash = "3e6533396d61c21ed30bd7bd45b8dd17"
+hash = "306a8801c65e05f6ca1f22fd2f32f96a"

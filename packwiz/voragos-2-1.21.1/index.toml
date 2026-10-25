@@ -4874,12 +4874,12 @@ preserve = true
 
 [[files]]
 file = "shaderpacks/LegendaryAtmosphere_v2.6_Voxy.zip.pw.toml"
-hash = "ef20156cd4dcc02a91d489e9991392f3a7ee29716c201870b577ab177e2535fa"
+hash = "0b5931ea09d10aaf753b9cd9a4fbfc3401303c26ca421b30ec28d18f533d5855"
 metafile = true
 preserve = true
 
 [[files]]
 file = "shaderpacks/LegendaryAtmosphere_v2.6_Voxy.zip.txt.pw.toml"
-hash = "2b76b32dc8014c4c24d2b879a214002f6a3206db47ed3033a04a5e471efaaa57"
+hash = "c2cc163d009a35cbbd2b194b070b6fd713bee867788f2cef73032948a88a5427"
 metafile = true
 preserve = true
