@@ -1,5 +1,6 @@
 {
   "version": "1.0.0",
+  "rss": "https://axolstudios.github.io/feed/noticias.xml",
   "servers": [
     {
       "id": "voragos-2-1.21.1",
