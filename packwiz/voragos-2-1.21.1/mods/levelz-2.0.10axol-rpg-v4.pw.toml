@@ -1,0 +1,8 @@
+name = "LevelZ"
+filename = "levelz-2.0.10axol-rpg-v4.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--levelz-2.0.10axol-rpg-v4.jar"
+hash-format = "md5"
+hash = "de180c64656275051cb763fc1e737032"

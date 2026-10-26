@@ -1,0 +1,8 @@
+name = "AxolVivo"
+filename = "axolvivo-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--axolvivo-2.0.0.jar"
+hash-format = "md5"
+hash = "1f082c56afe8ebbc600bcb45e14d8ef6"

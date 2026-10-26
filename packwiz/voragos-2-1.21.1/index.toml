@@ -3820,6 +3820,11 @@ hash = "885718eadbdf605572f5fc6a264b3eaed1d20814713a2cdade5f71abedad4716"
 metafile = true
 
 [[files]]
+file = "mods/axolvivo-2.0.0.pw.toml"
+hash = "694d089b766dea3f433c838fe3d73be5b4cddb1ad6ccb61d8656f329500584de"
+metafile = true
+
+[[files]]
 file = "mods/azurelib-fabric-1.21.1-3.1.11.pw.toml"
 hash = "cb9e8b326ac33a7b6917b193560f24e1c16d699389f5788355dd3bc250407314"
 metafile = true
@@ -4250,8 +4255,8 @@ hash = "a500213ed3ac508d36ef51751c225a383f977c032af9dde98f2b1209d112e396"
 metafile = true
 
 [[files]]
-file = "mods/jobsaddon-1.2.5.pw.toml"
-hash = "46be9bd5de23b4d4edde0537ca7c83ade95df16cb84e85962150bba671fe2564"
+file = "mods/jobsaddon-1.2.5axol-rpg-v4.pw.toml"
+hash = "468b3425abd99d5fef5e121af8ade75540cead102ad6a215b71bac50e6e40b3d"
 metafile = true
 
 [[files]]
@@ -4280,8 +4285,8 @@ hash = "43b8631d71feec40d38bf9c06923d865d5be010a169fc1a35dd18ef986879943"
 metafile = true
 
 [[files]]
-file = "mods/levelz-2.0.10.pw.toml"
-hash = "7c4fbbc620535a8014efa5e6ad722ba29c1a0d5ba608efa0a2123eba77acca65"
+file = "mods/levelz-2.0.10axol-rpg-v4.pw.toml"
+hash = "d5ad043e7418bb3aa25e0f27bf359f379c60ed9f3f18a523c2a7f2209e98af22"
 metafile = true
 
 [[files]]
@@ -4370,8 +4375,8 @@ hash = "2cd81edfde7ed75a26052125bfba01cb87893699a6f9b68e0195b962b1ff73aa"
 metafile = true
 
 [[files]]
-file = "mods/minopp-1.4.0_1.21.1_fabric.pw.toml"
-hash = "663628d8f6c96a3f628f2d10e807d793a371f275b2b7727d7da619c2c840c243"
+file = "mods/minopp-uno-mexicano-1.4.0-mx1.pw.toml"
+hash = "41b2c8f1acaea0a4c12dca1e62f94be1761e5c7102d857591392ab3e3761e998"
 metafile = true
 
 [[files]]

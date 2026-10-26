@@ -242,6 +242,16 @@
           }
         },
         {
+          "id": "com.axolstudio:axolvivo:2.0.0@jar",
+          "name": "AxolVivo",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 10599,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--axolvivo-2.0.0.jar",
+            "MD5": "1f082c56afe8ebbc600bcb45e14d8ef6"
+          }
+        },
+        {
           "id": "mod.azure:azurelib:3.1.11@jar",
           "name": "AzureLib",
           "type": "FabricMod",
@@ -1102,13 +1112,13 @@
           }
         },
         {
-          "id": "net.jobsaddon:jobsaddon:1.2.5@jar",
+          "id": "net.jobsaddon:jobsaddon:1.2.5+axol@jar",
           "name": "JobsAddon",
           "type": "FabricMod",
           "artifact": {
-            "size": 127703,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--jobsaddon-1.2.5.jar",
-            "MD5": "eda8942237e507e7ebbfa499fd20cebf"
+            "size": 206493,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--jobsaddon-1.2.5axol-rpg-v4.jar",
+            "MD5": "a14c57762edc96ad56d2d658f98fc0a3"
           }
         },
         {
@@ -1162,13 +1172,13 @@
           }
         },
         {
-          "id": "net.levelz:levelz:2.0.10@jar",
+          "id": "net.levelz:levelz:2.0.10+axol@jar",
           "name": "LevelZ",
           "type": "FabricMod",
           "artifact": {
-            "size": 323495,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--levelz-2.0.10.jar",
-            "MD5": "69f54c67fe5e8fecc57f45bb3dc37f3b"
+            "size": 434071,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--levelz-2.0.10axol-rpg-v4.jar",
+            "MD5": "de180c64656275051cb763fc1e737032"
           }
         },
         {
@@ -1342,13 +1352,13 @@
           }
         },
         {
-          "id": "cn.zbx1425:minopp:1.4.0+1.21.1+fabric@jar",
-          "name": "Minopp",
+          "id": "cn.zbx1425:minopp:1.4.0-mx1@jar",
+          "name": "UNO Mexicano (Mino++)",
           "type": "FabricMod",
           "artifact": {
-            "size": 261050,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--minopp-1.4.0_1.21.1_fabric.jar",
-            "MD5": "18251f05a9f6af0330f280b9de9d2ef2"
+            "size": 274022,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--minopp-uno-mexicano-1.4.0-mx1.jar",
+            "MD5": "283e677a2ca76929d165f63bdb931624"
           }
         },
         {

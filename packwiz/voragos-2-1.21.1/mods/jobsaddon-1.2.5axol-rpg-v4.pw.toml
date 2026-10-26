@@ -1,0 +1,8 @@
+name = "JobsAddon"
+filename = "jobsaddon-1.2.5axol-rpg-v4.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--jobsaddon-1.2.5axol-rpg-v4.jar"
+hash-format = "md5"
+hash = "a14c57762edc96ad56d2d658f98fc0a3"
