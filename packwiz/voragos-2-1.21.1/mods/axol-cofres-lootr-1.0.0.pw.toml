@@ -1,0 +1,8 @@
+name = "Axol Cofres Lootr"
+filename = "axol-cofres-lootr-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--axol-cofres-lootr-1.0.0.jar"
+hash-format = "md5"
+hash = "6926a887178a3e40f44905fe54e0ef17"

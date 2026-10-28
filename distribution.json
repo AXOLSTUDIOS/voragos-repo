@@ -222,6 +222,16 @@
           }
         },
         {
+          "id": "com.axolstudio.cofreslootr:axolcofreslootr:1.0.0@jar",
+          "name": "Axol Cofres Lootr",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 24586,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--axol-cofres-lootr-1.0.0.jar",
+            "MD5": "6926a887178a3e40f44905fe54e0ef17"
+          }
+        },
+        {
           "id": "generated.fabricmod:axolsplash:1.0.0@jar",
           "name": "Axol Splash",
           "type": "FabricMod",
@@ -1369,6 +1379,16 @@
             "size": 106264,
             "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--misiones-1.0.1.jar",
             "MD5": "b849330ed934271499b4a856501c5fbc"
+          }
+        },
+        {
+          "id": "com.axolstudio.moaholidays:moa_holidays:2.2.0@jar",
+          "name": "MOA: Holidays (Fabric)",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1319269,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--moa_holidays-fabric-1.21.1-2.2.0.jar",
+            "MD5": "42239589f3afdb62f9f237a61509ead0"
           }
         },
         {

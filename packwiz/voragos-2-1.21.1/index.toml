@@ -3810,6 +3810,11 @@ hash = "b726cc5b7a952b8a07c902230ce67dd75c35c059651360e969429b7ce5fb84f0"
 metafile = true
 
 [[files]]
+file = "mods/axol-cofres-lootr-1.0.0.pw.toml"
+hash = "934077bfc6ffc59a9271a5fb296b2b20b1d03af239fa9613b6c0d7eb8aa86a37"
+metafile = true
+
+[[files]]
 file = "mods/axol-splash-1.0.0.pw.toml"
 hash = "fc85103617da713523269e34cac548ea96f2817efb8be066b6f3ec90ce84835a"
 metafile = true
@@ -4382,6 +4387,11 @@ metafile = true
 [[files]]
 file = "mods/misiones-1.0.1.pw.toml"
 hash = "c69ab62516cbcdf1508d63ff73f4a88383de6d5d8b31e89a52d320863914aac5"
+metafile = true
+
+[[files]]
+file = "mods/moa_holidays-fabric-1.21.1-2.2.0.pw.toml"
+hash = "89f658bb155c70c31ac28c333794c877a8e120f29ff7cf4905ab0072391997b4"
 metafile = true
 
 [[files]]
