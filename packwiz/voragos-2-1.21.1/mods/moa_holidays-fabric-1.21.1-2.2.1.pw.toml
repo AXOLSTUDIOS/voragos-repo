@@ -1,0 +1,8 @@
+name = "MOA: Holidays (Fabric)"
+filename = "moa_holidays-fabric-1.21.1-2.2.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--moa_holidays-fabric-1.21.1-2.2.1.jar"
+hash-format = "md5"
+hash = "eb23aef891649f626fb0c976774313a5"

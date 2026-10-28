@@ -4390,8 +4390,8 @@ hash = "c69ab62516cbcdf1508d63ff73f4a88383de6d5d8b31e89a52d320863914aac5"
 metafile = true
 
 [[files]]
-file = "mods/moa_holidays-fabric-1.21.1-2.2.0.pw.toml"
-hash = "89f658bb155c70c31ac28c333794c877a8e120f29ff7cf4905ab0072391997b4"
+file = "mods/moa_holidays-fabric-1.21.1-2.2.1.pw.toml"
+hash = "4608f4a431191dc36a40cd1d4c0d02c7238866496c145f698097347db646406c"
 metafile = true
 
 [[files]]
