@@ -2192,13 +2192,13 @@
           }
         },
         {
-          "id": "com.voragos:voragoscam:1.1.0@jar",
+          "id": "com.voragos:voragoscam:1.1.1@jar",
           "name": "VoragosCam",
           "type": "FabricMod",
           "artifact": {
-            "size": 69179,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--voragoscam-1.1.0-seguridad.jar",
-            "MD5": "edff42302a1e1fc0f97e271556df4bea"
+            "size": 69878,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--voragoscam-1.1.1.jar",
+            "MD5": "56dd76492afcecafcd7b24ca1b2328ed"
           }
         },
         {
