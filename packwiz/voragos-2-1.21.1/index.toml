@@ -4030,8 +4030,8 @@ hash = "44ea5c48f4852f57a06487efdb222005ade8b44e98292189faaaa9cb69675c92"
 metafile = true
 
 [[files]]
-file = "mods/dreadkeep-0.2.0.pw.toml"
-hash = "c5914541a4241816d2c567cc0df159674a4af992ecd3ef04ddc3d7391f088f87"
+file = "mods/dreadkeep-0.2.1.pw.toml"
+hash = "3fff59e81836aa6e44968a39a953d0f3d11dcfb2aafa17871a8eaccc432cf413"
 metafile = true
 
 [[files]]
