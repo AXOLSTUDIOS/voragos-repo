@@ -4795,8 +4795,8 @@ hash = "498192c1cfeb54d84aa6878cfe32f2001346607b6125f65bedbffa7c1115d00e"
 metafile = true
 
 [[files]]
-file = "mods/voragoscam-1.1.1.pw.toml"
-hash = "a07671c7c05b01b5bc4fe2e118c0e16e97c15efdd5e4d0ef198991ad4cea1bca"
+file = "mods/voragoscam-1.1.2.pw.toml"
+hash = "03aa0c751bbd08b0cd390a01d2ddf036bbfabdfbe94c5fb1e6740b85a4a5e62f"
 metafile = true
 
 [[files]]
