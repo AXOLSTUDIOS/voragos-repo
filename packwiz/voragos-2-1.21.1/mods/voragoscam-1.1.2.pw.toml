@@ -1,8 +1,0 @@
-name = "VoragosCam"
-filename = "voragoscam-1.1.2.jar"
-side = "both"
-
-[download]
-url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--voragoscam-1.1.2.jar"
-hash-format = "md5"
-hash = "c0556aec75b4f4b4c362e8ed33f3bce4"
