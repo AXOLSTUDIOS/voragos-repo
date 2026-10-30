@@ -2162,6 +2162,16 @@
           }
         },
         {
+          "id": "com.axolstudio.voragos:voragosedictos:1.9.8@jar",
+          "name": "Voragos Edictos",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 8379211,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--voragos-edictos-1.9.8.jar",
+            "MD5": "b5ca2931f4f8bef746b234473c7f6889"
+          }
+        },
+        {
           "id": "com.voragos.waiting:voragos_waiting:1.0.0@jar",
           "name": "Voragos Waiting Screen",
           "type": "FabricMod",

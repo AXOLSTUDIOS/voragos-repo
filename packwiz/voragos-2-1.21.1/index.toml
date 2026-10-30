@@ -4780,6 +4780,11 @@ hash = "37e5af023de43a6e6290ecad810e7135a2eb721162a0ea2ff3b72aa246a07494"
 metafile = true
 
 [[files]]
+file = "mods/voragos-edictos-1.9.8.pw.toml"
+hash = "8412c890a043dc4e7e2d40276204ce53dd4c69a1e33e79eb4273cd98c9bbf9a0"
+metafile = true
+
+[[files]]
 file = "mods/voragos-waiting-screen-1.0.0.pw.toml"
 hash = "498192c1cfeb54d84aa6878cfe32f2001346607b6125f65bedbffa7c1115d00e"
 metafile = true
