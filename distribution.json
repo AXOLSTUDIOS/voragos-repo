@@ -142,16 +142,6 @@
           }
         },
         {
-          "id": "com.spunkyinsaan:afkcinematics:1.21.1@jar",
-          "name": "AFK Cinematics",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 43564,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--afk-cinematics-1.21.1.jar",
-            "MD5": "9171616478ecfaf04c6202591f43625c"
-          }
-        },
-        {
           "id": "me.itzme1on.alcocraftplus.fabric.core:alcocraftplus:2.1.2@jar",
           "name": "AlcoCraft+",
           "type": "FabricMod",
@@ -349,16 +339,6 @@
             "size": 330355,
             "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--bookshelf-fabric-1.21.1-21.1.81.jar",
             "MD5": "dfe7f6646a8783c57910cfb910db61c9"
-          }
-        },
-        {
-          "id": "net.borderquest:borderquest:1.1.0@jar",
-          "name": "Border Quest",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 74508,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--border-quest-1.1.0.jar",
-            "MD5": "8062c16423aa8a17e569d8774864157f"
           }
         },
         {
@@ -599,16 +579,6 @@
             "size": 666758,
             "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--custom-glow-enchantment-outline-fabric-1.21.1-1.2.2.jar",
             "MD5": "81cfe76de59b690898c905f49fa180da"
-          }
-        },
-        {
-          "id": "com.f0cus:customareas:3.0.0@jar",
-          "name": "Custom Areas",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 69584,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--CustomAreas-3.0.0.jar",
-            "MD5": "d0f8b6b4b1f3de0295a9c7294a87d784"
           }
         },
         {

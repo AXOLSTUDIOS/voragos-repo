@@ -3770,11 +3770,6 @@ hash = "3e90ccaead71ac2d3a15c76613778474cb498073315b0d887c3deca0a70ae6b5"
 metafile = true
 
 [[files]]
-file = "mods/afk-cinematics-1.21.1.pw.toml"
-hash = "d1d04a82a90f5ecd2d694e94c23b58f0de76c4192810bfa63a28825106e2b906"
-metafile = true
-
-[[files]]
 file = "mods/alcocraftplus-1.21.1-2.1.2-fabric.pw.toml"
 hash = "0b5e4ef4cfa305ec551f422a04cf3f54c4ba7caff1d54b82b4d4a19f077695b1"
 metafile = true
@@ -3872,11 +3867,6 @@ metafile = true
 [[files]]
 file = "mods/bookshelf-fabric-1.21.1-21.1.81.pw.toml"
 hash = "06a5aa109ae891daad60d835551b6390e68ad9f1d22fda176507e94ea7cc3cf0"
-metafile = true
-
-[[files]]
-file = "mods/border-quest-1.1.0.pw.toml"
-hash = "e141350be721956a63f46bd2df33bf4a678a9f81360ae4c5696f10b592421316"
 metafile = true
 
 [[files]]
@@ -3997,11 +3987,6 @@ metafile = true
 [[files]]
 file = "mods/custom-glow-enchantment-outline-fabric-1.21.1-1.2.2.pw.toml"
 hash = "28491b894d7b39d685f2c98bd391a4c27f681d78f254c6b0a84a088621def471"
-metafile = true
-
-[[files]]
-file = "mods/CustomAreas-3.0.0.pw.toml"
-hash = "ec20268bd009ceda75612b663dbd480ff159f187bac9f9c050f22dcfda2cce21"
 metafile = true
 
 [[files]]

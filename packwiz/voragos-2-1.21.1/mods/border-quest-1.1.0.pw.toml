@@ -1,8 +1,0 @@
-name = "Border Quest"
-filename = "border-quest-1.1.0.jar"
-side = "both"
-
-[download]
-url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--border-quest-1.1.0.jar"
-hash-format = "md5"
-hash = "8062c16423aa8a17e569d8774864157f"
