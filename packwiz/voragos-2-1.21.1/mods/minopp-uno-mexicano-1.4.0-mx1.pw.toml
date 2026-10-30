@@ -1,8 +1,0 @@
-name = "UNO Mexicano (Mino++)"
-filename = "minopp-uno-mexicano-1.4.0-mx1.jar"
-side = "both"
-
-[download]
-url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--minopp-uno-mexicano-1.4.0-mx1.jar"
-hash-format = "md5"
-hash = "283e677a2ca76929d165f63bdb931624"

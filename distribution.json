@@ -1332,13 +1332,13 @@
           }
         },
         {
-          "id": "cn.zbx1425:minopp:1.4.0-mx1@jar",
+          "id": "cn.zbx1425:minopp:1.5.0-mx2@jar",
           "name": "UNO Mexicano (Mino++)",
           "type": "FabricMod",
           "artifact": {
-            "size": 274022,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--minopp-uno-mexicano-1.4.0-mx1.jar",
-            "MD5": "283e677a2ca76929d165f63bdb931624"
+            "size": 617091,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--minopp-uno-mexicano-1.5.0-mx2.jar",
+            "MD5": "6ffd8cef4f3d4cb33f8356974ad37dd4"
           }
         },
         {

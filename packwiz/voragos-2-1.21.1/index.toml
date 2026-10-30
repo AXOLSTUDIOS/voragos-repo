@@ -4365,8 +4365,8 @@ hash = "2cd81edfde7ed75a26052125bfba01cb87893699a6f9b68e0195b962b1ff73aa"
 metafile = true
 
 [[files]]
-file = "mods/minopp-uno-mexicano-1.4.0-mx1.pw.toml"
-hash = "41b2c8f1acaea0a4c12dca1e62f94be1761e5c7102d857591392ab3e3761e998"
+file = "mods/minopp-uno-mexicano-1.5.0-mx2.pw.toml"
+hash = "33d5de83e4afcb1e94979865cb815a1e9df96ab7ead8b310af1799731d9f63fc"
 metafile = true
 
 [[files]]
