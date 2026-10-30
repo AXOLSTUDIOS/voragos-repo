@@ -1,8 +1,0 @@
-name = "AxolGuard"
-filename = "axolguard-1.0.0.jar"
-side = "both"
-
-[download]
-url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--axolguard-1.0.0.jar"
-hash-format = "md5"
-hash = "c6f03c2a5939d332bb68018e06e5bc2e"

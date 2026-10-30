@@ -3820,11 +3820,6 @@ hash = "35b64b1c3645e5bdbf75c0f6dcffa89114ae570dfb6df53999827b706769dd76"
 metafile = true
 
 [[files]]
-file = "mods/axolguard-1.0.0.pw.toml"
-hash = "885718eadbdf605572f5fc6a264b3eaed1d20814713a2cdade5f71abedad4716"
-metafile = true
-
-[[files]]
 file = "mods/axolvivo-2.0.0.pw.toml"
 hash = "694d089b766dea3f433c838fe3d73be5b4cddb1ad6ccb61d8656f329500584de"
 metafile = true

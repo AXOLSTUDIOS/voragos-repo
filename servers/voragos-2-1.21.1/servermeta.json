@@ -1,7 +1,7 @@
 {
   "$schema": "file:///F:/AxolDev/voragos-repo/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "name": "Voragos 2",
     "description": "Fantasía oscura medieval. Explora, sobrevive y conquista.",
     "icon": "",

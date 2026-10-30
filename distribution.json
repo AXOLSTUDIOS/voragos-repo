@@ -7,7 +7,7 @@
       "name": "Voragos 2",
       "description": "Fantasía oscura medieval. Explora, sobrevive y conquista.",
       "icon": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/icono.png",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "address": "localhost:25565",
       "minecraftVersion": "1.21.1",
       "mainServer": true,
@@ -239,16 +239,6 @@
             "size": 753768,
             "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--axolconstruccion-1.0.0.jar",
             "MD5": "bfa24762c525053f8623beaa7d94a33a"
-          }
-        },
-        {
-          "id": "generated.fabricmod:axolguard:1.0.0@jar",
-          "name": "AxolGuard",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 4543,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--axolguard-1.0.0.jar",
-            "MD5": "c6f03c2a5939d332bb68018e06e5bc2e"
           }
         },
         {

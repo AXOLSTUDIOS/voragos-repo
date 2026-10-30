@@ -1,12 +1,12 @@
 name = "Voragos 2"
 author = "Axol Studio"
-version = "1.0.3"
+version = "1.0.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "90a78accbf1bbb25c1c1c80f49b8dab475e14132827e2ea8faf5ce33613ba9fb"
+hash = "862664bf7754ff1b869eeb682d8d50afb5abc0ddc0ab05ae73f5ce2ef72ed593"
 
 [versions]
 minecraft = "1.21.1"
