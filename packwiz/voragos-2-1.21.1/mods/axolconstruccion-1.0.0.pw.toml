@@ -1,0 +1,8 @@
+name = "Axol Construcción"
+filename = "axolconstruccion-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--axolconstruccion-1.0.0.jar"
+hash-format = "md5"
+hash = "bfa24762c525053f8623beaa7d94a33a"

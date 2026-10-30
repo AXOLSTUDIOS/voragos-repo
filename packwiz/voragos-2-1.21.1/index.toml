@@ -3815,6 +3815,11 @@ hash = "fc85103617da713523269e34cac548ea96f2817efb8be066b6f3ec90ce84835a"
 metafile = true
 
 [[files]]
+file = "mods/axolconstruccion-1.0.0.pw.toml"
+hash = "35b64b1c3645e5bdbf75c0f6dcffa89114ae570dfb6df53999827b706769dd76"
+metafile = true
+
+[[files]]
 file = "mods/axolguard-1.0.0.pw.toml"
 hash = "885718eadbdf605572f5fc6a264b3eaed1d20814713a2cdade5f71abedad4716"
 metafile = true
@@ -4782,6 +4787,11 @@ metafile = true
 [[files]]
 file = "mods/voragoscam-1.1.3.pw.toml"
 hash = "a3316709c6d19788cc8839652e11eec9e5a880f15ab4d1685e6d802aa3e070f9"
+metafile = true
+
+[[files]]
+file = "mods/voragosguard-1.1.0.pw.toml"
+hash = "101b95f60b0348e67510e8bb6d775acb93b513dd553e1e58c0469a1d6f77c759"
 metafile = true
 
 [[files]]
