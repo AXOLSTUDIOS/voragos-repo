@@ -233,7 +233,7 @@ element {
 
 element {
   button_element_executable_block_identifier = c953c58c-bb35-409a-a4ae-ca9ce22f171e-1789245357673
-  [executable_action_instance:b25a2d96-be62-4525-8e62-bb1119fb2868-1789246133401][action_type:joinserver] = voragoslch.neovex.net:25585
+  [executable_action_instance:b25a2d96-be62-4525-8e62-bb1119fb2868-1789246133401][action_type:joinserver] = us11.neovex.net:25640
   [executable_block:c953c58c-bb35-409a-a4ae-ca9ce22f171e-1789245357673][type:generic] = [executables:b25a2d96-be62-4525-8e62-bb1119fb2868-1789246133401;]
   backgroundnormal = [source:local]/config/fancymenu/assets/in_world.png
   backgroundhovered = [source:local]/config/fancymenu/assets/in_world2.png

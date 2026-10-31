@@ -1874,7 +1874,7 @@ metafile = true
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt.pw.toml"
-hash = "5364c9a7a52cdf6a8f63ad478fb0edf042b65bf4ea75ca3affe89f6e51f8974f"
+hash = "e9219bc179dc08fd70aec6912c147a274283914b343d144f33565fad68179b68"
 metafile = true
 
 [[files]]
@@ -3751,7 +3751,7 @@ metafile = true
 
 [[files]]
 file = "fancymenu_data/last_world.fmdata.pw.toml"
-hash = "017835779b3ff6b18394988649dda8c02b2e69520291c0ca5c1841a0abd3f3b0"
+hash = "207032e3258b388066c408c219c0129d6add73622ab6e9fd07ba799b5f66f178"
 metafile = true
 
 [[files]]

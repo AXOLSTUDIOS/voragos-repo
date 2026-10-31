@@ -6424,9 +6424,9 @@
           "name": "title_screen_layout.txt",
           "type": "File",
           "artifact": {
-            "size": 46318,
+            "size": 46312,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/customization/title_screen_layout.txt",
-            "MD5": "20900320066412a7293c83b68d9c0a50",
+            "MD5": "70fa9e4887f2c3268d126cd5817d2a79",
             "path": "config/fancymenu/customization/title_screen_layout.txt"
           }
         },
@@ -8848,17 +8848,6 @@
           }
         },
         {
-          "id": "last_world.fmdata",
-          "name": "last_world.fmdata",
-          "type": "File",
-          "artifact": {
-            "size": 92,
-            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/fancymenu_data/last_world.fmdata",
-            "MD5": "c930b4737bad654dae89463a104e603a",
-            "path": "fancymenu_data/last_world.fmdata"
-          }
-        },
-        {
           "id": "buddy_leveling.json",
           "name": "buddy_leveling.json",
           "type": "File",
@@ -8889,6 +8878,17 @@
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/fancymenu_data/fancymenu_temp/web/videoplayer/player.html",
             "MD5": "f6e0587596db28200c05f90eb2fc7149",
             "path": "fancymenu_data/fancymenu_temp/web/videoplayer/player.html"
+          }
+        },
+        {
+          "id": "last_world.fmdata",
+          "name": "last_world.fmdata",
+          "type": "File",
+          "artifact": {
+            "size": 86,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/fancymenu_data/last_world.fmdata",
+            "MD5": "53277230886193e6cc7c0c4f2f96a5f2",
+            "path": "fancymenu_data/last_world.fmdata"
           }
         },
         {

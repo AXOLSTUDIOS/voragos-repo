@@ -5,4 +5,4 @@ side = "client"
 [download]
 url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/fancymenu_data/last_world.fmdata"
 hash-format = "md5"
-hash = "c930b4737bad654dae89463a104e603a"
+hash = "53277230886193e6cc7c0c4f2f96a5f2"
