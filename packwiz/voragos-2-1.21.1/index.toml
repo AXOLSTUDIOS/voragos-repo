@@ -3820,11 +3820,6 @@ hash = "35b64b1c3645e5bdbf75c0f6dcffa89114ae570dfb6df53999827b706769dd76"
 metafile = true
 
 [[files]]
-file = "mods/axolstreamlink-1.0.0.pw.toml"
-hash = "b6882e23393982713e0ae4f3a6afbcc2c4ab4c2daee8875e3cd2f2d133a63f79"
-metafile = true
-
-[[files]]
 file = "mods/axolvivo-2.0.0.pw.toml"
 hash = "694d089b766dea3f433c838fe3d73be5b4cddb1ad6ccb61d8656f329500584de"
 metafile = true

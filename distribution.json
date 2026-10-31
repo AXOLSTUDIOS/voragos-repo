@@ -242,16 +242,6 @@
           }
         },
         {
-          "id": "com.axolstudio.streamlink:axolstreamlink:1.0.0@jar",
-          "name": "Axol Stream Link",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 44735,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--axolstreamlink-1.0.0.jar",
-            "MD5": "d2ff2a3deb04749db0fe0db193f7532e"
-          }
-        },
-        {
           "id": "com.axolstudio:axolvivo:2.0.0@jar",
           "name": "AxolVivo",
           "type": "FabricMod",
