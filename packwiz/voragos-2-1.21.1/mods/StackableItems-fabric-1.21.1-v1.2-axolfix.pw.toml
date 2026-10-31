@@ -1,0 +1,8 @@
+name = "Stackable Items"
+filename = "StackableItems-fabric-1.21.1-v1.2-axolfix.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--StackableItems-fabric-1.21.1-v1.2-axolfix.jar"
+hash-format = "md5"
+hash = "7426100013ca3add3a83fb7860f7289b"

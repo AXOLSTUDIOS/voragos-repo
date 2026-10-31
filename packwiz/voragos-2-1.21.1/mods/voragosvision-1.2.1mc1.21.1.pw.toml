@@ -1,0 +1,8 @@
+name = "VoragosVision"
+filename = "voragosvision-1.2.1mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--voragosvision-1.2.1mc1.21.1.jar"
+hash-format = "md5"
+hash = "dc0298365d2df41a8c071fec68171bab"

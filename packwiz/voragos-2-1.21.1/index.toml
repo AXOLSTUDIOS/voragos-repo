@@ -4680,8 +4680,8 @@ hash = "04dab3fc6acb36194d96c1c99cdf02d059f8b2d07445cca61b8ea1bd48e1a527"
 metafile = true
 
 [[files]]
-file = "mods/StackableItems-fabric-1.21._0-1_-v1.2__1_.pw.toml"
-hash = "455a24b9af2dec2eccfa5ee0b10ede01257ad25331f0e7ed7ff22bc3ea5f5f2b"
+file = "mods/StackableItems-fabric-1.21.1-v1.2-axolfix.pw.toml"
+hash = "47ea3623df3b1296847fd64ab0feabaf389fd77f2b5cdb6befed048bb8e3beea"
 metafile = true
 
 [[files]]
@@ -4802,6 +4802,11 @@ metafile = true
 [[files]]
 file = "mods/voragosvision-1.2.0mc1.21.1.pw.toml"
 hash = "8c0dc24a930388165286612119dfc6b1b0cb0b8ddb0fcb8577be7033a4bc758b"
+metafile = true
+
+[[files]]
+file = "mods/voragosvision-1.2.1mc1.21.1.pw.toml"
+hash = "5022ffb5a54fded850214922fde1083959f494b5626a2314c6d4baa63d72aa59"
 metafile = true
 
 [[files]]

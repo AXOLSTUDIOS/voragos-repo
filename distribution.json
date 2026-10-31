@@ -1966,9 +1966,9 @@
           "name": "Stackable Items",
           "type": "FabricMod",
           "artifact": {
-            "size": 72184,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--StackableItems-fabric-1.21._0-1_-v1.2__1_.jar",
-            "MD5": "5d380a3d873c76810323ecd1b07d4964"
+            "size": 71293,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--StackableItems-fabric-1.21.1-v1.2-axolfix.jar",
+            "MD5": "7426100013ca3add3a83fb7860f7289b"
           }
         },
         {
@@ -2209,6 +2209,16 @@
             "size": 91610,
             "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--voragosvision-1.2.0mc1.21.1.jar",
             "MD5": "63f55aed05a76dbe4e888537b44b64d5"
+          }
+        },
+        {
+          "id": "com.axolstudio:voragosvision:1.2.1@jar",
+          "name": "VoragosVision",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 92789,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--voragosvision-1.2.1mc1.21.1.jar",
+            "MD5": "dc0298365d2df41a8c071fec68171bab"
           }
         },
         {
