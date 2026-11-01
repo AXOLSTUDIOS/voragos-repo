@@ -4335,8 +4335,8 @@ hash = "fb33b1d979dabcb1697d7d5a68b374b45994bf72c9cf6ba37d9c96739432eac6"
 metafile = true
 
 [[files]]
-file = "mods/mcextremo3-1.2.1-voragos.pw.toml"
-hash = "93a6602c12acaa16078fde336fe425f3b976cc4ef67ecb8525c58b1af512e828"
+file = "mods/mcextremo3-1.2.2-voragos.pw.toml"
+hash = "c99433af1171bd8c6001e2b5ffc00b4ffe54e04bc793fed19aea8a18193aa51a"
 metafile = true
 
 [[files]]
@@ -4795,8 +4795,8 @@ hash = "a11b4a2d735c0e76571d4888d1c2b42684043d9f73c76316ff76efe81f78ca36"
 metafile = true
 
 [[files]]
-file = "mods/voragosvision-1.2.1mc1.21.1.pw.toml"
-hash = "5022ffb5a54fded850214922fde1083959f494b5626a2314c6d4baa63d72aa59"
+file = "mods/voragosvision-1.2.2mc1.21.1.pw.toml"
+hash = "a77851c74ea5edc6675a37326a92194611495c3f6ca563ebc0493e0e3b3f172d"
 metafile = true
 
 [[files]]

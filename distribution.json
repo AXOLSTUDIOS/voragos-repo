@@ -1272,13 +1272,13 @@
           }
         },
         {
-          "id": "santiivlogdev.modrith:mcextremo3:1.2.1-voragos@jar",
+          "id": "santiivlogdev.modrith:mcextremo3:1.2.2-voragos@jar",
           "name": "Minecraft Extremo 3",
           "type": "FabricMod",
           "artifact": {
-            "size": 23259560,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--mcextremo3-1.2.1-voragos.jar",
-            "MD5": "bd4ebe85f205bd897c09fceb4621bbcc"
+            "size": 23258644,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--mcextremo3-1.2.2-voragos.jar",
+            "MD5": "5512779f04510aa5b0828815a559dacd"
           }
         },
         {
@@ -2192,13 +2192,13 @@
           }
         },
         {
-          "id": "com.axolstudio:voragosvision:1.2.1@jar",
+          "id": "com.axolstudio:voragosvision:1.2.2@jar",
           "name": "VoragosVision",
           "type": "FabricMod",
           "artifact": {
-            "size": 92789,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--voragosvision-1.2.1mc1.21.1.jar",
-            "MD5": "dc0298365d2df41a8c071fec68171bab"
+            "size": 94540,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--voragosvision-1.2.2mc1.21.1.jar",
+            "MD5": "f56ee6f01792c0bf258805d750e91270"
           }
         },
         {
