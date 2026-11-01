@@ -4755,11 +4755,6 @@ hash = "2646be913899a1a1109491c3649df2723cd8791ebe9c7395104210b79ee833e0"
 metafile = true
 
 [[files]]
-file = "mods/vanish-1.6.15_1.21.1.pw.toml"
-hash = "677906f6d6e97d57f87375b74881b29830b62d018322e1d82630716690dea715"
-metafile = true
-
-[[files]]
 file = "mods/veinminerplusplus-fabric-0.5.0.pw.toml"
 hash = "71c81a191a057e55a4455281d99bfb2b54333a8dc11aa3395d4b9a5aa7206697"
 metafile = true

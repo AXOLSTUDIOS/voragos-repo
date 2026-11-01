@@ -2112,16 +2112,6 @@
           }
         },
         {
-          "id": "me.drex:vanish:1.6.15+1.21.1@jar",
-          "name": "Vanish",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1236610,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--vanish-1.6.15_1.21.1.jar",
-            "MD5": "9eab15919b9a2a9ea05055d033a6718c"
-          }
-        },
-        {
           "id": "com.kestalkayden:veinminerplusplus:0.5.0@jar",
           "name": "Veinminer++",
           "type": "FabricMod",
