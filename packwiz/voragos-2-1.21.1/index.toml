@@ -3820,6 +3820,11 @@ hash = "35b64b1c3645e5bdbf75c0f6dcffa89114ae570dfb6df53999827b706769dd76"
 metafile = true
 
 [[files]]
+file = "mods/axolteams-1.0.1.pw.toml"
+hash = "33f486dcfddc792fc412d229affbf6618c23cfe4b4cced1b4296ad9ded57d182"
+metafile = true
+
+[[files]]
 file = "mods/axolvivo-2.0.0.pw.toml"
 hash = "694d089b766dea3f433c838fe3d73be5b4cddb1ad6ccb61d8656f329500584de"
 metafile = true
@@ -3875,8 +3880,8 @@ hash = "57e2dda260ea8023ce032f48614e171ce2cf53bc49596e0a403737abc6cc652e"
 metafile = true
 
 [[files]]
-file = "mods/bountyhunt-1.0.0.pw.toml"
-hash = "a82fc61b3786a16a181266656d6c915cbe9e753b02c0d994cbb767a31b6c4072"
+file = "mods/bountyhunt-1.1.0.pw.toml"
+hash = "f5f99936b828ae74295df53db81298c0c2bd7a743d079d874715fe70175b7e7a"
 metafile = true
 
 [[files]]
@@ -4335,8 +4340,8 @@ hash = "fb33b1d979dabcb1697d7d5a68b374b45994bf72c9cf6ba37d9c96739432eac6"
 metafile = true
 
 [[files]]
-file = "mods/mcextremo3-1.2.2-voragos.pw.toml"
-hash = "c99433af1171bd8c6001e2b5ffc00b4ffe54e04bc793fed19aea8a18193aa51a"
+file = "mods/mcextremo3-1.2.4-voragos.pw.toml"
+hash = "5fbe481c5725e27d8bb76d870ede66c5bd6767f044e6429fb32d668f26e7cfe8"
 metafile = true
 
 [[files]]
@@ -4770,8 +4775,8 @@ hash = "37e5af023de43a6e6290ecad810e7135a2eb721162a0ea2ff3b72aa246a07494"
 metafile = true
 
 [[files]]
-file = "mods/voragos-edictos-1.9.8.pw.toml"
-hash = "8412c890a043dc4e7e2d40276204ce53dd4c69a1e33e79eb4273cd98c9bbf9a0"
+file = "mods/voragos-edictos-1.10.0.pw.toml"
+hash = "6d6e43dc4de7fdde9e5560be668de0543fa838f3ca7966fe917cb62342a97c9a"
 metafile = true
 
 [[files]]

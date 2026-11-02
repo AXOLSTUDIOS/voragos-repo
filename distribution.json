@@ -242,6 +242,16 @@
           }
         },
         {
+          "id": "com.axolstudio:axolteams:1.0.1@jar",
+          "name": "AxolTeams",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 125763,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--axolteams-1.0.1.jar",
+            "MD5": "38f777ab98d7a521e6fc6aeadd941301"
+          }
+        },
+        {
           "id": "com.axolstudio:axolvivo:2.0.0@jar",
           "name": "AxolVivo",
           "type": "FabricMod",
@@ -352,13 +362,13 @@
           }
         },
         {
-          "id": "com.bountyhunt:bountyhunt:1.0.0@jar",
+          "id": "com.bountyhunt:bountyhunt:1.1.0@jar",
           "name": "Cacería de Recompensas",
           "type": "FabricMod",
           "artifact": {
-            "size": 1989564,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--bountyhunt-1.0.0.jar",
-            "MD5": "f786ea796c3978c8591fbfb14eb054d4"
+            "size": 2092481,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--bountyhunt-1.1.0.jar",
+            "MD5": "97fd96c513dbb96a84247688fc075d99"
           }
         },
         {
@@ -1272,13 +1282,13 @@
           }
         },
         {
-          "id": "santiivlogdev.modrith:mcextremo3:1.2.2-voragos@jar",
+          "id": "santiivlogdev.modrith:mcextremo3:1.2.4-voragos@jar",
           "name": "Minecraft Extremo 3",
           "type": "FabricMod",
           "artifact": {
-            "size": 23258644,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--mcextremo3-1.2.2-voragos.jar",
-            "MD5": "5512779f04510aa5b0828815a559dacd"
+            "size": 23258382,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--mcextremo3-1.2.4-voragos.jar",
+            "MD5": "e19256748dd7169aa8069f88a78ad312"
           }
         },
         {
@@ -2142,13 +2152,13 @@
           }
         },
         {
-          "id": "com.axolstudio.voragos:voragosedictos:1.9.8@jar",
+          "id": "com.axolstudio.voragos:voragosedictos:1.10.0@jar",
           "name": "Voragos Edictos",
           "type": "FabricMod",
           "artifact": {
-            "size": 8379211,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--voragos-edictos-1.9.8.jar",
-            "MD5": "b5ca2931f4f8bef746b234473c7f6889"
+            "size": 8421948,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--voragos-edictos-1.10.0.jar",
+            "MD5": "8119b080892003580bdbaa6758c9fb42"
           }
         },
         {
