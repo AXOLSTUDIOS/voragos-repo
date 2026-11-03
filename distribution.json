@@ -2152,13 +2152,13 @@
           }
         },
         {
-          "id": "com.axolstudio.voragos:voragosedictos:1.10.1@jar",
+          "id": "com.axolstudio.voragos:voragosedictos:1.11.3@jar",
           "name": "Voragos Edictos",
           "type": "FabricMod",
           "artifact": {
-            "size": 8424823,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--voragos-edictos-1.10.1.jar",
-            "MD5": "635bcffcb943efc87f63c7ef21cecc11"
+            "size": 10762769,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--voragos-edictos-1.11.3.jar",
+            "MD5": "11d4449ce45f2d382d6e853d8ce8b48c"
           }
         },
         {
@@ -2319,16 +2319,6 @@
             "size": 1258668,
             "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--YungsApi-1.21.1-Fabric-5.1.7.jar",
             "MD5": "cf7fd69131b308b3cf6d2aa87eace581"
-          }
-        },
-        {
-          "id": "net.medievalmusic:medievalmusic:1.21-2.1@jar",
-          "name": "Medieval Music Mod",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 347327813,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--zmedievalmusic-fabric-1.21-2.1.jar",
-            "MD5": "8fb5054c23e7e07ddd01546e54b850ea"
           }
         },
         {
