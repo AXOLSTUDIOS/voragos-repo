@@ -3820,8 +3820,8 @@ hash = "35b64b1c3645e5bdbf75c0f6dcffa89114ae570dfb6df53999827b706769dd76"
 metafile = true
 
 [[files]]
-file = "mods/axolteams-1.0.1.pw.toml"
-hash = "33f486dcfddc792fc412d229affbf6618c23cfe4b4cced1b4296ad9ded57d182"
+file = "mods/axolteams-1.0.2.pw.toml"
+hash = "793e148ea69e4dda48c11e12e67fde91cf57be7a3dcf5c756e3f0e3cacf81bbd"
 metafile = true
 
 [[files]]
@@ -4375,8 +4375,8 @@ hash = "33d5de83e4afcb1e94979865cb815a1e9df96ab7ead8b310af1799731d9f63fc"
 metafile = true
 
 [[files]]
-file = "mods/misiones-1.0.3.pw.toml"
-hash = "32eb1a4bf0d8a0b887590c813c02dd5b40c9095f81f419dc7e3de76f4a824600"
+file = "mods/misiones-1.0.5.pw.toml"
+hash = "58394308b4d8f5c6787cda5441c2d99a00ea1de7c0edfc35c7d75b5a0cd2f6b2"
 metafile = true
 
 [[files]]
