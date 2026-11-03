@@ -3935,6 +3935,11 @@ hash = "9dc5f7261326990943ad80108dc7a3ebd6c450464fade52dcef6253d2aef74ad"
 metafile = true
 
 [[files]]
+file = "mods/coliseo-1.0.0.pw.toml"
+hash = "cb142b6c7720a119f165fdda660fb16a57a4a871bc745464579fa0f966bca8b4"
+metafile = true
+
+[[files]]
 file = "mods/collective-1.21.1-8.39.pw.toml"
 hash = "d8e1aa2492428632ec001a695fb3c506a14251782d7287ec35c947d28f426ca6"
 metafile = true
@@ -4775,8 +4780,8 @@ hash = "37e5af023de43a6e6290ecad810e7135a2eb721162a0ea2ff3b72aa246a07494"
 metafile = true
 
 [[files]]
-file = "mods/voragos-edictos-1.11.4.pw.toml"
-hash = "903ffc69abb35af68f926e35cbe96a50a176e59a8c7fc6ce5068b5562ab59e48"
+file = "mods/voragos-edictos-1.12.0.pw.toml"
+hash = "ab4d93f9ca98f8555e90a13221c41b68689733ddb7c5cba053addc31102d80b2"
 metafile = true
 
 [[files]]
