@@ -1,0 +1,8 @@
+name = "Marium's Soulslike Weaponry"
+filename = "soulslike-weaponry-1_4_8-1_21_1-fabric-AXOL-EPIC.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--soulslike-weaponry-1_4_8-1_21_1-fabric-AXOL-EPIC.jar"
+hash-format = "md5"
+hash = "b96296d05a8e8756ee2d02f433718c69"

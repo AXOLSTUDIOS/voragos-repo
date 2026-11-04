@@ -242,6 +242,16 @@
           }
         },
         {
+          "id": "com.axolstudio.poolrooms:axolpoolrooms:1.0.0@jar",
+          "name": "Axol Poolrooms",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 117551,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--axolpoolrooms-1.0.0.jar",
+            "MD5": "a8456423cd364e6ca5e9d953eed2f467"
+          }
+        },
+        {
           "id": "com.axolstudio:axolteams:1.0.2@jar",
           "name": "AxolTeams",
           "type": "FabricMod",
@@ -249,16 +259,6 @@
             "size": 127218,
             "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--axolteams-1.0.2.jar",
             "MD5": "411cfef3036ea110cfa14958d95434e4"
-          }
-        },
-        {
-          "id": "com.axolstudio:axolvivo:2.0.0@jar",
-          "name": "AxolVivo",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 10599,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--axolvivo-2.0.0.jar",
-            "MD5": "1f082c56afe8ebbc600bcb45e14d8ef6"
           }
         },
         {
@@ -476,9 +476,9 @@
           "name": "Coliseo",
           "type": "FabricMod",
           "artifact": {
-            "size": 12723100,
+            "size": 12741041,
             "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--coliseo-1.0.0.jar",
-            "MD5": "bef9f5e64bf263f9c6fafe6c7261f571"
+            "MD5": "5ff331e1e290066b0e5e2d9a6fe4cc18"
           }
         },
         {
@@ -1932,13 +1932,13 @@
           }
         },
         {
-          "id": "net.soulsweaponry:soulsweapons:1.4.8-1.21.1-fabric@jar",
+          "id": "net.soulsweaponry:soulsweapons:1.4.8-1.21.1-fabric+axol-epic@jar",
           "name": "Marium's Soulslike Weaponry",
           "type": "FabricMod",
           "artifact": {
-            "size": 54447392,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--soulslike-weaponry-1.4.8-1.21.1-fabric.jar",
-            "MD5": "3a5f268692acf9b1b773f3631806dee8"
+            "size": 54544687,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--soulslike-weaponry-1_4_8-1_21_1-fabric-AXOL-EPIC.jar",
+            "MD5": "b96296d05a8e8756ee2d02f433718c69"
           }
         },
         {
@@ -2162,13 +2162,13 @@
           }
         },
         {
-          "id": "com.axolstudio.voragos:voragosedictos:1.12.1@jar",
+          "id": "com.axolstudio.voragos:voragosedictos:1.13.0@jar",
           "name": "Voragos Edictos",
           "type": "FabricMod",
           "artifact": {
-            "size": 10798726,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--voragos-edictos-1.12.1.jar",
-            "MD5": "dd05bc55091c242a0a6110b10c05b2c1"
+            "size": 10803805,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--voragos-edictos-1.13.0.jar",
+            "MD5": "64eb65806c28fc3a9b9c63c9279c39e1"
           }
         },
         {

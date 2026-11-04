@@ -3820,13 +3820,13 @@ hash = "35b64b1c3645e5bdbf75c0f6dcffa89114ae570dfb6df53999827b706769dd76"
 metafile = true
 
 [[files]]
-file = "mods/axolteams-1.0.2.pw.toml"
-hash = "793e148ea69e4dda48c11e12e67fde91cf57be7a3dcf5c756e3f0e3cacf81bbd"
+file = "mods/axolpoolrooms-1.0.0.pw.toml"
+hash = "8e37b7a978bcaa4f7c59c8deb9cec472c466cc0310e5da466eca9aa740349592"
 metafile = true
 
 [[files]]
-file = "mods/axolvivo-2.0.0.pw.toml"
-hash = "694d089b766dea3f433c838fe3d73be5b4cddb1ad6ccb61d8656f329500584de"
+file = "mods/axolteams-1.0.2.pw.toml"
+hash = "793e148ea69e4dda48c11e12e67fde91cf57be7a3dcf5c756e3f0e3cacf81bbd"
 metafile = true
 
 [[files]]
@@ -3936,7 +3936,7 @@ metafile = true
 
 [[files]]
 file = "mods/coliseo-1.0.0.pw.toml"
-hash = "58e49b18b82a103365e259477b1264dc20a39cbfc46a17e0d5d4f231ab58bcad"
+hash = "d2699fc8d5467bc62331ca114daa0d4191e98afbadcd9d1454302f676a3d651a"
 metafile = true
 
 [[files]]
@@ -4665,8 +4665,8 @@ hash = "0f4f8cabe331f5d9e13b3f68379f129297c629a63060092ba8562c6e288c3bcd"
 metafile = true
 
 [[files]]
-file = "mods/soulslike-weaponry-1.4.8-1.21.1-fabric.pw.toml"
-hash = "9634453302e1d8a03a6c059fcf4d9d1c22b3160f982bf0eb9fc8f45d484699ca"
+file = "mods/soulslike-weaponry-1_4_8-1_21_1-fabric-AXOL-EPIC.pw.toml"
+hash = "ed58437e00037d0e20cddf1110414f745a8fc5ef9c01314d8e6993451fbb05d1"
 metafile = true
 
 [[files]]
@@ -4780,8 +4780,8 @@ hash = "37e5af023de43a6e6290ecad810e7135a2eb721162a0ea2ff3b72aa246a07494"
 metafile = true
 
 [[files]]
-file = "mods/voragos-edictos-1.12.1.pw.toml"
-hash = "1ef48ae2437f1ef2b8f313d3ea3417986571390e74fbe2922701b6f394b398f2"
+file = "mods/voragos-edictos-1.13.0.pw.toml"
+hash = "f4f45ad69a2600ab5d34d53ffcb4405323dac41d9434cf42a4ffb9a1232c29f4"
 metafile = true
 
 [[files]]

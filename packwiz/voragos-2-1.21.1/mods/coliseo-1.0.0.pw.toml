@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--coliseo-1.0.0.jar"
 hash-format = "md5"
-hash = "bef9f5e64bf263f9c6fafe6c7261f571"
+hash = "5ff331e1e290066b0e5e2d9a6fe4cc18"
