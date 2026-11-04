@@ -3936,7 +3936,7 @@ metafile = true
 
 [[files]]
 file = "mods/coliseo-1.0.0.pw.toml"
-hash = "cb142b6c7720a119f165fdda660fb16a57a4a871bc745464579fa0f966bca8b4"
+hash = "58e49b18b82a103365e259477b1264dc20a39cbfc46a17e0d5d4f231ab58bcad"
 metafile = true
 
 [[files]]
@@ -4780,8 +4780,8 @@ hash = "37e5af023de43a6e6290ecad810e7135a2eb721162a0ea2ff3b72aa246a07494"
 metafile = true
 
 [[files]]
-file = "mods/voragos-edictos-1.12.0.pw.toml"
-hash = "ab4d93f9ca98f8555e90a13221c41b68689733ddb7c5cba053addc31102d80b2"
+file = "mods/voragos-edictos-1.12.1.pw.toml"
+hash = "1ef48ae2437f1ef2b8f313d3ea3417986571390e74fbe2922701b6f394b398f2"
 metafile = true
 
 [[files]]

@@ -476,9 +476,9 @@
           "name": "Coliseo",
           "type": "FabricMod",
           "artifact": {
-            "size": 12681803,
+            "size": 12723100,
             "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--coliseo-1.0.0.jar",
-            "MD5": "28b57add1ada55a8eb265f759695472d"
+            "MD5": "bef9f5e64bf263f9c6fafe6c7261f571"
           }
         },
         {
@@ -2162,13 +2162,13 @@
           }
         },
         {
-          "id": "com.axolstudio.voragos:voragosedictos:1.12.0@jar",
+          "id": "com.axolstudio.voragos:voragosedictos:1.12.1@jar",
           "name": "Voragos Edictos",
           "type": "FabricMod",
           "artifact": {
-            "size": 10795401,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--voragos-edictos-1.12.0.jar",
-            "MD5": "e0d6cb778cb632ad72caac2ed6eb6cb2"
+            "size": 10798726,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--voragos-edictos-1.12.1.jar",
+            "MD5": "dd05bc55091c242a0a6110b10c05b2c1"
           }
         },
         {
