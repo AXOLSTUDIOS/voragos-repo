@@ -1,0 +1,8 @@
+name = "AxolTeams"
+filename = "axolteams-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--axolteams-1.0.4.jar"
+hash-format = "md5"
+hash = "32cb5692d64c0f6a40a4fe6ba1de2866"

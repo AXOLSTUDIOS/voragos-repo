@@ -3825,8 +3825,8 @@ hash = "8e37b7a978bcaa4f7c59c8deb9cec472c466cc0310e5da466eca9aa740349592"
 metafile = true
 
 [[files]]
-file = "mods/axolteams-1.0.2.pw.toml"
-hash = "793e148ea69e4dda48c11e12e67fde91cf57be7a3dcf5c756e3f0e3cacf81bbd"
+file = "mods/axolteams-1.0.4.pw.toml"
+hash = "aefcd522592c1a4d245679806f9213e5e7651dfbf5e6e7bb5a02e56a00ab0179"
 metafile = true
 
 [[files]]
@@ -4780,8 +4780,8 @@ hash = "37e5af023de43a6e6290ecad810e7135a2eb721162a0ea2ff3b72aa246a07494"
 metafile = true
 
 [[files]]
-file = "mods/voragos-edictos-1.13.1.pw.toml"
-hash = "662fd2c8f403c84ff55e551f32fe2b81c2a180c3d9b0abfdac8d10d13b5faadc"
+file = "mods/voragos-edictos-1.14.0.pw.toml"
+hash = "8bf5b7891f0178b9c0144229f507fecc62e69a43d41d70efdae89306161d2642"
 metafile = true
 
 [[files]]

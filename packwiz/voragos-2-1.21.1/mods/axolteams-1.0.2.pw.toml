@@ -1,8 +1,0 @@
-name = "AxolTeams"
-filename = "axolteams-1.0.2.jar"
-side = "both"
-
-[download]
-url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--axolteams-1.0.2.jar"
-hash-format = "md5"
-hash = "411cfef3036ea110cfa14958d95434e4"

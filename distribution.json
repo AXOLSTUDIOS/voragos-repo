@@ -252,13 +252,13 @@
           }
         },
         {
-          "id": "com.axolstudio:axolteams:1.0.2@jar",
+          "id": "com.axolstudio:axolteams:1.0.4@jar",
           "name": "AxolTeams",
           "type": "FabricMod",
           "artifact": {
-            "size": 127218,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--axolteams-1.0.2.jar",
-            "MD5": "411cfef3036ea110cfa14958d95434e4"
+            "size": 134239,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--axolteams-1.0.4.jar",
+            "MD5": "32cb5692d64c0f6a40a4fe6ba1de2866"
           }
         },
         {
@@ -2162,13 +2162,13 @@
           }
         },
         {
-          "id": "com.axolstudio.voragos:voragosedictos:1.13.1@jar",
+          "id": "com.axolstudio.voragos:voragosedictos:1.14.0@jar",
           "name": "Voragos Edictos",
           "type": "FabricMod",
           "artifact": {
-            "size": 10809487,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--voragos-edictos-1.13.1.jar",
-            "MD5": "3c1565a1236ca18ddfffb210739b0377"
+            "size": 10852388,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--voragos-edictos-1.14.0.jar",
+            "MD5": "c911fc6b4efe880c37d3d4942ea480a0"
           }
         },
         {
