@@ -4380,8 +4380,8 @@ hash = "33d5de83e4afcb1e94979865cb815a1e9df96ab7ead8b310af1799731d9f63fc"
 metafile = true
 
 [[files]]
-file = "mods/misiones-1.0.5.pw.toml"
-hash = "58394308b4d8f5c6787cda5441c2d99a00ea1de7c0edfc35c7d75b5a0cd2f6b2"
+file = "mods/misiones-1.0.7.pw.toml"
+hash = "3165e08f0ea7706fad7ca42e3137d7afbace23543f523cfbaabb1336ec43ecc2"
 metafile = true
 
 [[files]]
