@@ -1,0 +1,8 @@
+name = "Dreadkeep: Mazmorras Vivas"
+filename = "dreadkeep-0.2.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--dreadkeep-0.2.2.jar"
+hash-format = "md5"
+hash = "79873c07954f58409605dac8c26f8904"
