@@ -2132,16 +2132,6 @@
           }
         },
         {
-          "id": "com.kestalkayden:veinminerplusplus:0.5.0@jar",
-          "name": "Veinminer++",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 112115,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--veinminerplusplus-fabric-0.5.0.jar",
-            "MD5": "ae04d57696c2583cd32e8907810127a3"
-          }
-        },
-        {
           "id": "visuality:visuality:0.7.7+1.21@jar",
           "name": "Visuality",
           "type": "FabricMod",

@@ -4765,11 +4765,6 @@ hash = "2646be913899a1a1109491c3649df2723cd8791ebe9c7395104210b79ee833e0"
 metafile = true
 
 [[files]]
-file = "mods/veinminerplusplus-fabric-0.5.0.pw.toml"
-hash = "71c81a191a057e55a4455281d99bfb2b54333a8dc11aa3395d4b9a5aa7206697"
-metafile = true
-
-[[files]]
 file = "mods/visuality-0.7.7_1.21.pw.toml"
 hash = "baefb0bb8917818d71ec50f066b7f7ae4e84fa2e4d38b1d4d956aa1787865f3a"
 metafile = true
