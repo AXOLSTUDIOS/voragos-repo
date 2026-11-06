@@ -1768,11 +1768,6 @@ hash = "38c0dbab1237e70dbc868d16b25a85260932de885795f9bfb50dd899aebf042c"
 metafile = true
 
 [[files]]
-file = "config/fancymenu/assets/logoazura.png.pw.toml"
-hash = "74fa6b148830a7f716d7f01df9fb8853aee447253476920a11f4bd46454f2849"
-metafile = true
-
-[[files]]
 file = "config/fancymenu/assets/mods.png.pw.toml"
 hash = "7c3b43962106c0ed540155a274e266252917c29ac474970ca32918d3b9da54af"
 metafile = true
@@ -1869,12 +1864,12 @@ metafile = true
 
 [[files]]
 file = "config/fancymenu/customization/pause_screen_layout.txt.pw.toml"
-hash = "2367dec7be3e434ab0dc8721638e6210fc10eded965a554ee0c3101405e96338"
+hash = "020f13cc56185974ca3ecd94203e4f54a05e62db18fe384da9fdb0d0fd214c19"
 metafile = true
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt.pw.toml"
-hash = "e9219bc179dc08fd70aec6912c147a274283914b343d144f33565fad68179b68"
+hash = "81912bf8d2d05f66fe476df0eeb7a65153d8610360dbaa0caa3ea36a4b07950b"
 metafile = true
 
 [[files]]

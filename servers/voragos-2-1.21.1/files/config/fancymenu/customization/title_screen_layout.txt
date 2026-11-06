@@ -344,53 +344,6 @@ element {
   advanced_horizontal_tilt_mode = false
 }
 
-element {
-  source = [source:local]/config/fancymenu/assets/logoazura.png
-  repeat_texture = false
-  nine_slice_texture = false
-  nine_slice_texture_border_x = 5
-  nine_slice_texture_border_y = 5
-  image_tint = #FFFFFF
-  restart_animated_on_menu_load = false
-  element_type = image
-  instance_identifier = 9f626664-29e6-4c27-998c-579a74cf1d68-1790222584063
-  appearance_delay = no_delay
-  appearance_delay_seconds = 1.0
-  fade_in_v2 = first_time
-  fade_in_speed = 40.0
-  fade_out = no_fading
-  fade_out_speed = 1.0
-  base_opacity = 1.0
-  auto_sizing = false
-  auto_sizing_base_screen_width = 1920
-  auto_sizing_base_screen_height = 1059
-  sticky_anchor = true
-  anchor_point = bottom-right
-  x = -17
-  y = -7
-  width = 69
-  height = 20
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = false
-  element_loading_requirement_container_identifier = d6ca21e5-a344-4dd0-8944-73b19fab4304-1789198829434
-  [loading_requirement_container_meta:d6ca21e5-a344-4dd0-8944-73b19fab4304-1789198829434] = [groups:][instances:]
-  enable_parallax = false
-  parallax_intensity_v2 = 0.5
-  invert_parallax = false
-  animated_offset_x = 0
-  animated_offset_y = 0
-  load_once_per_session = false
-  in_editor_color = #FFC800FF
-  layer_hidden_in_editor = false
-  rotation_degrees = 0.0
-  advanced_rotation_mode = false
-  vertical_tilt_degrees = 7.6811733
-  advanced_vertical_tilt_mode = false
-  horizontal_tilt_degrees = 0.0
-  advanced_horizontal_tilt_mode = false
-}
-
 vanilla_button {
   button_element_executable_block_identifier = ed821a7d-d1ea-4728-9cfa-7acff2110740-1789147946053
   [executable_block:ed821a7d-d1ea-4728-9cfa-7acff2110740-1789147946053][type:generic] = [executables:]

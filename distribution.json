@@ -6201,17 +6201,6 @@
           }
         },
         {
-          "id": "logoazura.png",
-          "name": "logoazura.png",
-          "type": "File",
-          "artifact": {
-            "size": 61768,
-            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/assets/logoazura.png",
-            "MD5": "9896e4fe4a60a8aafad945cd0c13676d",
-            "path": "config/fancymenu/assets/logoazura.png"
-          }
-        },
-        {
           "id": "logo_alan.png",
           "name": "logo_alan.png",
           "type": "File",
@@ -6399,25 +6388,25 @@
           }
         },
         {
-          "id": "pause_screen_layout.txt",
-          "name": "pause_screen_layout.txt",
-          "type": "File",
-          "artifact": {
-            "size": 45684,
-            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/customization/pause_screen_layout.txt",
-            "MD5": "a458d7a803b047b0abc4e1b4b6a0d5c9",
-            "path": "config/fancymenu/customization/pause_screen_layout.txt"
-          }
-        },
-        {
           "id": "title_screen_layout.txt",
           "name": "title_screen_layout.txt",
           "type": "File",
           "artifact": {
-            "size": 46312,
+            "size": 44861,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/customization/title_screen_layout.txt",
-            "MD5": "70fa9e4887f2c3268d126cd5817d2a79",
+            "MD5": "39b11696b21f1d0e5084059324f8fef3",
             "path": "config/fancymenu/customization/title_screen_layout.txt"
+          }
+        },
+        {
+          "id": "pause_screen_layout.txt",
+          "name": "pause_screen_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 44247,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fancymenu/customization/pause_screen_layout.txt",
+            "MD5": "a6f89f706e820f33e0a12697c5613f3b",
+            "path": "config/fancymenu/customization/pause_screen_layout.txt"
           }
         },
         {
