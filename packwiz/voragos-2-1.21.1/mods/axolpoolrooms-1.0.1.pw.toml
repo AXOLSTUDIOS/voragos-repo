@@ -1,0 +1,8 @@
+name = "Axol Poolrooms"
+filename = "axolpoolrooms-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--axolpoolrooms-1.0.1.jar"
+hash-format = "md5"
+hash = "7d92f0e869f16ff4b690caa166f1d1c6"

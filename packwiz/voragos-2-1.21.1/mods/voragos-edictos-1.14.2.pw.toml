@@ -1,0 +1,8 @@
+name = "Voragos Edictos"
+filename = "voragos-edictos-1.14.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--voragos-edictos-1.14.2.jar"
+hash-format = "md5"
+hash = "3c765b19c51430556b50fb2d0b43c315"

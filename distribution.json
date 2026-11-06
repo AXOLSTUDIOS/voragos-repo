@@ -242,13 +242,13 @@
           }
         },
         {
-          "id": "com.axolstudio.poolrooms:axolpoolrooms:1.0.0@jar",
+          "id": "com.axolstudio.poolrooms:axolpoolrooms:1.0.1@jar",
           "name": "Axol Poolrooms",
           "type": "FabricMod",
           "artifact": {
-            "size": 117551,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--axolpoolrooms-1.0.0.jar",
-            "MD5": "a8456423cd364e6ca5e9d953eed2f467"
+            "size": 129098,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--axolpoolrooms-1.0.1.jar",
+            "MD5": "7d92f0e869f16ff4b690caa166f1d1c6"
           }
         },
         {
@@ -2152,13 +2152,13 @@
           }
         },
         {
-          "id": "com.axolstudio.voragos:voragosedictos:1.14.0@jar",
+          "id": "com.axolstudio.voragos:voragosedictos:1.14.2@jar",
           "name": "Voragos Edictos",
           "type": "FabricMod",
           "artifact": {
-            "size": 10852388,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--voragos-edictos-1.14.0.jar",
-            "MD5": "c911fc6b4efe880c37d3d4942ea480a0"
+            "size": 10857537,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--voragos-edictos-1.14.2.jar",
+            "MD5": "3c765b19c51430556b50fb2d0b43c315"
           }
         },
         {
