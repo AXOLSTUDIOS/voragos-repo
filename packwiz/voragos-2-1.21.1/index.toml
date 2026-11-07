@@ -4795,8 +4795,8 @@ hash = "a11b4a2d735c0e76571d4888d1c2b42684043d9f73c76316ff76efe81f78ca36"
 metafile = true
 
 [[files]]
-file = "mods/voragosvision-1.2.2mc1.21.1.pw.toml"
-hash = "a77851c74ea5edc6675a37326a92194611495c3f6ca563ebc0493e0e3b3f172d"
+file = "mods/voragosvision-2.0.0mc1.21.1__1_.pw.toml"
+hash = "322d58ed66055d406acf4ea4c81b655d61cd19a2e2952077f747e1f23e50bd93"
 metafile = true
 
 [[files]]
