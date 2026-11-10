@@ -3750,11 +3750,6 @@ hash = "207032e3258b388066c408c219c0129d6add73622ab6e9fd07ba799b5f66f178"
 metafile = true
 
 [[files]]
-file = "mods/_AF_AnimatedFrames-1.7-fabric-1.21-1.21.1.pw.toml"
-hash = "728ac4560cbc3b2213dd42a3d962cacbbd1f0f630f148b08f1a3228d77c4d9fe"
-metafile = true
-
-[[files]]
 file = "mods/accessories-fabric-1.1.0-beta.53_1.21.1.pw.toml"
 hash = "d9fc1d165a00a28865913955dd8e2b4a3054528cc04557e806c23d6e5c1ff77b"
 metafile = true
@@ -4742,16 +4737,6 @@ metafile = true
 [[files]]
 file = "mods/trinkets-3.10.0.pw.toml"
 hash = "db2cf030609860b572dff92be508a5cf3907a519f22800079a5b82c4269cc632"
-metafile = true
-
-[[files]]
-file = "mods/TwilightTeleport-1.0.0_fabric1.21.1.pw.toml"
-hash = "65eb17e6cbce2a5f84285e6d3ef14c4db81c889540c48b169bc3e4207fdc1e46"
-metafile = true
-
-[[files]]
-file = "mods/TwilightTeleport-1.0.1-axolfabric1.21.1.pw.toml"
-hash = "bdb5f656ff69a605abdac820028c39a4996a39e8092e44e71e79d429ceb0110b"
 metafile = true
 
 [[files]]

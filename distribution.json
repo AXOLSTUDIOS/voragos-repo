@@ -112,16 +112,6 @@
           ]
         },
         {
-          "id": "generated.fabricmod:[af]animatedframes:1.7-fabric-1.21-1.21.1@jar",
-          "name": "[AF]AnimatedFrames",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 277486,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--_AF_AnimatedFrames-1.7-fabric-1.21-1.21.1.jar",
-            "MD5": "a407c76136e3a95a6b02601c40a6982e"
-          }
-        },
-        {
           "id": "io.wispforest:accessories:1.1.0-beta.53+1.21.1@jar",
           "name": "Accessories",
           "type": "FabricMod",
@@ -2099,26 +2089,6 @@
             "size": 272944,
             "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--trinkets-3.10.0.jar",
             "MD5": "4a42e243d6d5c25dea83be3ddc0b28b1"
-          }
-        },
-        {
-          "id": "net.ochibo:twilightteleport:1.0.0+fabric1.21.1@jar",
-          "name": "TwilightTeleport",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 244467,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--TwilightTeleport-1.0.0_fabric1.21.1.jar",
-            "MD5": "383f46f003d8de63e865377ba9df6afc"
-          }
-        },
-        {
-          "id": "net.ochibo:twilightteleport:1.0.1-axol+fabric1.21.1@jar",
-          "name": "TwilightTeleport",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 244324,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--TwilightTeleport-1.0.1-axolfabric1.21.1.jar",
-            "MD5": "bc3f1f798fddd90321801e94389625b5"
           }
         },
         {
