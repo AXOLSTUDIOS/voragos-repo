@@ -4272,8 +4272,8 @@ hash = "06a5aa109ae891daad60d835551b6390e68ad9f1d22fda176507e94ea7cc3cf0"
 metafile = true
 
 [[files]]
-file = "mods/bossrituals-1.4.0.pw.toml"
-hash = "dc0bf8ef964840b949b4ff1c4a9358a039bd186e7f5269ec9e2a6812a6f2f68b"
+file = "mods/bossrituals-1.4.1.pw.toml"
+hash = "37913b5041b2e678cac16d0213b03016f9c8ae1e6943152fa7df3aff2f24e977"
 metafile = true
 
 [[files]]
