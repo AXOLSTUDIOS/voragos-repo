@@ -1,0 +1,62 @@
+plugins {
+    id 'fabric-loom' version '1.9-SNAPSHOT'
+}
+
+version = project.mod_version
+group = project.maven_group
+
+base {
+    archivesName = project.archives_base_name
+}
+
+dependencies {
+    minecraft "com.mojang:minecraft:${project.minecraft_version}"
+    mappings loom.officialMojangMappings()
+    modImplementation "net.fabricmc:fabric-loader:${project.loader_version}"
+    modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_version}"
+
+    // Shine (bloom selectivo de tapeQ, modificado con permiso para la serie Voragos).
+    // Solo para compilar ShineBridge (usa BloomConfig, que no toca clases de Minecraft),
+    // así Loom no tiene que procesarlo. Su código se fusiona en el jar final (ver mergedJar).
+    compileOnly files('libs/shine-1.0.0.jar')
+}
+
+loom {
+    mixin {
+        defaultRefmapName = "voragoslux.refmap.json"
+    }
+}
+
+processResources {
+    inputs.property "version", project.version
+    filesMatching("fabric.mod.json") {
+        expand "version": project.version
+    }
+}
+
+tasks.withType(JavaCompile).configureEach {
+    it.options.release = 21
+    it.options.encoding = 'UTF-8'
+}
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_21
+    targetCompatibility = JavaVersion.VERSION_21
+}
+
+// Jar final: Voragos Lux + Shine en un solo mod (basado en Shine, con permiso de su creador).
+// Se quita la pantalla de configuración de Shine porque necesita YACL, que no está en el modpack.
+tasks.register('mergedJar', Jar) {
+    dependsOn remapJar
+    archiveFileName = "voragoslux-${project.version}.jar"
+    destinationDirectory = layout.buildDirectory.dir("final")
+    duplicatesStrategy = DuplicatesStrategy.EXCLUDE
+    from(zipTree(remapJar.archiveFile))
+    from(zipTree(file('libs/shine-1.0.0.jar'))) {
+        exclude 'fabric.mod.json'
+        exclude 'META-INF/MANIFEST.MF'
+        exclude 'com/bloom/client/config/BloomConfigScreen*'
+        exclude 'com/bloom/client/config/BloomModMenuIntegration*'
+    }
+}
+build.dependsOn mergedJar
