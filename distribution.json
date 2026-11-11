@@ -346,9 +346,9 @@
           "name": "BossRituals",
           "type": "FabricMod",
           "artifact": {
-            "size": 1680716,
+            "size": 1765859,
             "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--bossrituals-1.4.0.jar",
-            "MD5": "e4a73bea46c2c20830a89ba3af993343"
+            "MD5": "b163e2cb56e7446e6599d99052edc3e3"
           }
         },
         {
