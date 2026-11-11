@@ -1,0 +1,8 @@
+name = "adminbubbles.json"
+filename = "adminbubbles.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/adminbubbles.json"
+hash-format = "md5"
+hash = "b344cd024f859939be9b4cf65b48710d"

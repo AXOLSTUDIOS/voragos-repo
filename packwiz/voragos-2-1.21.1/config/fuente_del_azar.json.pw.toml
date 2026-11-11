@@ -5,4 +5,4 @@ side = "client"
 [download]
 url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fuente_del_azar.json"
 hash-format = "md5"
-hash = "09cbfa939d37ef078360432f80cdd710"
+hash = "ffa32e17b34ab47d0066c05232b70671"

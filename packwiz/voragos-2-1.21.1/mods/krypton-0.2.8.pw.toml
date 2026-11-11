@@ -1,0 +1,8 @@
+name = "Krypton"
+filename = "krypton-0.2.8.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--krypton-0.2.8.jar"
+hash-format = "md5"
+hash = "9ba3d734dac0e59deb4721f2f23c65ad"

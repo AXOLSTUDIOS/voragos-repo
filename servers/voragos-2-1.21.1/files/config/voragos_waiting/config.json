@@ -1,0 +1,16 @@
+{
+  "maxPlayers": 20,
+  "title": "Esperando Jugadores",
+  "subtitle": "El relato comenzará en breve",
+  "fadeInTicks": 40,
+  "fadeOutTicks": 50,
+  "cinematicMotion": true,
+  "counterScale": 1.0,
+  "requireClientMod": true,
+  "freezeWaitingPlayers": true,
+  "protectWaitingPlayers": true,
+  "blockWaitingChat": true,
+  "teleportOfflineOnReturn": true,
+  "maxImageWidth": 1920,
+  "pointViewSeconds": 15
+}

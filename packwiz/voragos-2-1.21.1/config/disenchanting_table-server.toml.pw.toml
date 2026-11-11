@@ -1,0 +1,8 @@
+name = "disenchanting_table-server.toml"
+filename = "disenchanting_table-server.toml"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/disenchanting_table-server.toml"
+hash-format = "md5"
+hash = "72fd9fb58f992c40d61eeed031cfa63a"

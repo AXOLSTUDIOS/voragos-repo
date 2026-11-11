@@ -1,0 +1,8 @@
+name = "modernfix-mixins.properties"
+filename = "modernfix-mixins.properties"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/modernfix-mixins.properties"
+hash-format = "md5"
+hash = "9dd59cc8c9a5ed952a430447413c46b5"

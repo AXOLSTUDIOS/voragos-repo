@@ -5,4 +5,4 @@ side = "client"
 [download]
 url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/libraryferret_1.properties"
 hash-format = "md5"
-hash = "f936dcbcf9cd70170c257384c2596a3e"
+hash = "9ee2da567150904a8cc3969b5d7d1145"

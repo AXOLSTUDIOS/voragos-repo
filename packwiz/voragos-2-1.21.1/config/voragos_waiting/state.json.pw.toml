@@ -1,0 +1,8 @@
+name = "state.json"
+filename = "state.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/voragos_waiting/state.json"
+hash-format = "md5"
+hash = "c488f5633dde90b50a2c80a04d53d056"

@@ -55,6 +55,7 @@
     "speechDb": -45.0,
     "playbackDistance": 24,
     "lureRange": 28.0,
-    "preferOtherVoices": true
+    "preferOtherVoices": true,
+    "noticeMode": "first_time"
   }
 }

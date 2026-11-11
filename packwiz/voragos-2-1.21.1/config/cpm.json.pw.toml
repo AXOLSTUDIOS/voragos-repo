@@ -5,4 +5,4 @@ side = "client"
 [download]
 url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/cpm.json"
 hash-format = "md5"
-hash = "e56b8a40108085c80ceccaa0d4519ade"
+hash = "b882c88b528cc608ecb500dbad527316"

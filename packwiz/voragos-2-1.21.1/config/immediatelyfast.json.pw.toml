@@ -1,0 +1,8 @@
+name = "immediatelyfast.json"
+filename = "immediatelyfast.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/immediatelyfast.json"
+hash-format = "md5"
+hash = "8c5364d78b0f6f9c1461f88ca38e8d84"

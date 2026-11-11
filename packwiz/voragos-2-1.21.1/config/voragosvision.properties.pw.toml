@@ -1,0 +1,8 @@
+name = "voragosvision.properties"
+filename = "voragosvision.properties"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/voragosvision.properties"
+hash-format = "md5"
+hash = "a793b1d348a4b00d9060df572abf3f24"

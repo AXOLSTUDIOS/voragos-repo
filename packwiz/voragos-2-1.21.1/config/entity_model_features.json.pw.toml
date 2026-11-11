@@ -5,4 +5,4 @@ side = "client"
 [download]
 url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/entity_model_features.json"
 hash-format = "md5"
-hash = "a34938463c1386f36979447564108119"
+hash = "742972ea84968223662d8834234ac62e"

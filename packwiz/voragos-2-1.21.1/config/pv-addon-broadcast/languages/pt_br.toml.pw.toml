@@ -1,0 +1,8 @@
+name = "pt_br.toml"
+filename = "pt_br.toml"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-broadcast/languages/pt_br.toml"
+hash-format = "md5"
+hash = "ee963bb3ef1f035951024e4970595523"

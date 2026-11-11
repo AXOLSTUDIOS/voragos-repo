@@ -1,0 +1,8 @@
+name = "transition.json"
+filename = "transition.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/transition.json"
+hash-format = "md5"
+hash = "31ba5caa4bcc56c2527e5d001e4f0f07"

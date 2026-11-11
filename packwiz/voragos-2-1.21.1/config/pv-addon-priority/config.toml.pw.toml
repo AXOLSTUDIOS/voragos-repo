@@ -1,0 +1,8 @@
+name = "config.toml"
+filename = "config.toml"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-priority/config.toml"
+hash-format = "md5"
+hash = "c27b4fef066d7b83e81ba905110d5c16"

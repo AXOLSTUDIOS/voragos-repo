@@ -1,0 +1,8 @@
+name = "ko_kr.toml"
+filename = "ko_kr.toml"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-broadcast/languages/.crowdin/ko_kr.toml"
+hash-format = "md5"
+hash = "2bffbbc6e6bf74ffb211496f8f957c3d"

@@ -1,0 +1,8 @@
+name = "siege-machines-specs.toml"
+filename = "siege-machines-specs.toml"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/siege-machines-specs.toml"
+hash-format = "md5"
+hash = "a87537d27fd3626d71a9deae294a3b15"

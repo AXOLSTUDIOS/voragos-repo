@@ -1,0 +1,8 @@
+name = "axol_rpg.properties"
+filename = "axol_rpg.properties"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/axol_rpg.properties"
+hash-format = "md5"
+hash = "01631498fe4fb0faa8c41e9965a97cc1"

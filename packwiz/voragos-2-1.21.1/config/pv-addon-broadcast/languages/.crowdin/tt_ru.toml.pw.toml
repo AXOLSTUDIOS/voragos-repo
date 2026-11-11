@@ -1,0 +1,8 @@
+name = "tt_ru.toml"
+filename = "tt_ru.toml"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-broadcast/languages/.crowdin/tt_ru.toml"
+hash-format = "md5"
+hash = "4670c034db25616bae8adfb58079ddde"

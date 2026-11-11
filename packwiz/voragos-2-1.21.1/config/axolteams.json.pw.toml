@@ -1,0 +1,8 @@
+name = "axolteams.json"
+filename = "axolteams.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/axolteams.json"
+hash-format = "md5"
+hash = "a5d922abdeba65ab2554bad7d060ae84"

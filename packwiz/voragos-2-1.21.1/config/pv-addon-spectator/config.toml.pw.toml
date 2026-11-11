@@ -1,0 +1,8 @@
+name = "config.toml"
+filename = "config.toml"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-spectator/config.toml"
+hash-format = "md5"
+hash = "13c5b95bb97c58b23a83dedf15c4b028"

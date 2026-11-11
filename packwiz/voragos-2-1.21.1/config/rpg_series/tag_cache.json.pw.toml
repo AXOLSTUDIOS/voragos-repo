@@ -5,4 +5,4 @@ side = "client"
 [download]
 url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/rpg_series/tag_cache.json"
 hash-format = "md5"
-hash = "75cda63ebc2b62a24006d2b2c2df6857"
+hash = "80d7f6984f6c8daccc8771c79ccfe74b"

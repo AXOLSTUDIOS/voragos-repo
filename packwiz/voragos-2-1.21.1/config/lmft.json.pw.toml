@@ -1,0 +1,8 @@
+name = "lmft.json"
+filename = "lmft.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/lmft.json"
+hash-format = "md5"
+hash = "8454fb0618d6203bd43c5f02ae90174f"

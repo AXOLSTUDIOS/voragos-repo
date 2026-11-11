@@ -1,0 +1,8 @@
+name = "config.json"
+filename = "config.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/voragos_waiting/config.json"
+hash-format = "md5"
+hash = "beb5c275112cb063a412895842ae7ba9"

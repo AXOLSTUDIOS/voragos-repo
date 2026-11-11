@@ -342,13 +342,13 @@
           }
         },
         {
-          "id": "com.axolstudio:bossrituals:1.3.4@jar",
+          "id": "com.axolstudio:bossrituals:1.4.0@jar",
           "name": "BossRituals",
           "type": "FabricMod",
           "artifact": {
-            "size": 1580223,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--bossrituals-1.3.4.jar",
-            "MD5": "22a0d69ada6adceb3d29b4e64ce055c3"
+            "size": 1654027,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--bossrituals-1.4.0.jar",
+            "MD5": "db6bd957ca3df4bc71178cd953882e09"
           }
         },
         {
@@ -1149,6 +1149,16 @@
             "size": 786695,
             "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--konkrete_fabric_1.9.9_MC_1.21.jar",
             "MD5": "287ee9cfc6015f706672fd8c20f5ef9c"
+          }
+        },
+        {
+          "id": "me.steinborn.krypton.mod.shared:krypton:0.2.8@jar",
+          "name": "Krypton",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 161045,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--krypton-0.2.8.jar",
+            "MD5": "9ba3d734dac0e59deb4721f2f23c65ad"
           }
         },
         {
@@ -2406,7 +2416,7 @@
           "name": "bountyhunt-server.json",
           "type": "File",
           "artifact": {
-            "size": 367,
+            "size": 606,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/bountyhunt-server.json",
             "path": "config/bountyhunt-server.json"
           }
@@ -2516,7 +2526,7 @@
           "name": "cpm.json",
           "type": "File",
           "artifact": {
-            "size": 527,
+            "size": 596,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/cpm.json",
             "path": "config/cpm.json"
           }
@@ -2596,7 +2606,7 @@
           "name": "dreadkeep.json",
           "type": "File",
           "artifact": {
-            "size": 1369,
+            "size": 1401,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/dreadkeep.json",
             "path": "config/dreadkeep.json"
           }
@@ -2626,7 +2636,7 @@
           "name": "emotecraft.json",
           "type": "File",
           "artifact": {
-            "size": 1690,
+            "size": 1694,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/emotecraft.json",
             "path": "config/emotecraft.json"
           }
@@ -2646,7 +2656,7 @@
           "name": "entity_model_features.json",
           "type": "File",
           "artifact": {
-            "size": 1287,
+            "size": 1250,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/entity_model_features.json",
             "path": "config/entity_model_features.json"
           }
@@ -2666,7 +2676,7 @@
           "name": "entity_texture_features.json",
           "type": "File",
           "artifact": {
-            "size": 1458,
+            "size": 1461,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/entity_texture_features.json",
             "path": "config/entity_texture_features.json"
           }
@@ -2756,7 +2766,7 @@
           "name": "fuente_del_azar.json",
           "type": "File",
           "artifact": {
-            "size": 1781,
+            "size": 1577,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/fuente_del_azar.json",
             "path": "config/fuente_del_azar.json"
           }
@@ -3276,7 +3286,7 @@
           "name": "sodium-options.json",
           "type": "File",
           "artifact": {
-            "size": 682,
+            "size": 681,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/sodium-options.json",
             "path": "config/sodium-options.json"
           }
@@ -3316,7 +3326,7 @@
           "name": "sophisticatedcore-common.toml",
           "type": "File",
           "artifact": {
-            "size": 108,
+            "size": 3407,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/sophisticatedcore-common.toml",
             "path": "config/sophisticatedcore-common.toml"
           }
@@ -7000,7 +7010,7 @@
           "name": "ingredient-list-mod-sort-order.ini",
           "type": "File",
           "artifact": {
-            "size": 1371,
+            "size": 1474,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/jei/ingredient-list-mod-sort-order.ini",
             "path": "config/jei/ingredient-list-mod-sort-order.ini"
           }
@@ -7700,7 +7710,7 @@
           "name": "tag_cache.json",
           "type": "File",
           "artifact": {
-            "size": 17,
+            "size": 20374,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/rpg_series/tag_cache.json",
             "path": "config/rpg_series/tag_cache.json"
           }
@@ -8146,6 +8156,36 @@
           }
         },
         {
+          "id": "config.json",
+          "name": "config.json",
+          "type": "File",
+          "artifact": {
+            "size": 403,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/voragos_waiting/config.json",
+            "path": "config/voragos_waiting/config.json"
+          }
+        },
+        {
+          "id": "points.json",
+          "name": "points.json",
+          "type": "File",
+          "artifact": {
+            "size": 18,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/voragos_waiting/points.json",
+            "path": "config/voragos_waiting/points.json"
+          }
+        },
+        {
+          "id": "state.json",
+          "name": "state.json",
+          "type": "File",
+          "artifact": {
+            "size": 83,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/voragos_waiting/state.json",
+            "path": "config/voragos_waiting/state.json"
+          }
+        },
+        {
           "id": "custom_vlc_path.txt",
           "name": "custom_vlc_path.txt",
           "type": "File",
@@ -8283,6 +8323,785 @@
             "size": 339,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/voxy-config.json",
             "path": "config/voxy-config.json"
+          }
+        },
+        {
+          "id": "mobdropconfig.txt",
+          "name": "mobdropconfig.txt",
+          "type": "File",
+          "artifact": {
+            "size": 5501,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/configurableextramobdrops/mobdropconfig.txt",
+            "MD5": "40d99a35d95ad588778c47015e67ef9a",
+            "path": "config/configurableextramobdrops/mobdropconfig.txt"
+          }
+        },
+        {
+          "id": "config.toml",
+          "name": "config.toml",
+          "type": "File",
+          "artifact": {
+            "size": 257,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-broadcast/config.toml",
+            "MD5": "baf270682a8a916594d41c00381e480e",
+            "path": "config/pv-addon-broadcast/config.toml"
+          }
+        },
+        {
+          "id": "en_us.toml",
+          "name": "en_us.toml",
+          "type": "File",
+          "artifact": {
+            "size": 531,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-broadcast/languages/en_us.toml",
+            "MD5": "7a584e74a76d29f04c70b98d713a9c58",
+            "path": "config/pv-addon-broadcast/languages/en_us.toml"
+          }
+        },
+        {
+          "id": "es_es.toml",
+          "name": "es_es.toml",
+          "type": "File",
+          "artifact": {
+            "size": 571,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-broadcast/languages/es_es.toml",
+            "MD5": "6952743a711539e61d6fdd4028f68090",
+            "path": "config/pv-addon-broadcast/languages/es_es.toml"
+          }
+        },
+        {
+          "id": "he_il.toml",
+          "name": "he_il.toml",
+          "type": "File",
+          "artifact": {
+            "size": 566,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-broadcast/languages/he_il.toml",
+            "MD5": "73f6519c66b02b1aac582360386e705b",
+            "path": "config/pv-addon-broadcast/languages/he_il.toml"
+          }
+        },
+        {
+          "id": "ko_kr.toml",
+          "name": "ko_kr.toml",
+          "type": "File",
+          "artifact": {
+            "size": 538,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-broadcast/languages/ko_kr.toml",
+            "MD5": "fae23b13561725fb13d34c11ffb43442",
+            "path": "config/pv-addon-broadcast/languages/ko_kr.toml"
+          }
+        },
+        {
+          "id": "pl_pl.toml",
+          "name": "pl_pl.toml",
+          "type": "File",
+          "artifact": {
+            "size": 584,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-broadcast/languages/pl_pl.toml",
+            "MD5": "6054236d22dd2b5ff3ea2c3c517977bf",
+            "path": "config/pv-addon-broadcast/languages/pl_pl.toml"
+          }
+        },
+        {
+          "id": "pt_br.toml",
+          "name": "pt_br.toml",
+          "type": "File",
+          "artifact": {
+            "size": 538,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-broadcast/languages/pt_br.toml",
+            "MD5": "ee963bb3ef1f035951024e4970595523",
+            "path": "config/pv-addon-broadcast/languages/pt_br.toml"
+          }
+        },
+        {
+          "id": "ru_ru.toml",
+          "name": "ru_ru.toml",
+          "type": "File",
+          "artifact": {
+            "size": 741,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-broadcast/languages/ru_ru.toml",
+            "MD5": "2f7ee16e1e8d0650f65490c318b80f55",
+            "path": "config/pv-addon-broadcast/languages/ru_ru.toml"
+          }
+        },
+        {
+          "id": "tt_ru.toml",
+          "name": "tt_ru.toml",
+          "type": "File",
+          "artifact": {
+            "size": 756,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-broadcast/languages/tt_ru.toml",
+            "MD5": "afb5933fa7690d2340f6199a3f49d53c",
+            "path": "config/pv-addon-broadcast/languages/tt_ru.toml"
+          }
+        },
+        {
+          "id": "vi_vn.toml",
+          "name": "vi_vn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 609,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-broadcast/languages/vi_vn.toml",
+            "MD5": "3802088a626ae18359a8d8eaaf9214eb",
+            "path": "config/pv-addon-broadcast/languages/vi_vn.toml"
+          }
+        },
+        {
+          "id": "zh_cn.toml",
+          "name": "zh_cn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 530,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-broadcast/languages/zh_cn.toml",
+            "MD5": "731e915e650606f3a9a98d17a53a5e6e",
+            "path": "config/pv-addon-broadcast/languages/zh_cn.toml"
+          }
+        },
+        {
+          "id": "zh_tw.toml",
+          "name": "zh_tw.toml",
+          "type": "File",
+          "artifact": {
+            "size": 530,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-broadcast/languages/zh_tw.toml",
+            "MD5": "38a8d519077edaa1ca5886ef39bf5ebc",
+            "path": "config/pv-addon-broadcast/languages/zh_tw.toml"
+          }
+        },
+        {
+          "id": "es_es.toml",
+          "name": "es_es.toml",
+          "type": "File",
+          "artifact": {
+            "size": 572,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-broadcast/languages/.crowdin/es_es.toml",
+            "MD5": "74df20b6eecefc77191ecbfd57199041",
+            "path": "config/pv-addon-broadcast/languages/.crowdin/es_es.toml"
+          }
+        },
+        {
+          "id": "he_il.toml",
+          "name": "he_il.toml",
+          "type": "File",
+          "artifact": {
+            "size": 567,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-broadcast/languages/.crowdin/he_il.toml",
+            "MD5": "1c0063830c1271907f5f3a848945fe91",
+            "path": "config/pv-addon-broadcast/languages/.crowdin/he_il.toml"
+          }
+        },
+        {
+          "id": "ko_kr.toml",
+          "name": "ko_kr.toml",
+          "type": "File",
+          "artifact": {
+            "size": 539,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-broadcast/languages/.crowdin/ko_kr.toml",
+            "MD5": "2bffbbc6e6bf74ffb211496f8f957c3d",
+            "path": "config/pv-addon-broadcast/languages/.crowdin/ko_kr.toml"
+          }
+        },
+        {
+          "id": "pl_pl.toml",
+          "name": "pl_pl.toml",
+          "type": "File",
+          "artifact": {
+            "size": 585,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-broadcast/languages/.crowdin/pl_pl.toml",
+            "MD5": "7c8a1a282644455a491c630353f9c10b",
+            "path": "config/pv-addon-broadcast/languages/.crowdin/pl_pl.toml"
+          }
+        },
+        {
+          "id": "pt_br.toml",
+          "name": "pt_br.toml",
+          "type": "File",
+          "artifact": {
+            "size": 539,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-broadcast/languages/.crowdin/pt_br.toml",
+            "MD5": "8ad644dd6212b6704aa553c7ba2cf908",
+            "path": "config/pv-addon-broadcast/languages/.crowdin/pt_br.toml"
+          }
+        },
+        {
+          "id": "ru_ru.toml",
+          "name": "ru_ru.toml",
+          "type": "File",
+          "artifact": {
+            "size": 742,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-broadcast/languages/.crowdin/ru_ru.toml",
+            "MD5": "0c3fd746c221dbcf0f8c49da650fa88f",
+            "path": "config/pv-addon-broadcast/languages/.crowdin/ru_ru.toml"
+          }
+        },
+        {
+          "id": "timestamp",
+          "name": "timestamp",
+          "type": "File",
+          "artifact": {
+            "size": 13,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-broadcast/languages/.crowdin/timestamp",
+            "MD5": "51636f2a13c9ab8a9208f559dfc15c33",
+            "path": "config/pv-addon-broadcast/languages/.crowdin/timestamp"
+          }
+        },
+        {
+          "id": "tt_ru.toml",
+          "name": "tt_ru.toml",
+          "type": "File",
+          "artifact": {
+            "size": 757,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-broadcast/languages/.crowdin/tt_ru.toml",
+            "MD5": "4670c034db25616bae8adfb58079ddde",
+            "path": "config/pv-addon-broadcast/languages/.crowdin/tt_ru.toml"
+          }
+        },
+        {
+          "id": "vi_vn.toml",
+          "name": "vi_vn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 610,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-broadcast/languages/.crowdin/vi_vn.toml",
+            "MD5": "a95d1b89574528e38ad678b2baee5262",
+            "path": "config/pv-addon-broadcast/languages/.crowdin/vi_vn.toml"
+          }
+        },
+        {
+          "id": "zh_cn.toml",
+          "name": "zh_cn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 531,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-broadcast/languages/.crowdin/zh_cn.toml",
+            "MD5": "5bbdf7c7911641285e3afaa572d559f1",
+            "path": "config/pv-addon-broadcast/languages/.crowdin/zh_cn.toml"
+          }
+        },
+        {
+          "id": "zh_tw.toml",
+          "name": "zh_tw.toml",
+          "type": "File",
+          "artifact": {
+            "size": 531,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-broadcast/languages/.crowdin/zh_tw.toml",
+            "MD5": "4c944c26420cfc7950676405facf0064",
+            "path": "config/pv-addon-broadcast/languages/.crowdin/zh_tw.toml"
+          }
+        },
+        {
+          "id": "config.toml",
+          "name": "config.toml",
+          "type": "File",
+          "artifact": {
+            "size": 177,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-priority/config.toml",
+            "MD5": "c27b4fef066d7b83e81ba905110d5c16",
+            "path": "config/pv-addon-priority/config.toml"
+          }
+        },
+        {
+          "id": "en_us.toml",
+          "name": "en_us.toml",
+          "type": "File",
+          "artifact": {
+            "size": 45,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-priority/languages/en_us.toml",
+            "MD5": "8b27c24e15a2c743b00b9794559150ea",
+            "path": "config/pv-addon-priority/languages/en_us.toml"
+          }
+        },
+        {
+          "id": "es_es.toml",
+          "name": "es_es.toml",
+          "type": "File",
+          "artifact": {
+            "size": 46,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-priority/languages/es_es.toml",
+            "MD5": "2b823ba9db2da6deefd926fc83f27469",
+            "path": "config/pv-addon-priority/languages/es_es.toml"
+          }
+        },
+        {
+          "id": "he_il.toml",
+          "name": "he_il.toml",
+          "type": "File",
+          "artifact": {
+            "size": 49,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-priority/languages/he_il.toml",
+            "MD5": "58fab0078bc723b669f6ad21707a3d67",
+            "path": "config/pv-addon-priority/languages/he_il.toml"
+          }
+        },
+        {
+          "id": "ko_kr.toml",
+          "name": "ko_kr.toml",
+          "type": "File",
+          "artifact": {
+            "size": 49,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-priority/languages/ko_kr.toml",
+            "MD5": "d973f11d9853cfa08a1d4d78e676535b",
+            "path": "config/pv-addon-priority/languages/ko_kr.toml"
+          }
+        },
+        {
+          "id": "pl_pl.toml",
+          "name": "pl_pl.toml",
+          "type": "File",
+          "artifact": {
+            "size": 46,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-priority/languages/pl_pl.toml",
+            "MD5": "e067d597317a070da6119cb8fc7d7ecb",
+            "path": "config/pv-addon-priority/languages/pl_pl.toml"
+          }
+        },
+        {
+          "id": "pt_br.toml",
+          "name": "pt_br.toml",
+          "type": "File",
+          "artifact": {
+            "size": 47,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-priority/languages/pt_br.toml",
+            "MD5": "b7144a7027211c2884b0543f0bc958bd",
+            "path": "config/pv-addon-priority/languages/pt_br.toml"
+          }
+        },
+        {
+          "id": "ru_ru.toml",
+          "name": "ru_ru.toml",
+          "type": "File",
+          "artifact": {
+            "size": 55,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-priority/languages/ru_ru.toml",
+            "MD5": "6977ef32e0685f6b4260c2d05c023bb1",
+            "path": "config/pv-addon-priority/languages/ru_ru.toml"
+          }
+        },
+        {
+          "id": "tt_ru.toml",
+          "name": "tt_ru.toml",
+          "type": "File",
+          "artifact": {
+            "size": 53,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-priority/languages/tt_ru.toml",
+            "MD5": "03481f793726bd4f08267ec0e0cf7850",
+            "path": "config/pv-addon-priority/languages/tt_ru.toml"
+          }
+        },
+        {
+          "id": "vi_vn.toml",
+          "name": "vi_vn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 52,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-priority/languages/vi_vn.toml",
+            "MD5": "e382274359cf641c0d877955f5c92015",
+            "path": "config/pv-addon-priority/languages/vi_vn.toml"
+          }
+        },
+        {
+          "id": "zh_cn.toml",
+          "name": "zh_cn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 46,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-priority/languages/zh_cn.toml",
+            "MD5": "80cae88dda07428560ed05f4ec8798e1",
+            "path": "config/pv-addon-priority/languages/zh_cn.toml"
+          }
+        },
+        {
+          "id": "zh_tw.toml",
+          "name": "zh_tw.toml",
+          "type": "File",
+          "artifact": {
+            "size": 49,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-priority/languages/zh_tw.toml",
+            "MD5": "57719b6ab734370d1f3f4ab661e47d5c",
+            "path": "config/pv-addon-priority/languages/zh_tw.toml"
+          }
+        },
+        {
+          "id": "es_es.toml",
+          "name": "es_es.toml",
+          "type": "File",
+          "artifact": {
+            "size": 46,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-priority/languages/.crowdin/es_es.toml",
+            "MD5": "2b823ba9db2da6deefd926fc83f27469",
+            "path": "config/pv-addon-priority/languages/.crowdin/es_es.toml"
+          }
+        },
+        {
+          "id": "he_il.toml",
+          "name": "he_il.toml",
+          "type": "File",
+          "artifact": {
+            "size": 49,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-priority/languages/.crowdin/he_il.toml",
+            "MD5": "58fab0078bc723b669f6ad21707a3d67",
+            "path": "config/pv-addon-priority/languages/.crowdin/he_il.toml"
+          }
+        },
+        {
+          "id": "ko_kr.toml",
+          "name": "ko_kr.toml",
+          "type": "File",
+          "artifact": {
+            "size": 49,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-priority/languages/.crowdin/ko_kr.toml",
+            "MD5": "d973f11d9853cfa08a1d4d78e676535b",
+            "path": "config/pv-addon-priority/languages/.crowdin/ko_kr.toml"
+          }
+        },
+        {
+          "id": "pl_pl.toml",
+          "name": "pl_pl.toml",
+          "type": "File",
+          "artifact": {
+            "size": 46,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-priority/languages/.crowdin/pl_pl.toml",
+            "MD5": "e067d597317a070da6119cb8fc7d7ecb",
+            "path": "config/pv-addon-priority/languages/.crowdin/pl_pl.toml"
+          }
+        },
+        {
+          "id": "pt_br.toml",
+          "name": "pt_br.toml",
+          "type": "File",
+          "artifact": {
+            "size": 47,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-priority/languages/.crowdin/pt_br.toml",
+            "MD5": "b7144a7027211c2884b0543f0bc958bd",
+            "path": "config/pv-addon-priority/languages/.crowdin/pt_br.toml"
+          }
+        },
+        {
+          "id": "ru_ru.toml",
+          "name": "ru_ru.toml",
+          "type": "File",
+          "artifact": {
+            "size": 55,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-priority/languages/.crowdin/ru_ru.toml",
+            "MD5": "6977ef32e0685f6b4260c2d05c023bb1",
+            "path": "config/pv-addon-priority/languages/.crowdin/ru_ru.toml"
+          }
+        },
+        {
+          "id": "timestamp",
+          "name": "timestamp",
+          "type": "File",
+          "artifact": {
+            "size": 13,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-priority/languages/.crowdin/timestamp",
+            "MD5": "51636f2a13c9ab8a9208f559dfc15c33",
+            "path": "config/pv-addon-priority/languages/.crowdin/timestamp"
+          }
+        },
+        {
+          "id": "tt_ru.toml",
+          "name": "tt_ru.toml",
+          "type": "File",
+          "artifact": {
+            "size": 53,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-priority/languages/.crowdin/tt_ru.toml",
+            "MD5": "03481f793726bd4f08267ec0e0cf7850",
+            "path": "config/pv-addon-priority/languages/.crowdin/tt_ru.toml"
+          }
+        },
+        {
+          "id": "vi_vn.toml",
+          "name": "vi_vn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 52,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-priority/languages/.crowdin/vi_vn.toml",
+            "MD5": "e382274359cf641c0d877955f5c92015",
+            "path": "config/pv-addon-priority/languages/.crowdin/vi_vn.toml"
+          }
+        },
+        {
+          "id": "zh_cn.toml",
+          "name": "zh_cn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 46,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-priority/languages/.crowdin/zh_cn.toml",
+            "MD5": "80cae88dda07428560ed05f4ec8798e1",
+            "path": "config/pv-addon-priority/languages/.crowdin/zh_cn.toml"
+          }
+        },
+        {
+          "id": "zh_tw.toml",
+          "name": "zh_tw.toml",
+          "type": "File",
+          "artifact": {
+            "size": 49,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-priority/languages/.crowdin/zh_tw.toml",
+            "MD5": "57719b6ab734370d1f3f4ab661e47d5c",
+            "path": "config/pv-addon-priority/languages/.crowdin/zh_tw.toml"
+          }
+        },
+        {
+          "id": "config.toml",
+          "name": "config.toml",
+          "type": "File",
+          "artifact": {
+            "size": 566,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-sculk/config.toml",
+            "MD5": "f7f19720a976f364a7658f56f1aa54e1",
+            "path": "config/pv-addon-sculk/config.toml"
+          }
+        },
+        {
+          "id": "config.toml",
+          "name": "config.toml",
+          "type": "File",
+          "artifact": {
+            "size": 17,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-spectator/config.toml",
+            "MD5": "13c5b95bb97c58b23a83dedf15c4b028",
+            "path": "config/pv-addon-spectator/config.toml"
+          }
+        },
+        {
+          "id": "adminbubbles.json",
+          "name": "adminbubbles.json",
+          "type": "File",
+          "artifact": {
+            "size": 140,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/adminbubbles.json",
+            "path": "config/adminbubbles.json"
+          }
+        },
+        {
+          "id": "axol_rpg.properties",
+          "name": "axol_rpg.properties",
+          "type": "File",
+          "artifact": {
+            "size": 146,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/axol_rpg.properties",
+            "path": "config/axol_rpg.properties"
+          }
+        },
+        {
+          "id": "axolteams.json",
+          "name": "axolteams.json",
+          "type": "File",
+          "artifact": {
+            "size": 383,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/axolteams.json",
+            "path": "config/axolteams.json"
+          }
+        },
+        {
+          "id": "axolteams-client.json",
+          "name": "axolteams-client.json",
+          "type": "File",
+          "artifact": {
+            "size": 55,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/axolteams-client.json",
+            "path": "config/axolteams-client.json"
+          }
+        },
+        {
+          "id": "badmobs.json",
+          "name": "badmobs.json",
+          "type": "File",
+          "artifact": {
+            "size": 23677,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/badmobs.json",
+            "path": "config/badmobs.json"
+          }
+        },
+        {
+          "id": "badoptimizations.txt",
+          "name": "badoptimizations.txt",
+          "type": "File",
+          "artifact": {
+            "size": 3458,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/badoptimizations.txt",
+            "path": "config/badoptimizations.txt"
+          }
+        },
+        {
+          "id": "courierfamiliars-stream.json",
+          "name": "courierfamiliars-stream.json",
+          "type": "File",
+          "artifact": {
+            "size": 1302,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/courierfamiliars-stream.json",
+            "path": "config/courierfamiliars-stream.json"
+          }
+        },
+        {
+          "id": "creativecore.json",
+          "name": "creativecore.json",
+          "type": "File",
+          "artifact": {
+            "size": 274,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/creativecore.json",
+            "path": "config/creativecore.json"
+          }
+        },
+        {
+          "id": "disenchanting_table-server.toml",
+          "name": "disenchanting_table-server.toml",
+          "type": "File",
+          "artifact": {
+            "size": 556,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/disenchanting_table-server.toml",
+            "path": "config/disenchanting_table-server.toml"
+          }
+        },
+        {
+          "id": "enchantinginfuser-server.toml",
+          "name": "enchantinginfuser-server.toml",
+          "type": "File",
+          "artifact": {
+            "size": 4876,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/enchantinginfuser-server.toml",
+            "path": "config/enchantinginfuser-server.toml"
+          }
+        },
+        {
+          "id": "entityculling.json",
+          "name": "entityculling.json",
+          "type": "File",
+          "artifact": {
+            "size": 2248,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/entityculling.json",
+            "path": "config/entityculling.json"
+          }
+        },
+        {
+          "id": "ferritecore.mixin.properties",
+          "name": "ferritecore.mixin.properties",
+          "type": "File",
+          "artifact": {
+            "size": 1614,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/ferritecore.mixin.properties",
+            "path": "config/ferritecore.mixin.properties"
+          }
+        },
+        {
+          "id": "immediatelyfast.json",
+          "name": "immediatelyfast.json",
+          "type": "File",
+          "artifact": {
+            "size": 1114,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/immediatelyfast.json",
+            "path": "config/immediatelyfast.json"
+          }
+        },
+        {
+          "id": "lmft.json",
+          "name": "lmft.json",
+          "type": "File",
+          "artifact": {
+            "size": 66,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/lmft.json",
+            "path": "config/lmft.json"
+          }
+        },
+        {
+          "id": "modernfix-mixins.properties",
+          "name": "modernfix-mixins.properties",
+          "type": "File",
+          "artifact": {
+            "size": 4283,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/modernfix-mixins.properties",
+            "path": "config/modernfix-mixins.properties"
+          }
+        },
+        {
+          "id": "scalablelux.properties",
+          "name": "scalablelux.properties",
+          "type": "File",
+          "artifact": {
+            "size": 84,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/scalablelux.properties",
+            "path": "config/scalablelux.properties"
+          }
+        },
+        {
+          "id": "siege-machines-specs.toml",
+          "name": "siege-machines-specs.toml",
+          "type": "File",
+          "artifact": {
+            "size": 5248,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/siege-machines-specs.toml",
+            "path": "config/siege-machines-specs.toml"
+          }
+        },
+        {
+          "id": "sophisticatedbackpacks-server.toml",
+          "name": "sophisticatedbackpacks-server.toml",
+          "type": "File",
+          "artifact": {
+            "size": 19693,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/sophisticatedbackpacks-server.toml",
+            "path": "config/sophisticatedbackpacks-server.toml"
+          }
+        },
+        {
+          "id": "transition.json",
+          "name": "transition.json",
+          "type": "File",
+          "artifact": {
+            "size": 97,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/transition.json",
+            "path": "config/transition.json"
+          }
+        },
+        {
+          "id": "trender.json",
+          "name": "trender.json",
+          "type": "File",
+          "artifact": {
+            "size": 47,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/trender.json",
+            "path": "config/trender.json"
+          }
+        },
+        {
+          "id": "voragoslinterna.json",
+          "name": "voragoslinterna.json",
+          "type": "File",
+          "artifact": {
+            "size": 167,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/voragoslinterna.json",
+            "path": "config/voragoslinterna.json"
+          }
+        },
+        {
+          "id": "voragoslinterna-cliente.json",
+          "name": "voragoslinterna-cliente.json",
+          "type": "File",
+          "artifact": {
+            "size": 416,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/voragoslinterna-cliente.json",
+            "path": "config/voragoslinterna-cliente.json"
+          }
+        },
+        {
+          "id": "voragosvision.properties",
+          "name": "voragosvision.properties",
+          "type": "File",
+          "artifact": {
+            "size": 1372,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/voragosvision.properties",
+            "path": "config/voragosvision.properties"
+          }
+        },
+        {
+          "id": "waterframes.json",
+          "name": "waterframes.json",
+          "type": "File",
+          "artifact": {
+            "size": 1724,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/waterframes.json",
+            "path": "config/waterframes.json"
           }
         },
         {

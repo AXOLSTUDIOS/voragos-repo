@@ -1,0 +1,8 @@
+name = "he_il.toml"
+filename = "he_il.toml"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-priority/languages/he_il.toml"
+hash-format = "md5"
+hash = "58fab0078bc723b669f6ad21707a3d67"

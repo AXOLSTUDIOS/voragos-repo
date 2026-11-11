@@ -1,0 +1,8 @@
+name = "points.json"
+filename = "points.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/voragos_waiting/points.json"
+hash-format = "md5"
+hash = "cbe1e16629746a7c43e69f57429c1a24"

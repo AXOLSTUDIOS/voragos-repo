@@ -1,0 +1,208 @@
+[siege_machines]
+	fireDamageMultiplier = 3.0
+	explosionDamageMultiplier = 2.0
+	arrowDamageMultiplier = 0.5
+	allowFriendlyFire = false
+	deploymentSicknessCooldown = 300
+	preventPickupCooldown = 300
+
+	[siege_machines.mortar]
+		# Default: 80
+		# Range: > 0
+		durability = 80
+		# Default: 200
+		# Range: > 0
+		reloadTime = 200
+		# Default: 2.5
+		# Range: 0.0 ~ 2.147483647E9
+		projectileSpeed = 2.5
+		# Default: 0.20000000298023224
+		# Range: 0.0 ~ 2.147483647E9
+		inaccuracy = 0.20000000298023224
+		# Default: 0.5
+		# Range: 0.0 ~ 1.0
+		knockbackResistance = 0.5
+
+	[siege_machines.culverin]
+		# Default: 150
+		# Range: > 0
+		durability = 150
+		# Default: 260
+		# Range: > 0
+		reloadTime = 260
+		# Default: 3.5
+		# Range: 0.0 ~ 2.147483647E9
+		projectileSpeed = 3.5
+		# Default: 0.029999999329447746
+		# Range: 0.0 ~ 2.147483647E9
+		inaccuracy = 0.029999999329447746
+		# Default: 0.6000000238418579
+		# Range: 0.0 ~ 1.0
+		knockbackResistance = 0.6000000238418579
+
+	[siege_machines.trebuchet]
+		# Default: 350
+		# Range: > 0
+		durability = 350
+		# Default: 400
+		# Range: > 0
+		reloadTime = 400
+		# Default: 2.799999952316284
+		# Range: 0.0 ~ 2.147483647E9
+		projectileSpeed = 2.799999952316284
+		# Default: 0.20000000298023224
+		# Range: 0.0 ~ 2.147483647E9
+		inaccuracy = 0.20000000298023224
+		# Default: 1.0
+		# Range: 0.0 ~ 1.0
+		knockbackResistance = 1.0
+
+	[siege_machines.catapult]
+		# Default: 150
+		# Range: > 0
+		durability = 150
+		# Default: 200
+		# Range: > 0
+		reloadTime = 200
+		# Default: 2.0
+		# Range: 0.0 ~ 2.147483647E9
+		projectileSpeed = 2.0
+		# Default: 0.20000000298023224
+		# Range: 0.0 ~ 2.147483647E9
+		inaccuracy = 0.20000000298023224
+		# Default: 0.800000011920929
+		# Range: 0.0 ~ 1.0
+		knockbackResistance = 0.800000011920929
+
+	[siege_machines.ballista]
+		# Default: 70
+		# Range: > 0
+		durability = 70
+		# Default: 120
+		# Range: > 0
+		reloadTime = 120
+		# Default: 4.5
+		# Range: 0.0 ~ 2.147483647E9
+		projectileSpeed = 4.5
+		# Default: 0.03999999910593033
+		# Range: 0.0 ~ 2.147483647E9
+		inaccuracy = 0.03999999910593033
+		# Default: 0.4000000059604645
+		# Range: 0.0 ~ 1.0
+		knockbackResistance = 0.4000000059604645
+
+	[siege_machines.battering_ram]
+		# Default: 500
+		# Range: > 0
+		durability = 500
+		# Default: 100
+		# Range: > 0
+		reloadTime = 100
+		# Default: 0.0
+		# Range: 0.0 ~ 2.147483647E9
+		projectileSpeed = 0.0
+		# Default: 0.5
+		# Range: 0.0 ~ 2.147483647E9
+		inaccuracy = 0.5
+		# Default: 1.0
+		# Range: 0.0 ~ 1.0
+		knockbackResistance = 1.0
+
+	[siege_machines.siege_ladder]
+		# Default: 400
+		# Range: > 0
+		durability = 400
+		# Default: 0
+		# Range: > 0
+		reloadTime = 0
+		# Default: 0.0
+		# Range: 0.0 ~ 2.147483647E9
+		projectileSpeed = 0.0
+		# Default: 0.0
+		# Range: 0.0 ~ 2.147483647E9
+		inaccuracy = 0.0
+		# Default: 1.0
+		# Range: 0.0 ~ 1.0
+		knockbackResistance = 1.0
+
+	[missiles.cannonball]
+		# Default: 15.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		mass = 15.0
+		# Default: 3.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		explosionRadius = 3.0
+		# Default: 1.0
+		# Range: 0.0 ~ 1.0
+		armorPiercing = 1.0
+		# Default: 1.5
+		# Range: 0.0 ~ 1.7976931348623157E308
+		knockback = 1.5
+		# Default: 1.5
+		# Range: 0.0 ~ 3.4028234663852886E38
+		explosionDamageMultiplier = 1.5
+		explosive = true
+		fired = false
+
+	[missiles.stone]
+		# Default: 50.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		mass = 50.0
+		# Default: 2.5
+		# Range: 0.0 ~ 1.7976931348623157E308
+		explosionRadius = 2.5
+		# Default: 1.0
+		# Range: 0.0 ~ 1.0
+		armorPiercing = 1.0
+		# Default: 1.5
+		# Range: 0.0 ~ 1.7976931348623157E308
+		knockback = 1.5
+		# Default: 1.8
+		# Range: 0.0 ~ 3.4028234663852886E38
+		explosionDamageMultiplier = 1.8
+		explosive = true
+		fired = false
+
+	[missiles.giant_stone]
+		# Default: 70.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		mass = 70.0
+		# Default: 5.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		explosionRadius = 5.0
+		# Default: 1.0
+		# Range: 0.0 ~ 1.0
+		armorPiercing = 1.0
+		# Default: 3.0
+		# Range: 0.0 ~ 1.7976931348623157E308
+		knockback = 3.0
+		# Default: 3.0
+		# Range: 0.0 ~ 3.4028234663852886E38
+		explosionDamageMultiplier = 3.0
+		explosive = true
+		fired = false
+
+#Launch mode: shooting machines can throw the rider instead of a projectile (toggle with sneak + right click or the 'Switch mode' key).
+[player_launch]
+	#Allow the player-launch mode at all.
+	enabled = true
+	#Multiplier applied to the machine projectileSpeed when launching a player.
+	# Default: 0.85
+	# Range: 0.0 ~ 10.0
+	powerMultiplier = 0.85
+	#Hard cap for the launch speed in blocks/tick (values above ~6 may trigger 'moved too quickly').
+	# Default: 4.0
+	# Range: 0.1 ~ 8.0
+	maxSpeed = 4.0
+	#Launched players take no fall damage on their first landing.
+	noFallDamage = true
+	#Damage dealt to entities near the landing point (0 = only knockback).
+	# Default: 4.0
+	# Range: 0.0 ~ 1000.0
+	impactDamage = 4.0
+	#Radius of the landing shockwave (0 = disabled).
+	# Default: 3.0
+	# Range: 0.0 ~ 16.0
+	impactRadius = 3.0
+	#Camera shake on shots/explosions/landings when VoragosCam is installed.
+	cameraShake = true

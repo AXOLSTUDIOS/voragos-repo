@@ -1,0 +1,8 @@
+name = "mobdropconfig.txt"
+filename = "mobdropconfig.txt"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/configurableextramobdrops/mobdropconfig.txt"
+hash-format = "md5"
+hash = "40d99a35d95ad588778c47015e67ef9a"

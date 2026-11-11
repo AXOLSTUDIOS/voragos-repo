@@ -1,0 +1,17 @@
+{
+  "maxMembers": 15,
+  "maxChatHistory": 80,
+  "minNameLength": 3,
+  "maxNameLength": 20,
+  "nametagPrefix": true,
+  "gothicNametag": true,
+  "blockFriendlyFire": true,
+  "announceTeams": true,
+  "zoneRadius": 24,
+  "maxBastionsPerTeam": 2,
+  "allowDoorsInZones": true,
+  "protectInteractions": true,
+  "protectFromExplosions": true,
+  "adminBypass": true,
+  "announceZones": true
+}

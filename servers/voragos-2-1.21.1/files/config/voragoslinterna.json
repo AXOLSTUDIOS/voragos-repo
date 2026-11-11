@@ -1,0 +1,8 @@
+{
+  "minutosPilaBasica": 5,
+  "minutosPilaAlcalina": 10,
+  "minutosPilaLitio": 20,
+  "apagarAlGuardar": false,
+  "distanciaRecoger": 5.0,
+  "flechaEnLinterna": false
+}

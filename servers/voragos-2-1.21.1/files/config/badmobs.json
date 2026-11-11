@@ -1,0 +1,1134 @@
+{
+  "_comment": {
+    "description": "List types you want to block in \u0027disallowedTypes\u0027.",
+    "available_types_help": {
+      "NATURAL": "Normal world spawning (darkness, grass, etc.)",
+      "CHUNK_GENERATION": "Spawned when a new chunk is created",
+      "SPAWNER": "Monster Spawner blocks",
+      "STRUCTURE": "Spawned as part of a structure (Witch huts, etc.)",
+      "BREEDING": "Animals falling in love",
+      "MOB_SUMMONED": "Summoned by other mobs (Illagers, Vexes)",
+      "JOCKEY": "Spider jockeys and similar",
+      "EVENT": "Raids or special world events",
+      "CONVERSION": "Zombie villagers curing, piglins turning to zombified",
+      "REINFORCEMENT": "Zombie reinforcements",
+      "TRIGGERED": "No description available.",
+      "BUCKET": "No description available.",
+      "SPAWN_EGG": "Creative mode spawn eggs",
+      "COMMAND": "Spawned via /summon or command blocks",
+      "DISPENSER": "Spawned from a dispenser",
+      "PATROL": "Illager patrols",
+      "TRIAL_SPAWNER": "No description available."
+    }
+  },
+  "minecraft:allay": {
+    "disallowedTypes": []
+  },
+  "minecraft:armadillo": {
+    "disallowedTypes": []
+  },
+  "minecraft:axolotl": {
+    "disallowedTypes": []
+  },
+  "minecraft:bat": {
+    "disallowedTypes": []
+  },
+  "minecraft:bee": {
+    "disallowedTypes": []
+  },
+  "minecraft:blaze": {
+    "disallowedTypes": []
+  },
+  "minecraft:bogged": {
+    "disallowedTypes": []
+  },
+  "minecraft:breeze": {
+    "disallowedTypes": []
+  },
+  "minecraft:camel": {
+    "disallowedTypes": []
+  },
+  "minecraft:cat": {
+    "disallowedTypes": []
+  },
+  "minecraft:cave_spider": {
+    "disallowedTypes": []
+  },
+  "minecraft:chicken": {
+    "disallowedTypes": []
+  },
+  "minecraft:cod": {
+    "disallowedTypes": []
+  },
+  "minecraft:cow": {
+    "disallowedTypes": []
+  },
+  "minecraft:creeper": {
+    "disallowedTypes": []
+  },
+  "minecraft:dolphin": {
+    "disallowedTypes": []
+  },
+  "minecraft:donkey": {
+    "disallowedTypes": []
+  },
+  "minecraft:drowned": {
+    "disallowedTypes": []
+  },
+  "minecraft:elder_guardian": {
+    "disallowedTypes": []
+  },
+  "minecraft:ender_dragon": {
+    "disallowedTypes": []
+  },
+  "minecraft:enderman": {
+    "disallowedTypes": []
+  },
+  "minecraft:endermite": {
+    "disallowedTypes": []
+  },
+  "minecraft:evoker": {
+    "disallowedTypes": []
+  },
+  "minecraft:fox": {
+    "disallowedTypes": []
+  },
+  "minecraft:frog": {
+    "disallowedTypes": []
+  },
+  "minecraft:ghast": {
+    "disallowedTypes": []
+  },
+  "minecraft:giant": {
+    "disallowedTypes": []
+  },
+  "minecraft:glow_squid": {
+    "disallowedTypes": []
+  },
+  "minecraft:goat": {
+    "disallowedTypes": []
+  },
+  "minecraft:guardian": {
+    "disallowedTypes": []
+  },
+  "minecraft:hoglin": {
+    "disallowedTypes": []
+  },
+  "minecraft:horse": {
+    "disallowedTypes": []
+  },
+  "minecraft:husk": {
+    "disallowedTypes": []
+  },
+  "minecraft:illusioner": {
+    "disallowedTypes": []
+  },
+  "minecraft:iron_golem": {
+    "disallowedTypes": []
+  },
+  "minecraft:llama": {
+    "disallowedTypes": []
+  },
+  "minecraft:magma_cube": {
+    "disallowedTypes": []
+  },
+  "minecraft:mooshroom": {
+    "disallowedTypes": []
+  },
+  "minecraft:mule": {
+    "disallowedTypes": []
+  },
+  "minecraft:ocelot": {
+    "disallowedTypes": []
+  },
+  "minecraft:panda": {
+    "disallowedTypes": []
+  },
+  "minecraft:parrot": {
+    "disallowedTypes": []
+  },
+  "minecraft:phantom": {
+    "disallowedTypes": []
+  },
+  "minecraft:pig": {
+    "disallowedTypes": []
+  },
+  "minecraft:piglin": {
+    "disallowedTypes": []
+  },
+  "minecraft:piglin_brute": {
+    "disallowedTypes": []
+  },
+  "minecraft:pillager": {
+    "disallowedTypes": []
+  },
+  "minecraft:polar_bear": {
+    "disallowedTypes": []
+  },
+  "minecraft:pufferfish": {
+    "disallowedTypes": []
+  },
+  "minecraft:rabbit": {
+    "disallowedTypes": []
+  },
+  "minecraft:ravager": {
+    "disallowedTypes": []
+  },
+  "minecraft:salmon": {
+    "disallowedTypes": []
+  },
+  "minecraft:sheep": {
+    "disallowedTypes": []
+  },
+  "minecraft:shulker": {
+    "disallowedTypes": []
+  },
+  "minecraft:silverfish": {
+    "disallowedTypes": []
+  },
+  "minecraft:skeleton": {
+    "disallowedTypes": []
+  },
+  "minecraft:skeleton_horse": {
+    "disallowedTypes": []
+  },
+  "minecraft:slime": {
+    "disallowedTypes": []
+  },
+  "minecraft:sniffer": {
+    "disallowedTypes": []
+  },
+  "minecraft:snow_golem": {
+    "disallowedTypes": []
+  },
+  "minecraft:spider": {
+    "disallowedTypes": []
+  },
+  "minecraft:squid": {
+    "disallowedTypes": []
+  },
+  "minecraft:stray": {
+    "disallowedTypes": []
+  },
+  "minecraft:strider": {
+    "disallowedTypes": []
+  },
+  "minecraft:tadpole": {
+    "disallowedTypes": []
+  },
+  "minecraft:trader_llama": {
+    "disallowedTypes": []
+  },
+  "minecraft:tropical_fish": {
+    "disallowedTypes": []
+  },
+  "minecraft:turtle": {
+    "disallowedTypes": []
+  },
+  "minecraft:vex": {
+    "disallowedTypes": []
+  },
+  "minecraft:villager": {
+    "disallowedTypes": []
+  },
+  "minecraft:vindicator": {
+    "disallowedTypes": []
+  },
+  "minecraft:wandering_trader": {
+    "disallowedTypes": []
+  },
+  "minecraft:warden": {
+    "disallowedTypes": []
+  },
+  "minecraft:witch": {
+    "disallowedTypes": []
+  },
+  "minecraft:wither": {
+    "disallowedTypes": []
+  },
+  "minecraft:wither_skeleton": {
+    "disallowedTypes": []
+  },
+  "minecraft:wolf": {
+    "disallowedTypes": []
+  },
+  "minecraft:zoglin": {
+    "disallowedTypes": []
+  },
+  "minecraft:zombie": {
+    "disallowedTypes": []
+  },
+  "minecraft:zombie_horse": {
+    "disallowedTypes": []
+  },
+  "minecraft:zombie_villager": {
+    "disallowedTypes": []
+  },
+  "minecraft:zombified_piglin": {
+    "disallowedTypes": []
+  },
+  "archers:spirit_wolf": {
+    "disallowedTypes": []
+  },
+  "artificers:trap": {
+    "disallowedTypes": []
+  },
+  "artificers:mortar": {
+    "disallowedTypes": []
+  },
+  "artificers:bomb": {
+    "disallowedTypes": []
+  },
+  "artificers:mine": {
+    "disallowedTypes": []
+  },
+  "axolconstruccion:excavadora": {
+    "disallowedTypes": []
+  },
+  "axolconstruccion:retroexcavadora": {
+    "disallowedTypes": []
+  },
+  "axolconstruccion:minibobcat": {
+    "disallowedTypes": []
+  },
+  "axolpoolrooms:simbionte": {
+    "disallowedTypes": []
+  },
+  "axolpoolrooms:banista": {
+    "disallowedTypes": []
+  },
+  "axolpoolrooms:salvavidas": {
+    "disallowedTypes": []
+  },
+  "camerapture:picture_frame": {
+    "disallowedTypes": []
+  },
+  "courierfamiliars:owl_courier": {
+    "disallowedTypes": []
+  },
+  "courierfamiliars:crow_courier": {
+    "disallowedTypes": []
+  },
+  "courierfamiliars:gnome_courier": {
+    "disallowedTypes": []
+  },
+  "decocraft:seat": {
+    "disallowedTypes": []
+  },
+  "decorative_blocks:dummy_entity": {
+    "disallowedTypes": []
+  },
+  "dreadkeep:gargoyle": {
+    "disallowedTypes": []
+  },
+  "dreadkeep:contraption": {
+    "disallowedTypes": []
+  },
+  "easy_npc:allay_raw": {
+    "disallowedTypes": []
+  },
+  "easy_npc:bogged_raw": {
+    "disallowedTypes": []
+  },
+  "easy_npc:cat_raw": {
+    "disallowedTypes": []
+  },
+  "easy_npc:chicken_raw": {
+    "disallowedTypes": []
+  },
+  "easy_npc:creeper_raw": {
+    "disallowedTypes": []
+  },
+  "easy_npc:drowned_raw": {
+    "disallowedTypes": []
+  },
+  "easy_npc:fox_raw": {
+    "disallowedTypes": []
+  },
+  "easy_npc:ghast_raw": {
+    "disallowedTypes": []
+  },
+  "easy_npc:horse_raw": {
+    "disallowedTypes": []
+  },
+  "easy_npc:illusioner_raw": {
+    "disallowedTypes": []
+  },
+  "easy_npc:iron_golem_raw": {
+    "disallowedTypes": []
+  },
+  "easy_npc:enderman_raw": {
+    "disallowedTypes": []
+  },
+  "easy_npc:piglin_raw": {
+    "disallowedTypes": []
+  },
+  "easy_npc:piglin_brute_raw": {
+    "disallowedTypes": []
+  },
+  "easy_npc:zombified_piglin_raw": {
+    "disallowedTypes": []
+  },
+  "easy_npc:evoker_raw": {
+    "disallowedTypes": []
+  },
+  "easy_npc:pig_raw": {
+    "disallowedTypes": []
+  },
+  "easy_npc:pillager_raw": {
+    "disallowedTypes": []
+  },
+  "easy_npc:skeleton_raw": {
+    "disallowedTypes": []
+  },
+  "easy_npc:stray_raw": {
+    "disallowedTypes": []
+  },
+  "easy_npc:wither_skeleton_raw": {
+    "disallowedTypes": []
+  },
+  "easy_npc:spider_raw": {
+    "disallowedTypes": []
+  },
+  "easy_npc:slime_raw": {
+    "disallowedTypes": []
+  },
+  "easy_npc:vex_raw": {
+    "disallowedTypes": []
+  },
+  "easy_npc:villager_raw": {
+    "disallowedTypes": []
+  },
+  "easy_npc:wandering_trader_raw": {
+    "disallowedTypes": []
+  },
+  "easy_npc:vindicator_raw": {
+    "disallowedTypes": []
+  },
+  "easy_npc:witch_raw": {
+    "disallowedTypes": []
+  },
+  "easy_npc:wolf_raw": {
+    "disallowedTypes": []
+  },
+  "easy_npc:zombie_raw": {
+    "disallowedTypes": []
+  },
+  "easy_npc:husk_raw": {
+    "disallowedTypes": []
+  },
+  "easy_npc:zombie_villager_raw": {
+    "disallowedTypes": []
+  },
+  "easy_npc:allay": {
+    "disallowedTypes": []
+  },
+  "easy_npc:bogged": {
+    "disallowedTypes": []
+  },
+  "easy_npc:cat": {
+    "disallowedTypes": []
+  },
+  "easy_npc:chicken": {
+    "disallowedTypes": []
+  },
+  "easy_npc:creeper": {
+    "disallowedTypes": []
+  },
+  "easy_npc:drowned": {
+    "disallowedTypes": []
+  },
+  "easy_npc:enderman": {
+    "disallowedTypes": []
+  },
+  "easy_npc:evoker": {
+    "disallowedTypes": []
+  },
+  "easy_npc:fox": {
+    "disallowedTypes": []
+  },
+  "easy_npc:ghast": {
+    "disallowedTypes": []
+  },
+  "easy_npc:horse": {
+    "disallowedTypes": []
+  },
+  "easy_npc:skeleton_horse": {
+    "disallowedTypes": []
+  },
+  "easy_npc:zombie_horse": {
+    "disallowedTypes": []
+  },
+  "easy_npc:humanoid": {
+    "disallowedTypes": []
+  },
+  "easy_npc:humanoid_slim": {
+    "disallowedTypes": []
+  },
+  "easy_npc:illusioner": {
+    "disallowedTypes": []
+  },
+  "easy_npc:iron_golem": {
+    "disallowedTypes": []
+  },
+  "easy_npc:piglin": {
+    "disallowedTypes": []
+  },
+  "easy_npc:piglin_brute": {
+    "disallowedTypes": []
+  },
+  "easy_npc:zombified_piglin": {
+    "disallowedTypes": []
+  },
+  "easy_npc:pig": {
+    "disallowedTypes": []
+  },
+  "easy_npc:pillager": {
+    "disallowedTypes": []
+  },
+  "easy_npc:skeleton": {
+    "disallowedTypes": []
+  },
+  "easy_npc:stray": {
+    "disallowedTypes": []
+  },
+  "easy_npc:wither_skeleton": {
+    "disallowedTypes": []
+  },
+  "easy_npc:slime": {
+    "disallowedTypes": []
+  },
+  "easy_npc:spider": {
+    "disallowedTypes": []
+  },
+  "easy_npc:cave_spider": {
+    "disallowedTypes": []
+  },
+  "easy_npc:villager": {
+    "disallowedTypes": []
+  },
+  "easy_npc:wandering_trader": {
+    "disallowedTypes": []
+  },
+  "easy_npc:vex": {
+    "disallowedTypes": []
+  },
+  "easy_npc:vindicator": {
+    "disallowedTypes": []
+  },
+  "easy_npc:witch": {
+    "disallowedTypes": []
+  },
+  "easy_npc:wolf": {
+    "disallowedTypes": []
+  },
+  "easy_npc:zombie": {
+    "disallowedTypes": []
+  },
+  "easy_npc:husk": {
+    "disallowedTypes": []
+  },
+  "easy_npc:zombie_villager": {
+    "disallowedTypes": []
+  },
+  "easy_npc:doppler": {
+    "disallowedTypes": []
+  },
+  "easy_npc:fairy": {
+    "disallowedTypes": []
+  },
+  "easy_npc:orc": {
+    "disallowedTypes": []
+  },
+  "easy_npc:orc_warrior": {
+    "disallowedTypes": []
+  },
+  "elemental_wizards_rpg:terra_stone": {
+    "disallowedTypes": []
+  },
+  "elemental_wizards_rpg:earth_golem_spike": {
+    "disallowedTypes": []
+  },
+  "elemental_wizards_rpg:earthquake": {
+    "disallowedTypes": []
+  },
+  "elemental_wizards_rpg:whirlwind": {
+    "disallowedTypes": []
+  },
+  "elemental_wizards_rpg:tidal_wave": {
+    "disallowedTypes": []
+  },
+  "elemental_wizards_rpg:healing_rain_cloud": {
+    "disallowedTypes": []
+  },
+  "elemental_wizards_rpg:earth_golem": {
+    "disallowedTypes": []
+  },
+  "farmersdelight:rotten_tomato": {
+    "disallowedTypes": []
+  },
+  "forcemaster_rpg:nen_sphere_beam": {
+    "disallowedTypes": []
+  },
+  "fuente_del_azar:mercader_del_velo": {
+    "disallowedTypes": []
+  },
+  "iceandfire:dragon_multipart": {
+    "disallowedTypes": []
+  },
+  "iceandfire:multipart": {
+    "disallowedTypes": []
+  },
+  "iceandfire:hydra_multipart": {
+    "disallowedTypes": []
+  },
+  "iceandfire:cylcops_multipart": {
+    "disallowedTypes": []
+  },
+  "iceandfire:dragon_egg": {
+    "disallowedTypes": []
+  },
+  "iceandfire:dragon_arrow": {
+    "disallowedTypes": []
+  },
+  "iceandfire:dragon_skull": {
+    "disallowedTypes": []
+  },
+  "iceandfire:fire_dragon": {
+    "disallowedTypes": []
+  },
+  "iceandfire:ice_dragon": {
+    "disallowedTypes": []
+  },
+  "iceandfire:lightning_dragon": {
+    "disallowedTypes": []
+  },
+  "iceandfire:fire_dragon_charge": {
+    "disallowedTypes": []
+  },
+  "iceandfire:ice_dragon_charge": {
+    "disallowedTypes": []
+  },
+  "iceandfire:lightning_dragon_charge": {
+    "disallowedTypes": []
+  },
+  "iceandfire:hippogryph_egg": {
+    "disallowedTypes": []
+  },
+  "iceandfire:hippogryph": {
+    "disallowedTypes": []
+  },
+  "iceandfire:stone_statue": {
+    "disallowedTypes": []
+  },
+  "iceandfire:gorgon": {
+    "disallowedTypes": []
+  },
+  "iceandfire:pixie": {
+    "disallowedTypes": []
+  },
+  "iceandfire:cyclops": {
+    "disallowedTypes": []
+  },
+  "iceandfire:siren": {
+    "disallowedTypes": []
+  },
+  "iceandfire:hippocampus": {
+    "disallowedTypes": []
+  },
+  "iceandfire:deathworm": {
+    "disallowedTypes": []
+  },
+  "iceandfire:deathworm_egg": {
+    "disallowedTypes": []
+  },
+  "iceandfire:cockatrice": {
+    "disallowedTypes": []
+  },
+  "iceandfire:cockatrice_egg": {
+    "disallowedTypes": []
+  },
+  "iceandfire:stymphalian_bird": {
+    "disallowedTypes": []
+  },
+  "iceandfire:stymphalian_feather": {
+    "disallowedTypes": []
+  },
+  "iceandfire:stymphalian_arrow": {
+    "disallowedTypes": []
+  },
+  "iceandfire:troll": {
+    "disallowedTypes": []
+  },
+  "iceandfire:amphithere": {
+    "disallowedTypes": []
+  },
+  "iceandfire:amphithere_arrow": {
+    "disallowedTypes": []
+  },
+  "iceandfire:sea_serpent": {
+    "disallowedTypes": []
+  },
+  "iceandfire:sea_serpent_bubbles": {
+    "disallowedTypes": []
+  },
+  "iceandfire:sea_serpent_arrow": {
+    "disallowedTypes": []
+  },
+  "iceandfire:chain_tie": {
+    "disallowedTypes": []
+  },
+  "iceandfire:pixie_charge": {
+    "disallowedTypes": []
+  },
+  "iceandfire:tide_trident": {
+    "disallowedTypes": []
+  },
+  "iceandfire:mob_skull": {
+    "disallowedTypes": []
+  },
+  "iceandfire:dread_thrall": {
+    "disallowedTypes": []
+  },
+  "iceandfire:dread_ghoul": {
+    "disallowedTypes": []
+  },
+  "iceandfire:dread_beast": {
+    "disallowedTypes": []
+  },
+  "iceandfire:dread_scuttler": {
+    "disallowedTypes": []
+  },
+  "iceandfire:dread_lich": {
+    "disallowedTypes": []
+  },
+  "iceandfire:dread_lich_skull": {
+    "disallowedTypes": []
+  },
+  "iceandfire:dread_knight": {
+    "disallowedTypes": []
+  },
+  "iceandfire:dread_horse": {
+    "disallowedTypes": []
+  },
+  "iceandfire:hydra": {
+    "disallowedTypes": []
+  },
+  "iceandfire:hydra_breath": {
+    "disallowedTypes": []
+  },
+  "iceandfire:hydra_arrow": {
+    "disallowedTypes": []
+  },
+  "iceandfire:ghost": {
+    "disallowedTypes": []
+  },
+  "iceandfire:ghost_sword": {
+    "disallowedTypes": []
+  },
+  "immersive_paintings:painting": {
+    "disallowedTypes": []
+  },
+  "immersive_paintings:glow_painting": {
+    "disallowedTypes": []
+  },
+  "immersive_paintings:graffiti": {
+    "disallowedTypes": []
+  },
+  "immersive_paintings:glow_graffiti": {
+    "disallowedTypes": []
+  },
+  "levelz:level_experience_orb": {
+    "disallowedTypes": []
+  },
+  "lootr:lootr_minecart": {
+    "disallowedTypes": []
+  },
+  "lootr:item_frame": {
+    "disallowedTypes": []
+  },
+  "maps3d:map_3d_item_frame": {
+    "disallowedTypes": []
+  },
+  "mca:female_zombie_villager": {
+    "disallowedTypes": []
+  },
+  "mca:male_zombie_villager": {
+    "disallowedTypes": []
+  },
+  "mca:grim_reaper": {
+    "disallowedTypes": []
+  },
+  "mca:male_villager": {
+    "disallowedTypes": []
+  },
+  "mca:female_villager": {
+    "disallowedTypes": []
+  },
+  "mca:crib": {
+    "disallowedTypes": []
+  },
+  "mcextremo3:trade_machine": {
+    "disallowedTypes": []
+  },
+  "mcextremo3:nexo": {
+    "disallowedTypes": []
+  },
+  "mcextremo3:pozo": {
+    "disallowedTypes": []
+  },
+  "minopp:mino_auto_player": {
+    "disallowedTypes": []
+  },
+  "moa_holidays:guirnalda": {
+    "disallowedTypes": []
+  },
+  "more_rpg_classes:friendly_lightning": {
+    "disallowedTypes": []
+  },
+  "moretotems:summoned_bee": {
+    "disallowedTypes": []
+  },
+  "moretotems:summoned_zombie": {
+    "disallowedTypes": []
+  },
+  "mythika:cyclops": {
+    "disallowedTypes": []
+  },
+  "mythika:minotaur": {
+    "disallowedTypes": []
+  },
+  "mythika:satyr": {
+    "disallowedTypes": []
+  },
+  "niftycarts:supply_cart": {
+    "disallowedTypes": []
+  },
+  "niftycarts:animal_cart": {
+    "disallowedTypes": []
+  },
+  "niftycarts:plow": {
+    "disallowedTypes": []
+  },
+  "niftycarts:hand_cart": {
+    "disallowedTypes": []
+  },
+  "niftycarts:reaper": {
+    "disallowedTypes": []
+  },
+  "niftycarts:seed_drill": {
+    "disallowedTypes": []
+  },
+  "niftycarts:wagon": {
+    "disallowedTypes": []
+  },
+  "niftycarts:postilion": {
+    "disallowedTypes": []
+  },
+  "ordalia:mirror_knight": {
+    "disallowedTypes": []
+  },
+  "paladins:barrier": {
+    "disallowedTypes": []
+  },
+  "paladins:battle_banner": {
+    "disallowedTypes": []
+  },
+  "paladins:lightwell": {
+    "disallowedTypes": []
+  },
+  "pfm:chair": {
+    "disallowedTypes": []
+  },
+  "pfm:office_chair": {
+    "disallowedTypes": []
+  },
+  "resurreccion:reaper": {
+    "disallowedTypes": []
+  },
+  "rogues:bear_trap": {
+    "disallowedTypes": []
+  },
+  "santa_dweller:santa_dweller": {
+    "disallowedTypes": []
+  },
+  "siegemachines:cannonball": {
+    "disallowedTypes": []
+  },
+  "siegemachines:stone": {
+    "disallowedTypes": []
+  },
+  "siegemachines:giant_stone": {
+    "disallowedTypes": []
+  },
+  "siegemachines:giant_arrow": {
+    "disallowedTypes": []
+  },
+  "siegemachines:mortar": {
+    "disallowedTypes": []
+  },
+  "siegemachines:culverin": {
+    "disallowedTypes": []
+  },
+  "siegemachines:trebuchet": {
+    "disallowedTypes": []
+  },
+  "siegemachines:catapult": {
+    "disallowedTypes": []
+  },
+  "siegemachines:ballista": {
+    "disallowedTypes": []
+  },
+  "siegemachines:battering_ram": {
+    "disallowedTypes": []
+  },
+  "siegemachines:siege_ladder": {
+    "disallowedTypes": []
+  },
+  "siegemachines:seat": {
+    "disallowedTypes": []
+  },
+  "simplehats:hatdisplay": {
+    "disallowedTypes": []
+  },
+  "sophisticatedbackpacks:everlasting_backpack_item": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:withered_demon": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:accursed_lord_boss": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:draugr_boss": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:night_shade": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:returning_knight": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:remnant": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:dark_sorcerer": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:big_chungus": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:soul_reaper_ghost": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:forlorn": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:evil_forlorn": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:soulmass": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:chaos_monarch": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:moonknight": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:frost_giant": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:rime_spectre": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:day_stalker": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:night_prowler": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:warmth_entity": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:moonlight_projectile": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:big_moonlight_projectile": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:dark_moon_projectile": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:vertical_moonlight_projectile": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:horizontal_moonlight_projectile": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:sunlight_projectile_small": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:sunlight_projectile_big": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:vertical_sunlight_projectile": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:swordspear_entity": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:comet_spear_entity": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:charged_arrow_entity": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:silver_bullet_entity": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:cannonball_entity_type": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:leviathan_axe_entity": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:mjolnir_entity": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:freyr_sword_entity": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:shadow_orb_entity": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:draupnir_spear_entity": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:area_effect_sphere": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:dragon_staff_projectile": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:withered_wabbajack_projectile": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:chaos_skull": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:chaos_orb_entity": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:growing_fireball": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:night_skull": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:fog_entity": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:blackflame_snake_entity": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:no_drag_wither_skull": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:death_spiral": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:nights_edge": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:night_wave": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:flame_pillar": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:kraken_slayer_projectile": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:moonlight_arrow": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:arrow_storm_entity": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:holy_moonlight_pillar": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:warmup_lightning": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:ghost_glaive": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:moonveil_horizontal": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:moonveil_vertical": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:blackflame_explosion_entity": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:absorbed_projectiles_orb_entity": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:silver_arrow": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:frozen_lightning": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:chungus_head": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:air_combustion": {
+    "disallowedTypes": []
+  },
+  "soulsweapons:molten_metal": {
+    "disallowedTypes": []
+  },
+  "spell_engine:spell_projectile": {
+    "disallowedTypes": []
+  },
+  "spell_engine:spell_area_effect": {
+    "disallowedTypes": []
+  },
+  "spell_engine:spell_model_effect": {
+    "disallowedTypes": []
+  },
+  "strawstatues:straw_statue": {
+    "disallowedTypes": []
+  },
+  "voragosedictos:acechador": {
+    "disallowedTypes": []
+  },
+  "voragosedictos:copia": {
+    "disallowedTypes": []
+  },
+  "voragoslinterna:objeto_colocado": {
+    "disallowedTypes": []
+  },
+  "witcher_rpg:yrden": {
+    "disallowedTypes": []
+  },
+  "witcher_rpg:yrden_magical_trap": {
+    "disallowedTypes": []
+  },
+  "wizards:frost_elemental": {
+    "disallowedTypes": []
+  },
+  "wizards:arcane_emitter": {
+    "disallowedTypes": []
+  },
+  "wizards:fire_hydra": {
+    "disallowedTypes": []
+  },
+  "bsroleplay:sandstorm_projectile": {
+    "disallowedTypes": []
+  }
+}

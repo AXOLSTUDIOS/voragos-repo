@@ -1,0 +1,60 @@
+{
+  "relayEnabled": false,
+  "relayServer": "https://ntfy.sh",
+  "relayTopics": {},
+  "allowStreamerCooldown": false,
+  "streamerCooldowns": {},
+  "maxStreamerCooldownMinutes": 120,
+  "defaultCourier": "azar",
+  "linkTags": "",
+  "allowSelfRegister": true,
+  "pageUrl": "",
+  "enabled": false,
+  "bindAddress": "127.0.0.1",
+  "port": 8787,
+  "token": "75efb948a82d7f7889abe484439920958785",
+  "defaultPlayer": "",
+  "cooldownSeconds": 15,
+  "maxQueuedPerPlayer": 15,
+  "allowMessages": true,
+  "corsOrigin": "*",
+  "senderPrefix": "",
+  "gifts": {
+    "galletas": {
+      "item": "minecraft:cookie",
+      "count": 6,
+      "label": "Galletas",
+      "weight": 1
+    },
+    "pastel": {
+      "item": "minecraft:cake",
+      "count": 1,
+      "label": "Pastel",
+      "weight": 1
+    },
+    "manzana_dorada": {
+      "item": "minecraft:golden_apple",
+      "count": 1,
+      "label": "Manzana dorada",
+      "weight": 1
+    },
+    "flores": {
+      "item": "minecraft:poppy",
+      "count": 3,
+      "label": "Ramo de flores",
+      "weight": 1
+    },
+    "antorchas": {
+      "item": "minecraft:torch",
+      "count": 16,
+      "label": "Antorchas",
+      "weight": 1
+    },
+    "diamante": {
+      "item": "minecraft:diamond",
+      "count": 1,
+      "label": "Diamante",
+      "weight": 1
+    }
+  }
+}

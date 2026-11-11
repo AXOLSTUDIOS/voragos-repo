@@ -6,9 +6,22 @@
   "proximityCooldownSeconds": 3,
   "proximityDuringGrace": true,
   "revealIntervalSeconds": 120,
-  "revealDurationSeconds": 10,
+  "revealDurationSeconds": 20,
   "revealSkullMarker": true,
   "revealDistanceToHunters": true,
   "allowKillDuringGrace": false,
-  "announceTargetDuringGrace": false
+  "announceTargetDuringGrace": false,
+  "restrictTarget": true,
+  "restrictHunters": true,
+  "blockedCommands": [
+    "tpa",
+    "tpay",
+    "home",
+    "back",
+    "warp"
+  ],
+  "blockWaystones": true,
+  "blockDragons": true,
+  "extraBlockedMounts": [],
+  "configVersion": 2
 }

@@ -1,0 +1,8 @@
+name = "trender.json"
+filename = "trender.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/trender.json"
+hash-format = "md5"
+hash = "c449ad0a8d190858ec253ed1bc75e05d"

@@ -1,0 +1,8 @@
+name = "scalablelux.properties"
+filename = "scalablelux.properties"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/scalablelux.properties"
+hash-format = "md5"
+hash = "fc05bf17f0105f03d02e1ca8a45f2fcb"

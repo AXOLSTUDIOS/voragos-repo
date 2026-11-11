@@ -1,0 +1,8 @@
+name = "creativecore.json"
+filename = "creativecore.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/creativecore.json"
+hash-format = "md5"
+hash = "a3979095f52fee66bc8624b7898d2e8e"

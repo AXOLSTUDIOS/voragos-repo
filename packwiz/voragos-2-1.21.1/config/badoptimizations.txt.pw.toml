@@ -1,0 +1,8 @@
+name = "badoptimizations.txt"
+filename = "badoptimizations.txt"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/badoptimizations.txt"
+hash-format = "md5"
+hash = "7714652525dd4a0c873ddfc124aac217"

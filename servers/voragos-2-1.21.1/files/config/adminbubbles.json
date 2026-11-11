@@ -1,0 +1,8 @@
+{
+  "permissionLevel": 2,
+  "baseSeconds": 2.5,
+  "readCharsPerSecond": 13.0,
+  "minSeconds": 4.0,
+  "maxSeconds": 30.0,
+  "maxChars": 600
+}

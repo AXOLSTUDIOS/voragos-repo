@@ -1,0 +1,8 @@
+name = "entityculling.json"
+filename = "entityculling.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/entityculling.json"
+hash-format = "md5"
+hash = "4b613a5aed83e0410c9d37c77b480d6a"

@@ -7,6 +7,12 @@ metafile = true
 preserve = true
 
 [[files]]
+file = "config/adminbubbles.json.pw.toml"
+hash = "fb8eb1ca4e042107e50c5f1c5d70a7b405cf9f2fbbe1456417c3f88f0999a027"
+metafile = true
+preserve = true
+
+[[files]]
 file = "config/afkcinematics.properties.pw.toml"
 hash = "85c934fca885ce03ecb40b88d0916745bb3e30b0a505e87469b5f692e282e1f4"
 metafile = true
@@ -895,6 +901,12 @@ metafile = true
 preserve = true
 
 [[files]]
+file = "config/axol_rpg.properties.pw.toml"
+hash = "74d2794ca15f2e132685e11f6ade139ea0336590fba41afdffb198c146dc4923"
+metafile = true
+preserve = true
+
+[[files]]
 file = "config/axolstudio/bossrituals/assets/assets/bossrituals/sounds.json.pw.toml"
 hash = "e51ddd5f3baea7ed0731cc9c97bea3ad1cb4e51d8ec23d2975cd57f5b8962384"
 metafile = true
@@ -1051,8 +1063,32 @@ metafile = true
 preserve = true
 
 [[files]]
+file = "config/axolteams-client.json.pw.toml"
+hash = "5c4f1901df4cd13b2f7f320003f804edb668230f92b15081db7f0fa3c8167941"
+metafile = true
+preserve = true
+
+[[files]]
+file = "config/axolteams.json.pw.toml"
+hash = "dfa87bb8f281d74a3e3535066322ec1e8a74b42d4098fa15a5eefb6e34c9760d"
+metafile = true
+preserve = true
+
+[[files]]
 file = "config/azurelib.json.pw.toml"
 hash = "8f26d7df8adfd9c4ecb5e6b1395a21e4b8c3c2206d4051d86321b168c84d695a"
+metafile = true
+preserve = true
+
+[[files]]
+file = "config/badmobs.json.pw.toml"
+hash = "64307269c008043f91e5687f92b43097519fedfddef8f78b2fad1118946b4d33"
+metafile = true
+preserve = true
+
+[[files]]
+file = "config/badoptimizations.txt.pw.toml"
+hash = "bee8c89dddd9ab7acac4f728f1ecf66dc4a75433b13d5ea3b071c80a0d566eb9"
 metafile = true
 preserve = true
 
@@ -1106,7 +1142,7 @@ preserve = true
 
 [[files]]
 file = "config/bettervillage_1.properties.pw.toml"
-hash = "b68021deedbfe1b3b3f2a9a5480cec525cf3fe34d9c06769d5273cc6c62a4260"
+hash = "171d868191d2cd49dc63532c6ad620c989a2214bde23e027c3c10d9a51dd6919"
 metafile = true
 preserve = true
 
@@ -1118,7 +1154,7 @@ preserve = true
 
 [[files]]
 file = "config/bountyhunt-server.json.pw.toml"
-hash = "4f34a43beda3bff34683ba1d8c8b929994c97e906f1840d7e90882bccc09810c"
+hash = "7ede013e9bc09bbbb8fe832b3ec1f1bd39985a4c7057df9b5073d335a5bb613f"
 metafile = true
 preserve = true
 
@@ -1207,20 +1243,37 @@ metafile = true
 preserve = true
 
 [[files]]
+file = "config/configurableextramobdrops/mobdropconfig.txt.pw.toml"
+hash = "297dd40931f0cc758d8da5dd6daf7fd48d8c8c51740c3b268b65e662cc4f4d52"
+metafile = true
+
+[[files]]
 file = "config/configured-client.properties.pw.toml"
 hash = "88f1f55db58310908afb881085a6ff2a59aba26a1740dab7c2f3abc976331829"
 metafile = true
 preserve = true
 
 [[files]]
+file = "config/courierfamiliars-stream.json.pw.toml"
+hash = "43fa518a362aa9dfedec61613b3165d80fecbf48187fac6ba959cd8056d9945c"
+metafile = true
+preserve = true
+
+[[files]]
 file = "config/cpm.json.pw.toml"
-hash = "4ffe1bf84742197e8619e0146c024c4d5de4eb3a38d975750f76fcc13524e928"
+hash = "612c4e54d293af99b1a41844efed48d926cd0f95f390d42d52a26461f4a88a94"
 metafile = true
 preserve = true
 
 [[files]]
 file = "config/creativecore-client.json.pw.toml"
 hash = "fa72382bc19f8a808484e1061beefb7843762ce91dcfc6cd0a668326c257f776"
+metafile = true
+preserve = true
+
+[[files]]
+file = "config/creativecore.json.pw.toml"
+hash = "e6373feac923141ce6edc08f46daf3d34eec807e17cc943a0a62861028fbdb23"
 metafile = true
 preserve = true
 
@@ -1381,6 +1434,12 @@ metafile = true
 preserve = true
 
 [[files]]
+file = "config/disenchanting_table-server.toml.pw.toml"
+hash = "2645fb61925319f73d46b60c19623f95f1b9ae621f99fb2ec544f3bfd91a3ec0"
+metafile = true
+preserve = true
+
+[[files]]
 file = "config/door_lock.properties.pw.toml"
 hash = "ebf4cd280af96f4bb10854357c8a376d268ff02c280e77d049e82301d56f3253"
 metafile = true
@@ -1394,7 +1453,7 @@ preserve = true
 
 [[files]]
 file = "config/dreadkeep.json.pw.toml"
-hash = "acc43aee6291396f210e0b6e4411f7379bccb41c4d8fa291795abbb80ebc08cf"
+hash = "6d67f7bec97838f0dd776eed9a82a11d65938051b489b6912d1dedad220afdbf"
 metafile = true
 preserve = true
 
@@ -1634,13 +1693,19 @@ preserve = true
 
 [[files]]
 file = "config/emotecraft.json.pw.toml"
-hash = "32ef062b4a0834802d0f5d7cbe9182552e1342276b714c9d7ff196c474b2543d"
+hash = "289d8692c5d6980ed229337319bcd3575b4c7ce78f1c95fe02373de36d369fc1"
+metafile = true
+preserve = true
+
+[[files]]
+file = "config/enchantinginfuser-server.toml.pw.toml"
+hash = "de5476dbf143ffc24a4c11c39cd37a7317eb01c3ae0c98b9879c72bcb2b21a42"
 metafile = true
 preserve = true
 
 [[files]]
 file = "config/entity_model_features.json.pw.toml"
-hash = "1f25a462e318b71233030cd6349b59dcb1a83b771249629bfb16fd41c458a56b"
+hash = "a0eb885ca634ff5dc802c3a0f52b1264881254c909d747d56ee127f70cd7db02"
 metafile = true
 preserve = true
 
@@ -1652,7 +1717,13 @@ preserve = true
 
 [[files]]
 file = "config/entity_texture_features.json.pw.toml"
-hash = "b055bb1cd21da70333edae8d578d2f7f2e37b4327a18aea7702796dd9d3506d6"
+hash = "43351bcb21c04d28ad80906bd02ba4165d17b1f27c19576d353062edc06a11a8"
+metafile = true
+preserve = true
+
+[[files]]
+file = "config/entityculling.json.pw.toml"
+hash = "cbdda3e16261c295751da46737c147f6325a0b1bda5db3ce45460b849a4b70d6"
 metafile = true
 preserve = true
 
@@ -1682,7 +1753,7 @@ preserve = true
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties.pw.toml"
-hash = "bc1be3476476c8209e52c8509a1936c6a247b8a2b793b57f4f883604d0b98d77"
+hash = "0c5ef85f2b6996ecfb12d0a83ca6b21b6ee549329a7f6ac7fb7916e6a104d1b0"
 metafile = true
 preserve = true
 
@@ -2135,6 +2206,12 @@ metafile = true
 preserve = true
 
 [[files]]
+file = "config/ferritecore.mixin.properties.pw.toml"
+hash = "e3f538485cd758f469ebace38731f4b68735924122ad3da684e0e81879030644"
+metafile = true
+preserve = true
+
+[[files]]
 file = "config/fishermens_trap-common.json5.pw.toml"
 hash = "2e9727f9bff0645297a0ed242de117925872a0cde3aa11fa35d9192e7b2d6392"
 metafile = true
@@ -2178,7 +2255,7 @@ preserve = true
 
 [[files]]
 file = "config/fuente_del_azar.json.pw.toml"
-hash = "b45592800bb2724aff9ef64f3222c95f4d068ab7ec69f141668660b7c657849f"
+hash = "fb452e78c75424ffedbc76dedf3b30822e22d70d9d4946ed15d5a4fe54fe6246"
 metafile = true
 preserve = true
 
@@ -2237,6 +2314,12 @@ metafile = true
 preserve = true
 
 [[files]]
+file = "config/immediatelyfast.json.pw.toml"
+hash = "5b12ab4b49a0f7a1ede44a0cd5728fa91bdfa6260a1b98bae53fa92d1bad287c"
+metafile = true
+preserve = true
+
+[[files]]
 file = "config/immersive_paintings/client_config.toml.pw.toml"
 hash = "01a0c904f382eddd88f19a2945070ddcba1d1d9002f66a159d6904a360de37ff"
 metafile = true
@@ -2256,7 +2339,7 @@ preserve = true
 
 [[files]]
 file = "config/InventoryHUD/trinkets.json.pw.toml"
-hash = "691626d1086ad0188fc0c4ed7b3b5ec44a377f7fdfd2ad08dc093fd09edc0707"
+hash = "9ee8ad040623889cafbf7fc70f477ca717de8afb6715dcf5ccf3cc44f4abdea3"
 metafile = true
 preserve = true
 
@@ -2310,7 +2393,7 @@ preserve = true
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini.pw.toml"
-hash = "dd1d30b4d53f716fac0f8f2df80e6d182c5a6742aa0cd31bd600dd59804546da"
+hash = "390a7a561d493282819d5b29fd68965e4c5e8e05dc567ba9a79376beeafb69fa"
 metafile = true
 preserve = true
 
@@ -2418,7 +2501,7 @@ preserve = true
 
 [[files]]
 file = "config/libraryferret_1.properties.pw.toml"
-hash = "b954c7ded95b89e013e5443df885f1bf043a7415b08af2473ad2805793a978af"
+hash = "02854b0181e729f50355dd5c318ec05a77417de04cc61a837b520409c60e1759"
 metafile = true
 preserve = true
 
@@ -2443,6 +2526,12 @@ preserve = true
 [[files]]
 file = "config/livelyplayer.properties.pw.toml"
 hash = "43ca476cd5f8ab5ff4eda370bd79dbb27012e5c965952509c21d1897d8283d1c"
+metafile = true
+preserve = true
+
+[[files]]
+file = "config/lmft.json.pw.toml"
+hash = "a4d9cf58d08b22d42c8130fb2a673f3bbe1a07ce8d4953939e3e19ef8e99411e"
 metafile = true
 preserve = true
 
@@ -2509,6 +2598,12 @@ preserve = true
 [[files]]
 file = "config/mobcontrol.toml.pw.toml"
 hash = "3aa9ad39bec96c535bf5dc90ec68bc05c8f1d25e62ce8fda5f4470933d893ba0"
+metafile = true
+preserve = true
+
+[[files]]
+file = "config/modernfix-mixins.properties.pw.toml"
+hash = "391f92a0572e80df0928f03d25ceff6ce3537db83c45221b9f014f239f1a581a"
 metafile = true
 preserve = true
 
@@ -2658,7 +2753,7 @@ preserve = true
 
 [[files]]
 file = "config/ordalia-client.properties.pw.toml"
-hash = "928d38799b7da0995469dec388a46d8b69e8a4476c1bf73ac8b9988d9a386835"
+hash = "b13500d0bbbb14bdf7b8f5c1e4e021f933d86c5b4fe91d70836d40ec4ac037b3"
 metafile = true
 preserve = true
 
@@ -2790,7 +2885,7 @@ preserve = true
 
 [[files]]
 file = "config/plasmovoice/.crowdin/timestamp.pw.toml"
-hash = "58e3a55e612937ebd0b9273ade28b497c1d48ffb057e9c035dd1d83e32be9579"
+hash = "a9966b1aae5c4edfcf660502d1b287e6e5fe39d27ee6dd20daf18ac56a77980d"
 metafile = true
 preserve = true
 
@@ -2841,6 +2936,246 @@ file = "config/plasmovoice/meta_cache.json.pw.toml"
 hash = "1d73bce1a6b5ee633c0d7aef13b93b900b69b1586cd6c3b37e4966903a0228da"
 metafile = true
 preserve = true
+
+[[files]]
+file = "config/pv-addon-broadcast/config.toml.pw.toml"
+hash = "3d84a6abc5a194f39300f10cf3fee551236d444996c32458367e949d01d209ca"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-broadcast/languages/.crowdin/es_es.toml.pw.toml"
+hash = "b8968121db5e75d473551b01cc80f91aef3d166c941023a00ba95b68bf0db555"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-broadcast/languages/.crowdin/he_il.toml.pw.toml"
+hash = "e6cd00cf2f97bc2e87c119df824eec29ffc946703100a3da8616323b509d2d7f"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-broadcast/languages/.crowdin/ko_kr.toml.pw.toml"
+hash = "ada336309a13edf0f86fedb40b27108a30bfb3edae48f7c14f82e6f9082c87b5"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-broadcast/languages/.crowdin/pl_pl.toml.pw.toml"
+hash = "2eb051f40b1622495575a50f53372ec3b00f2c785e59db95ea2faea1afba994d"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-broadcast/languages/.crowdin/pt_br.toml.pw.toml"
+hash = "3fc40db2d0ecb5197c27b166dd04747d53f31ce1770f1e4736663a9707b54bdd"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-broadcast/languages/.crowdin/ru_ru.toml.pw.toml"
+hash = "a32b8f446f0a8b3fea0c3ef431df6a9ced37c76fccd2da324e4628864aad6e21"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-broadcast/languages/.crowdin/timestamp.pw.toml"
+hash = "246385ade29faa79bd1c49e23a5958555b6be8391c74623d3afe59102cf549c3"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-broadcast/languages/.crowdin/tt_ru.toml.pw.toml"
+hash = "9b3d04e9031d42ce4821daff493260a98682dafb9c1694a69fa1996dec40d6c7"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-broadcast/languages/.crowdin/vi_vn.toml.pw.toml"
+hash = "a0e87f123a8481aef63eb9c1a840c0d5ed2a20141b20dd9c2ad928557cee03ec"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-broadcast/languages/.crowdin/zh_cn.toml.pw.toml"
+hash = "3ece2f48e579bcb95b2d8a991c8d96364e291e667428b7c8dc113781a242964c"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-broadcast/languages/.crowdin/zh_tw.toml.pw.toml"
+hash = "a077268f51b7cc500b63b4fab57020a52dd83746014c6fe0430978c01ba28e75"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-broadcast/languages/en_us.toml.pw.toml"
+hash = "3675922ed7305b10b07a268ff62fabde00526d0d158fa70a4bf237b8d936fab8"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-broadcast/languages/es_es.toml.pw.toml"
+hash = "cc5cba2c2d601de29ea3d914b4007b68d15fc20ee3b629a5d47d4ac9e13055ee"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-broadcast/languages/he_il.toml.pw.toml"
+hash = "e512ab06a39e2f32eae1f105a1550d891e627ecfd6be99deadefe681248a6f24"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-broadcast/languages/ko_kr.toml.pw.toml"
+hash = "7ffcb087530c2b6290277ab06c92a0b4698da8dc78bc1d8c07e90370c9ce52af"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-broadcast/languages/pl_pl.toml.pw.toml"
+hash = "a977a64ede3243a66ddc61178c38c1e73e3cae13c4332c9d172014ab485eeb2a"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-broadcast/languages/pt_br.toml.pw.toml"
+hash = "3f36b0d9fe5df9a71b56eeea146eeccbf5d515e8fc0a7acd780c10f7999549a9"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-broadcast/languages/ru_ru.toml.pw.toml"
+hash = "539070f9a1e2269cec95e2bee12ffd0396fe4664a2171c7a866d8c5d88e58740"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-broadcast/languages/tt_ru.toml.pw.toml"
+hash = "c036d4cd13ff0820063cc90f89e6dce3cabfdc1a5df9213e8fff0a416cf2aa9b"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-broadcast/languages/vi_vn.toml.pw.toml"
+hash = "3c6cdc878b913885ff632a06828e1c85fafdb9cc8021d62c7371c25ef73c192f"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-broadcast/languages/zh_cn.toml.pw.toml"
+hash = "5cd2cd4700692af2a95f2a011dc4295e5ba0e6f200f5bfe4a1452c57d0950402"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-broadcast/languages/zh_tw.toml.pw.toml"
+hash = "6d64e8388c71d1040c2aee5d84965fafad282dcca34a065b529eef543de588ae"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-priority/config.toml.pw.toml"
+hash = "bfb4d3b841cc83f0589db4ff923cf352bd800e007f72811e45f39a4dda090a3c"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-priority/languages/.crowdin/es_es.toml.pw.toml"
+hash = "fe3c1a8f045e7d5a7ebbbe01e2031bca8f416af982b5515f8c53d60c2f277a99"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-priority/languages/.crowdin/he_il.toml.pw.toml"
+hash = "80145380f9a4c1693349597542ecca6b0e8841b0a08148a67e3817d7156a5a51"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-priority/languages/.crowdin/ko_kr.toml.pw.toml"
+hash = "de9739a91e6503588e824198d08130dd0ddb0544d4112efd6398d5a164cae861"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-priority/languages/.crowdin/pl_pl.toml.pw.toml"
+hash = "6b886c5ad5087d39ef19cbdf3b06f8f61f2db5495f9e6048ae1d20f6997c1a76"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-priority/languages/.crowdin/pt_br.toml.pw.toml"
+hash = "f667cef3edff6ab49dac124eb0058b272c1f8d58f822a86c73a0014bf3ddf9ea"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-priority/languages/.crowdin/ru_ru.toml.pw.toml"
+hash = "de144278617aa27b48afa4545592e24c55960f466afc9b6730d459ba1af801a1"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-priority/languages/.crowdin/timestamp.pw.toml"
+hash = "72c16850246836bd88494219e2a6e7abc2a4dc440133bff856186c1ef8299adb"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-priority/languages/.crowdin/tt_ru.toml.pw.toml"
+hash = "aa0ce3bdb81695f5ebe2c7322f098d6e82aa4924b99edbd96b52024dfb20a602"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-priority/languages/.crowdin/vi_vn.toml.pw.toml"
+hash = "70758a4613be10ace980daf7bc7d1df768139f0e297c8d3342d9b98d5dccb48d"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-priority/languages/.crowdin/zh_cn.toml.pw.toml"
+hash = "9d69f77e75b9639958f6b786225898b747ff72bf511c350610d3e6fdc60d0a69"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-priority/languages/.crowdin/zh_tw.toml.pw.toml"
+hash = "2e82dedca9c811859b883aef2c8099e57a1cc540018e9faae9decdc702f71580"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-priority/languages/en_us.toml.pw.toml"
+hash = "04383b15452019d51152d3ec48f10a3f8a2b784266fa8576f9deb47bbb8d34dd"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-priority/languages/es_es.toml.pw.toml"
+hash = "65d129e233aa1a9d58841872d2353b51bdbe5d4d602dd7fc83884fe1c52e50fa"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-priority/languages/he_il.toml.pw.toml"
+hash = "4af4bc22e2611caab170b95aa716b478ac0b02e5353a8c2aa204f23a0b7eeb02"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-priority/languages/ko_kr.toml.pw.toml"
+hash = "5f52bb0f4a67db1d9c7f886485a46fc10742e8322e1581733f5aac11bc703233"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-priority/languages/pl_pl.toml.pw.toml"
+hash = "43137698addd23d2142a1b6227a90eafaffcce17b7f9727ed5fa2b04c308781a"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-priority/languages/pt_br.toml.pw.toml"
+hash = "a62554d56c3a9cf7f24ac57faa71ada720c0ab6155a0f5c95a1f70f9ee11b49c"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-priority/languages/ru_ru.toml.pw.toml"
+hash = "d737c0f6623488744e802a661e9da35ca1a07f72d800ff5f3712c5f0fbe6768e"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-priority/languages/tt_ru.toml.pw.toml"
+hash = "03bcf3bef9475906e717371b3c16f69430c6cba44333b52aba1b645ec7fa559e"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-priority/languages/vi_vn.toml.pw.toml"
+hash = "23b6b08d29b0120480b773b3d395daa34c3d354d4725f4b86a094cd492c0adce"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-priority/languages/zh_cn.toml.pw.toml"
+hash = "b5ea3d7f43f0d95a24c7c794f6b0383bfc9f2ccdf38d3b1f4c1215f2527482fa"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-priority/languages/zh_tw.toml.pw.toml"
+hash = "bc5f13b7468c2063381e758c139f748c0b9cb8075f2cd1384298ae5985d3c092"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-sculk/config.toml.pw.toml"
+hash = "39bb7a6e15c5320d09cbba16f7e5ee6bc1a13e93ef27f9142f31d84c81c8938c"
+metafile = true
+
+[[files]]
+file = "config/pv-addon-spectator/config.toml.pw.toml"
+hash = "938af693849f9b2e4f147b1c607e5eb78e03b3265049719410454359455b030b"
+metafile = true
 
 [[files]]
 file = "config/resourceful-config-web.json.pw.toml"
@@ -2898,7 +3233,7 @@ preserve = true
 
 [[files]]
 file = "config/rpg_series/tag_cache.json.pw.toml"
-hash = "50aba612ebdb272c63c364545df77472df3d917053ca272d3a16536e85ddcfcc"
+hash = "6bb6d676f7762ef75141d4161d2bc3070d21e59a1fad95c258d32969a880fcb6"
 metafile = true
 preserve = true
 
@@ -2911,6 +3246,12 @@ preserve = true
 [[files]]
 file = "config/santa_dweller-server.json.pw.toml"
 hash = "8661e759295aa8c75b980111b723482bca3b024370575da72f6c8dffe60ceb92"
+metafile = true
+preserve = true
+
+[[files]]
+file = "config/scalablelux.properties.pw.toml"
+hash = "2d14e1dc8b8d123340ecedf719eb7940d1e702284de2b81c6c88da1140de82cf"
 metafile = true
 preserve = true
 
@@ -2935,6 +3276,12 @@ preserve = true
 [[files]]
 file = "config/shouldersurfing-client.toml.pw.toml"
 hash = "a6ae79c1cc7693b2f55aeeb53442a604eec36f39b36235555b7c5bf4407935fe"
+metafile = true
+preserve = true
+
+[[files]]
+file = "config/siege-machines-specs.toml.pw.toml"
+hash = "0d3e69609030895bffe826e582b2e816b76cb70711b4c4a3f5714db93862cde9"
 metafile = true
 preserve = true
 
@@ -3120,7 +3467,7 @@ preserve = true
 
 [[files]]
 file = "config/sodium-options.json.pw.toml"
-hash = "3937778fc9640332a591d4dd3bb0ca92c55fe506737b3a26e5426bcd50d457c1"
+hash = "0358bd75325d8d60dbf21bd07d98ddaa9209e25f9029b49149f7a6783f574185"
 metafile = true
 preserve = true
 
@@ -3137,6 +3484,12 @@ metafile = true
 preserve = true
 
 [[files]]
+file = "config/sophisticatedbackpacks-server.toml.pw.toml"
+hash = "2c1917340b9a10d7f8db02ced47202bef192defebe00e9835dc1e236022fa560"
+metafile = true
+preserve = true
+
+[[files]]
 file = "config/sophisticatedcore-client.toml.pw.toml"
 hash = "094beb8fd1d625e0408a6261dfa605a920966c2b2c4a415cd9434fb4ebaf5d4c"
 metafile = true
@@ -3144,7 +3497,7 @@ preserve = true
 
 [[files]]
 file = "config/sophisticatedcore-common.toml.pw.toml"
-hash = "360a10a1e3bcd114c66f57f6b08392606652d70a276a45ec0cf4309c9e5af147"
+hash = "ea6051a1466b61c5d575468d3ceb5223cc60b6b32afe8c23d5e088cac992f644"
 metafile = true
 preserve = true
 
@@ -3263,8 +3616,20 @@ metafile = true
 preserve = true
 
 [[files]]
+file = "config/transition.json.pw.toml"
+hash = "eeda37ec6b7139bb2a3f4ef12cd6fdfeb4df4318c011b922d4e8d8c9895d7fd6"
+metafile = true
+preserve = true
+
+[[files]]
 file = "config/travelerstitles-fabric-1_21.toml.pw.toml"
 hash = "98f5439e430ec666f3ac9d1d0c7ae74783fad46c14470dddf04f8483e2c1c03d"
+metafile = true
+preserve = true
+
+[[files]]
+file = "config/trender.json.pw.toml"
+hash = "e135bad71249f6233aa512386a1f3fd52fdf075b3e3c69b40546f51cf45c2b4d"
 metafile = true
 preserve = true
 
@@ -3323,6 +3688,42 @@ metafile = true
 preserve = true
 
 [[files]]
+file = "config/voragos_waiting/config.json.pw.toml"
+hash = "917292d8f213c3d15b83490453c9ac0916918a3eb8d81a3ad47cbfa01cee62b9"
+metafile = true
+preserve = true
+
+[[files]]
+file = "config/voragos_waiting/points.json.pw.toml"
+hash = "a6347876c5a429e62ba82c936464824eede383c9af6a8c9c85a21b6f6151d7c9"
+metafile = true
+preserve = true
+
+[[files]]
+file = "config/voragos_waiting/state.json.pw.toml"
+hash = "783f1b103d9a86b196188423730ce839e7b96562d3332eca29f319f08a4a4954"
+metafile = true
+preserve = true
+
+[[files]]
+file = "config/voragoslinterna-cliente.json.pw.toml"
+hash = "4d5b12af63913607a335098d1437e5aacab48bbc150a6fa4539c9e9882637296"
+metafile = true
+preserve = true
+
+[[files]]
+file = "config/voragoslinterna.json.pw.toml"
+hash = "e3a638d5f86c871b7660f7fa1942191daaf1561deef98fc3ee757d1fc008c88c"
+metafile = true
+preserve = true
+
+[[files]]
+file = "config/voragosvision.properties.pw.toml"
+hash = "a5251dab4e385f781e17e92d04ad14d13ea6747ae94aab0b2b65eecef7a96be9"
+metafile = true
+preserve = true
+
+[[files]]
 file = "config/voxy-config.json.pw.toml"
 hash = "49472f22f6c4944653032fc02c3113313b8e9facbae5daeb04d67be904d16d94"
 metafile = true
@@ -3331,6 +3732,12 @@ preserve = true
 [[files]]
 file = "config/waterframes-client.json.pw.toml"
 hash = "bebd2e544c521b2107e2267b516bb629fb90aeba29d287d52d99e056b5c46a25"
+metafile = true
+preserve = true
+
+[[files]]
+file = "config/waterframes.json.pw.toml"
+hash = "05d578c39a123df4e9823e57f209222e2162de5301b1c7e2862cd7e8a902a345"
 metafile = true
 preserve = true
 
@@ -3865,8 +4272,8 @@ hash = "06a5aa109ae891daad60d835551b6390e68ad9f1d22fda176507e94ea7cc3cf0"
 metafile = true
 
 [[files]]
-file = "mods/bossrituals-1.3.4.pw.toml"
-hash = "57e2dda260ea8023ce032f48614e171ce2cf53bc49596e0a403737abc6cc652e"
+file = "mods/bossrituals-1.4.0.pw.toml"
+hash = "681d5532acdd919b0f64c99e3dcfa85107234a064c91d549b61de41ceec1cfc9"
 metafile = true
 
 [[files]]
@@ -4267,6 +4674,11 @@ metafile = true
 [[files]]
 file = "mods/konkrete_fabric_1.9.9_MC_1.21.pw.toml"
 hash = "7908ea8b339c4e7d1c39d6a2b5d8b185290c792d33d823d1e377dad6493aa609"
+metafile = true
+
+[[files]]
+file = "mods/krypton-0.2.8.pw.toml"
+hash = "390c1a6440dd3540fd4cdf5e9e813afec20610e266ee6b5b32e61dae43bd5b63"
 metafile = true
 
 [[files]]

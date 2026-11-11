@@ -1,0 +1,8 @@
+name = "zh_cn.toml"
+filename = "zh_cn.toml"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-broadcast/languages/.crowdin/zh_cn.toml"
+hash-format = "md5"
+hash = "5bbdf7c7911641285e3afaa572d559f1"

@@ -1,0 +1,8 @@
+name = "vi_vn.toml"
+filename = "vi_vn.toml"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/pv-addon-broadcast/languages/.crowdin/vi_vn.toml"
+hash-format = "md5"
+hash = "a95d1b89574528e38ad678b2baee5262"

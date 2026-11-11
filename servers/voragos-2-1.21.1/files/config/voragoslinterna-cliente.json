@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "motorDeLuz": true,
+  "usarConShaderpacks": true,
+  "intensidad": 0.85,
+  "ganancia": 4.5,
+  "densidadHaz": 0.045,
+  "hazPropio": 0.12,
+  "adaptacionOjos": 0.7,
+  "segundosAdaptarEncender": 1.2,
+  "segundosAdaptarApagar": 4.0,
+  "alcance": 42.0,
+  "anguloExterior": 22.0,
+  "anguloInterior": 7.0,
+  "distanciaVisible": 96.0,
+  "maxLuces": 16,
+  "colorR": 1.0,
+  "colorG": 0.94,
+  "colorB": 0.82
+}

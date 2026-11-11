@@ -1,0 +1,8 @@
+name = "ferritecore.mixin.properties"
+filename = "ferritecore.mixin.properties"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/ferritecore.mixin.properties"
+hash-format = "md5"
+hash = "86bd5703d6ed632d93cc16466ea441a2"

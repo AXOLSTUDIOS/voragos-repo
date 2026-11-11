@@ -8,9 +8,7 @@
   "automaticModelExporting": false,
   "attemptPhysicsModPatch_2": "OFF",
   "modelUpdateFrequency": "Average",
-  "entityRenderModeOverrides": {
-    "minecraft:player": "VANILLA"
-  },
+  "entityRenderModeOverrides": {},
   "entityPhysicsModPatchOverrides": {},
   "entityVanillaHologramOverrides": {},
   "modelsNamesDisabled": [

@@ -3,7 +3,9 @@
   "editorRecentProjects": [
     "D:\\SK\\player_models\\wardengam.cpmproject",
     "D:\\SK\\player_models\\2.cpmproject",
-    "D:\\SK\\player_models\\31.cpmproject"
+    "D:\\SK\\player_models\\model.cpmproject",
+    "D:\\SK\\player_models\\31.cpmproject",
+    "D:\\SK\\player_models\\16.cpmproject"
   ],
   "titleScreenButton": true,
   "serverSettings": {},
@@ -14,5 +16,5 @@
   "editorDragMouseButton": -1.0,
   "blockedList": {},
   "selectedModelOld": "~~VANILLA~~",
-  "reopenProject": "D:\\SK\\player_models\\31.cpmproject"
+  "selectedModel": ".temp.cpmmodel"
 }

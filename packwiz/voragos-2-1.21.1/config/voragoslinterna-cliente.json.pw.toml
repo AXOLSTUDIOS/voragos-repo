@@ -1,0 +1,8 @@
+name = "voragoslinterna-cliente.json"
+filename = "voragoslinterna-cliente.json"
+side = "client"
+
+[download]
+url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/voragoslinterna-cliente.json"
+hash-format = "md5"
+hash = "eee6dfbcfc5e499bd036798d28a52a05"
