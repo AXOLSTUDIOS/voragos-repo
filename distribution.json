@@ -9670,6 +9670,40 @@
           }
         }
       ]
+    },
+    {
+      "id": "sentencia-1.21.1",
+      "name": "Sentencia",
+      "description": "Un evento de 4 días. Quieren jugar un juego... Próximamente.",
+      "icon": "https://axolstudios.github.io/voragos-repo/servers/sentencia-1.21.1/icono.png",
+      "version": "0.0.1",
+      "address": "proximamente.axol:25565",
+      "minecraftVersion": "1.21.1",
+      "mainServer": false,
+      "autoconnect": false,
+      "modules": [
+        {
+          "id": "LEEME.txt",
+          "name": "LEEME.txt",
+          "type": "File",
+          "artifact": {
+            "size": 58,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/sentencia-1.21.1/files/LEEME.txt",
+            "MD5": "68d3db761b75aa522f25393ba3305531",
+            "path": "LEEME.txt"
+          }
+        }
+      ],
+      "comingSoon": {
+        "boton": "DISPONIBLE 2027",
+        "pista": "Evento de 4 días · Próximamente",
+        "etiquetas": [
+          "Evento de 4 días",
+          "Disponible 2027"
+        ],
+        "titulo": "SENTENCIA",
+        "mensaje": "Un evento de 4 días por Axol Studios.<br>Disponible en 2027.<br><br>El juego está por comenzar..."
+      }
     }
   ]
 }

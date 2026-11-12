@@ -229,6 +229,7 @@ function generate({ root, dist, baseUrl, log = console.log }) {
     const results = []
     const keep = new Set()
     for (const serv of dist.servers || []) {
+        if (serv.comingSoon) continue // spoiler: no hay nada que descargar
         try {
             const r = generateServer(root, baseUrl, serv)
             if (r) { results.push(r); keep.add(serv.id) }

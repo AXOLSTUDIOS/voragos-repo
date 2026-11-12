@@ -165,6 +165,19 @@ function main() {
     const distPath = path.join(ROOT, 'distribution.json')
     const dist = JSON.parse(fs.readFileSync(distPath, 'utf8').replace(/^﻿/, ''))
 
+    // Spoilers: si servers/<id>/proximamente.json existe, el modpack se marca como
+    // "próximamente" (se ve en el launcher pero no se puede instalar ni jugar).
+    for (const serv of dist.servers || []) {
+        delete serv.comingSoon
+        const f = path.join(ROOT, 'servers', serv.id, 'proximamente.json')
+        if (!fs.existsSync(f)) continue
+        try {
+            serv.comingSoon = JSON.parse(fs.readFileSync(f, 'utf8').replace(/^﻿/, ''))
+            delete serv.comingSoon._nota
+            log(`    ${serv.id}: spoiler (próximamente).`)
+        } catch (e) { fail(`proximamente.json de ${serv.id} no es JSON válido: ${e.message}`) }
+    }
+
     // 2. Qué archivos van al Release
     const wanted = new Map()   // assetName -> { local, md5, size }
     const bigNonJar = new Set()
