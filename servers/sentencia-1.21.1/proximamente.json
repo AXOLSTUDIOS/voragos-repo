@@ -1,8 +1,8 @@
 {
   "_nota": "Mientras este archivo exista, el modpack sale en el launcher como spoiler: se ve, pero no se puede instalar ni jugar. Bórralo cuando el evento esté listo.",
   "boton": "DISPONIBLE 2027",
-  "pista": "Evento de 4 días · Próximamente",
-  "etiquetas": ["Evento de 4 días", "Disponible 2027"],
+  "pista": "Exclusivo para quienes apoyaron Voragos 2",
+  "etiquetas": ["Evento de 4 días", "Disponible 2027", "Solo para quienes apoyaron Voragos 2"],
   "titulo": "SENTENCIA",
-  "mensaje": "Un evento de 4 días por Axol Studios.<br>Disponible en 2027.<br><br>El juego está por comenzar..."
+  "mensaje": "Un evento de 4 días por Axol Studios.<br>Disponible en 2027.<br><br>Solo para quienes apoyaron Voragos 2.<br><br>El juego está por comenzar..."
 }

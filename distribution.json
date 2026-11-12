@@ -9676,7 +9676,7 @@
       "name": "Sentencia",
       "description": "Un evento de 4 días. Quieren jugar un juego... Próximamente.",
       "icon": "https://axolstudios.github.io/voragos-repo/servers/sentencia-1.21.1/icono.png",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "address": "proximamente.axol:25565",
       "minecraftVersion": "1.21.1",
       "mainServer": false,
@@ -9696,13 +9696,14 @@
       ],
       "comingSoon": {
         "boton": "DISPONIBLE 2027",
-        "pista": "Evento de 4 días · Próximamente",
+        "pista": "Exclusivo para quienes apoyaron Voragos 2",
         "etiquetas": [
           "Evento de 4 días",
-          "Disponible 2027"
+          "Disponible 2027",
+          "Solo para quienes apoyaron Voragos 2"
         ],
         "titulo": "SENTENCIA",
-        "mensaje": "Un evento de 4 días por Axol Studios.<br>Disponible en 2027.<br><br>El juego está por comenzar..."
+        "mensaje": "Un evento de 4 días por Axol Studios.<br>Disponible en 2027.<br><br>Solo para quienes apoyaron Voragos 2.<br><br>El juego está por comenzar..."
       }
     }
   ]
