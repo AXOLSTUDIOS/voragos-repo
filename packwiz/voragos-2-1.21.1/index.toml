@@ -5167,8 +5167,8 @@ hash = "37e5af023de43a6e6290ecad810e7135a2eb721162a0ea2ff3b72aa246a07494"
 metafile = true
 
 [[files]]
-file = "mods/voragos-edictos-1.14.2.pw.toml"
-hash = "5e353f47e00dd8c45071e616c1ac9f599e788d90bff2b0ebd13de0752af2d993"
+file = "mods/voragos-edictos-1.15.0.pw.toml"
+hash = "3608866659faf4a865b752332df0584223e853b6e4c3113b638896ce547e15c1"
 metafile = true
 
 [[files]]

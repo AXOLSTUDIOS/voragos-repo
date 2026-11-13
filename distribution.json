@@ -2132,13 +2132,13 @@
           }
         },
         {
-          "id": "com.axolstudio.voragos:voragosedictos:1.14.2@jar",
+          "id": "com.axolstudio.voragos:voragosedictos:1.15.0@jar",
           "name": "Voragos Edictos",
           "type": "FabricMod",
           "artifact": {
-            "size": 10857537,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--voragos-edictos-1.14.2.jar",
-            "MD5": "3c765b19c51430556b50fb2d0b43c315"
+            "size": 10849381,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--voragos-edictos-1.15.0.jar",
+            "MD5": "1c853f50aaabdddffc1d7c9353df16f7"
           }
         },
         {
