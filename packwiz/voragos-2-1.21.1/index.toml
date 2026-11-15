@@ -4212,6 +4212,11 @@ hash = "fc85103617da713523269e34cac548ea96f2817efb8be066b6f3ec90ce84835a"
 metafile = true
 
 [[files]]
+file = "mods/axolbodas-1.0.0.pw.toml"
+hash = "93b2a769153b2cb552f5b77a35a4aa3ea80a6ab867f2807146bfa67602fe076a"
+metafile = true
+
+[[files]]
 file = "mods/axolconstruccion-1.0.0.pw.toml"
 hash = "35b64b1c3645e5bdbf75c0f6dcffa89114ae570dfb6df53999827b706769dd76"
 metafile = true
@@ -5068,7 +5073,7 @@ metafile = true
 
 [[files]]
 file = "mods/soulslike-weaponry-1_4_8-1_21_1-fabric-AXOL-EPIC.pw.toml"
-hash = "ed58437e00037d0e20cddf1110414f745a8fc5ef9c01314d8e6993451fbb05d1"
+hash = "76cc7a8f915fe1067201aa92a98c2f8e0b77f7785b2533a77847737185f7b32a"
 metafile = true
 
 [[files]]

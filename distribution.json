@@ -222,6 +222,16 @@
           }
         },
         {
+          "id": "com.axolstudio:axolbodas:1.0.0@jar",
+          "name": "Axol Bodas",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 219377,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--axolbodas-1.0.0.jar",
+            "MD5": "ab4504794a2c75f3810c81f7bc4b3a9f"
+          }
+        },
+        {
           "id": "com.axolstudio.construccion:axolconstruccion:1.0.0@jar",
           "name": "Axol Construcción",
           "type": "FabricMod",
@@ -1932,13 +1942,13 @@
           }
         },
         {
-          "id": "net.soulsweaponry:soulsweapons:1.4.8-1.21.1-fabric+axol-epic@jar",
+          "id": "net.soulsweaponry:soulsweapons:1.4.8-1.21.1-fabric+axol-epic2@jar",
           "name": "Marium's Soulslike Weaponry",
           "type": "FabricMod",
           "artifact": {
-            "size": 54544687,
+            "size": 57322955,
             "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--soulslike-weaponry-1_4_8-1_21_1-fabric-AXOL-EPIC.jar",
-            "MD5": "b96296d05a8e8756ee2d02f433718c69"
+            "MD5": "5eaac13539af2ffd5a7972352ce4d6e7"
           }
         },
         {
