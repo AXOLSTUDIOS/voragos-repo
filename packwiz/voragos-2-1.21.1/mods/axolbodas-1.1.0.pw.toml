@@ -1,0 +1,8 @@
+name = "Axol Bodas"
+filename = "axolbodas-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--axolbodas-1.1.0.jar"
+hash-format = "md5"
+hash = "565a809c9e933040335c9b7167fc6a7d"

@@ -4212,8 +4212,8 @@ hash = "fc85103617da713523269e34cac548ea96f2817efb8be066b6f3ec90ce84835a"
 metafile = true
 
 [[files]]
-file = "mods/axolbodas-1.0.0__1_.pw.toml"
-hash = "744a9e1d964f9f5df691f532514f74529eb8c0e14193f551c770487569d87667"
+file = "mods/axolbodas-1.1.0.pw.toml"
+hash = "ef88099a7083da7b0f0ac5b2c10af639bae69ff834953df9ab8a440c459f4669"
 metafile = true
 
 [[files]]
