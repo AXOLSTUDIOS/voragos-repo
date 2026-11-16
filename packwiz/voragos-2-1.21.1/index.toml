@@ -4282,6 +4282,11 @@ hash = "37913b5041b2e678cac16d0213b03016f9c8ae1e6943152fa7df3aff2f24e977"
 metafile = true
 
 [[files]]
+file = "mods/bossrituals-1.4.2.pw.toml"
+hash = "e7a751e00b4859edfdd42fdfe4f3a28dfc9fece98935943946d48ecf5ab3006e"
+metafile = true
+
+[[files]]
 file = "mods/bountyhunt-1.1.0.pw.toml"
 hash = "f5f99936b828ae74295df53db81298c0c2bd7a743d079d874715fe70175b7e7a"
 metafile = true
@@ -5072,8 +5077,8 @@ hash = "0f4f8cabe331f5d9e13b3f68379f129297c629a63060092ba8562c6e288c3bcd"
 metafile = true
 
 [[files]]
-file = "mods/soulslike-weaponry-1_4_8-1_21_1-fabric-AXOL-EPIC.pw.toml"
-hash = "76cc7a8f915fe1067201aa92a98c2f8e0b77f7785b2533a77847737185f7b32a"
+file = "mods/soulslike-weaponry-1_4_8-1_21_1-fabric-AXOL-EPIC__2_.pw.toml"
+hash = "2b2258a50bdced6fb489c1ccb0d6c59283af887a4b1e330dd1dcc44c62bc8e04"
 metafile = true
 
 [[files]]

@@ -362,6 +362,16 @@
           }
         },
         {
+          "id": "com.axolstudio:bossrituals:1.4.2@jar",
+          "name": "BossRituals",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1774019,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--bossrituals-1.4.2.jar",
+            "MD5": "f6b7b516af762c40a2e5505b866c749c"
+          }
+        },
+        {
           "id": "com.bountyhunt:bountyhunt:1.1.0@jar",
           "name": "Cacería de Recompensas",
           "type": "FabricMod",
@@ -1946,9 +1956,9 @@
           "name": "Marium's Soulslike Weaponry",
           "type": "FabricMod",
           "artifact": {
-            "size": 57322955,
-            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--soulslike-weaponry-1_4_8-1_21_1-fabric-AXOL-EPIC.jar",
-            "MD5": "5eaac13539af2ffd5a7972352ce4d6e7"
+            "size": 57492545,
+            "url": "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--soulslike-weaponry-1_4_8-1_21_1-fabric-AXOL-EPIC__2_.jar",
+            "MD5": "ecf0a4e13276171016e9f860d871c55d"
           }
         },
         {
