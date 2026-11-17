@@ -1,8 +1,0 @@
-name = "BossRituals"
-filename = "bossrituals-1.4.2.jar"
-side = "both"
-
-[download]
-url = "https://github.com/axolstudios/voragos-repo/releases/download/mods/voragos-2-1.21.1--fabricmods--required--bossrituals-1.4.2.jar"
-hash-format = "md5"
-hash = "f6b7b516af762c40a2e5505b866c749c"

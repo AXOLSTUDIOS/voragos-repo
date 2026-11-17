@@ -4222,6 +4222,11 @@ hash = "35b64b1c3645e5bdbf75c0f6dcffa89114ae570dfb6df53999827b706769dd76"
 metafile = true
 
 [[files]]
+file = "mods/axolespejo-1.0.0.pw.toml"
+hash = "bc18a0b38ee8f371b325ad0d06266671484f219374eceedaed64c57360aa4266"
+metafile = true
+
+[[files]]
 file = "mods/axolpoolrooms-1.0.1.pw.toml"
 hash = "efc2e984fd119cb23b93773d12fdee1b663c1652194400e0c32a349ecaae61de"
 metafile = true
@@ -4277,13 +4282,8 @@ hash = "06a5aa109ae891daad60d835551b6390e68ad9f1d22fda176507e94ea7cc3cf0"
 metafile = true
 
 [[files]]
-file = "mods/bossrituals-1.4.1.pw.toml"
-hash = "37913b5041b2e678cac16d0213b03016f9c8ae1e6943152fa7df3aff2f24e977"
-metafile = true
-
-[[files]]
-file = "mods/bossrituals-1.4.2.pw.toml"
-hash = "e7a751e00b4859edfdd42fdfe4f3a28dfc9fece98935943946d48ecf5ab3006e"
+file = "mods/bossrituals-1.4.3.pw.toml"
+hash = "0d6c88d68f80e34bc10c5737dd0e57b6fc7ec11cb98caf4551a44f9d43d9f0b7"
 metafile = true
 
 [[files]]
@@ -5177,8 +5177,8 @@ hash = "37e5af023de43a6e6290ecad810e7135a2eb721162a0ea2ff3b72aa246a07494"
 metafile = true
 
 [[files]]
-file = "mods/voragos-edictos-1.15.0.pw.toml"
-hash = "3608866659faf4a865b752332df0584223e853b6e4c3113b638896ce547e15c1"
+file = "mods/voragos-edictos-1.16.0.pw.toml"
+hash = "506122a24275a0ffdebc40b8103bc82e25de1962b1fc8c6faf93821b61c1de4c"
 metafile = true
 
 [[files]]
