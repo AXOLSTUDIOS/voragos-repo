@@ -3473,9 +3473,8 @@ preserve = true
 
 [[files]]
 file = "config/sodiumextras-client.toml.pw.toml"
-hash = "fb9ed06d3a81473ab3f19c84dac87f901048342c0087a06c28edba7786b1b0cf"
+hash = "b2c2921a231ba8e6dae591ad9c7194baa7974dcee274577865c39db3ec1e7f65"
 metafile = true
-preserve = true
 
 [[files]]
 file = "config/sophisticatedbackpacks-common.toml.pw.toml"

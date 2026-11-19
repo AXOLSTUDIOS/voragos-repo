@@ -5,4 +5,4 @@ side = "client"
 [download]
 url = "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/sodiumextras-client.toml"
 hash-format = "md5"
-hash = "b739a890078bd789b3ec53499ba929ce"
+hash = "71fbd41b2b7fb1a5057da34e902dfb3d"

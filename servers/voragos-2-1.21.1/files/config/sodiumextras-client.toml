@@ -35,7 +35,7 @@
 		#Chunks fade in speed
 		#This option doesn't affect performance, just changes speed
 		#Allowed Values: OFF, FAST, SLOW
-		chunkFadeSpeed = "SLOW"
+		chunkFadeSpeed = "FAST"
 
 		[embeddiumextras.quality.darkness]
 			#Configure Darkness Mode

@@ -3312,16 +3312,6 @@
           }
         },
         {
-          "id": "sodiumextras-client.toml",
-          "name": "sodiumextras-client.toml",
-          "type": "File",
-          "artifact": {
-            "size": 5090,
-            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/sodiumextras-client.toml",
-            "path": "config/sodiumextras-client.toml"
-          }
-        },
-        {
           "id": "sophisticatedbackpacks-common.toml",
           "name": "sophisticatedbackpacks-common.toml",
           "type": "File",
@@ -9122,6 +9112,17 @@
             "size": 1724,
             "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/waterframes.json",
             "path": "config/waterframes.json"
+          }
+        },
+        {
+          "id": "sodiumextras-client.toml",
+          "name": "sodiumextras-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 5090,
+            "url": "https://axolstudios.github.io/voragos-repo/servers/voragos-2-1.21.1/files/config/sodiumextras-client.toml",
+            "MD5": "71fbd41b2b7fb1a5057da34e902dfb3d",
+            "path": "config/sodiumextras-client.toml"
           }
         },
         {
